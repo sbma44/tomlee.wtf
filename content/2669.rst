@@ -1,0 +1,9 @@
+Hard-Boiled Wonderland and the End of the World
+###############################################
+:date: 2013-10-28 22:11
+:author: admin
+:category: books
+:slug: 2669
+:status: draft
+
+Tom is currently reading 'Hard-Boiled Wonderland and the End of the World'

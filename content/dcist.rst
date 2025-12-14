@@ -1,0 +1,359 @@
+DCist
+#####
+:date: 2022-01-24 12:00
+:author: admin
+:slug: dcist
+:status: published
+
+I was close to DCist from its earliest days. I initially supplied behind-the-scenes support, like fixing Movable Type templates, hosting the staff mailing list, and building `ridiculous <https://dcist.com/story/06/05/09/introducing-las/>`__ technical `projects <https://dcist.com/story/07/07/13/dcist-maps-come/>`__. But I wrote for the site, too--more and more as time went by--and had a seat at the table during editorial conversations.
+
+My writing for DCist mostly took the form of Morning Roundup posts--the kind of link aggregation that was the bread & butter of the mid-aughts internet. Unglamorous? I guess. But that early morning responsibility had to be done by someone who could be trusted to hit publish without editorial oversight, and it gave our editor-in-chief a well-deserved break. I took pride in it. It also meant I could entrench a tradition of horrible puns and alliteration without anyone being able to stop me.
+
+By the time my run with DCist had concluded, I'd authored 344 posts. I'm particularly fond of `Dissecting the SmarTrip <https://dcist.com/story/05/12/14/dissecting-the/>`__, `Frightening Films and the District's Dracula <https://dcist.com/story/06/10/17/frightening-fil/>`__, a `Shmoo Group interview <https://dcist.com/story/06/01/10/interview-the-s/>`__, and my `off-puttingly aggressive <https://dcist.com/story/09/08/24/youve-gotta-spend-money-to-make-mon/>`__ `transit data advocacy <https://dcist.com/story/10/08/10/wmata-announces-plans-to-open-data/>`__. But there were also plenty of concert reviews, local sports coverage, and a memorable `car-racing junket <https://dcist.com/story/07/08/11/car-racing-for/>`__.
+
+The full list is below; sadly, the site's migration to its new home at WAMU seems to have cut a bunch of content off. If you need any of these--or any other DCist content--do let me know. I'm happy to pull it from my 2017 pre-hiatus scrape of the site.
+
+- `2005 Jul 21 - Morning Roundup: Fireman in Hot Water Edition <https://dcist.com/story/05/07/21/morning-roundup-1712/>`__
+- `2005 Jul 28 - Morning Roundup: Heat Beat Into Defeat Edition <https://dcist.com/story/05/07/28/morning-roundup-1707/>`__
+- `2005 Aug 04 - Morning Roundup: Nun Shall Pass Edition <https://dcist.com/story/05/08/04/morning-roundup-1702/>`__
+- `2005 Aug 10 - Morning Roundup: Unexpected Reopenings Edition <https://dcist.com/story/05/08/10/morning-roundup-1698/>`__
+- `2005 Aug 11 - Morning Roundup: Burning A Hole In Our Pocket Edition <https://dcist.com/story/05/08/11/morning-roundup-1697/>`__
+- `2005 Aug 18 - Morning Roundup: Airborn Pathogen Edition <https://dcist.com/story/05/08/18/morning-roundup-1692/>`__
+- `2005 Aug 19 - Summerslam In The City <https://dcist.com/story/05/08/19/summerslam-in-t/>`__
+- `2005 Aug 25 - Morning Roundup: Martial Marketing Edition <https://dcist.com/story/05/08/25/morning-roundup-1687/>`__
+- `2005 Sep 02 - Morning Roundup: Starting To Lend A Hand Edition <https://dcist.com/story/05/09/02/morning-roundup-1681/>`__
+- `2005 Sep 09 - Morning Roundup: Two Days Late, $82k Short Edition <https://dcist.com/story/05/09/09/morning-roundup-1677/>`__
+- `2005 Sep 09 - Pentagon Memorial Tour <https://dcist.com/story/05/09/09/pentagon-memori/>`__
+- `2005 Sep 16 - Morning Roundup: Hungover and Full of Cake Edition <https://dcist.com/story/05/09/16/morning-roundup-1672/>`__
+- `2005 Sep 21 - Hockey Returns to the MCI Center <https://dcist.com/story/05/09/21/hockey-returns/>`__
+- `2005 Sep 22 - DCist Interview: Thievery Corporation <https://dcist.com/story/05/09/22/dcist-interview-42/>`__
+- `2005 Sep 23 - Morning Roundup: Imminent Landfall Edition <https://dcist.com/story/05/09/23/morning-roundup-1667/>`__
+- `2005 Sep 27 - Introducing DCist Torrents <https://dcist.com/story/05/09/27/introducing-dci/>`__
+- `2005 Sep 28 - Once You Pop, You Can’t Must Stop <https://dcist.com/story/05/09/28/once-you-pop-yo/>`__
+- `2005 Sep 30 - Morning Roundup: Williams Walks Away Edition <https://dcist.com/story/05/09/30/morning-roundup-1662/>`__
+- `2005 Oct 05 - Nada Surf @ Black Cat <https://dcist.com/story/05/10/05/nada-surf-black/>`__
+- `2005 Oct 07 - Morning Roundup: At Least It’s Friday Edition <https://dcist.com/story/05/10/07/morning-roundup-1657/>`__
+- `2005 Oct 11 - Announcing DCist Maps <https://dcist.com/story/05/10/11/announcing-dcis/>`__
+- `2005 Oct 17 - Morning Roundup: Millions More Edition <https://dcist.com/story/05/10/17/morning-roundup-105/>`__
+- `2005 Oct 17 - New Pornographers @ 9:30 <https://dcist.com/story/05/10/17/new-pornographe/>`__
+- `2005 Oct 21 - Morning Roundup: Kids These Days Edition <https://dcist.com/story/05/10/21/morning-roundup-101/>`__
+- `2005 Oct 28 - Morning Roundup: Crowds and Clouds Edition <https://dcist.com/story/05/10/28/morning-roundup-94/>`__
+- `2005 Nov 04 - Morning Roundup: Precious Fluids Edition <https://dcist.com/story/05/11/04/morning-roundup-89/>`__
+- `2005 Nov 09 - Morning Roundup: New Governor Edition <https://dcist.com/story/05/11/09/morning-roundup-86/>`__
+- `2005 Nov 18 - Morning Roundup: Is It Spring Yet Edition <https://dcist.com/story/05/11/18/morning-roundup-79/>`__
+- `2005 Nov 28 - Morning Roundup: Back To The Grind Edition <https://dcist.com/story/05/11/28/morning-roundup-75/>`__
+- `2005 Nov 28 - Smithsonian Launches New Art Blog <https://dcist.com/story/05/11/28/smithsonian-lau/>`__
+- `2005 Dec 01 - Bowling Comes to D.C. <https://dcist.com/story/05/12/01/bowling-comes-t/>`__
+- `2005 Dec 09 - Morning Roundup: Shotgun Full Of Snow Edition <https://dcist.com/story/05/12/09/morning-roundup-66/>`__
+- `2005 Dec 09 - Three Stars: Lejeune <https://dcist.com/story/05/12/09/three-stars-lej/>`__
+- `2005 Dec 12 - Parking Battle Warms Up <https://dcist.com/story/05/12/12/parking-battle/>`__
+- `2005 Dec 14 - Dissecting the SmarTrip <https://dcist.com/story/05/12/14/dissecting-the/>`__
+- `2005 Dec 16 - Morning Roundup: Icy Roads Edition <https://dcist.com/story/05/12/16/morning-roundup-61/>`__
+- `2005 Dec 19 - Another Site Announcement: A Comment Policy Change <https://dcist.com/story/05/12/19/another-site-an/>`__
+- `2005 Dec 20 - More On TypeKey <https://dcist.com/story/05/12/20/more-on-typekey/>`__
+- `2005 Dec 23 - Morning Roundup: Christmas Eve Eve Edition <https://dcist.com/story/05/12/23/morning-roundup-56/>`__
+- `2006 Jan 04 - TypeKey’s Reign Of Terror Ends <https://dcist.com/story/06/01/04/typekeys-reign/>`__
+- `2006 Jan 06 - Morning Roundup: Trains Running On Time Edition <https://dcist.com/story/06/01/06/morning-roundup-46/>`__
+- `2006 Jan 09 - Examiner Examines Its Editorial Policy <https://dcist.com/story/06/01/09/examiner-examin/>`__
+- `2006 Jan 10 - Interview: The Shmoo Group <https://dcist.com/story/06/01/10/interview-the-s/>`__
+- `2006 Jan 11 - Morning Roundup: Unleaded Edition <https://dcist.com/story/06/01/11/morning-roundup-43/>`__
+- `2006 Jan 18 - Breaking News: Gun On The Street At 19th And I <https://dcist.com/story/06/01/18/breaking-news-g/>`__
+- `2006 Jan 20 - Morning Roundup: Kind Of Hungover Edition <https://dcist.com/story/06/01/20/morning-roundup-36/>`__
+- `2006 Jan 27 - Morning Roundup: Believing It When We See It Edition <https://dcist.com/story/06/01/27/morning-roundup-31/>`__
+- `2006 Feb 02 - Reminder: Submit Your Alternate Metro Messages <https://dcist.com/story/06/02/02/reminder-submit/>`__
+- `2006 Feb 03 - Morning Roundup: Drinking For A Good Cause Edition <https://dcist.com/story/06/02/03/morning-roundup-26/>`__
+- `2006 Feb 08 - Kornheiser To Join Monday Night Football <https://dcist.com/story/06/02/08/kornheiser-to-j/>`__
+- `2006 Feb 10 - Morning Roundup: Committee-Based Kookiness Edition <https://dcist.com/story/06/02/10/morning-roundup-21/>`__
+- `2006 Feb 16 - A Networking Event <https://dcist.com/story/06/02/16/a-networking-ev/>`__
+- `2006 Feb 17 - Morning Roundup: Men Behaving Badly Edition <https://dcist.com/story/06/02/17/morning-roundup-16/>`__
+- `2006 Feb 21 - Ask DCist: Resuscitating A Half-Updated iPod <https://dcist.com/story/06/02/21/ask-dcist-resus/>`__
+- `2006 Feb 24 - Morning Roundup: Buckling Back Up Edition <https://dcist.com/story/06/02/24/morning-roundup-2200/>`__
+- `2006 Mar 03 - Morning Roundup: In Like a Lion Edition <https://dcist.com/story/06/03/03/morning-roundup-2195/>`__
+- `2006 Mar 09 - Cherry Blossom Dates Announced <https://dcist.com/story/06/03/09/cherry-blossom-3/>`__
+- `2006 Mar 10 - Morning Roundup: Increasing Badness Edition <https://dcist.com/story/06/03/10/morning-roundup-2190/>`__
+- `2006 Mar 15 - The Belated Outbreak <https://dcist.com/story/06/03/15/the-belated-out/>`__
+- `2006 Mar 17 - Morning Roundup: St. Paddy’s Edition <https://dcist.com/story/06/03/17/morning-roundup-2185/>`__
+- `2006 Mar 21 - Morning Roundup: Last Chance To Panic Edition <https://dcist.com/story/06/03/21/morning-roundup-2183/>`__
+- `2006 Mar 30 - Morning Roundup: Surplus Of Sudafed Edition <https://dcist.com/story/06/03/30/morning-roundup-2175/>`__
+- `2006 Apr 07 - Morning Roundup: Does The Millionth Win Something? Edition <https://dcist.com/story/06/04/07/morning-roundup-2170/>`__
+- `2006 Apr 07 - Literary Readings are the New Pink <https://dcist.com/story/06/04/07/literary-readin/>`__
+- `2006 Apr 13 - Megalomania Meets Maki <https://dcist.com/story/06/04/13/megalomania-mee/>`__
+- `2006 Apr 14 - Morning Roundup: Omer & Stoner Edition <https://dcist.com/story/06/04/14/morning-roundup-2165/>`__
+- `2006 Apr 14 - A Long and Winding Road to News About Music Gadgets <https://dcist.com/story/06/04/14/a-long-and-wind/>`__
+- `2006 Apr 21 - Morning Roundup: Moderation In Gouging Edition <https://dcist.com/story/06/04/21/morning-roundup-2160/>`__
+- `2006 Apr 26 - Morning Roundup: Baby Ducks! Edition <https://dcist.com/story/06/04/26/morning-roundup-2157/>`__
+- `2006 Apr 26 - A Word About Censorship <https://dcist.com/story/06/04/26/a-word-about-ce/>`__
+- `2006 Apr 27 - Old Guy Radio Gets Put Out To Pasture <https://dcist.com/story/06/04/27/old-guy-radio-g/>`__
+- `2006 May 04 - Bienvenue, Be Bar? <https://dcist.com/story/06/05/04/bienvenue-be-ba/>`__
+- `2006 May 05 - Morning Roundup: Cinco de Mayo Edition <https://dcist.com/story/06/05/05/morning-roundup-2150/>`__
+- `2006 May 09 - Introducing LastCall <https://dcist.com/story/06/05/09/introducing-las/>`__
+- `2006 May 11 - Morning Roundup: Weapons Stash Edition <https://dcist.com/story/06/05/11/morning-roundup-2146/>`__
+- `2006 May 12 - Morning Roundup: Representation Oddsmaking Edition <https://dcist.com/story/06/05/12/morning-roundup-2145/>`__
+- `2006 May 19 - Morning Roundup: Congratulations, It’s a Bridge Edition <https://dcist.com/story/06/05/19/morning-roundup-2140/>`__
+- `2006 May 26 - Morning Roundup: Rebuckled Edition <https://dcist.com/story/06/05/26/morning-roundup-2135/>`__
+- `2006 May 31 - D.C. Getting Fewer Anti-Terror Dollars <https://dcist.com/story/06/05/31/dc-getting-fewe/>`__
+- `2006 Jun 02 - Morning Roundup: Suddenly Safer Edition <https://dcist.com/story/06/06/02/morning-roundup-2131/>`__
+- `2006 Jun 02 - United Look To Build On Success <https://dcist.com/story/06/06/02/united-look-to/>`__
+- `2006 Jun 02 - The Upside of Anger <https://dcist.com/story/06/06/02/the-upside-of-a/>`__
+- `2006 Jun 08 - Morning Roundup: Last Zarqawi-Related Edition <https://dcist.com/story/06/06/08/morning-roundup-2127/>`__
+- `2006 Jun 08 - LastCall Needs To Sit Out A Round <https://dcist.com/story/06/06/08/lastcall-needs-2/>`__
+- `2006 Jun 12 - We’re Feeling Much Better Now, Thanks <https://dcist.com/story/06/06/12/were-feeling-mu/>`__
+- `2006 Jun 16 - Morning Roundup: You Can’t Have Too Many Baby Ducks Edition <https://dcist.com/story/06/06/16/morning-roundup-2121/>`__
+- `2006 Jun 19 - Campus Progress Bets On Interns Liking Free Beer <https://dcist.com/story/06/06/19/campus-progress-3/>`__
+- `2006 Jun 23 - Morning Roundup: Mostly Maryland Edition <https://dcist.com/story/06/06/23/morning-roundup-2116/>`__
+- `2006 Jul 07 - Morning Roundup: Post-Panda Edition <https://dcist.com/story/06/07/07/morning-roundup-2106/>`__
+- `2006 Jul 14 - Morning Roundup: All Crime All The Time Edition <https://dcist.com/story/06/07/14/morning-roundup-2101/>`__
+- `2006 Jul 18 - Morning Roundup: Yes, It’s Hot Enough For Me Edition <https://dcist.com/story/06/07/18/morning-roundup-2099/>`__
+- `2006 Jul 19 - Arlington Elevates Zombie Alert Level to Orange <https://dcist.com/story/06/07/19/arlington-eleva/>`__
+- `2006 Jul 25 - Morning Roundup: Mustache As A Deterrent Edition <https://dcist.com/story/06/07/25/morning-roundup-2094/>`__
+- `2006 Aug 02 - Morning Roundup: Not Yet Fully Cooked Edition <https://dcist.com/story/06/08/02/morning-roundup-2088/>`__
+- `2006 Aug 08 - Morning Roundup: Lost Data Edition <https://dcist.com/story/06/08/08/morning-roundup-2203/>`__
+- `2006 Aug 15 - Morning Roundup: Mohawka Edition <https://dcist.com/story/06/08/15/morning-roundup-2083/>`__
+- `2006 Aug 17 - Photo of the Day: August 17, 2006 <https://dcist.com/story/06/08/17/photo-of-the-da-439/>`__
+- `2006 Aug 18 - Cropp Courts GLBT Community <https://dcist.com/story/06/08/18/cropp-courts-gl/>`__
+- `2006 Aug 22 - Morning Roundup: Consequences Edition <https://dcist.com/story/06/08/22/morning-roundup-2078/>`__
+- `2006 Aug 22 - Can We Gouge You Now? Good! <https://dcist.com/story/06/08/22/can-we-gouge-yo/>`__
+- `2006 Sep 05 - The L Street Banned <https://dcist.com/story/06/09/05/the-l-street-ba/>`__
+- `2006 Sep 06 - Verizon Fails To Get Away With It <https://dcist.com/story/06/09/06/verizon-fails-t/>`__
+- `2006 Sep 07 - Morning Roundup: Tunnelless Edition <https://dcist.com/story/06/09/07/morning-roundup-2067/>`__
+- `2006 Sep 12 - Morning Roundup: Election Morning Edition <https://dcist.com/story/06/09/12/morning-roundup-2064/>`__
+- `2006 Sep 15 - Morning Roundup: Terrible Twos Edition <https://dcist.com/story/06/09/15/morning-roundup-2062/>`__
+- `2006 Sep 19 - Morning Roundup: Make It Out To “Cash” Edition <https://dcist.com/story/06/09/19/morning-roundup-2060/>`__
+- `2006 Sep 19 - Campus Progress Hosts ‘Wire’ Screening <https://dcist.com/story/06/09/19/campus-progress-2/>`__
+- `2006 Sep 25 - Free Screening Of ‘Eyes On The Prize’ <https://dcist.com/story/06/09/25/free-screening-2/>`__
+- `2006 Sep 27 - Morning Roundup: Teddy Bear Massacre Edition <https://dcist.com/story/06/09/27/morning-roundup-2054/>`__
+- `2006 Oct 02 - “Why Not Me?” Gets Less Rhetorical <https://dcist.com/story/06/10/02/why-not-me-gets/>`__
+- `2006 Oct 03 - Morning Roundup: Making Up For Macaca Edition <https://dcist.com/story/06/10/03/morning-roundup-2050/>`__
+- `2006 Oct 04 - Won’t Somebody Think Of The Fry? <https://dcist.com/story/06/10/04/wont-somebody-t/>`__
+- `2006 Oct 06 - Morning Roundup: Fees For Trees Edition <https://dcist.com/story/06/10/06/morning-roundup-2047/>`__
+- `2006 Oct 10 - WMArriage <https://dcist.com/story/06/10/10/wmarriage/>`__
+- `2006 Oct 10 - Logan Gets New Lights <https://dcist.com/story/06/10/10/logan-gets-new/>`__
+- `2006 Oct 11 - Cross Dressing Meets Cross Country <https://dcist.com/story/06/10/11/cross-dressing/>`__
+- `2006 Oct 12 - Morning Roundup: Pandas And Protests Edition <https://dcist.com/story/06/10/12/morning-roundup-2043/>`__
+- `2006 Oct 12 - Borf Goes Global <https://dcist.com/story/06/10/12/borf-goes-globa/>`__
+- `2006 Oct 17 - Morning Roundup: Perpetual Protest Edition <https://dcist.com/story/06/10/17/morning-roundup-2040/>`__
+- `2006 Oct 17 - Frightening Films and the District’s Dracula <https://dcist.com/story/06/10/17/frightening-fil/>`__
+- `2006 Oct 19 - Is Couric Cratering? <https://dcist.com/story/06/10/19/is-couric-crate/>`__
+- `2006 Oct 26 - MPD Meets Mashup <https://dcist.com/story/06/10/26/mpd-meets-mashu/>`__
+- `2006 Oct 27 - Morning Roundup: No Jail For Jemal (Probably) Edition <https://dcist.com/story/06/10/27/morning-roundup-2032/>`__
+- `2006 Oct 31 - Morning Roundup: Eerie Evening Edition <https://dcist.com/story/06/10/31/morning-roundup-2030/>`__
+- `2006 Nov 07 - Morning Roundup: Election Day Edition <https://dcist.com/story/06/11/07/morning-roundup-2025/>`__
+- `2006 Nov 07 - Disenfranchised Yet? <https://dcist.com/story/06/11/07/disenfranchised/>`__
+- `2006 Nov 29 - Morning Roundup: Rich Get Richer Edition <https://dcist.com/story/06/11/29/morning-roundup-2011/>`__
+- `2006 Dec 13 - Morning Roundup: Rainy Wednesday Edition <https://dcist.com/story/06/12/13/morning-roundup-2001/>`__
+- `2006 Dec 20 - Morning Roundup: Christmas Bonus Edition <https://dcist.com/story/06/12/20/morning-roundup-1996/>`__
+- `2006 Dec 26 - Photo of the Day: December 26, 2006 <https://dcist.com/story/06/12/26/photo-of-the-da-356/>`__
+- `2006 Dec 27 - Morning Roundup: Farewell, President Ford <https://dcist.com/story/06/12/27/morning-roundup-1992/>`__
+- `2006 Dec 27 - Photo of the Day: December 26, 2006 <https://dcist.com/story/06/12/27/photo-of-the-da-355/>`__
+- `2006 Dec 28 - Photo of the Day: December 28, 2006 <https://dcist.com/story/06/12/28/photo-of-the-da-354/>`__
+- `2006 Dec 29 - Photo of the Day: December 29, 2006 <https://dcist.com/story/06/12/29/photo-of-the-da-353/>`__
+- `2007 Jan 03 - Morning Roundup: Mayor Fenty Edition <https://dcist.com/story/07/01/03/morning-roundup-1988/>`__
+- `2007 Jan 08 - D.C. Among Top Tech Towns <https://dcist.com/story/07/01/08/dc-among-top-te/>`__
+- `2007 Jan 10 - Morning Roundup: Congratulations, Cal Edition <https://dcist.com/story/07/01/10/morning-roundup-1983/>`__
+- `2007 Jan 17 - Morning Roundup: Sic Semper Sensitivity Edition <https://dcist.com/story/07/01/17/morning-roundup-1978/>`__
+- `2007 Jan 23 - A Note On Our Comment Woes <https://dcist.com/story/07/01/23/a-note-on-our-c/>`__
+- `2007 Jan 23 - Come On Feel The Kennedecibels <https://dcist.com/story/07/01/23/come-on-feel-th/>`__
+- `2007 Jan 23 - This City Doth Protest Too Much <https://dcist.com/story/07/01/23/this-city-doth-2/>`__
+- `2007 Jan 24 - Morning Roundup: Post-SOTU Edition <https://dcist.com/story/07/01/24/morning-roundup-1973/>`__
+- `2007 Jan 31 - Morning Roundup: School Struggle (Still) Edition <https://dcist.com/story/07/01/31/morning-roundup-1968/>`__
+- `2007 Feb 07 - Morning Roundup: Nice Day For A White Wednesday <https://dcist.com/story/07/02/07/morning-roundup-1963/>`__
+- `2007 Feb 07 - Fast Track To Nowhere <https://dcist.com/story/07/02/07/fast-track-to-n/>`__
+- `2007 Feb 08 - onBeing Is A Little Off The Mark <https://dcist.com/story/07/02/08/onbeing-is-a-li/>`__
+- `2007 Feb 14 - Morning Roundup: Icy Valentine’s Edition <https://dcist.com/story/07/02/14/morning-roundup-1958/>`__
+- `2007 Feb 14 - LastCall Needs Some Time Off <https://dcist.com/story/07/02/14/lastcall-needs/>`__
+- `2007 Feb 21 - Morning Roundup: Pollin Payout Edition <https://dcist.com/story/07/02/21/morning-roundup-1953/>`__
+- `2007 Feb 22 - Waiting For Garbageman <https://dcist.com/story/07/02/22/waiting-for-gar/>`__
+- `2007 Feb 23 - The District’s Idol Lives To Sing Another Day <https://dcist.com/story/07/02/23/the-districts-i/>`__
+- `2007 Feb 28 - Morning Roundup: Villainous Ovine Violence Edition <https://dcist.com/story/07/02/28/morning-roundup-1948/>`__
+- `2007 Feb 28 - Mr. Woods Goes To Washington <https://dcist.com/story/07/02/28/mr-woods-goes-t/>`__
+- `2007 Mar 01 - Breaking: You Are Invited <https://dcist.com/story/07/03/01/breaking-you-ar/>`__
+- `2007 Mar 02 - DCIFF, If You Please <https://dcist.com/story/07/03/02/dciff-if-you-pl/>`__
+- `2007 Mar 02 - Considerably Less Than 8 1/2 Minutes <https://dcist.com/story/07/03/02/considerably-le/>`__
+- `2007 Mar 14 - Morning Roundup: Polite Protest Edition <https://dcist.com/story/07/03/14/morning-roundup-1938/>`__
+- `2007 Mar 16 - Good News For People Who Like Bad Weather <https://dcist.com/story/07/03/16/good-news-for-p/>`__
+- `2007 Mar 21 - Morning Roundup: Fully Sprung Edition <https://dcist.com/story/07/03/21/morning-roundup-1935/>`__
+- `2007 Mar 28 - Morning Roundup: Don’t Fear the Heat, Sir <https://dcist.com/story/07/03/28/morning-roundup-1930/>`__
+- `2007 Mar 29 - Shh… It’s a Secret! <https://dcist.com/story/07/03/29/shh-its-a-secre/>`__
+- `2007 Apr 03 - Defending Our Pandynasty <https://dcist.com/story/07/04/03/defending-our-p/>`__
+- `2007 Apr 04 - Morning Roundup: Injections & Intersections Edition <https://dcist.com/story/07/04/04/morning-roundup-1925/>`__
+- `2007 Apr 11 - Morning Roundup: Harrowed Hospital Edition <https://dcist.com/story/07/04/11/morning-roundup-1920/>`__
+- `2007 Apr 18 - Morning Roundup: PG Hospital In The Balance Edition <https://dcist.com/story/07/04/18/morning-roundup-1915/>`__
+- `2007 Apr 25 - Morning Roundup: City Center’s Over Edition <https://dcist.com/story/07/04/25/morning-roundup-1910/>`__
+- `2007 Apr 25 - Campus Progress Brings You Entourage Early <https://dcist.com/story/07/04/25/campus-progress/>`__
+- `2007 May 03 - Morning Roundup: Who Cares About The Queen? Edition <https://dcist.com/story/07/05/03/morning-roundup-1904/>`__
+- `2007 May 09 - Morning Roundup: Adios, Your Majesty Edition <https://dcist.com/story/07/05/09/morning-roundup-1891/>`__
+- `2007 May 11 - What We’re Missing: A Decent Concert Hall <https://dcist.com/story/07/05/11/what-were-missi-5/>`__
+- `2007 May 11 - New York State (of): Mind Your Own Business <https://dcist.com/story/07/05/11/new-york-state/>`__
+- `2007 May 16 - We’re Here / We’re Feared / Get Used To It <https://dcist.com/story/07/05/16/were-here-were/>`__
+- `2007 May 17 - Morning Roundup: Dextromethor-banned Edition <https://dcist.com/story/07/05/17/morning-roundup-4-2/>`__
+- `2007 May 23 - Morning Roundup: Fear Of Flip-Flops Edition <https://dcist.com/story/07/05/23/morning-roundup-8-2/>`__
+- `2007 May 24 - Fairfax Police: Bring It On <https://dcist.com/story/07/05/24/fairfax-police/>`__
+- `2007 May 30 - Morning Roundup: Cold Comfort/Comity Edition <https://dcist.com/story/07/05/30/morning-roundup-13-2/>`__
+- `2007 May 30 - Shaw Gangs Agree To Truce <https://dcist.com/story/07/05/30/shaw-gangs-agre/>`__
+- `2007 May 31 - Crime: Not Well-Suited For Telecommuting, Either <https://dcist.com/story/07/05/31/crime-not-wells/>`__
+- `2007 Jun 07 - GMaps Street View Coming to D.C.? <https://dcist.com/story/07/06/07/gmaps-street-vi/>`__
+- `2007 Jun 08 - Morning Roundup: Horribly Hot Edition <https://dcist.com/story/07/06/08/morning-roundup-20-2/>`__
+- `2007 Jun 13 - Morning Roundup: Stealthy Storm Edition <https://dcist.com/story/07/06/13/morning-roundup-23-2/>`__
+- `2007 Jun 20 - Morning Roundup: Hops on Pop Edition <https://dcist.com/story/07/06/20/morning-roundup-28-2/>`__
+- `2007 Jun 26 - With Great Power Comes Great Demand For Opiates <https://dcist.com/story/07/06/26/opiate-spiderma/>`__
+- `2007 Jun 27 - Morning Roundup: Educators Behaving Badly Edition <https://dcist.com/story/07/06/27/morning-roundup-33-2/>`__
+- `2007 Jul 02 - Kwik-E-Mart is Here. Thank You, Come Again! <https://dcist.com/story/07/07/02/thank-you-come/>`__
+- `2007 Jul 05 - Ask DCist: Computer Repair Shops <https://dcist.com/story/07/07/05/ask-dcist-compu/>`__
+- `2007 Jul 11 - Morning Roundup: 100% Chance Of Rain Edition <https://dcist.com/story/07/07/11/morning-roundup-43-2/>`__
+- `2007 Jul 13 - DCist Maps Comes To Google <https://dcist.com/story/07/07/13/dcist-maps-come/>`__
+- `2007 Jul 18 - Morning Roundup: Sleepy Senators Edition <https://dcist.com/story/07/07/18/morning-roundup-48-2/>`__
+- `2007 Jul 26 - Morning Roundup: A.V. Ending Imminent Edition <https://dcist.com/story/07/07/26/morning-roundup-54-2/>`__
+- `2007 Aug 01 - Morning Roundup: August Arrival Edition <https://dcist.com/story/07/08/01/morning-roundup-58-2/>`__
+- `2007 Aug 08 - Morning Roundup: Bonds Did It Edition <https://dcist.com/story/07/08/08/morning-roundup-63-2/>`__
+- `2007 Aug 11 - Car Racing for the Common Man <https://dcist.com/story/07/08/11/car-racing-for/>`__
+- `2007 Aug 15 - Morning Roundup: Answering ANSWER Edition <https://dcist.com/story/07/08/15/morning-roundup-68-2/>`__
+- `2007 Aug 22 - Morning Roundup: Animal Criminality Edition <https://dcist.com/story/07/08/22/morning-roundup-73-2/>`__
+- `2007 Aug 29 - Morning Roundup: Surprise Surplus Edition <https://dcist.com/story/07/08/29/morning-roundup-78-2/>`__
+- `2007 Sep 05 - Morning Roundup: Recurring Recalls Edition <https://dcist.com/story/07/09/05/morning-roundup-82-2/>`__
+- `2007 Sep 07 - Comcast’s Secret Bandwidth Limits <https://dcist.com/story/07/09/07/comcasts-secret/>`__
+- `2007 Sep 12 - Morning Roundup: Vying in Va., Malevolence in Md. <https://dcist.com/story/07/09/12/morning-roundup-87-2/>`__
+- `2007 Sep 19 - Morning Roundup: Morning (Roundup) After Edition <https://dcist.com/story/07/09/19/morning-roundup-92-2/>`__
+- `2007 Sep 26 - Morning Roundup: Not Actually August Edition <https://dcist.com/story/07/09/26/morning-roundup-97/>`__
+- `2007 Sep 26 - Breaking News: Downtown Streets Closed <https://dcist.com/story/07/09/26/breaking-news-d-1/>`__
+- `2007 Oct 03 - Morning Roundup: Heartsick Edition <https://dcist.com/story/07/10/03/morning-roundup-102-2/>`__
+- `2007 Oct 10 - Morning Roundup: Save The Cheerleader Edition <https://dcist.com/story/07/10/10/morning-roundup-107/>`__
+- `2007 Oct 11 - Gilbert Arenas is Cheating at Halo 3 <https://dcist.com/story/07/10/11/agent-zeros-ill/>`__
+- `2007 Oct 17 - Morning Roundup: Taxi Transformation Today <https://dcist.com/story/07/10/17/morning-roundup-112/>`__
+- `2007 Oct 24 - Morning Roundup: Perpetual Parking Edition <https://dcist.com/story/07/10/24/morning-roundup-117/>`__
+- `2007 Nov 01 - Morning Roundup: Candy Hangover Edition <https://dcist.com/story/07/11/01/morning-roundup-123/>`__
+- `2007 Nov 07 - Morning Roundup: Bluer Virginia Edition <https://dcist.com/story/07/11/07/morning-roundup-127/>`__
+- `2007 Nov 14 - Morning Roundup: Transit Apathy Edition <https://dcist.com/story/07/11/14/morning-roundup-132/>`__
+- `2007 Nov 21 - Morning Roundup: T-Minus Turkey Edition <https://dcist.com/story/07/11/21/morning-roundup-137/>`__
+- `2007 Nov 28 - Morning Roundup: Tree Fraud Edition <https://dcist.com/story/07/11/28/morning-roundup-141/>`__
+- `2007 Dec 05 - Morning Roundup: First Snow Edition <https://dcist.com/story/07/12/05/morning-roundup-146/>`__
+- `2007 Dec 12 - Morning Roundup: Prohibited Page Promiscuity Edition <https://dcist.com/story/07/12/12/morning-roundup-151/>`__
+- `2007 Dec 12 - Reminder: RSS Is Awesome <https://dcist.com/story/07/12/12/reminder-rss-is/>`__
+- `2007 Dec 20 - Morning Roundup: A Few More Fires Edition <https://dcist.com/story/07/12/20/morning-roundup-156/>`__
+- `2007 Dec 26 - Morning Roundup: Only 365 Shopping Days Left <https://dcist.com/story/07/12/26/morning-roundup-160/>`__
+- `2008 Jan 02 - Morning Roundup: The Horrible Truth Sets In <https://dcist.com/story/08/01/02/morning-roundup-163/>`__
+- `2008 Jan 09 - Morning Roundup: Post Primary Edition <https://dcist.com/story/08/01/09/morning-roundup-168/>`__
+- `2008 Jan 16 - Morning Roundup: You’re Going to St. Paul, Dawg! <https://dcist.com/story/08/01/16/morning-roundup-173/>`__
+- `2008 Jan 23 - Morning Roundup: Suburban Displacement Edition <https://dcist.com/story/08/01/23/morning-roundup-178/>`__
+- `2008 Jan 29 - Morning Roundup: Dulles Rail, Fee Repeal Fail <https://dcist.com/story/08/01/29/morning-roundup-182/>`__
+- `2008 Feb 06 - Morning Roundup: Average Wednesday Edition <https://dcist.com/story/08/02/06/morning-roundup-188/>`__
+- `2008 Feb 13 - Morning Roundup: Post Primary Edition <https://dcist.com/story/08/02/13/morning-roundup-193/>`__
+- `2008 Feb 20 - Morning Roundup: Light Snow, Heavy Scamming <https://dcist.com/story/08/02/20/morning-roundup-197/>`__
+- `2008 Feb 27 - Morning Roundup: Reckless Texting Edition <https://dcist.com/story/08/02/27/morning-roundup-202/>`__
+- `2008 Mar 05 - Morning Roundup: Sick Days & Goose Pate <https://dcist.com/story/08/03/05/morning-roundup-207/>`__
+- `2008 Mar 11 - Morning Roundup: Listless <https://dcist.com/story/08/03/11/morning-roundup-211/>`__
+- `2008 Mar 19 - Morning Roundup: Pre-protest Edition <https://dcist.com/story/08/03/19/morning-roundup-217/>`__
+- `2008 Mar 27 - Morning Roundup: Money For Maryland, Not Metro <https://dcist.com/story/08/03/27/morning-roundup-223/>`__
+- `2008 Apr 01 - Morning Roundup: April Fools <https://dcist.com/story/08/04/01/morning-roundup-226/>`__
+- `2008 Apr 02 - Morning Roundup: Keeping Hotdogs and Housing Affordable <https://dcist.com/story/08/04/02/morning-roundup-227/>`__
+- `2008 Apr 09 - Morning Roundup: Nope to Pope Joke <https://dcist.com/story/08/04/09/morning-roundup-232/>`__
+- `2008 Apr 16 - Morning Roundup: Crustacean Cessation Edition <https://dcist.com/story/08/04/16/morning-roundup-237/>`__
+- `2008 Apr 23 - Morning Roundup: Malfeasance at Metro <https://dcist.com/story/08/04/23/morning-roundup-242/>`__
+- `2008 Apr 30 - Morning Roundup: Dulles Rail from Beyond the Veil <https://dcist.com/story/08/04/30/morning-roundup-247/>`__
+- `2008 May 07 - Morning Roundup: Primaries and Power Prices <https://dcist.com/story/08/05/07/morning-roundup-252/>`__
+- `2008 May 14 - Morning Roundup: Not Taking Chances On The Lottery <https://dcist.com/story/08/05/14/morning-roundup-257/>`__
+- `2008 May 21 - Morning Roundup: Seniority Moment <https://dcist.com/story/08/05/21/morning-roundup-262/>`__
+- `2008 May 23 - Islands @ Black Cat <https://dcist.com/story/08/05/23/islands-black-c/>`__
+- `2008 May 29 - Morning Roundup: Emergency & I <https://dcist.com/story/08/05/29/morning-roundup-267/>`__
+- `2008 Jun 11 - Morning Roundup: Summer – Now Somewhat Less Oppressive! <https://dcist.com/story/08/06/11/morning-roundup-summer-now-somewhat/>`__
+- `2008 Jun 18 - Morning Roundup: Juries, Joules and the Just-Elected <https://dcist.com/story/08/06/18/morning-roundup-juries-joules-and-t/>`__
+- `2008 Jun 25 - Morning Roundup: Gun Deliberation, Insurance Litigation <https://dcist.com/story/08/06/25/morning-roundup-gun-deliberation-in/>`__
+- `2008 Jul 09 - Morning Roundup: Lobster Envy <https://dcist.com/story/08/07/09/morning-roundup-lobster-envy/>`__
+- `2008 Jul 16 - Morning Roundup: Firearms and Nanny Forms <https://dcist.com/story/08/07/16/morning-roundup-firearms-and-nanny/>`__
+- `2008 Jul 23 - Morning Roundup: Remember the 80s? <https://dcist.com/story/08/07/23/morning-roundup-getting-hot-in-here/>`__
+- `2008 Jul 30 - Morning Roundup: Fillmore Jive <https://dcist.com/story/08/07/30/morning-roundup-fillmore-jive/>`__
+- `2008 Aug 07 - Morning Roundup: Calvo Vindicated <https://dcist.com/story/08/08/07/morning-roundup-calvo-vindicated/>`__
+- `2008 Aug 13 - Morning Roundup: Other People’s Money Edition <https://dcist.com/story/08/08/13/morning-roundup-other-peoples-money/>`__
+- `2008 Aug 21 - Morning Roundup: Drive South <https://dcist.com/story/08/08/21/morning-roundup-frankly-pretty-depr/>`__
+- `2008 Aug 25 - Morning Roundup: Back to School Edition <https://dcist.com/story/08/08/25/morning-roundup-back-to-school-edit/>`__
+- `2008 Aug 26 - Driver Runs Cyclist Off Road; MPD Uninterested <https://dcist.com/story/08/08/26/driver-runs-cyclist-off-road-mpd-un/>`__
+- `2008 Aug 27 - Morning Roundup: Bay Bridge, Beachgoers’ Bane <https://dcist.com/story/08/08/27/morning-roundup-bay-bridge-beachgoe/>`__
+- `2008 Sep 03 - Morning Roundup: Kaine’s Coming Cuts <https://dcist.com/story/08/09/03/morning-roundup-kaines-coming-cuts/>`__
+- `2008 Sep 10 - Morning Roundup: Puzzling Primary Edition <https://dcist.com/story/08/09/10/morning-roundup-primary/>`__
+- `2008 Sep 17 - Morning Roundup: Fighting Bearrorism <https://dcist.com/story/08/09/17/morning-roundup-fighting-bearrorism/>`__
+- `2008 Sep 24 - Morning Roundup: Bemoaning the Budget <https://dcist.com/story/08/09/24/morning-roundup-bemoaning-the-budge/>`__
+- `2008 Oct 01 - Morning Roundup: Omnipresent Money Problems <https://dcist.com/story/08/10/01/morning-roundup-omnipresent-money-p/>`__
+- `2008 Oct 08 - Morning Roundup: Debate Debrief <https://dcist.com/story/08/10/08/morning-roundup-in-search-of-bill-a/>`__
+- `2008 Oct 15 - Morning Roundup: Prohibitions on Polling Place Paraphernalia <https://dcist.com/story/08/10/15/morning-roundup-prohibitions-on-pol/>`__
+- `2008 Oct 22 - Morning Roundup: The Lawsuits Start Earlier Every Year <https://dcist.com/story/08/10/22/morning-roundup-the-lawsuits-start/>`__
+- `2008 Oct 28 - Do the Fallout 3 Metro Ads Go Too Far? <https://dcist.com/story/08/10/28/do-the-fallout-3-metro-ads-go-too-f/>`__
+- `2008 Oct 29 - Morning Roundup: It Can’t Really Be Winter Already, Can It? <https://dcist.com/story/08/10/29/morning-roundup-it-cant-really-be-w/>`__
+- `2008 Nov 05 - Morning Roundup (In America) <https://dcist.com/story/08/11/05/morning-roundup-in-america/>`__
+- `2008 Nov 19 - Morning Roundup: Down the Series of Tubes <https://dcist.com/story/08/11/19/morning-roundup-down-the-series-of/>`__
+- `2008 Nov 26 - Morning Roundup: I-95 is Probably Already A Mess <https://dcist.com/story/08/11/26/morning-roundup-i95-is-probably-alr/>`__
+- `2008 Dec 03 - Morning Roundup: Courting the Wide Receiver Vote <https://dcist.com/story/08/12/03/morning-roundup-courting-the-nightl/>`__
+- `2008 Dec 10 - Morning Roundup: We Thought You Were Cool, Dianne <https://dcist.com/story/08/12/10/morning-roundup-we-thought-you-were/>`__
+- `2008 Dec 18 - Morning Roundup: Fourth Amendment & Banal Entertainment <https://dcist.com/story/08/12/18/morning-roundup-fourth-amendment-ba/>`__
+- `2009 Jan 07 - Morning Roundup: Cold, Wet and Awful <https://dcist.com/story/09/01/07/morning-roundup-ice-to-see-you/>`__
+- `2009 Jan 13 - Morning Roundup: One Week Out <https://dcist.com/story/09/01/13/morning-roundup-one-week-out/>`__
+- `2009 Jan 21 - Morning Roundup: After the Party <https://dcist.com/story/09/01/21/morning-roundup-after-the-party/>`__
+- `2009 Jan 28 - Morning Roundup: School’s Out For Winter <https://dcist.com/story/09/01/28/morning-roundup-in-a-wintry-fix/>`__
+- `2009 Feb 04 - Morning Roundup: Unbought Slots <https://dcist.com/story/09/02/04/morning-roundup-fraught-slots/>`__
+- `2009 Feb 11 - Morning Roundup: Weirdly Warm <https://dcist.com/story/09/02/11/morning-roundup-322/>`__
+- `2009 Feb 18 - Morning Roundup: Fire Draws Some Heat <https://dcist.com/story/09/02/18/morning-roundup-325/>`__
+- `2009 Feb 25 - Morning Roundup: Pseudo SOTU <https://dcist.com/story/09/02/25/morning-roundup-pseudo-sotu/>`__
+- `2009 Mar 04 - Morning Roundup: Pulling Shots <https://dcist.com/story/09/03/04/morning-roundup-pulling-shots/>`__
+- `2009 Mar 18 - Morning Roundup: Pinches Again Require Explanation <https://dcist.com/story/09/03/18/morning-roundup-333/>`__
+- `2009 Mar 24 - A First Look at WMATA’s New GTFS Data <https://dcist.com/story/09/03/24/playing-around-with-the-new-gtfs-da/>`__
+- `2009 Mar 25 - Morning Roundup: Fire Department Failures <https://dcist.com/story/09/03/25/morning-roundup-fire-department-fol/>`__
+- `2009 Apr 01 - Morning Roundup: April Fools <https://dcist.com/story/09/04/01/morning-roundup-april-fools/>`__
+- `2009 Apr 08 - Morning Roundup: Wax Ecstatic <https://dcist.com/story/09/04/08/morning-roundup-wax-ecstatic/>`__
+- `2009 Apr 13 - Morning Roundup: I Hope You Like Egg Salad <https://dcist.com/story/09/04/13/morning-roundup-341/>`__
+- `2009 Apr 22 - Morning Roundup: Make Work (But Not Fires) <https://dcist.com/story/09/04/22/morning-roundup-343/>`__
+- `2009 Apr 29 - Morning Roundup: Victory, Virus <https://dcist.com/story/09/04/29/morning-roundup-victory-virus/>`__
+- `2009 May 07 - Morning Roundup: We Were Promised May Flowers <https://dcist.com/story/09/05/07/morning-roundup-349/>`__
+- `2009 May 13 - Morning Roundup: New Commitment to the Old Bay <https://dcist.com/story/09/05/13/morning-roundup-new-commitment-to-t/>`__
+- `2009 May 14 - Truck Fire, Gas Tank Explosion at 12th & P Streets NW <https://dcist.com/gallery/truck-fire-gas-tank-explosion-at-12/>`__
+- `2009 May 14 - Truck Fire, Gas Tank Explosion at 12th & P Streets NW <https://dcist.com/story/09/05/14/truck-fire-gas-tank-explosion-at-12/>`__
+- `2009 May 20 - Morning Roundup: Unlucky in Lottery <https://dcist.com/story/09/05/20/morning-roundup-351/>`__
+- `2009 Jun 03 - Morning Roundup: Hack the Planet <https://dcist.com/story/09/06/03/morning-roundup-hack-the-planet/>`__
+- `2009 Jun 08 - OCTO Launches Open 311 API <https://dcist.com/story/09/06/08/octo-launches-open-311-api/>`__
+- `2009 Jun 11 - Morning Roundup: Pervasive Gloom <https://dcist.com/story/09/06/11/morning-roundup-pervasive-gloom-1/>`__
+- `2009 Jun 17 - Morning Roundup: Better Late Than Never <https://dcist.com/story/09/06/17/morning-roundup-late-to-the-party/>`__
+- `2009 Jun 24 - Morning Roundup: Still No Firm Answers to Crash <https://dcist.com/story/09/06/24/morning-roundup-wishing-mushroom-so/>`__
+- `2009 Jul 01 - Morning Roundup: Maintaining Metro Manually Edition <https://dcist.com/story/09/07/01/morning-roundup-maintaining-manual/>`__
+- `2009 Jul 06 - Morning Roundup: Barry Stalking, Inmates Walking Edition <https://dcist.com/story/09/07/06/morning-roundup-stalking-and-walkin/>`__
+- `2009 Jul 15 - Morning Roundup: Mysterious Metro Malfunction Edition <https://dcist.com/story/09/07/15/morning-roundup-mysterious-metro-ma/>`__
+- `2009 Jul 22 - Morning Roundup: Joshua Edition <https://dcist.com/story/09/07/22/morning-roundup-joshua-edition/>`__
+- `2009 Jul 29 - Morning Roundup: Trials and Relocations Edition <https://dcist.com/story/09/07/29/morning-roundup-369/>`__
+- `2009 Aug 05 - Morning Roundup: Greek to Fee Edition <https://dcist.com/story/09/08/05/morning-roundup-greek-to-fee-editio/>`__
+- `2009 Aug 12 - Morning Roundup: Take That, Death Panels! Edition <https://dcist.com/story/09/08/12/morning-roundup-take-that-death-pan/>`__
+- `2009 Aug 19 - Morning Roundup: One Card to Pool, Rec Hall Edition <https://dcist.com/story/09/08/19/morning-roundup-one-card-to-pool-re/>`__
+- `2009 Aug 24 - WMATA Wants to Spend $500K to Be Told Its Data is Worthless <https://dcist.com/story/09/08/24/youve-gotta-spend-money-to-make-mon/>`__
+- `2009 Aug 26 - Morning Roundup: Lion of the Senate Edition <https://dcist.com/story/09/08/26/morning-roundup-democracy-is-pretty/>`__
+- `2009 Sep 02 - Morning Roundup: Worse People, Better Internet Edition <https://dcist.com/story/09/09/02/morning-roundup-people-getting-wors/>`__
+- `2009 Sep 02 - Redskins Manage Another Sell-Out <https://dcist.com/story/09/09/02/redskins-manage-another-sell-out/>`__
+- `2009 Sep 09 - Morning Roundup: Va. Layoffs, Md. Laid Up Edition <https://dcist.com/story/09/09/09/morning-roundup-va-layoffs-md-laid/>`__
+- `2009 Sep 16 - Morning Roundup: History’s Greatest Monster Edition <https://dcist.com/story/09/09/16/morning-roundup-historys-greatest-m/>`__
+- `2009 Sep 23 - Morning Roundup: Parasitic Oscillation Edition <https://dcist.com/story/09/09/23/morning-roundup-parasitic-oscillati/>`__
+- `2009 Sep 29 - Morning Roundup: Selective Enforcement Edition <https://dcist.com/story/09/09/29/morning-roundup-selective-enforceme/>`__
+- `2009 Oct 07 - Morning Roundup: Epidemiological Ennui Edition <https://dcist.com/story/09/10/07/morning-roundup-epidemiological-enn/>`__
+- `2009 Oct 14 - Morning Roundup: Awkward Cranking Edition <https://dcist.com/story/09/10/14/morning-roundup-awkward-cranking-ed/>`__
+- `2009 Oct 21 - Morning Roundup: Too Many Shots, and Too Few Edition <https://dcist.com/story/09/10/21/morning-roundup-too-many-shots-and/>`__
+- `2009 Oct 28 - Morning Roundup: Copters, Boats, Rockets Edition <https://dcist.com/story/09/10/28/morning-roundup-copters-boats-rocke/>`__
+- `2009 Nov 04 - Morning Roundup: Off-Year Over Edition <https://dcist.com/story/09/11/04/morning-roundup-404/>`__
+- `2009 Nov 12 - Morning Roundup: Torrential Edition <https://dcist.com/story/09/11/12/morning-roundup-torrential-edition/>`__
+- `2009 Nov 18 - Morning Roundup: Shade of Gray Edition <https://dcist.com/story/09/11/18/morning-roundup-shades-of-gray-edit/>`__
+- `2009 Nov 25 - Morning Roundup: Goodbye, Abe Edition <https://dcist.com/story/09/11/25/morning-roundup-pollin-remembered-e/>`__
+- `2009 Dec 02 - Morning Roundup: Progressively Scarier Edition <https://dcist.com/story/09/12/02/morning-roundup-progressively-scari/>`__
+- `2009 Dec 09 - Morning Roundup: Favors of Omission Edition <https://dcist.com/story/09/12/09/morning-roundup-favors-of-omission/>`__
+- `2009 Dec 15 - Morning Roundup: Bothersome Bonuses Edition <https://dcist.com/story/09/12/15/morning-roundup-bothersome-bonuses/>`__
+- `2010 Jan 06 - Morning Roundup: Perfect (Seasons) From Now On Edition <https://dcist.com/story/10/01/06/morning-roundup-perfect-seasons-fro/>`__
+- `2010 Jan 13 - Morning Roundup: Everyone Needs Help Edition <https://dcist.com/story/10/01/13/morning-roundup-everyone-needs-help/>`__
+- `2010 Jan 20 - Morning Roundup: Sayonara, Supermajority Edition <https://dcist.com/story/10/01/20/morning-roundup-sayonara-supermajor/>`__
+- `2010 Feb 03 - Morning Roundup: Practice Snow Edition <https://dcist.com/story/10/02/03/morning-roundup-warm-up-snow-editio/>`__
+- `2010 Feb 10 - Morning Roundup: Mark of the Beast Edition <https://dcist.com/story/10/02/10/morning-roundup-mark-of-the-beast-e/>`__
+- `2010 Feb 17 - Morning Roundup: One Squirrel, One Cup Edition <https://dcist.com/story/10/02/17/morning-roundup-squirrel-with-head/>`__
+- `2010 Feb 24 - Morning Roundup: I Named Him Bandit Edition <https://dcist.com/story/10/02/24/morning-roundup-i-named-him-bandit-1/>`__
+- `2010 Mar 03 - Morning Roundup: If It’s Good Enough For Jersey Edition <https://dcist.com/story/10/03/03/morning-roundup-if-hes-good-enough/>`__
+- `2010 Mar 17 - Morning Roundup: Vehemently Anti-Snake Edition <https://dcist.com/story/10/03/17/morning-roundup-edition/>`__
+- `2010 Apr 07 - Morning Roundup: Bargains & Blackouts Edition <https://dcist.com/story/10/04/07/morning-roundup-bargains-blackouts/>`__
+- `2010 Apr 14 - Morning Roundup: So Long, Summit Edition <https://dcist.com/story/10/04/14/morning-roundup-so-long-summit-edit/>`__
+- `2010 Apr 21 - Morning Roundup: Nickles and Dime Edition <https://dcist.com/story/10/04/21/morning-roundup-nickles-and-dime-ga/>`__
+- `2010 Apr 28 - Morning Roundup: False Start Edition <https://dcist.com/story/10/04/28/morning-roundup-false-start-edition/>`__
+- `2010 May 05 - Morning Roundup: Pretty Awful Edition <https://dcist.com/story/10/05/05/morning-roundup-pretty-awful-editio/>`__
+- `2010 May 12 - Morning Roundup: Raised Fares Fall Short Edition <https://dcist.com/story/10/05/12/morning-roundup-fare-rise-falls-sho/>`__
+- `2010 May 19 - Morning Roundup: Passing the Buck Edition <https://dcist.com/story/10/05/19/morning-roundup-passing-the-buck-ed/>`__
+- `2010 May 27 - Morning Roundup: Council Antics, Metro Uptics Edition <https://dcist.com/story/10/05/27/morning-roundup-486/>`__
+- `2010 Jun 09 - Morning Roundup: Metro Blame, Flipped Plane Edition <https://dcist.com/story/10/06/09/morning-roundup-metro-blame-flipped/>`__
+- `2010 Jun 16 - Morning Roundup: Insurance’s Assurances Edition <https://dcist.com/story/10/06/16/morning-roundup-insurances-assuranc/>`__
+- `2010 Aug 10 - WMATA Announces Plans To Make Data More Accessible <https://dcist.com/story/10/08/10/wmata-announces-plans-to-open-data/>`__

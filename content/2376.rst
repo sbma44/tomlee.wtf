@@ -1,0 +1,20 @@
+Homeland
+########
+:date: 2013-01-23 00:23
+:author: admin
+:category: books
+:slug: 2376
+:status: draft
+
+| 3 stars
+| At first I refused to believe this book was a YA novel, and consequently disliked it. I cracked this open as part of a book club assignment -- I hadn't read any of Doctorow's other fiction. I knew that the first book in this series, *Little Brother*, had been billed as a YA novel. But isn't that just something people say these days when they're vaguely embarrassed by their novel's enthusiasm for chase scenes or wizards?
+
+But no: this is a straight-up YA novel. It's written in the first person, it's full of exposition and straightforward descriptions of the protagonist's easily-comprehensible emotional states, and it has the kind of safe, square sense of humor that adults feel it's okay to model for kids. This isn't a genre I read much, but once I realized what I was dealing with I instantly recognized the aesthetic from the books we ask the kids to read at FLOC. Presumably there are good reasons for picking this kind of literary presentation (\*so\* much of the market for this age group is written this way, and kids do seem to read it). I was just sort of surprised that Doctorow is so adept at the style, I guess. I expected something a little more science-fictional!
+
+This being a true-blue YA novel, the plot and prose probably aren't going to do much for adults. But that's okay: they're mostly here in service of the milieu that Doctorow wants to transmit to his young readers. And I have to say, it's a surprisingly inspiring one. Superficially this is about indoctrinating kids into contemporary/near-future San Francisco/hacktivist/Burner/protest culture, but it's all grounded in a commitment to personal liberty, civic-mindedness and responsibility that's downright heartwarming. Doctorow ably conveys the culture that Boing Boing catalogs on a daily basis, and convinces you that it's actually real and worth participating in.
+
+As you might expect, he's very good on the technology -- the book convinced me to cancel my (unused) SuperNews account and register with IPredator. Things here are very-near-future -- AFAIK MSNBC isn't flying drones over protests yet, though I'm sure they soon will -- but everything is technologically possible and accurate, with some allowances for making the construction of drones and exotic laser sintering projects seem inspiringly easy. The only misstep I spotted was in the description of Hadoop as if it were Stata (and, not being a big Hadoop user, it's possible I'm the one who's turned around on that).
+
+As you might imagine, I found the book's treatment of politics to be a bit frustrating. Through the character of Joe Noss, Doctorow implicitly endorses the idea that our politics suffers from bad people rather than bad systems, and indulges in some familiar but still irksome third party daydreaming. The book's view of money's role is consistently grounded in quid-pro-quo, the potential importance of technology relative to traditional organizing efforts is massively overstated, and (with the exception of a reasonably humanized portrait of the SFPD) the book's worldview is consistently Manichean and adversarial. All of this is probably appropriate for a book aimed at kids, but I hope it's not what Doctorow believes (the Jacob Applebaum afterword, though inspiring in its own way, is not encouraging on this score; the second afterword by Aaron Swartz is much better).
+
+Still, I enjoyed the read and I came away feeling like I'd been at least partially, temporarily extracted from my cynical DC technology rabbit hole. Thanks for that, Cory. I'll be recommending your novels to the next budding young hacktivist I spot.

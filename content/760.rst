@@ -1,0 +1,17 @@
+clocks
+######
+:date: 2009-02-17 22:10
+:author: admin
+:category: science
+:slug: 760
+:status: draft
+
+For an article about clocks, `this is a hell of a lot more interesting than you might expect <http://www.newscientist.com/article/mg20126941.900-super-clocks-more-accurate-than-time-itself.html?full=true>`__. Apparently there's a new generation of atomic clocks on the way!
+
+This is more exciting than it may sound. The current gold standard is something called a cesium fountain clock — developed, with others, by our new Energy Secretary. A ball of supercold cesium atoms is puffed up a magnetic column where, before descending, it's hit with microwave radiation, which makes it emit a very precise frequency of energy, which can be used to count the passage time. This, I guess, is the most unperturbed thing man has yet created: a cold clump of metal riding the crest of a magnetic cloud. Eat your heart out, mountaintop-dwelling monks.
+
+But it seems that cesium's day is done. The frequency it emits isn't all that fine-grained — we can go higher! But we couldn't actually count those higher frequency rates until we invented something called a frequency comb. `This seems like a pretty good explanation <http://www.nist.gov/public_affairs/newsfromnist_frequency_combs.htm>`__ of the technique, although I have to admit I'm a bit too tired to completely understand it at the moment.
+
+The actual point of having a new clock
+
+What I don't understand is why it's supposed to take fifty years to synchronize these things. Any ideas?

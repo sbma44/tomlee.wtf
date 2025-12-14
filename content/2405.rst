@@ -1,0 +1,10 @@
+Tom is now friends with Steph
+#############################
+:date: 2013-03-10 23:03
+:author: admin
+:category: books
+:slug: 2405
+:status: draft
+
+| `Tom Lee <http://www.goodreads.com/user/show/4989865-tom-lee>`__ is now friends with
+| `Steph Tatham <http://www.goodreads.com/user/show/7547024-steph>`__

@@ -1,0 +1,15 @@
+admittedly, they usually run these tests on undergrads
+######################################################
+:date: 2008-07-29 15:48
+:author: admin
+:category: science
+:slug: 623
+:status: draft
+
+`Megan <http://meganmcardle.theatlantic.com/archives/2008/07/the_meat_of_the_issue.php>`__ links to `a post <http://scienceblogs.com/cortex/2008/07/good_news_for_vegans.php>`__ highlighting a study in which subjects' rating of various types of sausages was strongly influenced by whether they were told the sausage was vegan or not (regardless of whether it actually contained meat).
+
+As someone with an undergraduate (and only an undergraduate) degree in cognitive science, this all sounds pretty familiar. Once you've subtracted time for important things like binge drinking and developing strong opinions about dining hall food, four years really isn't enough time to explain anything useful about the human mind. So instead the courses mostly consist of the instructor holding forth on various interesting experiments and case studies, all of which implore you, in one way or another, to BEHOLD YOUR OWN PATHETIC NATURE, PUNY HU-MAN.
+
+We're laughably bad at all sorts of discrimination tasks (with the notable exception of discriminating against people, of course). This is particularly true if you remove context, and the situation becomes almost completely hopeless once a coherent but incorrect context is supplied. One example that's always stuck with me is also food-related: subjects are surprisingly incapable of telling the difference between cubed raw apple and cubed raw potato if you ask them to eat samples of each without viewing the plants' skins.
+
+Incidentally, let me just note that it's good to see more sausage-related science getting funding. For too long our great nation's processed meat technology has lagged behind that of Europe; I say it's time to make up the gap.

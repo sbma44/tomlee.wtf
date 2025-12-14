@@ -1,0 +1,43 @@
+the Jersiest place on Earth
+###########################
+:date: 2009-08-07 17:30
+:author: admin
+:category: misc, Uncategorized
+:slug: the-jersiest-place-on-earth
+:status: published
+:save_as: 2009/08/07/the-jersiest-place-on-earth/index.html
+:url: 2009/08/07/the-jersiest-place-on-earth/
+
+|weregladyourhere|\ I was surprisingly surprised to lose money in Atlantic City. Yes, this is self-evidently dumb. But I thought I had prepared myself. I'm no card counter, but I had logged a decent number of hours practicing on my phone, learning the charts while trying to absorb the statistical futility of the undertaking. I was still a little fuzzy at the edges -- what to do with a 12, how many fractions of a percentage point favored the house -- but these were marginal bits of knowledge. I was confident that I was ready for the tables.
+
+But wow! My last encounter with a blackjack dealer had stunned me with its speed; I was sure that the same thing couldn't happen again, at least not with the same viciousness. But it did! Three more times! The algorithm I'd enjoyed mastering suddenly seemed dully mechanical, and I started glowering around the room for the waitress who was supposed to be bringing my drink -- that consolation having more to do with it being free than the alcohol it contained. I was never up, and barely paused on my way down.
+
+This is all hopelessly naive of me, I know. I'd fooled myself into thinking that a flipped coin ought to produce even results over, if not a sample of 2, then at least a period smaller than my bankroll divided by the minimum bet at the table. I am assured by statisticians, some of whom I am dating, that this is not actually the case.
+
+On Saturday afternoon, in a wild-west-themed casino, I put an exasperated final $80 down on a table manned by an older Asian man who would sing out "Yoo hoo!" every time someone drew 21. In this supportive atmosphere I managed to win back enough money to upgrade my net position from "horrifying" to merely "worst-case" -- just enough to redeem my faith in gambling, of course. But it was not a profitable weekend.
+
+It was still a good weekend, though. Not for the food and wine part of the ludicrous food and wine junket, mind you -- you'll hear nary an unkind word from my bought-and-paid-for ass over at `the nominal excuse for this trip <http://internetfoodassociation.com/>`__, but suffice it to say that I would not recommend the festival to a friend, unless for some reason that friend had expressed an interest in paying $30 to stand in line.
+
+It was fun to see some food celebrities, though (I was \*this close\* to Emeril! I couldn't see him, but the aroma of sweated-out cajun spices was unmistakable). And Atlantic City seems more plausibly non-seedy every time I go. Nothing changes between visits, mind you, but the elderly slot jockeys recede further from my mental foreground, making the whole thing merely tasteless rather than crushingly depressing.
+
+Surprisingly, the most fun part of the weekend had nothing to do with losing hundreds of dollars. On Saturday Emily and I met up with our friends Tara and John Carlos, who were in town for Tara's sister's big family birthday blowout. They'd rented an Indian-themed room inside the blues-themed concert venue in the New Orleans-themed casino, which was both cooler and more aesthetically cohesive than you might expect.
+
+The party was a bit weird. Tara is not really comfortable in her family's scene, which I can understand but which is too bad because the scene is kind of awesome. It's admittedly a little strange to see a guy who could easily -- easily! -- pass as a wiseguy extra on the Sopranos chatting with his daughter's overtanned and impossibly-provocatively-dressed friends. But it's all in good fun, and seemingly not an inappropriate amount of fun, except maybe for the really drunk guy who'd apparently just had a stroke a couple of weeks before. It's Jersey high society, basically, and I say that without derision. Like Tara, I could never feel wholly comfortable in that social milieu, but it was sort of heartwarming to observe it and see how happy its participants seemed to be.
+
+Still, we decided we weren't on board for the "c'mooon, you gotta daaaaance" part of the evening, though, and decamped to the first non-casino destination of the weekend. We'd spent some time googling for "real atlantic city", "locals bar atlantic city" and the like, and had come up with three candidates. I can't recall the name of the first one, but its nickname was "the Blood Pit" and it seemed to no longer exist. The second was the Pic-a-lilli Pub, about which Time Out New York `gushed <http://newyork.timeout.com/articles/travel/1856/atlantic-city-nj-grindhouse-edition>`__:
+
+   Affectionately referred to as “the Pick” by its mirthless denizens, this bar has the feel of an Otto Dix painting. The drinks are cheap ($2.50 bottles), the patrons are local, and the chances are fair to middling that you will hear an ’80s rock pastiche from the jukebox at some point during the evening.
+
+This sounded promising, but we were a little hungry and so instead headed to Tony's Baltimore Grill, a pizza joint with a 24-hour bar in the front. It was a great decision.
+
+It was a little off-putting to come through the doors, because the whole bar turned to briefly regard us. I hurried to a booth, trying to keep a low profile, but we soon realized this wasn't really a problem: it's just that nearly every person to enter the bar was met with cheering and applause in the sort of way that I used to assume only happened in bars filmed before a live studio audience.
+
+The bar turned out to be filled with raucous twenty- and thirty-somethings, only a few of whom seemed to be off duty from the casinos. There was lots of yelling; sometimes exclamations spread through the bar just for the sheer hell of it. Dudes would get into almost-fights, but all it took was a few moments of separation by a grizzled bartender to remind them that actually they loved each other, man. The bar staff started throwing coasters, and then some other people started throwing coasters, and the perfect, perfect, perfect one pictured above hit me in the face. The thrower was mortified -- I said "really that's alright" but he insisted I pound my beer so that he could buy me another one, and who was I to defy local custom? The matronly waitresses looked on from their perch at the register, wary but content that things were going more or less according to plan.
+
+Lager was $2.50 a pint, the pizza wasn't great but had its cheese broiled to crisp brown deliciousness, and everything was just right. Well, alright, the jukebox could use some work. But really, next time you're in Atlantic City you should consider losing a ton of money and then buying yourself some very cheap beer. Tony's Baltimore Grill. Don't tell them I sent you.
+
+.. |weregladyourhere| image:: http://www.manifestdensity.net/wp-content/uploads/2009/08/weregladyourhere.jpg
+   :class: alignright size-full wp-image-902
+   :width: 250px
+   :height: 247px
+   :target: http://www.manifestdensity.net/wp-content/uploads/2009/08/weregladyourhere.jpg

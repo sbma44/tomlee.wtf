@@ -1,0 +1,10 @@
+Tom is now friends with Margaret
+################################
+:date: 2013-04-22 13:28
+:author: admin
+:category: books
+:slug: 2436
+:status: draft
+
+| `Tom Lee <http://www.goodreads.com/user/show/4989865-tom-lee>`__ is now friends with
+| `Margaret Lee <http://www.goodreads.com/user/show/19676034-margaret-lee>`__

@@ -1,0 +1,15 @@
+Tom is on page 27 of 272 of Tenth of December
+###################################################
+:date: 2013-01-09 22:38
+:author: admin
+:category: books
+:slug: 2357
+:status: draft
+
+| |Tenth of December by George Saunders|
+| `Tom Lee <http://www.goodreads.com/user/show/4989865-tom-lee>`__
+| is on page 27 of 272 of <a href="/book/show/13641208-tenth-of-december">Tenth of December</a>.
+| Tom wrote: 27 pages/one story in and this is already more affecting and beautiful than the last couple thousand I've read.
+
+.. |Tenth of December by George Saunders| image:: http://d.gr-assets.com/books/1349967540s/13641208.jpg
+   :target: http://www.goodreads.com/book/show/13641208-tenth-of-december

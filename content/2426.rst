@@ -1,0 +1,9 @@
+Foucault's Pendulum
+###################
+:date: 2013-04-04 17:24
+:author: admin
+:category: books
+:slug: 2426
+:status: draft
+
+| Shelves: to-read

@@ -1,0 +1,25 @@
+identity politics
+#################
+:date: 2015-01-29 14:59
+:author: admin
+:category: Uncategorized
+:slug: 2923
+:status: draft
+
+The responses to Jon Chait's recent article have mostly been pretty tedious, but two friends have written two good things about it.
+
+First, Julian Sanchez both wins the pun headline competition decisively and `sketches out a plausible story <http://www.juliansanchez.com/2015/01/27/chait-speech/>`__ by which group dynamics lead to polarized and unproductive deliberative equilibria.
+
+Second, `Matt Yglesias explores the idea that "identity politics" <http://www.vox.com/2015/1/29/7945119/all-politics-is-identity-politics>`__ is an example of othering:
+
+   All politics is, on some level, identity politics. The idea that it's some special attribute of black politics or feminist politics is just blindness. And while identity politics can be practiced in bad ways or in pursuit of bad goals, that's simply to say that *politics* can be practiced both for good and for ill. The idea that gendered or ethnic claims are despoiling a liberalism of pure selves and neutral rationality is little more than an unselfconscious form of identity politics. Politics is about collective decisions. This necessarily implicates individuals' identities by defining who is inside and who is outside the community of concern and under what terms.
+
+   The trend by which modern digital media forces publications to be more aware of what resonates with audiences is not an unalloyed good. But given the centrality of identity to politics of all kinds and the badly skewed demographics at the commanding heights of the American media ecosystem, *this particular aspect* of the trend is pretty clearly change for the better.
+
+I think this is correct. But it's worth pointing out that Chait's essay was about rhetorical strategies as much as anything else. For better and worse, there are a variety of strategies that are uniquely available to political coalitions organized around identity.
+
+Being a straight white guy of decent means from a vaguely protestant cultural background is great. There aren't any serious disadvantages to speak of. Yglesias is of course right that I belong to a political tribe as much as anyone else does. But he ignores the fact that this tribal membership is not rhetorically useful.
+
+Don't get me wrong: having power and money are ample compensations. None of this should be taken as a request for pity. But when people like myself, without serious contemporary or historical grievances, argue for their political interests and beliefs (as I think everyone should), we have two options: reject tribalist political modes, either superficially or in some deeper sense; or align ourselves with incredibly odious people making incredibly odious claims. The former is even more appealing if one feels that being a member of a privileged group means that lining up in neatly self-interested tribal lines is ethically fraught. Of *course* you'll wish those lines weren't there. From this position, it's *correct* to wish those lines weren't there.
+
+Maybe this is what it comes down to: is an uneven rhetorical dimension acceptable in politics because other dimensions -- wealth, education, power -- are so badly skewed? Given the enormity of those latter disparities, it's difficult to summon much sympathy for Chait. But it's also hard for me to imagine palatable alternatives to the dynamic Yglesias rightly criticizes.

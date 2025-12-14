@@ -1,0 +1,29 @@
+how websites break
+##################
+:date: 2013-10-05 14:13
+:author: admin
+:category: Uncategorized
+:slug: 2615
+:status: draft
+
+`This Reuters article about Healthcare.gov has been getting some attention today <http://mobile.reuters.com/article/idUSBRE99407T20131005?irpc=932>`__. Alas, it's not very good, focusing on client-side optimizations that are probably unrelated to the site's early woes.
+
+I should admit up front that I didn't have time to investigate Healthcare.gov while it was fully online (it's partially down for the weekend). But, like many people, I did have a look. And I do know some of the (extremely skilled) folks at Development Seed who were involved with building the outermost layers of the system.
+
+Let's do one of those analogy things. Say that Kathleen is planning a birthday party for herself.
+
+There are a bunch of tasks associated with the party that need to be done. Guests have to be told where and when the party and whether to bring gifts, for instance. This is a pretty easy task to manage: Kathleen prints up a bunch of flyers with the relevant information and asks some friends to hand them out.
+
+This task can be done well or poorly, of course. Maybe she foolishly printed the different bits of information on different pieces of paper instead of a single flyer. Maybe she only asked one friend to hand them out and he's a flake. These could become real issues if more people want to come to the party than Kathleen anticipated.
+
+These are easy problems to solve, though. Printing more flyers is simple. You can hire people to hand out the flyers. There's no need for them to coordinate or have knowledge of one another.
+
+Some tasks require Kathleen herself, though. Receiving happy birthday wishes, for example: there could be a huge number of guests, but there's only one Kathleen. If she doesn't plan for this properly, it's conceivable that she'll be busy receiving congratulations nonstop, unable to enjoy the party. Perhaps her guests will have to waste their time queued up waiting for her, too.
+
+Many web application optimization problems can be categorized similarly. Some processes can be run in parallel, without central coordination. These processes might be implemented wastefully or unprofessionally, but you can usually fix them by throwing money or resources at the problem. Cloud hosting architectures often make this trivially easy.
+
+Other problems require coordination or centralization. This produces bottlenecks, and they can be quite severe. You can respond by rewriting, redesigning, tuning or throwing more resources at the affected systems. Sometimes this works and sometimes it doesn't; it requires time and expertise, though, not just a credit card and an Amazon account. Sometimes your only real option is to design around these problems: queue the expensive tasks for later execution, or accept a loss of synchronization across your system.
+
+The Reuters article spends a lot of time on how many static resources are loaded into the browser by Healthcare.gov. Sometimes there are good reasons for loading a bunch of that kind of cruft and sometimes there aren't. There's usually room for improvement, as any `web optimization tool <https://developers.google.com/speed/pagespeed/>`__ will tell you. It's pretty simple to construct a critique of virtually any site along these lines. But these are easy problems to fix as long as you can buy more server power. This class of problems also usually exhibits itself through symptoms that are different that the ones I've read about in connection to Healthcare.gov.
+
+I think it is *much* more likely that Healthcare.gov's problems relate to more expensive operations related to eligibility checks, integration with legacy systems, and storing user's applications. Fixing those sorts of problems can be easy or difficult; the boring truth is that it's hard to say definitively from outside the system. Much harder than carping about uncompressed Javascript, at any rate.

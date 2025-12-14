@@ -1,0 +1,9 @@
+The Left Hand of Darkness
+#########################
+:date: 2013-03-25 09:29
+:author: admin
+:category: books
+:slug: 2416
+:status: draft
+
+| Shelves: currently-reading

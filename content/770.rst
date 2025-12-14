@@ -1,0 +1,10 @@
+interlinks
+##########
+:date: 2009-03-14 15:54
+:author: admin
+:category: misc
+:slug: 770
+:status: draft
+
+- `Clay Shirky on the future of journalism <http://www.shirky.com/weblog/2009/03/newspapers-and-thinking-the-unthinkable/>`__ (via @\ `binarybits <http://twitter.com/binarybits>`__)
+- Apple's moving toward `requiring proprietary chips in all headphones designed to work with their audio players <http://www.ilounge.com/index.php/reviews/entry/apple-ipod-shuffle-third-generation/P6>`__. This is just a miserably awful idea. One can only imagine how much it'll add to the cost of third-party, high-end canalphones — given that a set of Shures with a 1G iPhone-compatible headphone plug ran a $100 premium or so, it's going to be bad.

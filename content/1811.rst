@@ -1,0 +1,21 @@
+ebook pricing is infuriating
+############################
+:date: 2011-08-30 09:39
+:author: admin
+:category: Uncategorized
+:slug: 1811
+:status: draft
+
+Not too long ago, I went to a happy hour with a bunch of people interested in copyright policy.  At some point I observed/complained that my ebook reader wasn't delivering very good value.  I've stepped up my novel consumption quite a bit over the last year or so, and bought a Kindle to feed that habit.  But it's proven to be a bad bet. Kindle books turn out to be more expensive than used copies of paper editions of the same work -- even with shipping taken into account.  It makes no sense to me.
+
+It happened that a bunch of the folks at the happy hour had strongly libertarian/conservative intellectual backgrounds, and one piped up that no, I was wrong: the greater price must reflect the superior value that consumers placed on the digital version. It's more portable, there's no wait time for deliver, and so on.
+
+Obviously, this is nonsense. It takes about two seconds of thought to realize that the market for ebooks isn't much of a market. If it were, not every Kindle book would be priced at either A) $0-$0.99, B) $8.99 or $9.99, or C) some value between $10 and $13 with a note indicating that the publisher (not Amazon) set the price.
+
+These prices are lower than you'd pay for a physical copy in a brick and mortar bookstore.  But in many cases they're not lower than the Amazon price for a paper copy of the book.  And if it's not a new release, they're \*never\* lower than the price of a used copy (there is, of course, no such thing as a used Kindle copy). This happens all the time. `Here's the latest book I would've liked to buy as a purely electronic artifact <http://www.manifestdensity.net/skitch/snowdrops-20110829-231941.png>`__. But I'm not in a hurry, so for the price it makes no sense. For paper, there's a working market. For bits, there isn't.
+
+I don't doubt that Amazon and the publishers are making plenty of money in the current regime.  I have to assume this is just because of the Kindle's dominance as a hardware platform, consequent lock-in, and the temporary price insensitivity that follows the purchase of a cool new gadget.
+
+But at some point not too long from now, the publishers and Amazon will have to stop treating their customers with quite so much contempt.  It's ludicrous that I'm being asked to pay a premium for a version of a product that is poorly laid out, almost-invariably can't be loaned to friends, and which can be easily pirated.  Yes, I do value the syncing services that the Kindle platform provides, and I like not having to store a physical artifact. But I don't value those things enough to cough up a 30% premium -- which, for all but the biggest new releases, is what I'm being asked to pay.
+
+I like the idea of ebooks quite a bit. But it's pretty insulting that, with readers happily rushing to pay for the digital infrastructure necessary to zero out publishers' distribution costs, the publishers have responded by \*jacking up their prices further\*. Really, how stupid do you guys think we are? And how stupid do you think we're likely to stay?

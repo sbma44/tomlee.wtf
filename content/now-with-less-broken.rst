@@ -1,0 +1,11 @@
+now with less broken
+####################
+:date: 2007-11-14 10:40
+:author: admin
+:category: internal affairs
+:slug: now-with-less-broken
+:status: published
+:save_as: 2007/11/14/now-with-less-broken/index.html
+:url: 2007/11/14/now-with-less-broken/
+
+Comments were busted for a while there — my `epic antispam solution <http://www.manifestdensity.net/2007/01/26/fighting_movable_type_comment/>`__ didn't make the trip to the new server undamaged (I think the cron job fired in the middle of the transfer, leaving the files out of sync). It's all better now!

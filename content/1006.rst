@@ -1,0 +1,18 @@
+grumping about the real-time web
+################################
+:date: 2009-10-01 11:17
+:author: admin
+:category: Uncategorized
+:slug: 1006
+:status: draft
+
+Alright: it's not augmented reality.  I'll give it that.
+
+| http://www.readwriteweb.com/archives/ten_useful_examples_of_the_real-time_web_in_action.php
+| Most of these aren't real-time web applications!
+
+   Fitzpatrick says that when Facebook-acquired FriendFeed started consuming PubSubHubbub feeds for subscribing to Google Reader Shared Items, traffic from FriendFeed to Google fell by 85%.
+
+   That's a huge win for efficiency. So the real-time web could make the entire web a much leaner beast.
+
+That's one example. But in general, push is EXTREMELY INEFFICIENT.

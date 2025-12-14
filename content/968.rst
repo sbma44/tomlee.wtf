@@ -1,0 +1,16 @@
+Untitled Post 968
+#################
+:date: 2009-09-03 12:15
+:author: admin
+:slug: 968
+:status: draft
+
+Tim is `disappointed <http://timothyblee.com/?p=757>`__ to see the EFF taking on the cause of regulating data collection for the purposes of advertising -- he sees it as a departure from the organization's core mission of defending civil liberties from the depredations of the government.  Tangling with corporations is not what he signed up to support.
+
+Fair enough, I suppose, but it seems like wishful thinking to hope that the mission of protecting individuals' online rights will only put the EFF in opposition to the government. And in this specific case, the cause seems like a good fit: if the case against allowing the secret surveillance of private citizens is strong enough to trump the wishes of those charged with maintaining our country's security apparatus, surely that case is also strong enough to trump the wishes of those charged with selling us more stuff.
+
+The government certainly has the theoretical capacity to do more harm to an individual than does a corporation, but in a developed democracy I think the practical balance shifts: it's vanishingly unlikely that I'm going to be, say, thrown into prison for political speech.  But it seems conceivable, if still unlikely, that my life might be ruined by my credit card or health insurance company.
+
+At this point we can wander into a complicated effort to weigh my rights against the rights of the corporation's constituents and the corporate entity itself; that can make for some interesting discussion, but I find the practical upshot more compelling.
+
+This is as much a tribal hunch as a difference of opinion, though.  Still, I suspect that the folks running the EFF feel similarly.

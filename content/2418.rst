@@ -1,0 +1,10 @@
+Tom is now friends with Matt
+############################
+:date: 2013-03-28 21:57
+:author: admin
+:category: books
+:slug: 2418
+:status: draft
+
+| `Tom Lee <http://www.goodreads.com/user/show/4989865-tom-lee>`__ is now friends with
+| `Matt Stempeck <http://www.goodreads.com/user/show/18826637-matt-stempeck>`__

@@ -1,0 +1,9 @@
+Never Let Me Go
+###############
+:date: 2013-01-21 16:10
+:author: admin
+:category: books
+:slug: 2374
+:status: draft
+
+| Shelves: scifi-candidates, to-read

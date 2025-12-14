@@ -1,0 +1,9 @@
+In Sunlight and in Shadow
+#########################
+:date: 2013-07-15 10:03
+:author: admin
+:category: books
+:slug: 2578
+:status: draft
+
+| Shelves: to-read

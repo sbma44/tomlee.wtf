@@ -1,0 +1,9 @@
+The Orphan Master's Son
+#######################
+:date: 2013-12-27 18:53
+:author: admin
+:category: books
+:slug: 2712
+:status: draft
+
+Tom wants to read 'The Orphan Master's Son'

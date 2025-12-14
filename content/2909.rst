@@ -1,0 +1,71 @@
+oh right, that dumb thing
+#########################
+:date: 2014-12-27 11:58
+:author: admin
+:category: Uncategorized
+:slug: 2909
+:status: draft
+
+UPDATE: DO NOT PUBLISH, THIS HAS ALL BEEN DONE
+
+I'm still wondering about this:
+
+   how badly would things break if a browser refused to send cookies to domains other than the one in the address bar? http://t.co/YGOOe1QTo2
+
+   — Tom Lee (@tjl) `December 27, 2014 <https://twitter.com/tjl/status/548848592388382722>`__
+
+.. raw:: html
+
+   <p>
+
+.. raw:: html
+
+   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+.. raw:: html
+
+   </p>
+
+That story is via `Eric Uhlir <http://us8.campaign-archive2.com/?u=a5f12a7099dbb5f33481b422d&id=8da89cd9fe&e=596cdbfa1e>`__, who knows much more about advertising than I ever will.
+
+But okay, a question. I am much more out-of-date about browser tracking technology than I used to be, so I suspect I have parts of this story wrong. Let me tell it anyway, nominally to explain to nontechnical readers, but really to document my own ignorance.
+
+When a web server gives your browser a cookie--which is really just a piece of text--the browser stores it. From then on, every time your browser sends a message to the web server, it includes the cookie. The server can specify when a cookie should expire, and can delete it or replace it with a new cookie during any future exchange with the browser. The browser is responsible for not sending cookies to any web servers (well--domains, really) other than the one that first authored a cookie.
+
+This is useful for lots of things. The most important is authentication. Here is an example conversation:
+
+   **Browser:** Hello, server! Please show me pictures of my friends' infants.
+
+   **Server:** Hello! You don't seem to have a cookie. I have no idea who you are. Here's a login form.
+
+   **Browser:** OK, here's a filled-out login form. I think you'll see that everything is in order.
+
+   **Server:** This checks out. Here's a secret code that I want you to store as a cookie.
+
+   *Later... or, immediately, since the web is stateless*
+
+   **Browser:** Hello, server! Please show me my news feed. My secret code is [...]
+
+   **Server:** I have that code on record. Here are the requested infants.
+
+(Incidentally, this is why SSL is important for all authenticated communication, not just password forms: the auth cookie is present on all requests, and plucking it from the air lets you pretend to be someone else until it expires)
+
+This isn't all that cookies can be used for. Advertisers can use them to track you, which is important for them to do because... well... it's definitely something they *can* do, you see, and by quantifying the engagement funnel we can... Well. It's rather complicated. But, you know, conversions.
+
+At any rate, the prohibition on sending cookies across domains makes this a little tricky. But a webpage can load content from many different domains--the page you're looking at, for instance, includes some analytics Javascript from Google, an image file from Flickr, and an embedded tweet from Twitter. Ad networks get their partners' sites to embed resources from servers like *doubleclick.net*, and they craft the request to leak information about what you're doing:
+
+   <script src="http://doubleclick.net/somejavascript.js?by-the-way-hes-shopping-for-shoes-right-now"></script>
+
+If doubleclick.net gives you a unique cookie the first time it's visited, that cookie will be sent by every request your browser makes, regardless of the site. Your activity can be tracked across domains, despite the prohibition on cookie-sharing across them. Uh... great!
+
+There is still the problem of tracking one user across her multiple browsers--most typically, desktop and mobile. This is what Eric's link is about. Facebook has its audience so enthralled that it believes it can count on them to be logged in from every browser, everywhere. This provides a unique business opportunity: they can provide even better tracking, in a way that the much less popular and arguably villainous doubleclick.net\* cannot.
+
+Some activists don't like the sound of all of this and have created a technology called `Do Not Track <http://donottrack.us/>`__, whereby browsers send a special request to servers asking to please be excused from the cookie-powered panopticon.
+
+It's never promising when a consumer-empowering technology is best characterized as "plaintive". This is one of those areas where the engineering profession's skewed ratio of bullying-victims-to-bullies really works against it.
+
+So, finally, a simpler idea, which I'd be curious to have torn apart: could we suppress cookies that are sent to secondary domains--i.e. domains not specified in the browser address bar?
+
+This would break some things, I'm sure. If I had embedded a tweet from a protected account that I follow (is that possible?) it wouldn't work. But a server can't know about the state of other servers' cookies, including whether they exist or not. An application that's dependent on third-party cookies needs to fail gracefully. My suspicion is that there
+
+\* doubleclick.net is owned by Google, so this is a simplification; rest assured that the situation is actually worse than described

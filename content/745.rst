@@ -1,0 +1,19 @@
+maybe this is how COBOL programmers feel
+########################################
+:date: 2009-01-16 09:49
+:author: admin
+:category: tech
+:slug: 745
+:status: draft
+
+Here's to minor technical victories. Last night I set up a recently-purchased Windows machine, in order to give Emily a workstation in DC (some of her academic software requires Windows, unfortunately, and isn't speedy enough in a virtualized environment). Tasks included: installing XP; cracking WGA; flashing an OpenWRT router to DD-WRT to provide a client bridge; finding display and network drivers for a geriatric Gateway machine (support for which has been subcontracted since Gateway's collapse); and installing some software via Daemon Tools. This was my first serious excursion into Windows-land in, oh, four years? And it went pretty well. "Still got it!" I proclaim, and straighten my tie, Lionel Hutz-style.
+
+But a big reason for my success is the fact that nothing has changed. Vista failed, so I'm unexpectedly staring at years-old software interfaces. Which is great for me, but probably less exciting for people in Redmond.
+
+Which brings us to `the concern over Steve Jobs' health — and Apple's <http://meganmcardle.theatlantic.com/archives/2009/01/steve_jobs_health_is_in_peril.php>`__. I wish Mr. Jobs the best, but I'm not too worried about his company. Like Microsoft, it seems likely to be entering a quiescent period. But unlike Microsoft, Apple may be doing so by choice. Their work is done — for a while, anyway.
+
+Consider where Steve's leaving things. The Intel switch is done, and done smoothly. iTunes has just dropped its audio DRM, the last obvious thing that might let a newcomer challenge its marketshare (video is another matter, admittedly). The iPhone is in its infancy, but is already the standard by which all cutting-edge handsets are judged. OS X is at such a stable place that they've stopped bothering to even come up with new cats to name it after ("Snow Leopard"? Weak.). And the Mac adoption rate among college students is making Microsoft look like the Republican party (they never should have opposed `comprehensive file migration reform <http://www.dwheeler.com/essays/why-opendocument-won.html>`__). In other words, Apple looks well-position to rake in large amounts of cash for the foreseeable future.
+
+The worst you can say is that Apple TV has proven to be a bit lame; that they've failed to commit to the Mac Mini despite its popularity; and that the Air represents a serious misjudgment of how the netbook market was about to evolve. But the latter two of these three are arguably just veiled wishes for Apple to court the lower end of the market — a strategy that they've consistently eschewed, and probably for good reason (they seem to know what they're doing). As for the third — well, it's hard to blame them for not going all-in on a convergence device given the field's many, many failures.
+
+Jobs' departure might mean fewer groundbreaking products. But Apple's done a hell of a lot of groundbreaking over the last half-decade, even as Microsoft has faltered. For a while, at least, they can afford to sit back, refine their products and content themselves with making scads of money. I'd say they should start worrying about killing Ubuntu in three years or so, but until then they just need to make sure the mailroom knows where to send the checks.

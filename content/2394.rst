@@ -1,0 +1,10 @@
+Tom is now friends with Gary
+############################
+:date: 2013-03-05 11:36
+:author: admin
+:category: books
+:slug: 2394
+:status: draft
+
+| `Tom Lee <http://www.goodreads.com/user/show/4989865-tom-lee>`__ is now friends with
+| `Gary <http://www.goodreads.com/user/show/9086523-gary>`__

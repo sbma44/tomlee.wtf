@@ -1,0 +1,31 @@
+everyone loves reading about loan guarantees
+############################################
+:date: 2011-10-02 14:36
+:author: admin
+:category: Uncategorized
+:slug: everyone-loves-reading-about-loan-guarantees
+:status: published
+:save_as: 2011/10/02/everyone-loves-reading-about-loan-guarantees/index.html
+:url: 2011/10/02/everyone-loves-reading-about-loan-guarantees/
+
+I had a little bit of back and forth with Tim on Twitter about Solyndra and loan guarantees. When I first came to Sunlight I worked on `Subsidyscope <http://subsidyscope.org>`__, and while I wouldn't want to claim deep expertise on the subject, it's certainly the case that I used the phrase "loan guarantee" several thousand times more frequently than the average pre-Solyndra American. I have no interest in defending Solyndra or the specific decision to subsidize their work, but I think at least *some* of the interest in this issue is driven by genuine confusion about this subsidy type and not cynical partisan scandal-seeking.
+
+Subsidyscope has a `great explanation <http://subsidyscope.org/loans/#loanguarantees>`__ of how loan guarantees work; you should have a look at it. But wouldn't it be wonderful if there was a metaphorical version available that was full of folksy nonsense? I thought so, too.
+
+So let's say the government needs some dynamite. Maybe Capitol Hill has some stumps to clear; maybe the Vice President is going fishing. Whatever the reason, there's a problem: the market isn't supplying enough dynamite for what they have in mind. In fact, a 22 year-old intern at GAO has recently estimated that we will need the output of fully three more dynamite factories to reach the necessary supply level (though he is also quick to point out that all of his input data is of terrible quality; that dynamite experts express varying opinions; that more research is necessary; and, of course, that Challenges Remain. His report does have a rather nice introduction about the history of governmental involvement in the explosives industry, though).
+
+Fine, maybe we ought to build some dynamite factories. Not so fast! Each factory costs $1 million, which also happens to be the entire amount available at current GSA fishing trip reimbursement rates. That won't get the job done!
+
+Luckily, the market can help us out. It turns out that there are businessmen interested in building dynamite factories. The problem, as any dynamite entrepreneur will tell you, is that any such a factory has a 25% chance of blowing up shortly after the ribbon-cutting ceremony. Unfortunately, the current state of the market makes this an unacceptable risk, what with all the regulatory uncertainty and undocumented workers and job-killing health care bills and whatnot. The businessmen wish they could help, but right now there's simply no way they can justify building those factories. If a factory exploded, its owners would be ruined.
+
+"Aha!" says the government. "I know what we can do! We'll just pick the four most promising dynamite factory proposals and tell their authors that if they go ahead with building, we'll promise to cover the cost of their investment if their factory explodes."
+
+With this guarantee in hand, the businessmen proceed. They build four factories. One explodes. Whoops! Don't worry, no one was hurt and it looked pretty rad. Uncle Sam cuts a check and everyone's happy. The government has now spent a million dollars and gotten the three factories it needed. Nice! If they had tried to build a factory themselves, they could have only afforded one -- really, three-quarters of one, since it might have blown up (some say government-built dynamite factories are even more prone to this defect that those of the private sector).
+
+So this is the idea: that the government can offer guarantees that tip unacceptably risky -- but not totally foolhardy! -- economic activity over into the realm of realization. The government is using its unique powers to shift risk instead of shifting resources directly. Sometimes shifting risk can allow money to flow through the economy in new and desirable ways. And it's often dramatically cheaper than spending funds directly to achieve the same result.
+
+In some ways this is a very efficient way to spend subsidy dollars. In others, not so much: you're picking winners, you're shoving money into the finance system where some will be skimmed off, you're relying on risk estimates which sometimes just aren't that good. `CFDA.gov <http://cfda.gov>`__ lists 68 such programs right now; `here's one that helps build ships and shipyards <https://www.cfda.gov/index?s=program&mode=form&tab=step1&id=068c899a15935e2d7198406c2852dca2>`__. `Here's one that subsidizes the purchase of Boeing aircraft <http://subsidyscope.org/transportation/risk-transfers/exim/>`__ (note that in this case the default costs are balanced by gains from interest on successful transactions).
+
+I haven't followed the Solyndra story very closely, but my understanding is that changing market conditions overtook their business very rapidly. The financing pipeline supporting them should have noticed this and shut down but didn't, either because of bureaucratic inertia or special favors or both. That's unfortunate. Luckily, the government's total exposure is likely to be much less than the $500 million face value that's being widely cited, and the final cost of the program that administered the loan guarantee is likely to be a small fraction of the face value of the lending it enabled.
+
+All of this is a separate question from whether the government should be intervening in the economy in this manner. I think that's a conversation worth having. But it should be a conversation about programs, not transactions. To focus on one failed loan is a bit like pointing to a lottery winner and saying, "*That's* how they think we're going to pay for our schools -- by handing out checks? What a bunch of dopes!" But of course this ignores the bigger picture. Perhaps there is a problem with that lotto payout, but that's a different and frankly less important issue than whether it's wise for the government to run a lottery. This is why the intense focus on Solyndra strikes me and many others as a transparently partisan feeding frenzy rather than a considered discussion of energy policy.

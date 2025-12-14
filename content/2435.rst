@@ -1,0 +1,14 @@
+The Idea Factory: Bell Labs and the Great Age of American Innovation
+####################################################################
+:date: 2013-04-21 16:17
+:author: admin
+:category: books
+:slug: 2435
+:status: draft
+
+| 5 stars
+| A really lovely history of Bell Labs and its incredible impact on the world. Gertner does a fantastic job of synthesizing existing historical accounts, while also unearthing his own wholly original findings through interviews and dives into the AT&T archives.
+| I found the book particularly interesting since my job is all about managing technical staff who are trying to identify worthwhile problems and new ways of looking at them. I don't mean to compare our modest efforts to those of the people who invented the transistor, of course. But it was reassuring to have many of my engineer's intuitions about what makes for successful research environments--adequate resources, plenty of freedom, good people and a focus on the questions themselves--validated by the theories captured in this book.
+| It's clear that Gertner has favorites among the cast of characters orbiting Bell Labs, but that's okay; so do I. His charming and moving account of Claude Shannon is particularly affecting, I thought. And it's hard to read this and not emerge a John Pierce fan. The treatment of Bill Shockley, by contrast, is relentlessly negative, though Gertner makes a strong case for this being wholly deserved.
+| My only other window into the Bell system is Tim Wu's book, which is notably unmentioned here, despite being published more than a year before. I assume this has something to do with print deadlines, something to do with Wu's book being an analysis that rehashes the same histories Gertner mined, and something to do with its less charitable perspective on AT&T and its monopolistic activities. Still, an interesting omission.
+| Anyway, this is highly recommended for anyone inspired by digital technology or information theory. I think this will finally nudge me into reading the Gleick book (as well as Fortune's Formula, about Shannon's efforts to beat Vegas and the stock market -- that one, in particular sounds fantastic to me).

@@ -1,0 +1,23 @@
+science journalism
+##################
+:date: 2010-02-22 15:01
+:author: admin
+:category: Uncategorized
+:slug: 1283
+:status: draft
+
+NEED TO CONVERT TO WATTS. AMP HOURS = NO GOOD!
+
+Someone tweeted a link to `this <http://www.theworld.org/2010/02/12/tech-podcast-277-high-tech-ski-treadmills-soccket-and-pecha-kucha-for-haiti/>`__, a podcast which discusses, among other things, `a project that uses soccer balls to produce energy <http://greeninc.blogs.nytimes.com/2010/01/26/using-soccer-to-supplant-kerosene-use/>`__:
+
+   They came up with the idea for the `sOccket <http://www.soccket.com/>`__, a soccer ball that generates and stores electricity during normal game play. The stored electricity in the ball can then be used to light an LED lamp, or charge a cellphone or battery.
+
+   “Soccer is something you will find in every African country,” one founder, Jessica Lin, told Green Inc. “People play for hours a day, so we thought, ‘Why not try to get a little more out of that energy?’ and that’s where the idea ultimately came from.”
+
+   [...]
+
+   For each 15 minutes of play, the ball can store enough energy to illuminate a small LED light for three hours, according to initial trials.
+
+A bright LED typically consumes about 20 mA.  So that's 60 mAH. If you were to `buy alkaline batteries in bulk <http://www.onlybatteries.com/cat_featured_items.asp?cat1=24&cat=2&id=157&uid=1100>`__, that would work out to about 1.5 cents' worth of power.  I don't know how much a charge-capable soccer ball would cost, but Amazon says that regular soccer balls cost about $10.  So that's 150 hours of playing soccer before we pay for a unit. Alternately, we could buy a `hand-crank generator <http://www.amazon.com/Hand-Held-DC-Generator/dp/B001DI6PSO/ref=sr_1_1?ie=UTF8&s=office-products&qid=1266865138&sr=8-1>`__ for about the same cost
+
+So, look.  The

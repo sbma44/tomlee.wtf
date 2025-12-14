@@ -1,0 +1,10 @@
+Tom is now friends with Kathryn
+###############################
+:date: 2013-02-04 07:41
+:author: admin
+:category: books
+:slug: 2379
+:status: draft
+
+| `Tom Lee <http://www.goodreads.com/user/show/4989865-tom-lee>`__ is now friends with
+| `Kathryn <http://www.goodreads.com/user/show/98213-kathryn>`__

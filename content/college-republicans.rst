@@ -1,0 +1,25 @@
+College Republicans
+###################
+:date: 2008-10-24 14:31
+:author: admin
+:category: politics
+:slug: college-republicans
+:status: published
+:save_as: 2008/10/24/college-republicans/index.html
+:url: 2008/10/24/college-republicans/
+
+My professional journalist friends are professionally obligated to, well, be professional. Although this precept serves them and their readers well nearly all of the time, I think it will prevent them from analyzing the `Ashley Todd affair <http://kdka.com/local/attack.McCain.Bloomfield.2.847628.html>`__ with the thoroughness it deserves. So, unencumbered as I am by such considerations, let me try to clarify the lesson that should be drawn from all this: College Republicans are the fucking scum of the earth.
+
+I say this not to insult Republicans in general. I disagree with members of the GOP about a lot of things, but recognize that nearly all of them are perfectly good, reasonable people. But in my experience, folks who become involved in the party's machinery at a young age seem to be intensely despicable at a much higher rate than their more mature fellow travelers. I was hesitant to be skeptical of Todd's account, at first — skepticism is not generally an appropriate way to respond to the claims of a victim of violent crime. But if the picture was sort of suspicious, Todd's campus affiliations left me feeling even more dubious about her story.
+
+College is a time for quixotic idealism. That's not to say that young people can't earnestly hold conservative beliefs, of course. But if a person is passionately pro-life or nutty for Nozick, he or she is, at that age, much more likely to become involved in an advocacy organization that tries to further those ends directly — it's easy to find such organizations on a college campus, after all. Normal people get involved in politics by first caring about an issue, then realizing that the best way to achieve their ends is to organize their efforts under the umbrella of a larger party. That doesn't happen all at once, though.
+
+Who opts to instead immediately begin working for a demographically unpopular political party, where your chief activities will involve writing little-noticed op-eds and arranging speaking honoraria for recently disgraced administration officials? Often, the answer seems to be those with a Machiavellian enthusiasm for reaching the levers of power. These are not good people.
+
+Why don't I think the same criticism thing applies to the young Democrats? Well, to an extent I'm sure it does. But I think it's probably easier to be a starry-eyed College Democrat. You can participate in various organizational efforts motivated by an idealistic conception of participatory democracy — registering new voters, that sort of thing. There will be a lot more of you, too, making participation more appealing to the sorts of people who want to get laid rather than the sorts of people who want to screw others — you'll be surrounded by more normal people, in other words. You'll also probably have less funding per capita and, by virtue of your numbers, more internal tension and examination, making it harder to twist inward into a tight little coven of aspiring conspirators.
+
+But of course I'm speculating here. Besides, there's no reason to get defensive; hijinks like those of Todd and `Francisco Nava <http://www.dailyprincetonian.com/archives/2007/12/14/news/19743.shtml>`__ speak for themselves. Maybe the College Democrats are every bit as despicable as their Republican counterparts. But if they are, then they seem to at least be a bit more competent about it. Give them credit for that. There are few things more pathetic than a liar who's not yet adept at her craft. Someone who tries to inflame racial tensions to further her political ends is one of those things, though.
+
+**UPDATE:** Tim writes to remind me that not all College Republicans are horrible people. Well, alright. I overstated things a bit. But my point remains: fewer young people are attracted to the organization than to its Democratic equivalent, and to some extent they come for different reasons. Some of those reasons are not healthy.
+
+A few others things. First, credit where due: much of the conservative blogosphere has from the start approached this story in a restrained and thoughtful manner. Second, those saying that Todd's refusal of medical attention was a clue to the hoax are wrong — I've refused police offers of medical attention after getting hit by a car (twice, in fact). If something bad has happened to you and you're pretty sure you're okay, sometimes you just want to go home (if you haven't got health insurance and are unsure who'd be footing the bill, this goes double). Third, Todd seems to now be alleging a history of mental health problems. Depending on how this claim turns out, my feelings about the hoax may become very muddy indeed. The territory where "couldn't help it" begins is murky, and, from a practical standpoint, not necessarily coextensive with "should be excused".

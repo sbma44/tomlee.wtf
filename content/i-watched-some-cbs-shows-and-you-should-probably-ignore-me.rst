@@ -1,0 +1,29 @@
+I watched some CBS shows and you should probably ignore me
+##########################################################
+:date: 2016-11-27 22:57
+:author: admin
+:category: Uncategorized
+:slug: i-watched-some-cbs-shows-and-you-should-probably-ignore-me
+:status: published
+:save_as: 2016/11/27/i-watched-some-cbs-shows-and-you-should-probably-ignore-me/index.html
+:url: 2016/11/27/i-watched-some-cbs-shows-and-you-should-probably-ignore-me/
+
+I got horribly sick around 10pm on Thanksgiving night. It wasn't the food (no one else got sick) but by early afternoon the next day I was in the ER getting IV fluids and a CT scan to ensure my appendix was in one piece. It was! But the rest of the stuff in there remained unhappy and I didn't eat anything but gatorade and two bananas for the next 48 hours. I'm feeling much better now but the recovery process has involved watching a hell of a lot of TV. Which reminded me of something I've been meaning to write about for a long time. Specifically: the cultural salience of the CBS primetime lineup. It's the key to everything. Bear with me.
+
+CBS's loud claims to being America's top network need to be taken with a grain of salt. The numbers are actually pretty close, and the rankings switch around if you start removing sports from the equation. Still, their shows are indisputably popular. And indisputably stupid. Very, very stupid. This is the network that made America's top comedy a show defined by the catchphrase "Bazinga!" -- a detail so on-the-nose that it reads like Pynchon losing a step.
+
+The strategy is boringly obvious: lowest common denominator. Some of this is simple, like cloning successful formulae into new franchise spinoffs or using the hoariest TV tropes (their newest show's tagline: "he's not a lawyer -- he's a trial consultant"). Normally this is merely banal and unworthy of notice. But now, in a year when we've all learned some horrifying things about what appeals to the masses, I find myself pondering what else they might like.
+
+Identifiability is clearly important to these shows' success. Leads wear casual clothing and are often unshaven. They are not cerebral except when they are specifically meant to be nerds. Credentials are never mentioned (well, except badges). Not to be unkind, but there are quite a lot of fat people. `Some shows <http://www.cbs.com/shows/mike_and_molly/>`__ seem specifically engineered to have no distinguishing characteristics *except* a cast as heavy as its audience. For a long time I couldn't figure out why a formerly cut-up action star like Chris O'Donnell led a top action series behind a doughy torso and loose neckline. Now I think it might be more of a feature than a bug. These are shows for an audience that has let itself go. Or has had to.
+
+It's also a set of shows expressing personal dynamics so anachronistically conventional that it feels like they must be there specifically for reassurance. The shows are overwhelmingly white, but then it's not uncommon for television networks to target racially-defined audiences. The treatment of women is sexist -- plenty of comments about how sexy everyone is -- but always with plausible deniability (it's mostly villains or rakish one-off characters making the remarks). Slightly more unusual is the frequency with which these series are anchored by a somewhat weatherbeaten white guy who's generationally separate from the rest of the cast. I take this to be a promise to an aging audience that virility hasn't left them entirely behind. That they're still in charge.
+
+But this is so much pointy-headed snobbery. Less important than how the viewers see themselves is how they see the world.
+
+There is a larger military presence on CBS than the other networks combined. So many characters who used to be in the service; not too long ago, so many shows structured around weirdly civilian corners of the armed forces. Arguably this is merely a twist on TV's love of police departments as a means of structuring four acts and a teaser: martial rather than municipal. Still, pair it with an utterly blase attitude toward and presumption of omnipresent surveillance, and it all starts to feel a little authoritarian and bad.
+
+Finally, while I think the moment has passed, I got started on this line of thought during the burst of forensic investigator shows--CSI, Bones et al. Some of this is just the usual network copycattery. Still, it's remarkable to see America fall in love with shows obsessed with human remains as religious affiliation (and, presumably, belief in an afterlife) falls off a cliff. CSI debuted in 2000; the correlation with this `methodologically questionable <http://religionnews.com/2014/01/27/great-decline-religion-united-states-one-graph/>`__ index is probably too good to be true. But the broader trend is `hard to deny <http://www.pewforum.org/2015/11/03/u-s-public-becoming-less-religious/>`__.
+
+I don't have any grand observations to make about all of this. That's probably why it's never made it past the drafts folder before now. Still, it's striking how different media looks when it's only courting an audience, only chasing dollars. And winning.
+
+(I should acknowledge that overthinking these shows is not an idea that's wholly mine. Years ago my friend Matt tried to pitch a TV recap series about the top (dumb) broadcast shows at work, as a fun differentiator from the overwhelming mass of prestige cable recaps. Alas, I understand it went nowhere. I was already noodling on some crackpot theories about the above but his argument made me resolve to write them down... someday. It's worth mentioning that CBS shows' dialogue and the marketing specifically recapitulates `his thesis about the family unit's renewed primacy in entertainment <http://www.slate.com/blogs/moneybox/2013/05/28/fast_and_furious_economics.html>`__.)

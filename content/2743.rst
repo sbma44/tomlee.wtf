@@ -1,0 +1,9 @@
+Mr. Penumbra's 24-Hour Bookstore
+################################
+:date: 2014-01-23 10:34
+:author: admin
+:category: books
+:slug: 2743
+:status: draft
+
+Tom is currently reading 'Mr. Penumbra's 24-Hour Bookstore'

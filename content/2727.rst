@@ -1,0 +1,9 @@
+Wool Omnibus
+############
+:date: 2014-01-06 10:56
+:author: admin
+:category: books
+:slug: 2727
+:status: draft
+
+Tom wants to read 'Wool Omnibus'

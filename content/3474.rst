@@ -1,0 +1,28 @@
+AI Isn't Useless
+################
+:date: 2023-05-10 14:32
+:author: admin
+:category: Uncategorized
+:slug: 3474
+:status: draft
+
+Matt has `a post today <https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will>`__ titled "I'm skeptical that powerful AI will solve major human problems" and the title is pretty good, I think. He argues that many of our problems are political and that this will limit AI's benefits. There's something to this, but I am still hopeful about what AI will do for us.
+
+It's true that I am `relatively gloomy about AI's prospects for dominating and/or destroying humanit <https://tomlee.wtf/2022/04/30/rokos-blogalisk/>`__\ y. And `I agree with Tim <https://www.understandingai.org/p/why-im-not-worried-about-ai-taking?utm_source=substack&utm_medium=email>`__ that AI will face challenges interfacing with the physical world that will limit its impact (though do check out `these cute soccer-playing robots <https://sites.google.com/view/op3-soccer?utm_source=substack&utm_medium=email>`__). And `I have a growing suspicion that LLMs will fail to surpass their training data <https://tomlee.wtf/2023/05/09/tim-lee-on-ai-takeover-risk/>`__, limiting their ability to deliver breakthroughs that humanity cannot achieve. on its own
+
+That more or less leaves us with the kind of stuff that information technology is already doing. But there's still good stuff in there. A humanlike interface with perfect knowledge of some limited domain can be very useful. Some examples:
+
+- Administrative burden. I encourage everyone to follow `Dave Guarino <https://twitter.com/allafarce?lang=en>`__, who has dedicated his career to using technology to help vulnerable people access benefits. Have you ever tried to sign a family member up for Medicaid? Or tried to figure out how to claim expenses related to AirBnBing your basement? I have; it sucks. I'd like a computer to do it for me.
+- Some social services might work better, too. Maybe case workers will clone their voices and dispatch a phone-screener bot to check in with clients, improving their productivity. Services to support aging in place will get more efficient with similar approaches. Parolees and people on probation may be monitored more consistently, allowing less serious sanctions--how many juvenile offenders with ankle monitors would benefit from their mom getting a phone call when they head somewhere they shouldn't late at night? Certain types of therapeutic counseling might even benefit.
+- Transaction costs will be reduced. Walmart is `reportedly <https://gizmodo.com/walmart-ai-chatbot-inflation-gpt-1850385783>`__ using a vendor's AI solution to negotiate with some suppliers. Like most AI press releases, I expect this one contains more than a little puffery. But it's easy to imagine scenarios where early phases of a negotiation could be worked out by chatbots. I'd love to have get help finding restaurants that can accommodate my wife's food allergies. Maybe one day I'll have an AI that stays in touch with area masonry contractors' AIs to find a day when I'll be working from home and they'll be in the neighborhood so that they can take care of a non-urgent job I need done. Maybe an AI will talk to car dealers for me. Maybe one will deliver an all-in mortgage refi proposal instead of the process taking weeks of paperwork collection.
+- Content moderation will get cheaper and more consistent. Phone calls to your bank will work better. Tech support calls will pull from the entire internet before telling you to reset your router.
+
+A theme is starting to emerge, yeah? Basically: the stuff that a call center employee could do for you will become less expensive and, hopefully, better (providing even-worse versions of support services with better margins for the seller is also a very possible outcome).
+
+In one sense this is quite boring. "Some labor costs will be transformed into capital costs and more wealth will be generated [accruing primarily to the investor class]"--this is already the story of the tech industry, and we've been at it long enough for disillusionment to set in.
+
+But I think there's some exciting potential here, too. Call center employees are not immune to Baumol's Cost Disease. As people become more productive, the market's ability to allocate their time toward unproductive tasks diminishes. Should that person be caring for your infant or manufacturing your new car? Well, car assembly lines have gotten really efficient. So if you want to keep the daycare center staffed, it's going to have to cost a ton. That's the basic story, and it sucks. It makes all kinds of great stuff wildly expensive or, worse, nonexistent.
+
+I don't think anyone knows what the hourly cost of AI inference is going to work out to. But I don't think anyone expects it to be as high as the time of an anglophone human circa 2023. That is going to let us do some stuff that, right now, simply isn't worth anyone's time. Some of it could be pretty great (albeit with significant displacement for the humans performing those functions or designing systems to perform them).
+
+I wish I believed the same thing about the physical world. I'd love to have an army of solar-powered robots fishing plastic out of the ocean and picking up trash from my city. Alas, material constraints mean those robots will probably be allocated to higher productivity uses, same as the humans before them. The physical world may remain stubbornly imperfect. But we will spend less of our time in it listening to hold music.

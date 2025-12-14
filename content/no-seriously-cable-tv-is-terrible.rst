@@ -1,0 +1,31 @@
+no, seriously, cable TV is terrible
+###################################
+:date: 2011-09-20 18:42
+:author: admin
+:category: Uncategorized
+:slug: no-seriously-cable-tv-is-terrible
+:status: published
+:save_as: 2011/09/20/no-seriously-cable-tv-is-terrible/index.html
+:url: 2011/09/20/no-seriously-cable-tv-is-terrible/
+
+Matt pointed me to `this post <http://groups.drupal.org/node/176914>`__, by Matt Rognlie, as an argument against my `previous post <http://www.manifestdensity.net/2011/09/19/a-rare-opportunity/>`__'s a la carte pricing dreams.  I've seen this pro-bundling argument before, but I'm not swayed by it. Still, since I now have several people who are smarter than me about economics telling me I'm wrong, perhaps it's best to spell out my objections here rather than via sputtering, half-formed tweets.
+
+Unbundling might be desirable even if it reduces efficiency in dollars per entertainment program available. It might be desirable even if it raises the price per entertainment program consumed!  As you might've guessed, what follows will have more than a whiff of paternalism about it. I know that some people feel that so long as a dollar isn't spent on a drug raid, a war, or some other destructive purpose, the appropriateness of its use shouldn't be questioned. I'm at least a little bit sympathetic to that view. Still, I think the TV industry has understandably structured itself in a way that maximizes television consumption (in both dollars and time--but mostly dollars), reaching a level above what most consumers would prefer. I think the industry has been able to do so because of various limits on competition. Consequently I'll be glad to see its size reduced, even if by some measures the result is a worse deal.
+
+It's obvious that we have too much television.  This should be apparent even if you consider me a snob for thinking society would be improved if `Repo Games <http://www.spike.com/shows/repo-games>`__ were disappeared forever (and, ideally, its creators imprisoned). The still-recent advent of high-quality time-shifting/on-demand technology removes 24-hour programming as a requirement for television outlets; and allows content, free of time constraints, to be efficiently recycled to viewers who previously couldn't watch it. This should have allowed us to dramatically reduce the amount of television that's being produced and sold while keeping viewers' satisfaction constant. But of course that didn't happen[1].
+
+Now to Rognlie's argument. While in broad terms the windfall of utility from infinite supply born of zero marginal cost seems like it should dwarf any fixed costs, in practice -- at the level of an individual subscriber -- it seems as though the utility we derive from additional television consumption and variety falls off quickly. Netflix streaming's success -- despite wide acknowledgement that its selection is poor -- speaks to an appetite for satisficing behavior in this area, doesn't it? Most people would agree that there is a lot of garbage on TV and that they are paying too much for it. I appreciate that Rognlie's argument anticipates this, but in practice it seems doubtful that everyone will have perfectly idiosyncratic views about what that garbage is in the way that his parks example supposes[2]. It seems like there are good reasons for thinking that we are investing more resources in television production than a real market dynamic would afford.
+
+I don't like Rognlie's use of parks. I think it's an appeal to emotion, and that it ignores parks' function as a means of progressively redistributing resources and as a source of positive externalities. The metaphor that's more commonly applied to the cable industry -- correctly, I think -- is an all-you-can-eat buffet[3].
+
+The buffet business model allows for a lot of variety in dishes, but at a low level of quality.  Diners will be stuck cross-subsidizing one another in fairly arbitrary ways, and may face incentives to overconsume as they draw near the grim end of their personal utility functions.  Decisions about how to allocate resources within the restaurant will be made in a way that's only vaguely connected to market signals; to the extent that those decisions reflect diners' preferences at all, they will probably be plagued by selection effects.
+
+Buffets suck. They're a bad deal for almost everyone.
+
+Right now the home TV industry gives consumers few non-buffet choices. I think that's likely to change, that it'll mean fewer total resources will be directed toward the industry, that consumer satisfaction with the programming they buy will increase, and that that will be a good thing.
+
+[1] There's no reason that consumer satisfaction would *have* to remain constant, of course. But in a real market you'd expect consumers to be able to take the gains from this type of innovation either as consumption or by saving money while keeping consumption constant, right? The television vendors' market power means that this latter scenario is not an option; gains have to be taken as consumption. The falling share of per capita hours spent on TV suggests to me that consumers would prefer to allocate this windfall differently.
+
+[2] And in practice it doesn't seem as though the proliferation of channels really has afforded the kind of utility-enhancing long-tail variety that a la carte opponents suppose.  Not to get all Current TV on you (assuming Current TV still exists), but economic and cultural realities have led to each new channel  just carving out tiny new "lifestyle" niches in the same suburban, straight, white, consumerist orientation. The model can't even support a music video channel, for pete's sake, or programming for huge market segments (women! black people! hispanics!) that isn't an insulting, low-budget joke.
+
+[3] Food has a real marginal cost, of course, but the price of cranking out one more steam tray of crappy lo mein is minimal compared to the operation's fixed costs (which, for this argument, include the costs of adding each new menu item). And in most cases adding another menu item won't push a diner to consume more in absolute terms; it'll just improve the diner's lot by providing them with more variety, shifting how they allocate their choices prior to getting full.

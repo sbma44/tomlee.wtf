@@ -1,0 +1,12 @@
+here's another entry!
+#####################
+:date: 2006-10-05 23:17
+:author: admin
+:category: Uncategorized
+:slug: 6
+:status: draft
+
+Just for testing purposes, though...
+
+| 
+| and here's extended text!

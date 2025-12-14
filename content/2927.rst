@@ -1,0 +1,9 @@
+Untitled Post 2927
+##################
+:date: 2015-02-07 17:39
+:author: admin
+:category: Uncategorized
+:slug: 2927
+:status: draft
+
+`John Herrman's post about the future of media <http://www.theawl.com/2015/02/the-next-internet-is-tv>`__ is good, and I need to think about it more. He argues that web publications are reverting to a television-like distribution model, attracted to communication services that are growing ever more important audiences.

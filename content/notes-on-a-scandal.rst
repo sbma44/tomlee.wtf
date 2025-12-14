@@ -1,0 +1,29 @@
+notes on a scandal
+##################
+:date: 2022-12-13 14:00
+:author: admin
+:category: Uncategorized
+:slug: notes-on-a-scandal
+:status: published
+:save_as: 2022/12/13/notes-on-a-scandal/index.html
+:url: 2022/12/13/notes-on-a-scandal/
+
+Forbes has `SBF's planned testimony before the House Financial Services Committee <https://www.forbes.com/sites/stevenehrlich/2022/12/13/exclusive-transcript-the-full-testimony-sbf-planned-to-give-to-congress/?sh=79518c6c3c47>`__. Now in Bahamian custody, he won't be giving it; and in the hours leading up to his appearance, it seemed like he was trying to wriggle out of the obligation, anyway. Still, it's interesting to examine this document and try to understand what it's trying to accomplish, if anything.
+
+Congressional testimony usually exists in separate spoken and written forms. Witnesses' oral presentation must fit into tight time limits; written testimony goes into the Congressional Record (and, more relevant in the short term, bitrot-prone committee webpages) and its length is limited only by its audience's tolerance for tedium. Sometimes a witness will deliver the same testimony in both forms, especially if they didn't have much time to prep. But it's also common for the spoken version to be a cut down version that includes the key points they are expected to make--they were invited to be a witness for a reason, after all--and whatever punchy one-liners their institution's comms and development teams thinks will work best for earned media and Giving Tuesday emails.
+
+The above applies to normal hearings, which usually have several witnesses who have been invited by staffers to function like evidence cards in the policy debate tournaments they spent their college years attending. SBF's situation would have been different: he would be there to get yelled at by the committee, not to agree with them. He might have been allowed to ramble at greater length as a result. Or he might not. What unites this kind of oppositional hearing with run-of-the-mill witness panel hearings is their transactional nature. Ever since TV cameras were allowed in hearing rooms, and probably before, it's been important to understand hearings in terms of what everyone is getting out of them: the grandstanding legislators, the NGO executives, the corporate representatives, even the media packaging it all up.
+
+All of this might make the exercise sound cynical, but it's not. It's ceremonial. A wedding is an important part of a marriage, but it's not the process that makes it possible. Mostly, it's a chance to publicly express things that the people involved have quietly worked out beforehand. So, too, with a hearing.
+
+As a final piece of preamble, it's important to remember that SBF did not actually deliver this testimony. The document symbolizes and evokes Congressional testimony and its trappings, but it may or may not resemble the message SBF would have delivered had he sat in front of Congress. That's particularly relevant because this testimony is *bad*. If it authentically reflects SBF's planned message, then--controlling for it likely being unfinished--it must substantially complicate our sense of his sophistication. If it doesn't, and is instead a calculated (albeit minor) media play to take advantage of a news hook that now only exists as a counterfactual... well, it's still a bit of a head-scratcher.
+
+Start with the "I fucked up" opener. Congress does not like this sort of thing! Perhaps he's just giving up on any hope of engendering sympathy among his nominal audience. That's reasonable enough. But then who is he trying to reach? He's delivered variations on this message in a variety of post-collapse conversations, speaking clearly even over the audible grinding of defense attorney teeth in the audience. It's not going to break news. Is this just to generate a clip for the normies? A charmingly impish loop of beeped-out verbiage for Fox News to replay to the retirees he defrauded?
+
+Maybe. But the rest of the document belies this kind of deliberateness. Who is going to listen to this guy's endless axe-grinding about unfair treatment at the hands of the bankruptcy officials who are now obliged to clean up his mess? It's hard to imagine what outcome he's envisioning, or how airing his grievances in this venue and such exhausting detail could possibly confer an advantage. Does he misunderstand his current reputation? Or what it would take for us to admit John Ray as a replacement villain in this saga?
+
+More promising are his complaints about CZ, head of Binance, the exchange whose actions precipitated the FTX collapse. Painting these events as dirty tricks by a foreign competitor against a US (okay, Anglophone?) national champion has always been the best card in a fundamentally awful hand. It's also has the benefit of being the first explanation that SBF offered. Binance has even been having a well-aligned bad news cycle over the last 24 hours! I suppose being in custody is a pretty good excuse for failing to respond nimbly to that news hook. Still, the CZ stuff here is inexcusably thin. Whether that's because SBF is still dreaming of a renewed Binance bailout or because he's just given up on appeals to xenophobia, I couldn't say.
+
+Either way, this document demonstrates no strategy or discipline. It's not only tactically inept, but fails to organize itself around an achievable goal.
+
+Some of that can be explained if the document was never meant to be used. But with each statement the guy makes, it becomes harder to square SBF's facility at crisis communications with his apparently sophisticated--and certainly successful--pre-crisis comms work. These are different skillsets, but it's still striking. Whether the difference is best attributed to panic, pharmaceuticals, or just bad fundamentals remains a mystery to me.

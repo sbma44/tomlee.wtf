@@ -1,0 +1,150 @@
+pinewood derby 2024
+###################
+:date: 2024-01-29 12:30
+:author: admin
+:category: Uncategorized
+:slug: 3486
+:status: draft
+
+.. container:: float wp-block-video
+
+   .. raw:: html
+
+      <video controls src="https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4754.mov">
+
+   .. raw:: html
+
+      </video>
+
+Our family just finished our second year of participation in the `Pinewood Derby <https://blog.scoutingmagazine.org/2019/01/21/a-fascinating-look-at-the-history-of-the-pinewood-derby/>`__, a scouting tradition in which kids construct wooden, gravity-propelled cars and race them down a track. Last year we focused on not cutting ourselves. This year we had room for more ambition.
+
+Josie and Ellie each constructed a car. I am trying to dole out Pinewood knowledge incrementally, so while this time we applied graphite powder to the axles and hot-glued pennies to the undersides, we did not polish the axles, use a jig to insert the weeks perfectly orthogonally, or engineer the car so as to make one wheel vestigial (cutting down on rolling friction), all of which are recommended by the internet's elite Pinewood Derby weirdos. Still, these modest interventions were enough to move Ellie from fourth to third place in her Tiger Den's heat. And Josie, who is not yet old enough to be an official scout, dominated the unofficial Leopard bracket, and did so in style with consistent come-from-behind victories. Alas, she was sad to learn that Leopards are only eligible for participation ribbons rather than the slick bronze medal that her sister earned. Ah well.
+
+I built a car, too. Cubmaster Rob says he’s long wanted to run a parents-only Pinewood Derby bracket—with relaxed rules—if only to exorcise the temptation to build the kids’ cars for them. This idea fit me like a glove. This year he finally went through with it: the pack held a parental race the night before the kids' event among the volunteers who turned out to set up the track.
+
+My first instinct, as usual, was to combine excess technology with tendentious legal hairsplitting. The official rules forbid “starting devices”… but what about *finishing* devices? If the car could detect when it was in motion and only then take action… surely no jury would convict. This set the basic approach: accelerometer plus quadcopter fan, run by a microcontroller. Some custom 3d printing for the motor mount. LEDs, why not? I also aspired to build it using only junk from my parts bin.
+
+I failed on all counts: had to buy the motor, and a new H-bridge chip, and run it from a web browser, and exceed the weight limit. I just needed more time! But the end result was still satisfyingly overengineered (although profoundly ineffective as a racer, not least of all because I ran down the batteries with demos prior to the start of actual racing).
+
+If I did it over again:
+
+.. raw:: html
+
+   <ul>
+
+.. raw:: html
+
+   </p>
+
+.. raw:: html
+
+   <li>
+
+A better accelerometer. This one drifted badly. There are six degree of freedom combo chips that use sensor fusion between accelerometers and gyroscopes to provide consistent tracking of orientation. I'll google for "6DOF" and spend $20 next time I need to do this.
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+A lithium battery. AAs are heavy, they dip below the motor’s starting voltage pretty fast, and the boost converter you see couldn’t pump enough amperage to run the motor at all.
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+No websockets. It’s fun to talk to your car with vanilla Javascript and show off the control UI in a browser, but the overhead is too much for an ESP32 if it’s running anything but the simplest workload. Better to use MMQT or, more likely, raw UDP.
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+Or just don't do any of that at all: it’s dumb to use wifi when you’re battery-constrained and the uC can speak bluetooth. There are even browser APIs! Frankly I just know much less about writing BLE clients. But I should try to learn. Flutter makes it look pretty easy.
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+Don’t push on the uC’s OLED to get it in its socket! I cracked one that way. I ruined another with overvoltage while debugging the motor. So much for displaying the cub scout logo on the screen.
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   </ul>
+
+This was fun and frantic, a flashback to longer and more arduous bouts of technical monomania. I'm not sure if iteration or reinvention is called for next year. It might depend on whether I can convince all the attendees to wear safety glasses.
+
+.. container:: float wp-block-image size-large
+
+   |image1|
+
+.. container:: float wp-block-image size-large is-resized
+
+   |image2|
+
+.. container:: float wp-block-image size-large
+
+   |image3|
+
+.. container:: float wp-block-image size-large
+
+   |image4|
+
+.. container:: float wp-block-image size-large
+
+   |image5|
+
+.. container:: float wp-block-image size-large
+
+   |image6|
+
+.. container:: float wp-block-image size-large
+
+   |image7|
+
+.. container:: float wp-block-image size-large
+
+   |image8|
+
+.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4758-1024x768.jpeg
+   :class: wp-image-3487
+   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4758-scaled.jpeg
+.. |image2| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4757-768x1024.jpeg
+   :class: wp-image-3488
+   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4757-scaled.jpeg
+.. |image3| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4756-1024x768.jpeg
+   :class: wp-image-3489
+   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4756-scaled.jpeg
+.. |image4| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4755-1024x768.jpeg
+   :class: wp-image-3490
+   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4755-scaled.jpeg
+.. |image5| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4728-1024x768.jpeg
+   :class: wp-image-3491
+   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4728-scaled.jpeg
+.. |image6| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4711-1024x768.jpeg
+   :class: wp-image-3492
+   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4711-scaled.jpeg
+.. |image7| image:: https://tomlee.wtf/wp-content/uploads/2024/01/DA8E86E8-BB43-41F0-AC3F-DCDD1A52C50A-1024x768.jpeg
+   :class: wp-image-3493
+   :target: https://tomlee.wtf/wp-content/uploads/2024/01/DA8E86E8-BB43-41F0-AC3F-DCDD1A52C50A.jpeg
+.. |image8| image:: https://tomlee.wtf/wp-content/uploads/2024/01/549538B8-0CCF-4A7F-BDFF-D3B4F41022DC-1024x768.jpeg
+   :class: wp-image-3494
+   :target: https://tomlee.wtf/wp-content/uploads/2024/01/549538B8-0CCF-4A7F-BDFF-D3B4F41022DC.jpeg

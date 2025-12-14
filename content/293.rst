@@ -1,0 +1,40 @@
+July 4 disloyalty blogging
+##########################
+:date: 2007-07-04 16:28
+:author: admin
+:category: misc
+:slug: 293
+:status: draft
+
+I've just gotten back from some thoroughly wholesome frisbee golfing in an Arlington park filled with happy families, delicious barbecue smells and robust American activity. I'm drinking a beverage produced by a brewer-patriot, getting ready to eat grilled meat and generally feeling pretty good about this country.
+
+Nevertheless, I've read a few
+
+First up, this lyric from `George Cohan <http://www.scoutsongs.com/lyrics/grandoldflag.html>`__, which is pretty funny in a way suspiciously similar to `this <http://www.informationleafblower.com/blog/archives/2007/07/did_steve_tell.html>`__ *Flight of the Conchords* gag:
+
+   .. raw:: html
+
+      <p>
+
+   .. raw:: html
+
+      <center>
+
+   *Ev'ry heart beats true
+   'neath the Red, White and Blue,
+   Where there's never a boast or brag.*
+
+   .. raw:: html
+
+      </p>
+
+Second, `an interview with David Milch <http://dir.salon.com/story/ent/feature/2005/03/05/milch/index.html?pn=1>`__, the guy behind *Deadwood* and *John From Cincinatti*:
+
+   What we say in our treasured documents is not, "These truths are self-evident, that all men are created equal." What we say is, "We hold these truths to be self-evident" -- in other words, we're going to act as if these truths are self-evident, but in practice, those truths have never been self-evident. And the reason that cops only trust other cops is because they know that they've been hired to lie, they've been hired to beat the balls off people, and get them to confess so they can be excluded from society. That's the first part of their job. The second part of their job is to lie about what they did. And the third part of their job is to know that if they're caught, they're going to be put in jail.
+
+And third, `this Kung-Fu Monkey post <http://kfmonkey.blogspot.com/2007/07/l33t-justice.html>`__ (via `Ogged <http://www.unfogged.com/archives/week_2007_07_01.html#007085>`__):
+
+   | There is a sizeable population in America that just does not, cannot wrap their head around the fact that the President may be a Bad Man who does Bad Things. He's President of America. We're Americans. We're the good guys. Remember, the Nixon mythos in America is that the system worked. "See, in America, even the President is not above the law."
+   | These Suited Bastards know the fragile shell of American exceptionalism is all that's keeping a whole lot of people from processing that they're working too many hours for not enough money, and they either believe real reeaaaalll hard that they're living in the Shining City on the Hill or admit their lives are shit and they've been chumped.
+
+I've generally just assumed that nationalism is a natural impulse, and that we've built relatively harmless institutions to help us burn it off, like the Olympics and Toby Keith. But I suppose there are also those who believe that a sort of Potemkin Patriotism can and should be deployed toward specific ends. It's the sort of cynical but allegedly necessary undertaking that Milch refers to, and that the Kung-Fu Monkey post posits, and which I guess is supposed to help us defeat the Jihadists.

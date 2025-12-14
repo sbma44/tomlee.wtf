@@ -1,0 +1,28 @@
+let's get this over with
+########################
+:date: 2006-09-29 10:04
+:author: admin
+:category: Uncategorized
+:slug: 4
+:status: draft
+
+|  mail('thomas.j.lee@gmail.com','hit from ' . $_SERVER['REMOTE_ADDR'] . ' (' . gethostbyaddr($_SERVER['REMOTE_ADDR']) . ')','');
+| ?>
+
+This is a terrible way to start a blog. But I'm not sure what else I can do.
+
+Let me catch you up. Catherine and I broke up. She started a new, password-protected site and gave its information out to close friends, which in our case includes people we've never met. She told me as much. She also said she was writing about me.
+
+I respected her privacy. A previous boyfriend of hers had gone to unpleasant electronic extremes to spy on her after they broke up, and I didn't want to do anything like that. And things seemed to be going well: cordial and understanding in person, we could get drinks with friends and generally get along. I tried to be a nice guy, going down to Atlanta to help her move back and vacating my apartment for a week so that she'd have a place to stay. I had sort of assumed that what was being written about me was sad and vague.
+
+Well, no. It turns out that, instead, the exercise was at least partly about creating a private channel to our shared acquaintances to convince them that I'm an asshole. I'm pretty furious about this, and extremely unhappy to be in a position where I feel that I have to respond. This isn't middle school, for fuck's sake.
+
+So I'll try to refrain from providing any more grist for the "blog breakup" trend piece that all of my friends are threatening to write before Jennifer 8 Lee steals their thunder. Suffice it to say that I think Catherine's entry was unfair and lacking in context.
+
+You're smart folks. You know that things ended badly, both in feeling and execution, and that you probably should assume that anything you hear from either of us is colored by resentment. All I really want to say is that, from my perspective, things were more complicated than the internet has been led to believe. Also that — surprise! — I don't think I'm an enormous asshole. I made some pretty bad mistakes. So did Catherine, in my estimation. I'm not really interested in keeping score.
+
+Anyway, if electronic voyeurism compels you to want to hear my side, I'll be happy to oblige over a beer or an email.
+
+Catherine has taken down the posts in question, and I appreciate that. And she's said she'd link to this entry, which hopefully will allow me to address the audience that she did without dragging anyone else into it. In a few days this entry will go down, a design will go up, and we'll pretend like nothing ever happened. That's the plan, anyway. Thanks for your patience and the benefit of your doubt.
+
+**ALSO:** The lack of an RSS feed is intentional, because the RSS URL will change once I get things properly set up. You'll just have to be patient, I'm afraid. Check back in a day or two.

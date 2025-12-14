@@ -1,0 +1,21 @@
+what Colbert is up to
+#####################
+:date: 2011-05-16 12:09
+:author: admin
+:category: Uncategorized
+:slug: 1760
+:status: published
+:save_as: 2011/05/16/1760/index.html
+:url: 2011/05/16/1760/
+
+I was glad to see `Tim writing about Stephen Colbert's decision to start a PAC <http://timothyblee.com/2011/05/16/stephen-colberts-confused-parody-of-citizens-united/>`__. At work we've been excited to have such a high-profile figure talking about the campaign finance system -- excited enough to `dress people in bear costumes <http://www.flickr.com/photos/sunlightfoundation/sets/72157626713576460/>`__, in fact.
+
+But I don't think Tim gives Colbert enough credit. Yes, there are tensions within Colbert's efforts that are related to speech rights. But it's a mistake to expect Colbert to be perfectly logically consistent. I think his aim is to point out absurdities within our system -- absurdities that are to some extent the product of the contradictions Tim mentions. This undertaking can be done -- and can be useful -- without offering a solution.
+
+Tim's critique also ignores the issue of disclosure, which is central to Colbert's focus on *Citizens United*, and which is the motivation behind his pursuit of a media exemption. I'm sympathetic to arguments about the importance of preserving avenues for anonymous political speech. But a good case can also be made that it is reasonable to expect those who avail themselves of privileged mediums of expression to stand by the statements they make in them. In practice if not in law I would face different obligations for a statement I whispered to a friend versus one I slapped on a billboard. I think that's reasonable.
+
+Finally, Tim's post sidesteps the thorniest questions associated with distinguishing corporate speech from speech made by humans. He rightly observes that "this isn't how free speech jurisprudence works", but I find that argument more depressing than compelling. The personhood question is so dreary and vast that I'm hesitant to bring it up here. But when it comes to political speech, the same culpability two-step is very much in play: like Dr. Jekyll trying to cordone his negative impulses in a separate entity, the division between an active, proudly amoral leadership and the slumbering ownership whose authority they exert often leads to bad outcomes. I think it's telling that defenders of corporate money in our system can't brook the idea of requiring that the owners of that money be forced to approve its use for political ends. It puts the lie to their protestations that corporate giving is simply a vehicle for expressing individuals' speech rights collectively.
+
+Clearly, political and legal momentum are not on the side of people who feel the way I do. But our system has long acknowledged these tensions in its prohibition on direct giving from corporations to politicians. That PACs can and do launder this kind of money doesn't validate the practice.
+
+Tim's point is that some of our society's legal traditions and most cherished principles demand that we not restrict corporate speech. Colbert's point is that those principles are forcing us to further empower inhuman actors whose influence on our political system may imperil our society, and perhaps even our planet. I don't think either side is wrong.

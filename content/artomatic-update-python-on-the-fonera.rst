@@ -1,0 +1,43 @@
+Artomatic Update: Python on the Fonera
+######################################
+:date: 2009-05-05 23:28
+:author: admin
+:category: DC, misc, photos, tech
+:slug: artomatic-update-python-on-the-fonera
+:status: published
+:save_as: 2009/05/05/artomatic-update-python-on-the-fonera/index.html
+:url: 2009/05/05/artomatic-update-python-on-the-fonera/
+
+**UPDATE:** Scratch that. I've hit a roadblock related to serial communication in DD-WRT. If you're only interested in using Python for socket communication and simple stuff, the below text is still useful. But I've concluded that if you want serial, DD-WRT is not the way to go. I've moved on to OpenWRT — you can see the first step in this process `here <http://www.manifestdensity.net/2009/05/11/giving_up_on_ddwrt/>`__.
+
+--------------
+
+You might remember that I've done a `bunch of work <http://www.manifestdensity.net/2008/03/26/dorkbot_arduino_and_fonera/>`__ on integrating the Fonera and the Arduino. It's a handy setup for microcontroller hobbyists: a reflashed router provides a wireless network interface that's much cheaper than the purpose-built alternatives available for the Arduino, and one which, by virtue of its Linux firmware, is also considerably more powerful. The downsides are its size and power requirements, but for most applications those aren't big concerns.
+
+Last time around I just ran a cron job on the router that periodically fetched data from a web server and shoved it to the Arduino using the `busybox <http://busybox.net>`__-based command line tools that come with the DD-WRT firmware (wget, bash, stty). For my next project, those tools aren't going to cut it. I need two way communication between the Arduino and the Fonera, and I need less latency and more flexibility than those command line tools can offer. I need a proper scripting language.
+
+Unfortunately, things are a bit cramped on the Fonera. There's an *apt-get*-like system for installing add-on packages to OpenWRT-based firmwares — it's called ipkg — but it's broken on the Fonera, and there's very little space for the installation of such packages.
+
+You can get around this, but it's a little tricky. First: realize that ipkg is only *sort of* broken (on the newer firmwares, at least). You can't update the list of packages. You *can* locate a package, copy it over and do an "ipkg install *filename*". You've just gotta find the right one. (Also: note that I've read that using ipkg to remove items on the Fonera can badly screw up your filesystem. Better to remove them manually and/or reformat your JFFS partition.)
+
+Packages with "mini" in their name are probably your best bet. Now you just need to find a compatible one. From the `DD-WRT List of Supported Devices <http://www.dd-wrt.com/wiki/index.php/Supported_Devices>`__ we can see that the Fonera uses an Atheros chipset. Start running Google searches like `this one <http://www.google.com/search?hl=en&q=site%3Adownloads.openwrt.org+inurl%3Apackages+inurl%3Aatheros&btnG=Search>`__ and you should be able to find what you need. Here, I'll make it easy for you: `this is the ipkg I used to install python on the Fonera </2009/05/05/python_on_the_fonera/python-mini_2.5.1-2_mips.ipk>`__. Copy it over to the Fonera with scp or something similar, then run "ipkg install python-mini_2.5.1-2_mips.ipk". Success!
+
+Well, until you try to do something with it. I needed three things out of this python installation: simple client/server network functionality (the socket module); the ability to fire off shell processes (the os module); and the ability to communicate with the Arduino over a serial link (the `pySerial <http://pyserial.wiki.sourceforge.net/pySerial>`__ project).
+
+The first is pretty simple. For reasons that I haven't bothered to figure out, the socket module is named \_socket in the minipython distribution. Adjust your scripts to do an "import \_socket as socket" instead of "import socket" and you should be fine. I was able to run the first two examples (client and server) on `this page <http://docs.python.org/library/socket.html>`__, anyway (debugging the other end of the connection with netcat on my laptop). Good enough for me!
+
+Firing other programs runs into problems. Try to import the os module and you'll get some complaints about a missing UserDict class. I believe that this class wrapper has been deprecated; I cobbled `this UserDict.py </2009/05/05/python_on_the_fonera/UserDict.py>`__ together from some Google searches, and after placing it in the lib-dynload path (on my router it's /jffs/usr/lib/python2.5/lib-dynload/), I can import the os module successfully. *I have not tested it thoroughly*. os.system('touch WHATEVER') works fine, but beyond that I can't make any guarantees.
+
+Finally, there's the question of serial communication. This is actually harder than is may sound: there's a hardware issue we need to work out before we worry about pySerial at all.
+
+The `comments <http://www.manifestdensity.net/2008/03/26/dorkbot_arduino_and_fonera/>`__ on my Dorkbot post revealed a problem I didn't know I had: the serial voltage of the Arduino is different from the serial voltage of the Fonera. The former uses 5v, the latter uses 3.3v. This is a pretty common situation, actually, and it's generally solved through the use of a chip like the MAX232. Fortunately, we can get away with even less. The Arduino's designers anticipated this problem and made the device able to recognize 3.3v serial input, so signals from the Fonera to the Arduino should work fine. This is why my Dorkbot project worked even though I hadn't accounted for the voltage mismatch.
+
+But the voltage differential of signals sent from the Arduino to the Fonera needs to be explicitly dealt with — we can't rely on the Fonera to handle the higher voltage as gracefully as the Arduino does. Fortunately, shedding DC voltage is a lot easier than boosting it, so this is also a pretty easy problem to solve. We just need to make a `voltage divider <http://www.raltron.com/cust/tools/voltage_divider.asp>`__ circuit that goes from 5v to 3.3v. It's basically two resistors, simply arranged. Easy! Alternately, you might be able to step the voltage down using the magic voltage-dropping properties of diodes, but I haven't bothered to try.
+
+Alright! So our signals are aligned. Back to the software problems. pySerial requires the os module, but we've already solved that module's UserDict problem; on to the next headache. This one is called termios, and it's a compiled library, not just a python class. It's commonly included with python, but apparently not with the stripped-down version that we're using. That's a drag. We need a version of this library that has been compiled for the Fonera's MIPS processor. Compiling such a thing on a non-MIPS processor (like your computer) is possible, but cross-compilation is fairly involved to set up. I wanted to just find a compiled version and drop it in.
+
+Once again, googling around downloads.openwrt.org turned out to be a good idea. But don't go looking for termios — you won't find it. Instead, I looked for a beefier python ipkg — one designed for more powerful machines, and which contains all of the normal libraries that ship with python. I found it, downloaded it and then uncompressed it (ipkgs are just tarball archives with a specific layout). That yielded two more tarballs; I opened the one named "data.tar.gz". Within the directories spawned by that I found termios.so. I took that file, dropped it into the aforementioned /jffs/usr/lib/python2.5/lib-dynload/ directory, and was immediately able to import pyserial. Well, okay, not immediately — the first version of the python ipkg that I grabbed was built for mipsel processors, not mips, and gave me a helpful error message when I tried to import it. Once I had the right binary everything went surprisingly smoothly. I haven't currently got the necessary hardware set up to properly test pySerial, but will report back when I do.
+
+For those of you trying to follow my steps exactly, `here's the termios.so that I'm using </2009/05/05/python_on_the_fonera/termios.so>`__. This method should work more generally for selectively loading python libraries that you need onto your Fonera.
+
+Incidentally, all of this is a *massive* overengineering of what's necessary to finish my Artomatic project: those requirements could probably be satisfied with a wireless doorbell kit from Logan Hardware and a couple of `555 ICs <http://www.manifestdensity.net/2007/06/15/beat_me_to_it/>`__. But I want this system to ultimately work over the internet, so for me it's worthwhile to create an IP-capable device.

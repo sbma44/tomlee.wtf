@@ -1,0 +1,42 @@
+AirBnB
+######
+:date: 2016-09-14 23:36
+:author: admin
+:category: Uncategorized
+:slug: airbnb
+:status: published
+:save_as: 2016/09/14/airbnb/index.html
+:url: 2016/09/14/airbnb/
+
+Steph and I have been AirBnBing our guest bedroom for about a year and a half now, and it's been mostly great. It's not a ton of extra money, but it's not an insignificant amount, either. We occasionally meet interesting people. We are regularly reminded that the world is full of people unlike ourselves, and that it's possible to get along with them, at least when the interaction is supervised by an app's influential reputation system.
+
+And it seems like it's probably good for us. I love my job dearly, but it does involve a lot of playing with computers and eating free snacks. Spending a few hours a month scrubbing toilets for money makes me feel like I might have at least a slim chance of surviving the revolution.
+
+The aforementioned reputation system does a good job of driving nearly everyone within it toward neurotic approval-seeking. You are not just supplying a service for money; you are also hoping your guests will have a good time and compliment your home and be impressed with your lifestyle. They are not just paying for lodging; they are trying not to be a bother and giving you coffee from their home country and making implausible offers to put you up if you ever visit COUNTRY/CITY X. It's all a little bit charming and let's be honest more than a little pathetic, but the five-star ratings really do seem to weed out the sociopaths. It works pretty well.
+
+Despite their business being built on overeager social fumbling, AirBnB is taking steps to make interactions more impersonal through the use of their *Instant Book* feature, by which hosts relinquish their ability to approve requests from prospective guests one by one. They have both good and bad reasons for this. Good, in that there is strong evidence of racial and no doubt other forms of iniquity in how hosts accept guests. Bad, in that they were pushing Instant Book well before the bias conversation, presumably because lowering coordination costs leads to more transactions and revenue.
+
+I am in favor of systematizing away opportunities for human odiousness, but Steph and I are unlikely to enable Instant Book. In our experience, the worst AirBnB interactions occur when expectations are mismatched. A first-time user with poor English expects to get a full condo, rather than just a room, for eighty bucks a night. A high school kid from suburban Maryland expects to stay at our place with his girlfriend. A couple of friends expect a third to maybe join their weekend trip on a whim and crash on our living room couch. A new graduate's parents have never been out of China before and expect to order room service. Or maybe Steph and I just have an inkling of plans for a week we haven't thought to block off yet. Reviewing potential guests allowed us to avoid several of these catastrophes. Plus the silly letter the guest has to compose gets the stilted courtship described above off on the right foot.
+
+Most guests are nice but boring folks. They typically hole up in the room they've let and do their thing without much bother. We have learned to identify risk factors for those who will spend a bunch of time at home (when they do this you have to pretend not to mind):
+
+- Those at the end of very long trips will be exhausted and will just want to surf the web rather than continuing to fake enthusiasm for seeing cultural treasures or whatever.
+- The young will be too poor to spend time outside of the house except for whatever their Big Planned Event is. Also their blase attitude toward their creeping mortality makes them feel like they have all the time in the world to visit the National Archives someday, but you know what, young man, you don't.
+- The old, particularly those who have clearly been dragged along by their spouses, might just want to watch TV, which in our household often requires moderate-to-advanced skill at TCP/IP network configuration. We try our best but some of them don't even know how to run a traceroute.
+
+We have been charmed by several guests. There was the Parisian atmospheric scientist who flew planes to take air samples, who Steph still pines for. There was the bartender who was back to take the bar for the third time after missing the date for the one near his home in New York City. There was the Eastern European flight attendant who met his internet language-learning community girlfriend for the first time in our house on Valentine's Day, followed her home to Southeastern Virginia, proposed, was not allowed to meet her family, flew home without a ring or engagement, and was still so polite as to respond to our thirsty AirBnB requests for details about how it all went. I think fondly of all of them.
+
+But if I were to offer only one piece of advice about how to charm your AirBnB host it would have to be this: try not to leave too much hair behind. Honestly, this is all I care about. Maybe avoid putting wet garbage in the bin, too, so I can reuse the liner after I empty it. Otherwise, go nuts. My dream guests are an aging and profoundly bald gay couple. No stray hairs, in bed at a reasonable hour, and maybe they can tell us some good stories over a glass of wine. God bless them.
+
+If you are considering AirBnB hosting, I have a longer list of suggestions:
+
+- Consider the cost of room turnover and the cost of guests letting their guard down and beginning to transgress boundaries. For us this means bookings of 3-5 nights, which is a narrow window that probably hurts earnings but minimizes stress.
+- Use AirBnB's free photography service. It makes your place look great, though it can take a while to get an appointment and our listing makes it look like we have a Christmas tree up year-round.
+- Buy some `makeup removal wipes <http://www.ebay.com/itm/Epielle-Argan-Oil-Makeup-Remover-Cleaning-Tissues-Wipes-30-Counts-Pack-of-2-/111861639785?hash=item1a0b792a69:g:XbwAAOSw5IJWgttD>`__ and leave them in a prominent spot, or else you will eventually wind up with some destroyed towels. The first time you see a guest heading out for the evening in unexpectedly high heels you should immediately buy another towel set on Amazon.
+- Get some programmable door locks or a `key lock box <https://www.amazon.com/Master-Lock-5400D-Set-Your-Own-Combination/dp/B0002YP1VC/ref=sr_1_4?ie=UTF8&qid=1473911723&sr=8-4&keywords=key+lock+box+combination>`__, obviously. Alternately, prepare yourself to get upset over guests not respecting your arrival policies. You will be irate but they will not understand the problem at all, like a dog getting yelled at for drinking out of the toilet. It's water, isn't it? I don't see what the big deal is.
+- Ask existing hosts for testimonials to get over the "is this new listing a scam that will steal my kidneys" hump.
+- If your guest shower has a hose sprayer, great, bully for you. If not, get `one of these things <https://www.amazon.com/Rinse-Ace-3025-Quick-Connect-Detachable/dp/B00474UALE/ref=pd_sim_60_2?ie=UTF8&psc=1&refRID=11QCRJ8AAJK7TXD9GR73>`__. It will make your bathroom cleaning so, so much faster. A little handheld vacuum is also a substantial time-saver.
+- It's maybe overkill but we installed some `fan timers <https://www.amazon.com/Enerlites-Countdown-Ventilation-1-5-10-15-20-30-REQUIRED/dp/B00IB0ZJXE/ref=sr_1_1?ie=UTF8&qid=1473911924&sr=8-1&keywords=timer+fan+control>`__ and `USB outlets <https://www.amazon.com/TOPGREENER-TU2152A-Charger-Resistant-Receptacle/dp/B01J6JJD8A/ref=sr_1_1?ie=UTF8&qid=1473911943&sr=8-1-spons&keywords=usb+outlet&psc=1>`__ to encourage non-moldy bathrooms and fewer questions about borrowing chargers.
+- We've found that guests leave reviews about how much they like having a good neighborhood guide, a comfy bed, immaculately clean bathrooms and an electric kettle in the room. They don't seem to care about the cheap Trader Joe's wine we gave away for a while. I guess we weren't fooling them.
+
+Sometimes we are attentive, sometimes we are busy, sometimes we are maybe even a little surly. The guests don't seem to notice. The AirBnB review is by now a well-understood compositional form. Give them a fair deal and they will write you one, like a traveling bard composing a song. You'll meet some strangers and it'll basically be okay, sometimes a little worse but often better than you'd think.

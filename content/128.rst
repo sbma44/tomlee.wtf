@@ -1,0 +1,30 @@
+we have a winner
+################
+:date: 2007-02-12 16:17
+:author: admin
+:category: personal
+:slug: 128
+:status: draft
+
+Remember when my `checkcard number was stolen <http://www.manifestdensity.net/2007/01/21/more_crime/>`__? Well, today I got an email that explains how it probably happened:
+
+   | Hello,
+   | On February 8th, 2007 it came to our attention that someone or
+   | something gained unauthorized access to the Spark Fun Electronics
+   | server. It is highly unlikely that this person gained full access to
+   | our server data. But because there is no way for us to confirm the
+   | depth of the access, we felt it in the best interest to warn our
+   | (wonderful, wonderful) customers the server contained sensitive
+   | customer information including some credit card data. All numbers
+   | have since been removed and we are putting systems in place to better
+   | protect sensitive user information in the future.
+   | Please check your credit card statement for any unauthorized
+   | activity. We will do everything in our power to work with you and
+   | your credit card company to investigate any discrepancies.
+   | We truly appreciate your business and are very sorry to cause a
+   | scare. Please contact us (you can reply to this message) if you have
+   | any questions or concerns and we will address them as quickly as possible.
+   | Best regards,
+   | Spark Fun Electronics
+
+That's not good. I had placed an order with Spark Fun in late December (and another a month or two before that). My credit card was stolen on January 21. Sounds like someone may have had access to all of their customer data for a while.

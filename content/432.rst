@@ -1,0 +1,24 @@
+the first convocation of the institute for advanced internet studies
+####################################################################
+:date: 2007-11-28 17:41
+:author: admin
+:category: tech
+:slug: 432
+:status: draft
+
+Rereading the last entry and its context-free tossing off of the terms "chip trace" and "solder pad", it occurred to me that the geeky content on this blog has hit a particularly bad balance. It's too technical for the people who might've been interested by my earlier, more accessible geek ramblings; and it's doubtless too simplistic to interest many experts. Since becoming smarter is harder than acting dumb, I've resolved to think of some more interesting, universally-relevant tech content.
+
+And last night I had a good idea for how to kick things off. I was listening to `WOXY <http://woxy.lala.com>`__ and Coconut Records' "Nighttiming" came on. "Hmm," I thought, "That'd make a pretty good dance song for a party if someone remixed it." So one search for "nighttiming remix" later, I found that `this group <http://www.myspace.com/remixartistcollective>`__ has got a remix coming out soon. More googling shows that `this <http://www.theremixcompany.co.uk/>`__ is their homepage.
+
+Bad news first: the Coconut Records remix isn't up yet. The good news is that they've got a "Pull Shapes" mix in the works — so that's something to look forward to.
+
+But my eye was also drawn to the audio player on their homepage:
+
+|a flash MP3 player|
+
+You've probably seen it before. It's `a nice little open source Flash player <http://www.jeroenwijering.com/?item=jw_mp3_player>`__ by a guy named Jeroen Wijering — . He makes a nice video player, too. Along with the `XSPF Player <http://musicplayer.sourceforge.net/>`__, it's probably the most widely-used (non-MySpace) Flash music player on the web — certainly Travis Morrison, The Swimmers, Love Like Fire and many, many other bands use one or the other player. The Hype Machine has used both!
+
+The colors and sort of controls on these things can change, but they always look pretty much the same — customizing colors and button layout is easy, but changing, say, the shape of the play icon requires someone who knows Flash. So if you see a few examples of these players in the wild you can begin to recognize them very quickly. And the fact that they're designed to be configurable means that the MP3s they play can't be all that well squirreled away. They're in plain sight, if you know where to look.
+
+.. |a flash MP3 player| image:: http://www.manifestdensity.net/2007/11/28/RAC_flash_player.png
+   :class: center

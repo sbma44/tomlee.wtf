@@ -1,0 +1,25 @@
+brigade
+#######
+:date: 2014-11-26 16:35
+:author: admin
+:category: Uncategorized
+:slug: 2842
+:status: draft
+
+`Alex Howard has an interview with Brigade's president, James Windon, in which the civic startup's plans are finally made clear <http://techpresident.com/news/25363/how-brigade-taking-shape-interview-james-windon>`__.
+
+   A: Not yet. To answer that question--user acquisition, largely, and network fatigue. I think from a macro perspective, we believe that there are two kind of buckets that people are spending most of their time in... One is personal, all the things that you like to do. One is professional, which we think of as all things that you need to do. We think that most of the social networks that are being created at the moment, that you’re referring to, largely fit into those two buckets.
+
+   Q: Yep.
+
+   A And they offer incremental value on the existing set of networks out there, which is why there is network fatigue. Why would I join Ello? OK, slightly different with a different business model, but largely it’s the same set of people on Facebook and, to be honest with you, with any network product the more people on it, the better it’s going to be.
+
+   Q: Sure.
+
+   A: We think there’s actually a third sector that makes up people’s lives which we think of as the "civic sector," although that’s kind of a word from like the 1940s so we’re trying to think of...
+
+   Q: Civic tech is now a thing in my world, though.
+
+   A: Great. We think that is a large enough tranche of people's lives that warrants its own network. We think it’s a differentiated enough type, and has a differentiated enough set of experiences and relationships that it shouldn’t feel or look a lot like those other platforms that are around consuming content and interacting with friends, getting caught up on life events, or doing things that will move you forward professionally.
+
+This is incorrect. Lots of people have tried to build just this, but the efforts typically self-destruct so quickly that the process is invisible without a `bubble chamber <http://en.wikipedia.org/wiki/Bubble_chamber>`__.

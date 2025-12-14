@@ -1,0 +1,19 @@
+when to be pissed off at an airline
+###################################
+:date: 2010-12-23 15:17
+:author: admin
+:category: Uncategorized
+:slug: when-to-be-pissed-off-at-an-airline
+:status: published
+:save_as: 2010/12/23/when-to-be-pissed-off-at-an-airline/index.html
+:url: 2010/12/23/when-to-be-pissed-off-at-an-airline/
+
+I had some interesting Twitter conversations this morning about `American Airlines' departure from Orbitz <http://travel.usatoday.com/flights/post/2010/12/american-airlines-orbitz/135972/1?csp=34travel&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+TP-TodayInTheSky+(Travel+-+Today+In+the+Sky)>`__. `Various sites <http://consumerist.com/2010/12/american-airlines-yanks-fares-from-orbitz.html>`__ seem to be pissed off at AA for this, presumably because they interpret any additional consumer inconvenience as the likely result of a greedy corporate cash grab. That's not a terrible rule of thumb, but in this case the situation is a little more complicated.
+
+On the one hand, you've got online ticket agents (OTAs) like Orbitz, Kayak and the like. On the other you've got the airlines. In between are the **global distribution systems (GDSes)**. These are the centralized reservation databases that are used by airline staff when they have to book you a new flight on another airline; they're the things that were used by travel agents back when travel agents still existed. The OTAs use them, too -- though the situation here gets a little bit complicated, as some of the OTAs are in bed with and/or wholly owned by the GDSes. GDSes aren't just price aggregator: they do various complicated things like hold tickets for you while you're in the process of checking out through a travel site. They're sort of like stock exchanges for airline tickets.
+
+The key thing to realize is this: the GDSes are old systems, and represent something that is at least a bit cartel-*like*. They introduce friction; they charge fees. They're middlemen who serve other middlemen. If we can manage it, eliminating our collective reliance on them would be a good idea. Disintermediation should benefit the consumer!
+
+As I understand it, American Airlines is asking the travel search engines to talk to AA's systems directly instead of going through a GDS. Perhaps this is a temporary tactic that's being used to put pressure on a particular GDS as AA renegotiates the terms of their contract. Perhaps it's an earnest effort to begin tearing down the overcomplicated system currently governing airline booking. I don't know. What I do know is that AA is getting a pretty raw deal in the media. I find it astounding that any reporter could be so credulous as to write `this story <http://www.tnooz.com/2010/12/23/news/expedia-removes-american-airlines-fares-in-support-of-orbitz/>`__. Expedia's offering moral support to Orbitz? Right. Sure.
+
+So look, I don't know how much goodwill AA deserves in this situation. But all that they're asking Orbitz to do is talk to their systems directly. This would involve some technical work by Orbitz, but would allow for the elimination of a Ticketmaster-like entity that's currently involved in the purchase of air travel. That could potentially mean lower prices. What they're *not* doing is saying, "Sorry consumer, I don't care about the extra hassle I'm causing you; you're just going to have to search for and buy tickets straight from our own site so that I can avoid paying any helpful search engines a booking fee." (This, incidentally, is exactly what Southwest, jetBlue and various other discount airlines used to/still do, but for some reason it didn't stop anyone from loving them). If they were doing that, I'd be a lot more sympathetic to the hue and cry that's being kicked up. As it is, this is just a business flexing its muscle to get out from under a gatekeeper's thumb. I'm all for it.

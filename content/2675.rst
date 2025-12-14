@@ -1,0 +1,9 @@
+Min kamp 1
+##########
+:date: 2013-11-18 23:29
+:author: admin
+:category: books
+:slug: 2675
+:status: draft
+
+Tom wants to read 'Min kamp 1'

@@ -1,0 +1,10 @@
+The Name of the Rose
+####################
+:date: 2013-02-18 19:13
+:author: admin
+:category: books
+:slug: 2383
+:status: draft
+
+| 3 stars
+| As a way of transmitting erudition, I can see why people find this work so impressive. But although it does finish strongly, it's a somewhat bloated novel that fails to really deliver some of the characterizations that it would need to fully succeed -- Eco gestures at a richly differentiated cast of monks, but doesn't spend enough time having them live the traits he's sketched for them. This is perhaps necessary to make room for all the history he wants to pack in. For the project he was pursuing, I know these discussions of doctrinal conflict are essential. For a medieval murder mystery -- which is what kept me reading -- they were a bit inessential (though interesting!).

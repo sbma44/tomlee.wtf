@@ -1,0 +1,25 @@
+my friends like to do things
+############################
+:date: 2007-03-15 01:36
+:author: admin
+:category: misc
+:slug: 149
+:status: draft
+
+| charles!
+| `Sommer talks to Fox 5 <http://www.myfoxdc.com/myfox/MyFox/pages/sidebar_video.jsp?contentId=2655475&version=1&locale=EN-US>`__
+| heather!
+| kriston's got articles all over the place
+| spencer's in motherfucking IRAQ!
+| catherine's washingtonian blog has got a lot of great content
+| Chris got me a dplan ticket
+| http://web.omnidrive.com/APIServer/public/hW2fK2pq1JlHErkkV7Mz8Pi2/01 Conversation.mp3
+| http://web.omnidrive.com/APIServer/public/lCa2Rn4jprSApU7ZlfzDqjmJ/02 CulturedCapital.mp3
+| http://web.omnidrive.com/APIServer/public/RoZPKx7TchLpv0Y1KLueLuun/03 KeepItAllInside.mp3
+| http://web.omnidrive.com/APIServer/public/3EvyBrO78zYEfjmZHVkokKVn/04 ToeTheLine.mp3
+| http://web.omnidrive.com/APIServer/public/DEGHxvRhcBUC754WHfTR5RUv/05 OnePicture.mp3
+| http://web.omnidrive.com/APIServer/public/YDUJcwkyBgVkwM0aplwS0LSx/06 Downtown.mp3
+| http://web.omnidrive.com/APIServer/public/8dAzJPZYJErzDAKfCOMv8o7q/07 IDon'tSeeItComing.mp3
+| http://web.omnidrive.com/APIServer/public/yPd2YNLinSH8RIgiborI4T7C/08 BleedTheSame.mp3
+| http://web.omnidrive.com/APIServer/public/7eKat6M4bk7E7CQcZ7IJ7bbH/09 TheseWordsAreFlattery.mp3
+| http://web.omnidrive.com/APIServer/public/4aFNIL1MzJ6FwqFvrnebXXbJ/10 StrikeUpTheBand.mp3

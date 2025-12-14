@@ -1,0 +1,33 @@
+stupid birds I have known
+#########################
+:date: 2010-04-30 15:40
+:author: admin
+:category: Uncategorized
+:slug: 1456
+:status: draft
+
+Another thing about Costa Rica: they've got a lot of birds, and many of them are quite dumb-looking. Dumb-sounding, too!  Emily and I captured audio for a number of them.
+
+First up, uh, some birds (I don't remember the names of any of them).  These guys were fairly quiet, but hilarious, producing noises like you'd expect to hear as the background music to one of the zanier alien races in *Star Control 2*.  They were also pretty adorable, bopping through the underbrush like bouncing balls of brown feather.
+
+Second: also birds.  These guys were more impressively-plumed, and also had a really, really strange call.  The part that sounds like static is the first part of the call, which then descends into a ludicrous sort of blooping.  You can also hear our bird call skills at the first part of the clip; I think you'll agree that they're really quite excellent.
+
+Finally: video!  No stupid noises here, but we spotted a gigantic bird during one of our hikes.  There were two of them, actually, though I don't think you can make out the better-camouflaged female that was slightly further up the path.  We later learned that these things are called currasows.  They were pretty impressive -- particularly the one we saw while driving.  I doubt they're particularly good flyers, but a few wing-flaps allowed this latter bird to make a bionic-seeming leap to roughly telephone-pole height as he departed the road and went crashing into the canopy.
+
+.. container::
+
+   .. raw:: html
+
+      <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500" height="375" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
+
+   .. raw:: html
+
+      <embed type="application/x-shockwave-flash" width="500" height="375" src="http://www.flickr.com/apps/video/stewart.swf?v=71377" allowfullscreen="true" bgcolor="#000000" flashvars="intl_lang=en-us&amp;photo_secret=735497ccf3&amp;photo_id=4495451953" data="http://www.flickr.com/apps/video/stewart.swf?v=71377">
+
+   .. raw:: html
+
+      </embed>
+
+   .. raw:: html
+
+      </object>

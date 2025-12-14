@@ -1,0 +1,20 @@
+The Man in the High Castle
+##########################
+:date: 2012-12-15 15:48
+:author: admin
+:category: books
+:slug: 2329
+:status: draft
+
+| 4 stars
+| An interesting book. This is the first novel by Dick that I've read, and I can see why he's entered the sci-fi canon: there are tremendous thematic resonances littered throughout the thing, but it's all so discursive and slightly askew that it's hard to imagine that they're deliberately engineered that way. It seems like they must have bubbled out of Dick's own febrile preoccupations, and that makes them feel both more interesting and more honest.
+
+This is a fairly slight work. Ben kept describing it to me as short, but at 300 pages it's longer than the novella I was half-expecting. Yet I now share his impression. I think part of this effect arises from its limited scope: the book really only tries to appeal in two ways.
+
+The first is by presenting an alternate history story about the Axis winning WWII. This plot idea is pretty well-worn by now (though of course this is to Dick's credit). I'm not enough of a history buff to really care about this. There's a lot of counterfactual-definition that I found myself skimming past. Some people will be fascinated by all this -- "YOU MEAN THE NAZI UNDERSECRETARY OF FINANCE SURVIVED THE WAR? AND STARTED WEARING A DIFFERENT HAT?! \*head explodes\*" -- but I was not. Admittedly, most of my knowledge of WWII comes from Indiana Jones movies, so I'll go ahead and say it's my fault that I didn't like this more.
+
+The second and much more important thing the book does is ruminate on the nature of authenticity and the process by which we impute meaning to objects and institutions (keep an eye out for the word "historicity"). This is done through a number of different means. There is of course the idea about the arbitrary nature of history that the alternate WWII scenario represents. But much of the theoretical action happens via the cultural imperialism that follows military imperialism. It's fascinating to observe Dick's mirror-image of American cultural dominance, as (white) American characters emulate, admire and resent their Japanese conquerors. He certainly has a fuller imagination for this effect than I do/did.
+
+Dick stumbles, though, in his conclusion, which seems to suggest (through both the EdFrank jewelry business and the I Ching's final revelation to the characters) that there is, somewhere, a wellspring of cultural authenticity, shrouded in mysticism and non-cerebral attributes, rather than an endless web of subjective but important imputed values. It's a particularly glaring missed opportunity, because the Nazis happen to have had some really batshit crazy ideas about cultural origination, authenticity and debasement, and pursued them on a monolithic scale in ways that were both fascinating and horrifying.
+
+Dick's sympathy toward authenticity and truth have more than a little in common with that mindset, but instead of seeing this and exploring it, he simply paints his Germans as hi-tech psychopaths (which is fair enough). Still, it's a missed opportunity, and an incorrect philosophical analysis, I think.

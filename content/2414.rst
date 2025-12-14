@@ -1,0 +1,25 @@
+I already have too many things to read
+######################################
+:date: 2013-03-22 12:02
+:author: admin
+:category: Uncategorized
+:slug: 2414
+:status: draft
+
+But this Alexis Madrigal review of Evgeny Morozov's newest makes me think I can't get by with the usual summary essays. This sounds particularly appealing:
+
+   Morozov's ultimate goal is to destroy the ideology of technology, so that particular technologies can be used in specific situations without the baggage of other people's nonsense.
+
+Madrigal is mostly laudatory the work, but does question whether solutionism really does represent a slippery slope to pervasive surveillance and cascading social consequences.
+
+I wish I found his skepticism justified. Consider `what Euclid is doing <http://www.franken.senate.gov/?p=press_release&id=2325>`__, or the process by which a lame off-color joke made while waiting for a panel to start turned into two people getting fired and a business being DOSed. Although Morozov's digital segregation example might seem far-fetched in light of our contemporary mores,  there are absolutely `firms <http://klout.com/home>`__ dedicated to facilitating unequal treatment of different people on the basis of a hazily-defined and largely unaccountable assessment of their desirability.
+
+Madrigal goes on to argue about the specific value of the quantified self movement:
+
+   Morozov argues forcefully against first self-quantification, then quantification, then the "numeric imagination," then measurement itself, and, finally, the objective fixity of facts. Do you see what happened there? We went from a debate about whether or not to wear a pedometer to a debate about whether numbers can adequately represent anything in the world. This movement happens with terrifying speed in Morozov's work
+
+   [...]
+
+   OK, but what's so wrong with using numbers anyway? *So they are imperfect, but they're better than nothing, one might argue,* and at best they are a complement to the narrative imagination, providing a valuable check on the biases of storytelling.
+
+Emphasis mine.

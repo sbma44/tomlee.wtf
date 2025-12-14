@@ -1,0 +1,101 @@
+spitting (notes)
+################
+:date: 2024-04-19 15:39
+:author: admin
+:category: Uncategorized
+:slug: 3577
+:status: draft
+
+Make granular data available to qualified researchers (forbid reidentification, etc)
+
+Consider partial amnesty for highway-adjacent zip codes. This could be tuned to zero out disparities.
+
+ignore late penalties when calculating disparities
+
+immediate notification of citations where possible (cite speed camera guy you met with)
+
+consider amnesty with installation of speed governors (`STEER ACT <https://www.nbcwashington.com/news/local/dc-approves-requiring-speed-governor-devices-on-dangerous-drivers-cars/3537868/>`__)
+
+comparison to spitting ("expectoration"):
+
+.. raw:: html
+
+   <ul>
+
+.. raw:: html
+
+   </p>
+
+.. raw:: html
+
+   <li>
+
+led by women (vs. early traffic safety)
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+terminological focus (expectoration vs spitting; accidents vs crashes)
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+equity arguments
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+questioning of public health research
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+idolization of Europe
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   <li>
+
+| bad faith accusations: "it's about revenue" vs "it's about their wives' dresses"
+
+.. raw:: html
+
+   </li>
+
+.. raw:: html
+
+   </ul>
+
+   By the end of the day, the raid caught 200 spitters, fining nearly all of them between $0.50 and $2.00. In this case, magistrates based the severity of fines on the time of day in which the offense occurred, with earlier spitters being let off with the smaller fine. Further, authorities considered the reasons for spitting in doling out punishment. Oddly, it was “smokers and tobacco chewers” who were forced to pay the $2.00, while those who complained of “severe colds” were let off with smaller fines. This decision, of course, proves what anti-spitting proponents and opponents knew all along: the laws were about much more than public health. By punishing smokers and chewers, police targeted those who seemed most careless, but not necessarily those who seemed most threatening. Their decision to treat the sick leniently also reinforced the notion that spitting was if not completely forgivable, at least understandably necessary.77
+
+   spitting positively forbidden p 38
+
+   Further, like reforms in rail transit and labor, anti-spitting relied on the assumption that reform was necessary to protect women. Because they were not viewed as likely spitters, and because long dresses were prone to gather spit from floors, stairs, or sidewalks, women represented the most obvious victims of indiscriminate spitting
+
+   The anti-spitting impulse differed from other reforms, however, in that it sought to minimize risk not by targeting institutions but specific individuals. From the reformers’ perspective, the right to bodily integrity and the wellbeing of society superseded the right of any individual to indiscriminately spit, thus legitimizing the state’s exercise of force in punishing spitters.
+
+   As it turned out, those who most frequently enjoyed the liberty and suffered the punishment of public spitting were men. There is little evidence that men of particular social classes, ethnic backgrounds, or professions spit more often than others; rather, as cities enforced ordinances, they fined and arrested wage laborers, professors, attorneys, and even mayors. Following a Pittsburg dragnet in 1907, for example, reporters noted that the only distinguishing feature of the 100 arrested spitters was their diversity: “[t]here was no discrimination as to race, color, creed, or station in life...the laborer rubbed elbows with the business man, and the merchant was followed by an alien or a negro.”11 Of course there are reasons to doubt claims of objectivity, not the least of which was health departments’ interest in portraying their laws as universally applicable. Nonetheless, evidence consistently reveals that anti-spitting ordinances affected men of all walks of life.

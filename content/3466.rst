@@ -1,0 +1,45 @@
+STUCK IN THE MIDDLE
+###################
+:date: 2023-04-25 21:08
+:author: admin
+:category: Uncategorized
+:slug: 3466
+:status: draft
+
+I enjoyed recent posts by `Tom MacWright <https://macwright.com/2023/04/15/ai.html>`__ and `Tim Lee <https://www.understandingai.org/p/software-didnt-eat-the-world>`__ about AI. I agree with Tim that AI isn't going to do everything, especially not right away, and that there's lots of precedent for productivity-enhancing technology causing anxiety but ultimately enhancing human welfare.
+
+But I agree with Tom that this time seems different in important ways and it's been making me kind of sad:
+
+   [I] don’t especially want to stop thinking about code. I don’t want to stop writing sentences in my own voice. I get a lot of joy from craft. It’s not a universal attitude toward work, but I’ve always been thankful that programming is a craft that pays a good living wage. I’d be a luthier, photographer, or, who knows, if those jobs were as viable and available. But programming lets you write and think all day, and reliably pay my rent. Writing, both code and prose, for me, is both an end product and an end in itself. I don’t want to automate away the things that give me joy.
+
+It's still early, but it seems like illustrators and copywriters are in trouble. I think I see a few more silhouettes through the fog.
+
+THE MIDWIT AI
+-------------
+
+There are two visions of AI that I find exciting. It could be brilliant, surpassing our human limits and delivering insights that extend life, heal the environment, and unleash human flourishing. Or it could be dutiful, capable of toil without suffering, able to do the work that we find it difficult to afford. All the little tasks that would be worth doing if their cost was measured in electricity instead of minutes of human life.
+
+I worry that the AIs we're getting aren't going to be suited to either of these visions. LLMs and GANs are built on the same breakthrough. I'm no expert, but it seems like they encode human sensibility--as recorded by our recorded works--in an incomprehensibly multidimensional space. Writing. Visual art. Other sensibilities, too, as people figure out how to encode them appropriately and amass sufficient training data. Once those tasks are complete, these models are pretty good at performing our collective sensibility, especially if the system receiving and judging the output is a human brain.
+
+But could an LLM produce a scientific breakthrough that humanity could not? I'm not sure. I guess I don't really know how humans produce scientific breakthroughs. It seems possible. These models are capable of feats of speed and diligence that we are not. GPT-4 can consider 8,000 tokens at a time; 20 pages' worth of context for whatever query you're posing. Pretty good! There are problems so complex that we simply can't fit them; they defy our minds' capacity for systematic thought, and must be reasoned about indirectly (`transcription factors <https://www.science.org/content/blog-post/jousting-transcription-factors>`__, anyone?). Maybe these models will be able to solve those kinds of problems more easily. Maybe they won't get flummoxed when asked to think in more than three dimensions.
+
+But a lot of scientific progress seems to involve noticing discrepancies and building systems to investigate them. LLM hallucination poses a problem for identifying discrepancies (though people say that's getting better with parameter size). More to the point, though: can these statistical models surpass human sensibility if that's what they're encoding and performing? I'm not sure about that, either. Perhaps they'll just let us parallelize the problem: more processors rather than faster ones. It's easier to spin up a Docker container than a postdoc, after all. Maybe that'll be enough, though with humans, at least, we seem to experience `diminishing returns to scale <https://news.uchicago.edu/scientific-progress-slowing-james-evans>`__.
+
+But I worry that, outside of a few fields like computer science, squinting at problems and banging out text isn't enough to make progress. And here's where the other vision of AI fails for me. As Tim notes, the transformer breakthrough doesn't seem to have delivered new abilities to interact with the world. Maybe those are coming--physical reality is an inconvenient bottleneck for the humans working on these systems, too. But the transformer architecture came from the firms working on autonomous vehicles. These firms were well motivated (true autonomy would be lucrative); were facing a simpler problem than the ones I'm dreaming of (our autocentric environment is friendlier to driving than the real environment is to other tasks); and seem to have more or less given up on it. I'm a little worried that the AI revolution we're about to live through won't touch the physical world much at all.
+
+And without that, this is just another piece of information technology. That's still good! But it will mean automated phone calls to check up on elders, not a robot that could have helped at my dad's memory care facility. It'll mean we can automate reviews of research proposals--hopefully in a manner that doesn't simply entrench the status quo--but outside of a few disciplines, it won't be able to do the research. A chatbot will be there to help you fill out any government form you can imagine, but there will be no AI servants fixing potholes and pulling trash from our oceans and fields.
+
+I'd like these systems to do the work that we can't do or the work that we won't do. But it doesn't seem like that's what's about to happen. Instead, they're going to do the work that we've been doing.
+
+OPTIMISM AND PanglossIANISM
+---------------------------
+
+Loren McClenachan `collected decades of photos of trophy fish in the Florida Keys <https://tomlee.wtf/wp-content/uploads/2023/04/McClenachan202009.pdf>`__. The fish got steadily smaller. The fishermen's grins stayed the same size.
+
+It's easy to look at the general march of human progress and wave away economic displacement. History moves forward! There are winners and losers, and the losers are easily forgotten. However the AI revolution turns out, you can be sure that at the end there will be some people confident that it was all for the best. Well, barring the predictions of human extinction, I guess.
+
+But this isn't enough! We don't know what the coming disruption will look like, but it's obvious that the last few went poorly. The China Shock was bigger than expected. `Male suicides are up <https://www.cdc.gov/mmwr/volumes/71/wr/mm7108a7.htm>`__. Nativist politics swept the Western world. JD Vance made it to the Senate for pete's sake!
+
+Walk around a neighborhood like mine and you'll see young men who have been left behind. They don't have anything anyone wants. It's nice to think that, if their basic needs were met (and they basically are) they would find themselves free to pursue self-actualization. In practice it seems harder than that! all the lonely, aimless retirees out there.
+
+This Time Will Be Interesting

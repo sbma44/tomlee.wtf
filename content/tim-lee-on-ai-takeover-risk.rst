@@ -1,0 +1,15 @@
+Tim Lee on AI Takeover risk
+###########################
+:date: 2023-05-09 09:40
+:author: admin
+:category: Uncategorized
+:slug: tim-lee-on-ai-takeover-risk
+:status: draft
+
+`This is really good <https://www.understandingai.org/p/why-im-not-worried-about-ai-taking?utm_source=substack&utm_medium=email>`__, and the physicalist vs singularist division is a framing I suspect I'll find myself using in the future. I made similar but much less coherently-expressed complaints `here <https://tomlee.wtf/2022/04/30/rokos-blogalisk/>`__. There are two things I'd now like to add.
+
+First, the nanotech argument is more ridiculous than Tim acknowledges. Not only, as he notes, is no serious scientist investigating it; not only is King Charles the closest thing to a public intellectual the movement has; but we have strong existence proofs of its implausibility: bacteria. The world is blanketed in self-assembling nanomachines that diligently harvest environmental energy sources to replicate themselves. There are an estimated five million trillion trillion of them, competing under constant evolutionary pressure to optimize this problem, and they've achieved incredible metabolic feats in a huge variety of ecological niches. Yet they're not a serious threat to humanity, and can be reliably stopped with plastic, boiling water, or unbroken skin. Now: maybe there's some potent evolutionary path that's only accessible via a path that can't be bootstrapped in the natural world. But I'm skeptical.
+
+Second, and more nascently: I'm less sure that we're on the cusp of AI than I used to be. Generative transformers are very impressive. They can do things that humans can't. They're improving very rapidly--not only in quality but training costs--and well-known problems like hallucination seem tractable. I'm even cheered by the analytic work surrounding them, as teams compare different models using rigorous procedures that often encompass aspects of the Alignment Problem and which, while perhaps incomplete, seem dramatically more pragmatic than the navel-gazing of the X-Risk crowd.
+
+But the more I use them, the less I'm convinced that we are on the cusp of true AI. This is a hard thing to express with precision--my sense of it remains murky. I think that right now we're all struggling to understand what these transformer models are. I don't doubt that they will some day be components of minds, and that their successes will reveal truths about our own neural architecture. But right now I don't have the sense that these models will ever transcend their inputs. Imitation, interpolation, recall--all of these they can perform with superhuman ability. But to deliver a novel insight? In all the breathless documentation of their amazing feats, I see no hint of this at all. Luckily, I have a toddler I can ask when I need that sort of thing. I don't say this because I'm a romantic or a mysterian. I think we'll solve this puzzle eventually. But I'm almost ready to predict that transformers will prove to be one piece--maybe even a small piece--of a challenge that will prove to be more vast than adding some zeros to GPT4's config file.

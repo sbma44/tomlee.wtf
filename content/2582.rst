@@ -1,0 +1,9 @@
+White Noise
+###########
+:date: 2013-07-28 18:43
+:author: admin
+:category: books
+:slug: 2582
+:status: draft
+
+Tom wants to read 'White Noise'

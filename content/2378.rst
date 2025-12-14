@@ -1,0 +1,9 @@
+Where'd You Go, Bernadette
+##########################
+:date: 2013-02-01 10:46
+:author: admin
+:category: books
+:slug: 2378
+:status: draft
+
+| Shelves: to-read

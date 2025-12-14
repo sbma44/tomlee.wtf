@@ -1,0 +1,15 @@
+kevin drum on the dot-com bubble
+################################
+:date: 2011-07-17 23:00
+:author: admin
+:category: Uncategorized
+:slug: 1795
+:status: draft
+
+Kevin Drum wrote a `good post <http://motherjones.com/kevin-drum/2011/07/explaining-away-latest-dotcom-bubble>`__ about the ongoing dot-com bubble earlier today.  But even more striking to me is the response he `received and published <http://motherjones.com/kevin-drum/2011/07/dotcom-bubble-response>`__:
+
+   The excitement, the "bubble" if you will, is not about creating another Facebook, it's about finding a way to enhance and monetize an established internet ecosystem. It's the cloud, it's big data, it's Hadoop, Cassandra and Mongo on commodity hardware, it's faster, cheaper storage subsystems, it's scalability and flexibility, the sudden newfound ability to just "switch on" five hundred new servers with no capital cost, and turn around and switch them off on Tuesday. It's deep, low-latency analytics, clickstream analysis, social media mining, and targeted marketing. It's mobile localized communications. It's seamless integration between the OS, the browser, the web application server and the data, all stored in remote indexed and optimized servers that autonomously move the data closer to the user.
+
+   It's *really* interesting and exciting stuff, and all the pieces are almost there. They're still trying to figure out how to scale web properties to hundreds of millions of users, which is incredibly hard, especially because most of them were built on the previous generation's technology — think LAMP stack with sharded MySQL and Memcached. But the infrastructure *is* catching up. The hardware is actually moving backwards: lower-power, cheaper, slower processors, memory and disk, but now in a clustered and distributed environment that, because failures in that kind of environment are a common event, protect themselves against failure (think multi data center replication, autonomous P2P status monitoring, disk writes to append-only tables *before* memory writes...).
+
+I couldn't compose a better example of hype if I'd tried to intentionally write a parody.  To be clear, he's right about some of these technologies being exciting and important.  Cloud technologies are important.  But really they boil down to infrastructure costs for web technology companies getting cheaper.  But they're *already super-cheap*. I mean, great for the companies: their bottom lines will be that much fatter.  And at the margin more startups will make financial sense. That's also great!
