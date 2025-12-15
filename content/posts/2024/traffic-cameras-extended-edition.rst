@@ -8,9 +8,9 @@ traffic cameras: EXTENDED EDITION
 :save_as: 2024/04/13/traffic-cameras-extended-edition/index.html
 :url: 2024/04/13/traffic-cameras-extended-edition/
 
-*This is the second of my posts about speed cameras.* `Part 1 is here <https://tomlee.wtf/2024/04/12/are-dcs-traffic-cameras-racist/>`__\ *.* `Part 3 is here <https://tomlee.wtf/2024/04/19/speed-cameras-legacy/>`__\ *.*
+*This is the second of my posts about speed cameras.* `Part 1 is here </2024/04/12/are-dcs-traffic-cameras-racist/>`__\ *.* `Part 3 is here </2024/04/19/speed-cameras-legacy/>`__\ *.*
 
-I'm amazed by the reaction that `my post on ATE cameras <https://tomlee.wtf/2024/04/12/are-dcs-traffic-cameras-racist/>`__ elicited. Thanks to everyone who took the time to read and share it. Seeing this level of interest provided inspiration to look at a couple of lingering questions I had (and to learn how to make my MatPlotLib graphs marginally less ugly).
+I'm amazed by the reaction that `my post on ATE cameras </2024/04/12/are-dcs-traffic-cameras-racist/>`__ elicited. Thanks to everyone who took the time to read and share it. Seeing this level of interest provided inspiration to look at a couple of lingering questions I had (and to learn how to make my MatPlotLib graphs marginally less ugly).
 
 In my last post I showed that ATE speed cameras are highly skewed toward highway traffic. I also argued that looking at the demographics around highway speed camera locations doesn't tell us much about the equity impact of the citations being issued. That is the main point I wanted to convey and I am not going to qualify it here.
 
@@ -71,24 +71,24 @@ That's right: in the time period studied, district 2 officers wrote more than on
 
 This is something I'd like to dig into more. Did district 7 deprioritize human speed enforcement because of a recognition that ATE does the job better? Because human officers were needed for other, more pressing tasks? Was this a policy change that lined up with the dawning national awareness that traffic stops pose outsize risks to Black Americans? Could it be that ATE's debut was especially jarring to ward 8 residents because they were accustomed to an era of extremely low speed enforcement that preceded it? I'll have to load more historical data to answer these questions.
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-29-1024x389.png
+.. |image1| image:: /static/2024/04/image-29-1024x389.png
    :class: wp-image-3560
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-29.png
-.. |image2| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-30-1024x390.png
+   :target: /static/2024/04/image-29.png
+.. |image2| image:: /static/2024/04/image-30-1024x390.png
    :class: wp-image-3561
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-30.png
-.. |image3| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-31-1024x896.png
+   :target: /static/2024/04/image-30.png
+.. |image3| image:: /static/2024/04/image-31-1024x896.png
    :class: wp-image-3562
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-31.png
-.. |image4| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-32-1024x379.png
+   :target: /static/2024/04/image-31.png
+.. |image4| image:: /static/2024/04/image-32-1024x379.png
    :class: wp-image-3563
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-32.png
-.. |image5| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-33-1024x382.png
+   :target: /static/2024/04/image-32.png
+.. |image5| image:: /static/2024/04/image-33-1024x382.png
    :class: wp-image-3564
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-33.png
-.. |image6| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-34-1024x864.png
+   :target: /static/2024/04/image-33.png
+.. |image6| image:: /static/2024/04/image-34-1024x864.png
    :class: wp-image-3565
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-34.png
-.. |image7| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-35-1024x617.png
+   :target: /static/2024/04/image-34.png
+.. |image7| image:: /static/2024/04/image-35-1024x617.png
    :class: wp-image-3566
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-35.png
+   :target: /static/2024/04/image-35.png

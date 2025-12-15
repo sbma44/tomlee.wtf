@@ -8,7 +8,7 @@ Star Wars
 :save_as: 2015/12/22/star-wars/index.html
 :url: 2015/12/22/star-wars/
 
-I think `Ezra's right about the commercial mechanics of comic book movies <http://www.vox.com/2015/12/22/10649574/star-wars-force-awakens-comic-books>`__ (though `I think this is partly due to origin stories being the only filmable comic book stories <https://tomlee.wtf/2012/07/11/how-to-think-about-reboots/>`__). But this is not what the new Star Wars movie is doing. Or I hope it's not.
+I think `Ezra's right about the commercial mechanics of comic book movies <http://www.vox.com/2015/12/22/10649574/star-wars-force-awakens-comic-books>`__ (though `I think this is partly due to origin stories being the only filmable comic book stories </2012/07/11/how-to-think-about-reboots/>`__). But this is not what the new Star Wars movie is doing. Or I hope it's not.
 
 Retelling a story is one thing, but quoting it is another. *The Force Awakens* isn't taking the timbers of the original franchise and building a new house around them. It's self-consciously constructing a scale model.
 

@@ -32,7 +32,7 @@ Second, I dropped the phrase "for a given technological milieu" a couple of para
 
 To retreat to my point: I think that in IT, especially, we have a tendency to get confused about whether we're building a locomotive or inventing the steam engine. It's a willful confusion, it's driven by vanity, and it's now leading to disappointment -- and will do so all the more as we find we have enough locomotives on hand.
 
-.. |image1| image:: http://www.manifestdensity.net/wp-content/uploads/2012/03/nowheresyourfuture.jpg
+.. |image1| image:: http://www.manifestdensity.net/static/2012/03/nowheresyourfuture.jpg
    :class: aligncenter size-full wp-image-2002
    :width: 500px
    :height: 42px

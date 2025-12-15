@@ -8,7 +8,7 @@ century
 :save_as: 2016/06/26/century/index.html
 :url: 2016/06/26/century/
 
-I rode my bicycle a hundred miles yesterday, and so yes, this is mostly an extended humble-brag. But it is also a mark of how much has changed since `my first, ecstatic road bike experience <https://tomlee.wtf/2012/09/29/beautiful-and-fast/>`__.
+I rode my bicycle a hundred miles yesterday, and so yes, this is mostly an extended humble-brag. But it is also a mark of how much has changed since `my first, ecstatic road bike experience </2012/09/29/beautiful-and-fast/>`__.
 
 A down pedalstroke no longer seems to make the ground leap past me, and my legs no longer feel like springs ready to launch. In retrospect, I got what I wished for in that post, a melding of body and bicycle: a fall two years ago means my collarbone is now built with lightweight, precisely-machined titanium (alas, my bike frame is still mere aluminum). Having wishes granted is fraught.
 

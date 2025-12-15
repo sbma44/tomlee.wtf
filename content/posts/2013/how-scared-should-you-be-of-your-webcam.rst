@@ -48,8 +48,8 @@ Is this comforting? Sort of. It's an awfully specific vulnerability. It's pretty
 
 Still. This is a reminder that the systems we use are wildly complex, executing code in many more places than just the CPU. And it's increasingly clear that many of those places have never been scrutinized for vulnerabilities. It's cheering to see security researchers uncover these problems, but criminals and governments have vastly greater resources and incentives to pursue this work, and have had plenty of time to do so. Some masking tape might not be a bad idea.
 
-.. |webcam_vulnerability| image:: http://www.manifestdensity.net/wp-content/uploads/2013/12/webcam_vulnerability.png
+.. |webcam_vulnerability| image:: http://www.manifestdensity.net/static/2013/12/webcam_vulnerability.png
    :class: aligncenter size-full wp-image-2703
    :width: 349px
    :height: 428px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/12/webcam_vulnerability.png
+   :target: http://www.manifestdensity.net/static/2013/12/webcam_vulnerability.png

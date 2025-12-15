@@ -24,8 +24,8 @@ It's crazy, of course, but watching the movie's subjects trace minute particles 
 
  
 
-.. |toynbee| image:: http://www.manifestdensity.net/wp-content/uploads/2013/04/toynbee.jpg
+.. |toynbee| image:: http://www.manifestdensity.net/static/2013/04/toynbee.jpg
    :class: aligncenter wp-image-2429
    :width: 496px
    :height: 328px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/04/toynbee.jpg
+   :target: http://www.manifestdensity.net/static/2013/04/toynbee.jpg

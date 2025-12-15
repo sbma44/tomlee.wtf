@@ -37,7 +37,7 @@ Besides which, there's a convincing case to be made that `ad efficiency is meani
 | |ADS_gdp_vs_spending|
 | |ADS_percent_GDP_b|
 
-Maybe some of the spikes in those graphs came from VCRs or `loudness regulation <https://www.truthinadvertising.org/wp-content/uploads/2011/10/Advertisement-Loudness-Mitigation-Act.pdf>`__ or FTC actions or the `payola scandal <https://en.wikipedia.org/wiki/Payola>`__ or Tivo or pop-up blockers. But I doubt it.
+Maybe some of the spikes in those graphs came from VCRs or `loudness regulation <https://www.truthinadvertising.org/static/2011/10/Advertisement-Loudness-Mitigation-Act.pdf>`__ or FTC actions or the `payola scandal <https://en.wikipedia.org/wiki/Payola>`__ or Tivo or pop-up blockers. But I doubt it.
 
 So. Could ad blockers damage or destroy some publishers? Yeah, this seems possible, particularly for niche publications with geeky audiences.
 
@@ -49,11 +49,11 @@ Finally, will ad blockers reduce the size of the ad dollar pool, shrinking the t
 
 **ALSO:** `Matt's post is characteristically excellent <http://www.vox.com/2015/9/18/9351759/ad-blocking-controversy>`__.
 
-.. |ADS_gdp_vs_spending| image:: https://tomlee.wtf/wp-content/uploads/2015/09/ADS_gdp_vs_spending.jpg
+.. |ADS_gdp_vs_spending| image:: /static/2015/09/ADS_gdp_vs_spending.jpg
    :class: aligncenter size-full wp-image-2966
    :width: 630px
    :height: 550px
-.. |ADS_percent_GDP_b| image:: https://tomlee.wtf/wp-content/uploads/2015/09/ADS_percent_GDP_b.jpg
+.. |ADS_percent_GDP_b| image:: /static/2015/09/ADS_percent_GDP_b.jpg
    :class: aligncenter size-full wp-image-2967
    :width: 630px
    :height: 550px

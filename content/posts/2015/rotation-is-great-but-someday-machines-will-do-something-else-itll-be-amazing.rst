@@ -30,6 +30,6 @@ And from there, who knows? I'm not sure that `Asimo <https://www.youtube.com/wat
 
 Still. The car thing. That will be a big one. We're going to notice it.
 
-.. |Gear_5-bar_linkage| image:: https://tomlee.wtf/wp-content/uploads/2015/07/Gear_5-bar_linkage.gif
+.. |Gear_5-bar_linkage| image:: /static/2015/07/Gear_5-bar_linkage.gif
    :class: aligncenter
    :width: 100.0%

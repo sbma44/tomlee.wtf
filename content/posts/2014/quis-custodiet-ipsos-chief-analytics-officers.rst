@@ -50,7 +50,7 @@ In its most benign form, advertising is a tax on industry that flows according t
 
 But I suppose I'm optimistic that those systems don't have to stay that way. And keeping advertisers confused about what they're buying might preserve room for some wonderful things. So three cheers for analytic innovation -- even if the innovators aren't wholly aware of what they're doing.
 
-.. |Cocoa Krispies will make your child invincible| image:: /wp-content/uploads/2014/03/Immunity-724x1024.jpg
+.. |Cocoa Krispies will make your child invincible| image:: /static/2014/03/Immunity-724x1024.jpg
    :class: alignright wp-image-2771
    :width: 250px
    :height: 353px

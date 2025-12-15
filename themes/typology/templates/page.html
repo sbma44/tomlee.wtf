@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<div class="typology-section">
+    <div class="section-content">
+        <article class="typology-post">
+            <header class="entry-header">
+                <h1 class="entry-title">{{ page.title }}</h1>
+            </header>
+            
+            <div class="entry-content">
+                {{ page.content }}
+            </div>
+        </article>
+    </div>
+</div>
+{% endblock %}

@@ -26,8 +26,8 @@ I made one for myself and one for Steph, too -- she put together a great version
 
 Anyway! More on this year's specific decorative efforts in a separate post. For now: many thanks to everyone who came out; to Annie and Ezra for opening their house to this stupid hobby of mine (and buying everyone beer!); and to Steph for putting up with my weird obsessiveness these past few weeks.
 
-.. |10524626925_f75d4077f5_n| image:: http://www.manifestdensity.net/wp-content/uploads/2013/10/10524626925_f75d4077f5_n.jpg
+.. |10524626925_f75d4077f5_n| image:: http://www.manifestdensity.net/static/2013/10/10524626925_f75d4077f5_n.jpg
    :class: aligncenter size-full wp-image-2630
    :width: 320px
    :height: 320px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/10/10524626925_f75d4077f5_n.jpg
+   :target: http://www.manifestdensity.net/static/2013/10/10524626925_f75d4077f5_n.jpg

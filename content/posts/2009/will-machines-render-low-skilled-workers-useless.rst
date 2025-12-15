@@ -50,8 +50,8 @@ The good news is that this can be inferred to be more or less what happened in t
 
 **YOU SAY ARTISTS, I SAY STARFLEET:** Ezra `weighs in <http://voices.washingtonpost.com/ezra-klein/2009/08/dystopia_in_the_outlook_sectio.html>`__.  Also check the unhyperlinkable comment by "thedavidmo" about how standards of living will be higher in our robot-filled future.  Yes!  And that's not even counting the benefits to be had by reducing the per capita level of *toil*.  Not that I'll be alive for a revolutionary reduction in necessary work, mind you, but I think there's a decent chance of seeing many businesses move to a 4-day work week, which will leave the total number of hours worked mathematically pristine, but which in practice will mean a whole lot less time spent on (or thinking about) the job.
 
-.. |mcterminator| image:: http://www.manifestdensity.net/wp-content/uploads/2009/08/mcterminator-200x300.jpg
+.. |mcterminator| image:: http://www.manifestdensity.net/static/2009/08/mcterminator-200x300.jpg
    :class: alignright size-medium wp-image-910
    :width: 200px
    :height: 300px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2009/08/mcterminator.jpg
+   :target: http://www.manifestdensity.net/static/2009/08/mcterminator.jpg

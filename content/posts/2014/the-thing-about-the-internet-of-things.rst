@@ -32,8 +32,8 @@ I'll boil it down to a few things, I guess:
 
 **UPDATE:** You know, I did leave off one huge thing--the sharing economy (with apologies to Tom Slee). Uber, Bixi, AirBnB--using technology for access control really is only recently possible, thanks to the evolution of IT payment and identity systems. And it really can make our collective use of property hugely different and better.
 
-.. |things| image:: /wp-content/uploads/2014/05/things.gif
+.. |things| image:: /static/2014/05/things.gif
    :class: alignright wp-image-2808
    :width: 319px
    :height: 294px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2014/05/things.gif
+   :target: http://www.manifestdensity.net/static/2014/05/things.gif

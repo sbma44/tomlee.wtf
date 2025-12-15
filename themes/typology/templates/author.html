@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block title %}{{ author }} - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<div class="typology-section">
+    <div class="section-head">
+        <h1 class="section-title">Posts by {{ author }}</h1>
+    </div>
+    
+    <div class="section-content">
+        {% if articles %}
+        <div class="typology-posts">
+            {% for article in articles %}
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
+                        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                    </h2>
+                    {% if article.date %}
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime('%A, %d %B %Y') }}</time>
+                        </span>
+                    </div>
+                    {% endif %}
+                    {% if article.title %}
+                    <div class="post-letter">{{ article.title[0]|upper }}</div>
+                    {% endif %}
+                </header>
+                
+                <div class="entry-content">
+                    {{ article.content }}
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+        {% else %}
+        <p>No articles by this author.</p>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

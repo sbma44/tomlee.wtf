@@ -80,7 +80,7 @@ I kept thinking about what I'd read: that people in the Bataclan had sent messag
    :width: 640px
    :height: 640px
    :target: https://www.flickr.com/photos/sbma44/23116165665/in/dateposted-public/
-.. |image1| image:: /wp-content/uploads/2015/11/les_enfants_perdus.jpg
+.. |image1| image:: /static/2015/11/les_enfants_perdus.jpg
 .. |Les Enfants Perdu| image:: https://farm1.staticflickr.com/699/22697860877_b409aac505_z.jpg
    :width: 361px
    :height: 640px

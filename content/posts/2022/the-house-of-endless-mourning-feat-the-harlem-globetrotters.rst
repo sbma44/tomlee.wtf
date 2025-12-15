@@ -26,7 +26,7 @@ And that's what led me to write this, which I hope you will enjoy.
 
 | **THE HOUSE OF ENDLESS MOURNING**
 | featuring the Harlem Globetrotters
-| [`pdf <https://tomlee.wtf/fiction/the_house_of_endless_mourning_featuring_the_harlem_globetrotters.pdf>`__] [`epub <https://tomlee.wtf/fiction/the_house_of_endless_mourning_featuring_the_harlem_globetrotters.epub>`__]
+| [`pdf </fiction/the_house_of_endless_mourning_featuring_the_harlem_globetrotters.pdf>`__] [`epub </fiction/the_house_of_endless_mourning_featuring_the_harlem_globetrotters.epub>`__]
 
 I tried to cover all the greatest hits:
 
@@ -38,6 +38,6 @@ I tried to cover all the greatest hits:
 
 It was meant to be a short story, if only to avoid the horribly pretentious word "novella", but I didn't know what I was doing. Writing fiction is impossibly hard! I learned a lot by forcing myself to do this, and I hope I'll use those lessons again, perhaps even on something where the central joke and my own least defensible writerly habits don't line up quite so well.
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2022/10/cover.png
+.. |image1| image:: /static/2022/10/cover.png
    :class: wp-image-3380
-   :target: https://tomlee.wtf/wp-content/uploads/2022/10/cover.png
+   :target: /static/2022/10/cover.png

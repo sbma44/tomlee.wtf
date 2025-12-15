@@ -98,48 +98,48 @@ The LM393 makes for a fun little project -- a nice way to build a night-light, o
 
 So, somewhat far afield from skulls. But the nice thing about this application is that there's really no precedent for anyone getting upset about mixing electricity and illicitly-obtained body parts.
 
-.. |skulls| image:: http://www.manifestdensity.net/wp-content/uploads/2013/10/skulls.jpg
+.. |skulls| image:: http://www.manifestdensity.net/static/2013/10/skulls.jpg
    :class: aligncenter size-full wp-image-2635
    :width: 612px
    :height: 612px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/10/skulls.jpg
-.. |me_and_skulls| image:: http://www.manifestdensity.net/wp-content/uploads/2013/10/me_and_skulls.jpg
+   :target: http://www.manifestdensity.net/static/2013/10/skulls.jpg
+.. |me_and_skulls| image:: http://www.manifestdensity.net/static/2013/10/me_and_skulls.jpg
    :class: aligncenter size-full wp-image-2636
    :width: 612px
    :height: 612px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/10/me_and_skulls.jpg
-.. |LM393| image:: http://www.manifestdensity.net/wp-content/uploads/2013/10/LM393.jpg
+   :target: http://www.manifestdensity.net/static/2013/10/me_and_skulls.jpg
+.. |LM393| image:: http://www.manifestdensity.net/static/2013/10/LM393.jpg
    :class: aligncenter size-full wp-image-2640
    :width: 600px
    :height: 450px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/10/LM393.jpg
-.. |comparator| image:: http://www.manifestdensity.net/wp-content/uploads/2013/10/comparator.png
+   :target: http://www.manifestdensity.net/static/2013/10/LM393.jpg
+.. |comparator| image:: http://www.manifestdensity.net/static/2013/10/comparator.png
    :class: aligncenter size-full wp-image-2637
    :width: 482px
    :height: 271px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/10/comparator.png
-.. |divider| image:: http://www.manifestdensity.net/wp-content/uploads/2013/10/divider1.png
+   :target: http://www.manifestdensity.net/static/2013/10/comparator.png
+.. |divider| image:: http://www.manifestdensity.net/static/2013/10/divider1.png
    :class: aligncenter size-full wp-image-2643
    :width: 178px
    :height: 168px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/10/divider1.png
-.. |photoresistor| image:: http://www.manifestdensity.net/wp-content/uploads/2013/10/photoresistor.jpg
+   :target: http://www.manifestdensity.net/static/2013/10/divider1.png
+.. |photoresistor| image:: http://www.manifestdensity.net/static/2013/10/photoresistor.jpg
    :class: aligncenter size-full wp-image-2646
    :width: 720px
    :height: 571px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/10/photoresistor.jpg
-.. |schematic| image:: http://www.manifestdensity.net/wp-content/uploads/2013/10/schematic-1024x803.jpg
+   :target: http://www.manifestdensity.net/static/2013/10/photoresistor.jpg
+.. |schematic| image:: http://www.manifestdensity.net/static/2013/10/schematic-1024x803.jpg
    :class: aligncenter wp-image-2662
    :width: 614px
    :height: 482px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/10/schematic.jpg
-.. |deadbug| image:: http://www.manifestdensity.net/wp-content/uploads/2013/10/deadbug.jpg
+   :target: http://www.manifestdensity.net/static/2013/10/schematic.jpg
+.. |deadbug| image:: http://www.manifestdensity.net/static/2013/10/deadbug.jpg
    :class: aligncenter size-full wp-image-2647
    :width: 527px
    :height: 518px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/10/deadbug.jpg
-.. |10526396545_5ac3a77ed6| image:: http://www.manifestdensity.net/wp-content/uploads/2013/10/10526396545_5ac3a77ed6.jpg
+   :target: http://www.manifestdensity.net/static/2013/10/deadbug.jpg
+.. |10526396545_5ac3a77ed6| image:: http://www.manifestdensity.net/static/2013/10/10526396545_5ac3a77ed6.jpg
    :class: aligncenter size-full wp-image-2648
    :width: 500px
    :height: 500px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/10/10526396545_5ac3a77ed6.jpg
+   :target: http://www.manifestdensity.net/static/2013/10/10526396545_5ac3a77ed6.jpg

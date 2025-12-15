@@ -20,7 +20,7 @@ This seems a little silly to me.  And it seems *really* silly when you consider
 
 `You can probably see where this is going <http://www.manifestdensity.net/2007/10/16/hypem-revivified-then-vivisected/>`__.
 
-`Here's the data in CSV format </wp-content/uploads/2010/06/anew-1999.tar.gz>`__.  `Here's the code used to generate it <http://github.com/sbma44/begin_anew>`__. `Here's a paper that shows how to use ANEW <http://www.springerlink.com/content/757723154j4w726k/fulltext.html>`__.
+`Here's the data in CSV format </static/2010/06/anew-1999.tar.gz>`__.  `Here's the code used to generate it <http://github.com/sbma44/begin_anew>`__. `Here's a paper that shows how to use ANEW <http://www.springerlink.com/content/757723154j4w726k/fulltext.html>`__.
 
 Given the age of the paper its widespread availability, I can't imagine there'll be any objections to transforming its contents slightly into a more useful format. If there are, I'd be happy to hear them in comments -- and if any are made by the folks responsible for ANEW, I'll be happy to remove the link to everything here that contains even a whiff of their copyright.
 

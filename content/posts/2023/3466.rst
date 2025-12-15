@@ -34,7 +34,7 @@ I'd like these systems to do the work that we can't do or the work that we won't
 OPTIMISM AND PanglossIANISM
 ---------------------------
 
-Loren McClenachan `collected decades of photos of trophy fish in the Florida Keys <https://tomlee.wtf/wp-content/uploads/2023/04/McClenachan202009.pdf>`__. The fish got steadily smaller. The fishermen's grins stayed the same size.
+Loren McClenachan `collected decades of photos of trophy fish in the Florida Keys </static/2023/04/McClenachan202009.pdf>`__. The fish got steadily smaller. The fishermen's grins stayed the same size.
 
 It's easy to look at the general march of human progress and wave away economic displacement. History moves forward! There are winners and losers, and the losers are easily forgotten. However the AI revolution turns out, you can be sure that at the end there will be some people confident that it was all for the best. Well, barring the predictions of human extinction, I guess.
 

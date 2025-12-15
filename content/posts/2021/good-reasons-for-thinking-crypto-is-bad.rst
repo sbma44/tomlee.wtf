@@ -16,7 +16,7 @@ So let me gin up some arguments. But first, I'll offer my bona fides, which cons
 
 - I lost--or rather, am on the cusp of losing, pending Japanese regulators finalizing the paperwork--more than $80k USD in Bitcoin thanks to the MtGox bankruptcy (this was a $400 initial investment).
 - My high school friend Victor made a substantial early investment in crypto assets, which I begged him to sell or at least differentiate. He ignored me, bought a larger house, retired before 40, and now travels the world.
-- I accepted $20 in Bitcoin payment from my friend `Eric <https://twitter.com/konklone>`__ for supplies associated with `an Arduino class I taught <https://tomlee.wtf/2014/06/30/arduino-class-notes/>`__, which subsequently ballooned to an amount so large I am too embarrassed to bring it up with him.
+- I accepted $20 in Bitcoin payment from my friend `Eric <https://twitter.com/konklone>`__ for supplies associated with `an Arduino class I taught </2014/06/30/arduino-class-notes/>`__, which subsequently ballooned to an amount so large I am too embarrassed to bring it up with him.
 - I lost a hundred dollars in Dogecoin during that fun Elon Musk SNL news cycle. Remember that?
 - I currently have about $8k in Coinbase which I flip between Ethereum and cash, nearly always mistiming the trade yet still gaining value thanks to how mulishly bullish the market is.
 - I have read the Solidity docs and some tutorials, which were confusing and then boring.

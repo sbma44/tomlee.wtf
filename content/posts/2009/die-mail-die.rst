@@ -25,8 +25,8 @@ The reduction of home delivery to five days per week won't change this, of cours
 
    http://www.manifestdensity.net/2007/08/20/admitting-defeat/
 
-.. |a_SMASHBOX| image:: http://www.manifestdensity.net/wp-content/uploads/2009/08/a_SMASHBOX-300x216.jpg
+.. |a_SMASHBOX| image:: http://www.manifestdensity.net/static/2009/08/a_SMASHBOX-300x216.jpg
    :class: alignright size-medium wp-image-899
    :width: 300px
    :height: 216px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2009/08/a_SMASHBOX.jpg
+   :target: http://www.manifestdensity.net/static/2009/08/a_SMASHBOX.jpg

@@ -52,7 +52,7 @@ This worked fine, but was not entirely satisfactory. Executing the IR sequence w
 Tasmota
 -------
 
-First, I wired another ESP8266 up to the projector's remote control receiver and flashed it with `Tasmota <https://tasmota.github.io/docs/>`__. Tasmota is similar to the IR blaster, providing a friendly web and API interface via the same low-cost wifi microcontroller. It performs a variety of functions. Instead of devoting itself solely to infrared codes, Tasmota controls the ESP's input and output connections in various ways. These are connected to the screen module's pinouts, which are `documented <https://elitescreens.com/wp-content/uploads/color_coded_pin_assignments_for_rj45.pdf>`__ in ways that are more-or-less correct (thanks to my friend Matt V for pointing these out to me). The Tasmota ESP can now control the screen without the projector's involvement or any infrared transmission. As an added benefit, when I tell the system to turn itself off, it does so immediately rather than waiting several minutes for the projector to finish cooling down and deactivate its 12V trigger port.
+First, I wired another ESP8266 up to the projector's remote control receiver and flashed it with `Tasmota <https://tasmota.github.io/docs/>`__. Tasmota is similar to the IR blaster, providing a friendly web and API interface via the same low-cost wifi microcontroller. It performs a variety of functions. Instead of devoting itself solely to infrared codes, Tasmota controls the ESP's input and output connections in various ways. These are connected to the screen module's pinouts, which are `documented <https://elitescreens.com/static/color_coded_pin_assignments_for_rj45.pdf>`__ in ways that are more-or-less correct (thanks to my friend Matt V for pointing these out to me). The Tasmota ESP can now control the screen without the projector's involvement or any infrared transmission. As an added benefit, when I tell the system to turn itself off, it does so immediately rather than waiting several minutes for the projector to finish cooling down and deactivate its 12V trigger port.
 
 Second, I did the right thing and moved the Flask web server to use a proper work queue. The long-running home theater activation tasks are dumped into a Redis-backed Celery queue, where they are picked up by a worker process and executed at its leisure. This is a lot of complexity for a modest requirement, but it allows the Flask web server to give Alexa the prompt responses she craves.
 
@@ -61,7 +61,7 @@ Homebridge
 
 HomeKit is Apple's home automation framework. It nice enough: baked into iOS devices and compatible with Apple's notion of your family and how to share things with them. I assume it's also relatively privacy preserving, at least compared to its competitors. But Apple's high price point and overall technical fussiness means it's not as well supported by low-end smart home devices.
 
-.. figure:: https://tomlee.wtf/wp-content/uploads/2022/02/image-1024x648.png
+.. figure:: /static/2022/02/image-1024x648.png
    :figclass: wp-image-3280
 
 Homebridge helps with this problem. Install it on a Raspberry Pi; search for the brands of home automation garbage you have littering your LAN. Whatever they are, someone has probably written a Homebridge plugin for them. These plugins speak whichever dialect the device (or its cloud API) insists upon, while Homebridge translates to HomeKit-ese. Suddenly, you are not at the mercy of those velvet-rope devs. An army of weird home automation dads has crested the ridge to flank your enemy!
@@ -154,29 +154,29 @@ That I know how to do these things, and, better still, can foresee the pitfalls 
 
 And I have hope that these cold technical obsessions might add up to something human. A man's home is his castle, the saying goes. This is a condo, so its battlements are going to have to be built of software and affordable electronics. Even so, it is impractical to fortify your home in this way. There is no reason for it, except that once you become a father--during a pandemic or otherwise--the importance of everything outside of that home falls away. And anyway it's good to keep busy.
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2022/02/image-4-1024x768.png
+.. |image1| image:: /static/2022/02/image-4-1024x768.png
    :class: wp-image-3284
-   :target: https://tomlee.wtf/wp-content/uploads/2022/02/image-4.png
-.. |image2| image:: https://tomlee.wtf/wp-content/uploads/2022/02/image-2-1024x768.png
+   :target: /static/2022/02/image-4.png
+.. |image2| image:: /static/2022/02/image-2-1024x768.png
    :class: wp-image-3282
-   :target: https://tomlee.wtf/wp-content/uploads/2022/02/image-2.png
-.. |image3| image:: https://tomlee.wtf/wp-content/uploads/2022/02/image-3-1024x768.png
+   :target: /static/2022/02/image-2.png
+.. |image3| image:: /static/2022/02/image-3-1024x768.png
    :class: wp-image-3283
-   :target: https://tomlee.wtf/wp-content/uploads/2022/02/image-3.png
-.. |image4| image:: https://tomlee.wtf/wp-content/uploads/2022/02/image-1-1024x768.png
+   :target: /static/2022/02/image-3.png
+.. |image4| image:: /static/2022/02/image-1-1024x768.png
    :class: wp-image-3281
-   :target: https://tomlee.wtf/wp-content/uploads/2022/02/image-1.png
-.. |image5| image:: https://tomlee.wtf/wp-content/uploads/2022/01/image-4-473x1024.png
+   :target: /static/2022/02/image-1.png
+.. |image5| image:: /static/2022/01/image-4-473x1024.png
    :class: wp-image-3279
    :width: 237px
    :height: 512px
-   :target: https://tomlee.wtf/wp-content/uploads/2022/01/image-4.png
-.. |image6| image:: https://tomlee.wtf/wp-content/uploads/2022/01/image-1-1024x564.png
+   :target: /static/2022/01/image-4.png
+.. |image6| image:: /static/2022/01/image-1-1024x564.png
    :class: wp-image-3276
-   :target: https://tomlee.wtf/wp-content/uploads/2022/01/image-1.png
-.. |image7| image:: https://tomlee.wtf/wp-content/uploads/2022/02/image-8-1024x559.png
+   :target: /static/2022/01/image-1.png
+.. |image7| image:: /static/2022/02/image-8-1024x559.png
    :class: wp-image-3288
-   :target: https://tomlee.wtf/wp-content/uploads/2022/02/image-8.png
-.. |image8| image:: https://tomlee.wtf/wp-content/uploads/2022/02/image-6-1024x618.png
+   :target: /static/2022/02/image-8.png
+.. |image8| image:: /static/2022/02/image-6-1024x618.png
    :class: wp-image-3286
-   :target: https://tomlee.wtf/wp-content/uploads/2022/02/image-6.png
+   :target: /static/2022/02/image-6.png

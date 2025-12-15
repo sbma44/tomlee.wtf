@@ -40,15 +40,15 @@ It turns out various other agencies were successfully building systems to defeat
 
 Our positioning is going to get even better, incidentally. iPhone chips can already use not only GPS signals but those of GLONASS, Russia's competing (and never-crippled) system. The EU is launching Galileo, `which promises to improve accuracy even further <http://gpsworld.com/test-shows-galileo-increases-accuracy-of-location-based-services/>`__. In fact, its (paywalled) commercial version will allegedly deliver precisions of just a few centimeters.
 
-.. |giphy| image:: https://tomlee.wtf/wp-content/uploads/2014/12/giphy.gif
+.. |giphy| image:: /static/2014/12/giphy.gif
    :class: aligncenter wp-image-2869 size-full
    :width: 640px
    :height: 360px
-   :target: https://tomlee.wtf/wp-content/uploads/2014/12/giphy.gif
-.. |reagan_gps| image:: https://tomlee.wtf/wp-content/uploads/2014/12/reagan_gps.png
+   :target: /static/2014/12/giphy.gif
+.. |reagan_gps| image:: /static/2014/12/reagan_gps.png
    :class: aligncenter size-full wp-image-2871
    :width: 500px
    :height: 194px
-.. |coast_guard_gps| image:: https://tomlee.wtf/wp-content/uploads/2014/12/coast_guard_gps2.png
+.. |coast_guard_gps| image:: /static/2014/12/coast_guard_gps2.png
    :class: aligncenter size-full wp-image-2875
    :width: 500px

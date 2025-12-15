@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block title %}Tags - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<div class="typology-section">
+    <div class="section-head">
+        <h1 class="section-title">Tags</h1>
+    </div>
+    
+    <div class="section-content">
+        {% if tags %}
+        <div class="archive-section">
+            <div class="archive-list" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+                {% for tag, articles in tags|sort %}
+                <a href="{{ SITEURL }}/{{ tag.url }}" style="display: inline-block; padding: 0.5rem 1.5rem; background: #f5f5f5; border-radius: 20px; text-decoration: none; font-size: 1.6rem;">
+                    #{{ tag }} <span style="color: #999;">({{ articles|length }})</span>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+        {% else %}
+        <p>No tags yet.</p>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

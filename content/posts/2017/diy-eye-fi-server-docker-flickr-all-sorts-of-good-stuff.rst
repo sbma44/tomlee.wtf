@@ -18,7 +18,7 @@ I have a baby on the way (did I mention that?) and expect to be generating lots 
 
 If any of this sounds useful I hope you'll `give it a look <https://github.com/sbma44/eyefi-docker>`__. It has already happily uploaded many debug photos of my coffee table to Flickr from my a household Raspberry Pi. Perhaps it will prove equally helpful to you.
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2017/04/eyefi.png
+.. |image1| image:: /static/2017/04/eyefi.png
    :class: alignright size-full wp-image-3071
    :width: 345px
    :height: 317px

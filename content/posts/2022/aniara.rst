@@ -104,8 +104,8 @@ It is not difficult to imagine the sensitive and elderly Martinson, abruptly exi
 
 I think *Aniara* is ready for a new audience. `I hope you'll give it a read <https://archive.org/details/aniara>`__.
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2022/10/image-690x1024.png
+.. |image1| image:: /static/2022/10/image-690x1024.png
    :class: wp-image-3369
    :width: 221px
    :height: 328px
-   :target: https://tomlee.wtf/wp-content/uploads/2022/10/image.png
+   :target: /static/2022/10/image.png

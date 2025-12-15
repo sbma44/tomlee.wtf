@@ -8,7 +8,7 @@ Jeffrey Armistead Lee
 :save_as: 2020/07/28/jeffrey-armistead-lee/index.html
 :url: 2020/07/28/jeffrey-armistead-lee/
 
-[video width="694" height="516" mp4="https://tomlee.wtf/wp-content/uploads/2020/07/Dad-on-Accent-Lighting_mono.mp4"][/video]
+[video width="694" height="516" mp4="/static/2020/07/Dad-on-Accent-Lighting_mono.mp4"][/video]
 
  
 

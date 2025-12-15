@@ -22,7 +22,7 @@ I know what you're thinking: there is no parallel here. None of this has anythin
 
 So take some time. Consider my proposal. Read up on `Def Jam: Vendetta <http://en.wikipedia.org/wiki/Def_jam_vendetta>`__, which is something like a Grand Unified Field Theory for the preceding post. And recognize that there's no reason to resist the narrative ridiculousness that you truly crave. You don't have to settle for half-assed efforts at thug life improv. Embrace the authentically inauthentic.
 
-.. |20090722_defjamvendetta| image:: http://www.manifestdensity.net/wp-content/uploads/2009/07/20090722_defjamvendetta.jpg
+.. |20090722_defjamvendetta| image:: http://www.manifestdensity.net/static/2009/07/20090722_defjamvendetta.jpg
    :class: alignright size-full wp-image-830
    :width: 286px
    :height: 219px

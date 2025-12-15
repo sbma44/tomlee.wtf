@@ -8,7 +8,7 @@ speed cameras: LEGACY
 :save_as: 2024/04/19/speed-cameras-legacy/index.html
 :url: 2024/04/19/speed-cameras-legacy/
 
-*This is the third and probably last installment of my speed camera saga.* `Part 1 is here <https://tomlee.wtf/2024/04/12/are-dcs-traffic-cameras-racist/>`__\ *.* `Part 2 is here <https://tomlee.wtf/2024/04/13/traffic-cameras-extended-edition/>`__\ *.*
+*This is the third and probably last installment of my speed camera saga.* `Part 1 is here </2024/04/12/are-dcs-traffic-cameras-racist/>`__\ *.* `Part 2 is here </2024/04/13/traffic-cameras-extended-edition/>`__\ *.*
 
 One of the nicest things about writing something that connects with people is that many of them share links and thoughts that make you smarter (and would have improved the piece if you'd had them in the first place). I want to briefly discuss four responses I got: two studies that people pointed me toward, some stats that I wasn't aware of, and one reactive essay.
 
@@ -126,13 +126,13 @@ UPDATE - 16 OCT 2024
 
    .. raw:: html
 
-      <object class="wp-block-file__embed" data="https://tomlee.wtf/wp-content/uploads/2024/10/ATVES-Data-Report.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="ATVES-Data-Report">
+      <object class="wp-block-file__embed" data="/static/2024/10/ATVES-Data-Report.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="ATVES-Data-Report">
 
    .. raw:: html
 
       </object>
 
-   `ATVES-Data-Report <https://tomlee.wtf/wp-content/uploads/2024/10/ATVES-Data-Report.pdf>`__\ `Download <https://tomlee.wtf/wp-content/uploads/2024/10/ATVES-Data-Report.pdf>`__
+   `ATVES-Data-Report </static/2024/10/ATVES-Data-Report.pdf>`__\ `Download </static/2024/10/ATVES-Data-Report.pdf>`__
 
 I wish I'd had this link before: `David Ramos pointed me toward a great analysis of Baltimore ATE data <https://x.com/imagineterrain/status/1846578329261908437>`__ showing that the location at which a citation is issued has little to do with where the citation recipient lives. You simply cannot use the location of citation issuance to make judgments about who is receiving citations.
 
@@ -140,24 +140,24 @@ I wish I'd had this link before: `David Ramos pointed me toward a great analysis
 
    |image7|
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-36-1024x674.png
+.. |image1| image:: /static/2024/04/image-36-1024x674.png
    :class: wp-image-3570
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-36.png
-.. |image2| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-37-1024x756.png
+   :target: /static/2024/04/image-36.png
+.. |image2| image:: /static/2024/04/image-37-1024x756.png
    :class: wp-image-3571
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-37.png
-.. |image3| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-38-1024x514.png
+   :target: /static/2024/04/image-37.png
+.. |image3| image:: /static/2024/04/image-38-1024x514.png
    :class: wp-image-3572
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-38.png
-.. |image4| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-39-1024x391.png
+   :target: /static/2024/04/image-38.png
+.. |image4| image:: /static/2024/04/image-39-1024x391.png
    :class: wp-image-3573
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-39.png
-.. |image5| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-40-1024x434.png
+   :target: /static/2024/04/image-39.png
+.. |image5| image:: /static/2024/04/image-40-1024x434.png
    :class: wp-image-3574
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-40.png
-.. |image6| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-41-1024x569.png
+   :target: /static/2024/04/image-40.png
+.. |image6| image:: /static/2024/04/image-41-1024x569.png
    :class: wp-image-3575
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-41.png
-.. |image7| image:: https://tomlee.wtf/wp-content/uploads/2024/10/image.png
+   :target: /static/2024/04/image-41.png
+.. |image7| image:: /static/2024/10/image.png
    :class: wp-image-3642
-   :target: https://tomlee.wtf/wp-content/uploads/2024/10/image.png
+   :target: /static/2024/10/image.png

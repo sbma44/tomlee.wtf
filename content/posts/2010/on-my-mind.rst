@@ -16,8 +16,8 @@ Despite this, it should be fun!  I'm looking forward to seeing Georgia, a count
 
 And yes, I haven't yet written up any of the additional Costa Rica blog posts I intend to write.  I still intend to write them!  Who knows, hotel-bound paralysis born of pathetic language skills just might make it happen...
 
-.. |image1| image:: http://www.manifestdensity.net/wp-content/uploads/2010/03/georgia_collage-300x300.jpg
+.. |image1| image:: http://www.manifestdensity.net/static/2010/03/georgia_collage-300x300.jpg
    :class: alignright size-medium wp-image-1412
    :width: 300px
    :height: 300px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2010/03/georgia_collage.jpg
+   :target: http://www.manifestdensity.net/static/2010/03/georgia_collage.jpg

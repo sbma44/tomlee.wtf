@@ -42,9 +42,9 @@ Scouting has had a long and fruitful association with the military--its structur
 
 It's another sad day in a pathetic era. But I am confident that the scouts I saw collecting food for the hungry last weekend will someday be part of making a better one.
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2025/11/image-425x1024.png
+.. |image1| image:: /static/2025/11/image-425x1024.png
    :class: wp-image-3715
-   :target: https://tomlee.wtf/wp-content/uploads/2025/11/image.png
-.. |image2| image:: https://tomlee.wtf/wp-content/uploads/2025/11/image-1-1024x683.png
+   :target: /static/2025/11/image.png
+.. |image2| image:: /static/2025/11/image-1-1024x683.png
    :class: wp-image-3716
-   :target: https://tomlee.wtf/wp-content/uploads/2025/11/image-1.png
+   :target: /static/2025/11/image-1.png

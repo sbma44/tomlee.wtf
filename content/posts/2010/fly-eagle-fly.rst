@@ -23,7 +23,7 @@ The wages of internet success, I suppose.
 
 **AAAAAND:** `Gizmodo <http://gizmodo.com/5480362/the-nerdiest-way-youll-see-a-door-opened-all-week>`__. That'll just about do it, I think. Their commenters are *mean*. Which I *like*. I want the apparent EE to offer some more information, though.  I think he's at least partly wrong.
 
-.. |image1| image:: http://www.manifestdensity.net/wp-content/uploads/2010/02/schematic_small-1.png
+.. |image1| image:: http://www.manifestdensity.net/static/2010/02/schematic_small-1.png
    :class: aligncenter size-full wp-image-1286
    :width: 550px
    :height: 313px

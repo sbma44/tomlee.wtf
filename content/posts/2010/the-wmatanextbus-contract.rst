@@ -84,18 +84,18 @@ And finally, vindication (CIS = Customer Information System, i.e. Nextbus):
 
 It's possible that I'm missing something, but at this point I think my pre-contract understanding has been validated: WMATA has full rights to the data, which means it can give the data away if it wants to. Now we just need WMATA to give the all-clear! We may also need them to mirror the data or otherwise ensure that Nextbus can't complain that we're unfairly hammering their servers. I've got some ideas about how to proceed, and I've got a serendipitous meeting happening in the next few days -- more soon, I hope!
 
-.. |image1| image:: http://www.manifestdensity.net/wp-content/uploads/2010/02/nextbus11.png
+.. |image1| image:: http://www.manifestdensity.net/static/2010/02/nextbus11.png
    :class: aligncenter size-full wp-image-1232
    :width: 450px
    :height: 178px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2010/02/nextbus11.png
-.. |image2| image:: http://www.manifestdensity.net/wp-content/uploads/2010/02/nextbus2.png
+   :target: http://www.manifestdensity.net/static/2010/02/nextbus11.png
+.. |image2| image:: http://www.manifestdensity.net/static/2010/02/nextbus2.png
    :class: aligncenter size-full wp-image-1231
    :width: 500px
    :height: 714px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2010/02/nextbus2.png
-.. |image3| image:: http://www.manifestdensity.net/wp-content/uploads/2010/02/nextbus3.png
+   :target: http://www.manifestdensity.net/static/2010/02/nextbus2.png
+.. |image3| image:: http://www.manifestdensity.net/static/2010/02/nextbus3.png
    :class: aligncenter size-full wp-image-1233
    :width: 450px
    :height: 89px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2010/02/nextbus3.png
+   :target: http://www.manifestdensity.net/static/2010/02/nextbus3.png

@@ -22,7 +22,7 @@ Perhaps there's a plausible escape route. But what seems more likely is the stor
 
 |bsg0043|
 
-.. |bsg0043| image:: https://tomlee.wtf/wp-content/uploads/2015/01/bsg0043-225x300.jpg
+.. |bsg0043| image:: /static/2015/01/bsg0043-225x300.jpg
    :class: aligncenter size-medium wp-image-2916
    :width: 225px
    :height: 300px

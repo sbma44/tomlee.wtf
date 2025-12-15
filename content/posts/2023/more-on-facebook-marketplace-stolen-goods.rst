@@ -8,7 +8,7 @@ more on Facebook Marketplace & stolen goods
 :save_as: 2023/02/06/more-on-facebook-marketplace-stolen-goods/index.html
 :url: 2023/02/06/more-on-facebook-marketplace-stolen-goods/
 
-I didn't dig far into the surrounding context when I wrote about `buying fake tags <https://tomlee.wtf/2023/02/03/fake-tags-are-a-real-problem/>`__, but I saw plenty of surprised reactions on social media to this obvious criminality on Facebook Marketplace. The situation is well understood, but pretty far from resolved.
+I didn't dig far into the surrounding context when I wrote about `buying fake tags </2023/02/03/fake-tags-are-a-real-problem/>`__, but I saw plenty of surprised reactions on social media to this obvious criminality on Facebook Marketplace. The situation is well understood, but pretty far from resolved.
 
 I recommend these articles from CNBC and NBC News:
 

@@ -8,7 +8,7 @@ are dc's speed cameras racist?
 :save_as: 2024/04/12/are-dcs-traffic-cameras-racist/index.html
 :url: 2024/04/12/are-dcs-traffic-cameras-racist/
 
-*This is the first of my posts about speed cameras.* `Part 2 is here <https://tomlee.wtf/2024/04/13/traffic-cameras-extended-edition/>`__\ *\ .* `Part 3 is here <https://tomlee.wtf/2024/04/19/speed-cameras-legacy/>`__\ *.*
+*This is the first of my posts about speed cameras.* `Part 2 is here </2024/04/13/traffic-cameras-extended-edition/>`__\ *\ .* `Part 3 is here </2024/04/19/speed-cameras-legacy/>`__\ *.*
 
 The two most important things about speed cameras are that they save lives and that they are annoying. People think life-saving is good. They also think getting tickets is bad. These two beliefs are dissonant. Social psychology tells us that people will naturally seek to reconcile dissonant beliefs.
 
@@ -56,7 +56,7 @@ What do we know about DC's ATE cameras?
 
 Let's take a step back and look at this less reactively. What do we know about DC speed cameras?
 
-The most useful source of data on the topic is DC's moving violation citation data. It's published on a monthly basis. You can find a typical month, including a description of the included data fields, `here <https://opendata.dc.gov/datasets/DCGIS::moving-violations-issued-in-january-2022/about>`__. I had previously loaded data spanning from January 2019 to April 2023 into a PostGIS instance when working on `this post <https://tomlee.wtf/2023/02/03/fake-tags-are-a-real-problem/>`__, so that's the period upon which the following analysis is based.
+The most useful source of data on the topic is DC's moving violation citation data. It's published on a monthly basis. You can find a typical month, including a description of the included data fields, `here <https://opendata.dc.gov/datasets/DCGIS::moving-violations-issued-in-january-2022/about>`__. I had previously loaded data spanning from January 2019 to April 2023 into a PostGIS instance when working on `this post </2023/02/03/fake-tags-are-a-real-problem/>`__, so that's the period upon which the following analysis is based.
 
 The first important signal we have to work with is the *issuing agency.* When we bin citations in this way, we see two huge outliers:
 
@@ -322,60 +322,60 @@ Please drive safely. And please don't waste your energy feeling guilty about ins
 
 *map data, excluding DCPC, (c) OpenStreetMap (c) Mapbox*
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-3-1024x337.png
+.. |image1| image:: /static/2024/04/image-3-1024x337.png
    :class: wp-image-3513
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-3.png
-.. |image2| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-4.png
+   :target: /static/2024/04/image-3.png
+.. |image2| image:: /static/2024/04/image-4.png
    :class: wp-image-3514
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-4.png
-.. |image3| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-5.png
+   :target: /static/2024/04/image-4.png
+.. |image3| image:: /static/2024/04/image-5.png
    :class: wp-image-3515
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-5.png
-.. |image4| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-6.png
+   :target: /static/2024/04/image-5.png
+.. |image4| image:: /static/2024/04/image-6.png
    :class: wp-image-3516
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-6.png
-.. |image5| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-7.png
+   :target: /static/2024/04/image-6.png
+.. |image5| image:: /static/2024/04/image-7.png
    :class: wp-image-3517
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-7.png
-.. |image6| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-10.png
+   :target: /static/2024/04/image-7.png
+.. |image6| image:: /static/2024/04/image-10.png
    :class: wp-image-3520
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-10.png
-.. |image7| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-11.png
+   :target: /static/2024/04/image-10.png
+.. |image7| image:: /static/2024/04/image-11.png
    :class: wp-image-3521
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-11.png
-.. |image8| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-13.png
+   :target: /static/2024/04/image-11.png
+.. |image8| image:: /static/2024/04/image-13.png
    :class: wp-image-3523
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-13.png
-.. |image9| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-14.png
+   :target: /static/2024/04/image-13.png
+.. |image9| image:: /static/2024/04/image-14.png
    :class: wp-image-3524
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-14.png
-.. |image10| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-15.png
+   :target: /static/2024/04/image-14.png
+.. |image10| image:: /static/2024/04/image-15.png
    :class: wp-image-3525
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-15.png
-.. |image11| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-16.png
+   :target: /static/2024/04/image-15.png
+.. |image11| image:: /static/2024/04/image-16.png
    :class: wp-image-3526
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-16.png
-.. |image12| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-17.png
+   :target: /static/2024/04/image-16.png
+.. |image12| image:: /static/2024/04/image-17.png
    :class: wp-image-3527
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-17.png
-.. |image13| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-18.png
+   :target: /static/2024/04/image-17.png
+.. |image13| image:: /static/2024/04/image-18.png
    :class: wp-image-3528
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-18.png
-.. |image14| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-24.png
+   :target: /static/2024/04/image-18.png
+.. |image14| image:: /static/2024/04/image-24.png
    :class: wp-image-3534
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-24.png
-.. |image15| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-26.png
+   :target: /static/2024/04/image-24.png
+.. |image15| image:: /static/2024/04/image-26.png
    :class: wp-image-3536
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-26.png
-.. |image16| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-27.png
+   :target: /static/2024/04/image-26.png
+.. |image16| image:: /static/2024/04/image-27.png
    :class: wp-image-3537
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-27.png
-.. |image17| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-28.png
+   :target: /static/2024/04/image-27.png
+.. |image17| image:: /static/2024/04/image-28.png
    :class: wp-image-3538
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-28.png
-.. |image18| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-23.png
+   :target: /static/2024/04/image-28.png
+.. |image18| image:: /static/2024/04/image-23.png
    :class: wp-image-3533
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-23.png
-.. |image19| image:: https://tomlee.wtf/wp-content/uploads/2024/04/image-1.png
+   :target: /static/2024/04/image-23.png
+.. |image19| image:: /static/2024/04/image-1.png
    :class: wp-image-3511
-   :target: https://tomlee.wtf/wp-content/uploads/2024/04/image-1.png
+   :target: /static/2024/04/image-1.png

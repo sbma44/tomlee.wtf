@@ -58,6 +58,6 @@ It's no coincidence that this is a classic way to escalate stakes and engender a
 
 Obviously, the goblin sits at an unreachably distant end of the continuum I've described. Price discrimination is at least somewhat good, sometimes desirable, and often unavoidable. Even so: it's a short stroll goblinward before we humans find the dissonance unbearable. I can't blame any politician for thinking that voters will care more about stories than triangles on a graph.
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2024/08/image-1024x497.png
+.. |image1| image:: /static/2024/08/image-1024x497.png
    :class: wp-image-3634
-   :target: https://tomlee.wtf/wp-content/uploads/2024/08/image.png
+   :target: /static/2024/08/image.png

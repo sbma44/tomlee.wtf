@@ -127,36 +127,36 @@ I think D.C., Virginia, and Maryland should look at this problem again. I think 
 
 I realize that punishing people, especially vulnerable people, is distasteful. But what I see from city leadership and my fellow citizens suggests they're in denial about the tragedy that comes from cavalier misuse of our roads. It is inexcusable to ask the families who experience those tragedies to pay that price just so that we can avoid facing our own discomfort.
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2023/02/image-1024x447.png
+.. |image1| image:: /static/2023/02/image-1024x447.png
    :class: wp-image-3399
-   :target: https://tomlee.wtf/wp-content/uploads/2023/02/image.png
-.. |image2| image:: https://tomlee.wtf/wp-content/uploads/2023/02/image-1-1024x1000.png
+   :target: /static/2023/02/image.png
+.. |image2| image:: /static/2023/02/image-1-1024x1000.png
    :class: wp-image-3400
-   :target: https://tomlee.wtf/wp-content/uploads/2023/02/image-1.png
-.. |image3| image:: https://tomlee.wtf/wp-content/uploads/2023/02/image-2-1024x624.png
+   :target: /static/2023/02/image-1.png
+.. |image3| image:: /static/2023/02/image-2-1024x624.png
    :class: wp-image-3401
-   :target: https://tomlee.wtf/wp-content/uploads/2023/02/image-2.png
-.. |image4| image:: https://tomlee.wtf/wp-content/uploads/2023/02/image-3.png
+   :target: /static/2023/02/image-2.png
+.. |image4| image:: /static/2023/02/image-3.png
    :class: wp-image-3402
-   :target: https://tomlee.wtf/wp-content/uploads/2023/02/image-3.png
-.. |image5| image:: https://tomlee.wtf/wp-content/uploads/2023/02/image-4-1024x434.png
+   :target: /static/2023/02/image-3.png
+.. |image5| image:: /static/2023/02/image-4-1024x434.png
    :class: wp-image-3403
-   :target: https://tomlee.wtf/wp-content/uploads/2023/02/image-4.png
-.. |image6| image:: https://tomlee.wtf/wp-content/uploads/2023/02/image-9-1024x554.png
+   :target: /static/2023/02/image-4.png
+.. |image6| image:: /static/2023/02/image-9-1024x554.png
    :class: wp-image-3408
-   :target: https://tomlee.wtf/wp-content/uploads/2023/02/image-9.png
-.. |image7| image:: https://tomlee.wtf/wp-content/uploads/2023/02/image-10-1024x739.png
+   :target: /static/2023/02/image-9.png
+.. |image7| image:: /static/2023/02/image-10-1024x739.png
    :class: wp-image-3450
-   :target: https://tomlee.wtf/wp-content/uploads/2023/02/image-10.png
-.. |image8| image:: https://tomlee.wtf/wp-content/uploads/2023/02/image-11-1024x739.png
+   :target: /static/2023/02/image-10.png
+.. |image8| image:: /static/2023/02/image-11-1024x739.png
    :class: wp-image-3451
-   :target: https://tomlee.wtf/wp-content/uploads/2023/02/image-11.png
-.. |image9| image:: https://tomlee.wtf/wp-content/uploads/2023/02/image-12-1024x739.png
+   :target: /static/2023/02/image-11.png
+.. |image9| image:: /static/2023/02/image-12-1024x739.png
    :class: wp-image-3452
-   :target: https://tomlee.wtf/wp-content/uploads/2023/02/image-12.png
-.. |image10| image:: https://tomlee.wtf/wp-content/uploads/2023/02/IMG_3444-1024x603.png
+   :target: /static/2023/02/image-12.png
+.. |image10| image:: /static/2023/02/IMG_3444-1024x603.png
    :class: wp-image-3409
-   :target: https://tomlee.wtf/wp-content/uploads/2023/02/IMG_3444.png
-.. |image11| image:: https://tomlee.wtf/wp-content/uploads/2023/02/IMG_7449-1024x339.png
+   :target: /static/2023/02/IMG_3444.png
+.. |image11| image:: /static/2023/02/IMG_7449-1024x339.png
    :class: wp-image-3410
-   :target: https://tomlee.wtf/wp-content/uploads/2023/02/IMG_7449.png
+   :target: /static/2023/02/IMG_7449.png

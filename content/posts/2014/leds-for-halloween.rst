@@ -95,13 +95,13 @@ LEDs aren't your only options for lighting a costume. Electroluminescent `wire <
 
 The downside to EL systems is how difficult they are to manipulate. EL wire and panels can be cut, but they can't be spliced without unusual tools and more skill than I can muster. The power supplies also tend to be made cheaply, and when they are they emit a quiet but high-pitched whine which might be annoying in environments that are supposed to be silent and spooky, like a haunted house.
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2014/11/IMG_0185-300x300.jpg
+.. |image1| image:: /static/2014/11/IMG_0185-300x300.jpg
    :class: aligncenter wp-image-2855 size-medium
    :width: 300px
    :height: 300px
-   :target: https://tomlee.wtf/wp-content/uploads/2014/11/IMG_0185.jpg
-.. |image2| image:: https://tomlee.wtf/wp-content/uploads/2014/11/Screen-Shot-2014-11-30-at-6.38.23-PM-300x250.png
+   :target: /static/2014/11/IMG_0185.jpg
+.. |image2| image:: /static/2014/11/Screen-Shot-2014-11-30-at-6.38.23-PM-300x250.png
    :class: aligncenter size-medium wp-image-2853
    :width: 300px
    :height: 250px
-   :target: https://tomlee.wtf/wp-content/uploads/2014/11/Screen-Shot-2014-11-30-at-6.38.23-PM.png
+   :target: /static/2014/11/Screen-Shot-2014-11-30-at-6.38.23-PM.png

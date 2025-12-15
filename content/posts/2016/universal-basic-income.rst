@@ -26,7 +26,7 @@ But at the risk of ruining a good thing, I can't help wondering why my fellow so
 
    One reason we think it may work is that technological improvements should generate an abundance of resources. Although basic income seems fiscally challenging today, in a world where technology replaces existing jobs and basic income becomes necessary, technological improvements should generate an abundance of resources and the cost of living should fall dramatically.
 
-When Sam says "technological improvements", I don't think he means better cookstoves in rural China. I suspect he means the kind of stuff that Y Combinator is funding. Software stuff, mostly -- probably a bunch of machine learning projects that promise to `finally invent a machine that does more than rotate <https://tomlee.wtf/2015/07/27/rotation-is-great-but-someday-machines-will-do-something-else-itll-be-amazing/>`__, plus maybe one or two discount-rate materials science startups (I hear you can make quantum dots in room temperature water these days).
+When Sam says "technological improvements", I don't think he means better cookstoves in rural China. I suspect he means the kind of stuff that Y Combinator is funding. Software stuff, mostly -- probably a bunch of machine learning projects that promise to `finally invent a machine that does more than rotate </2015/07/27/rotation-is-great-but-someday-machines-will-do-something-else-itll-be-amazing/>`__, plus maybe one or two discount-rate materials science startups (I hear you can make quantum dots in room temperature water these days).
 
 He might be right! But even if he's not, what *glorious hubris*.
 

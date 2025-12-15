@@ -10,7 +10,7 @@ pinewood derby 2024
 
    .. raw:: html
 
-      <video controls src="https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4754.mov">
+      <video controls src="/static/2024/01/IMG_4754.mov">
 
    .. raw:: html
 
@@ -124,27 +124,27 @@ This was fun and frantic, a flashback to longer and more arduous bouts of techni
 
    |image8|
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4758-1024x768.jpeg
+.. |image1| image:: /static/2024/01/IMG_4758-1024x768.jpeg
    :class: wp-image-3487
-   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4758-scaled.jpeg
-.. |image2| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4757-768x1024.jpeg
+   :target: /static/2024/01/IMG_4758-scaled.jpeg
+.. |image2| image:: /static/2024/01/IMG_4757-768x1024.jpeg
    :class: wp-image-3488
-   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4757-scaled.jpeg
-.. |image3| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4756-1024x768.jpeg
+   :target: /static/2024/01/IMG_4757-scaled.jpeg
+.. |image3| image:: /static/2024/01/IMG_4756-1024x768.jpeg
    :class: wp-image-3489
-   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4756-scaled.jpeg
-.. |image4| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4755-1024x768.jpeg
+   :target: /static/2024/01/IMG_4756-scaled.jpeg
+.. |image4| image:: /static/2024/01/IMG_4755-1024x768.jpeg
    :class: wp-image-3490
-   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4755-scaled.jpeg
-.. |image5| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4728-1024x768.jpeg
+   :target: /static/2024/01/IMG_4755-scaled.jpeg
+.. |image5| image:: /static/2024/01/IMG_4728-1024x768.jpeg
    :class: wp-image-3491
-   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4728-scaled.jpeg
-.. |image6| image:: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4711-1024x768.jpeg
+   :target: /static/2024/01/IMG_4728-scaled.jpeg
+.. |image6| image:: /static/2024/01/IMG_4711-1024x768.jpeg
    :class: wp-image-3492
-   :target: https://tomlee.wtf/wp-content/uploads/2024/01/IMG_4711-scaled.jpeg
-.. |image7| image:: https://tomlee.wtf/wp-content/uploads/2024/01/DA8E86E8-BB43-41F0-AC3F-DCDD1A52C50A-1024x768.jpeg
+   :target: /static/2024/01/IMG_4711-scaled.jpeg
+.. |image7| image:: /static/2024/01/DA8E86E8-BB43-41F0-AC3F-DCDD1A52C50A-1024x768.jpeg
    :class: wp-image-3493
-   :target: https://tomlee.wtf/wp-content/uploads/2024/01/DA8E86E8-BB43-41F0-AC3F-DCDD1A52C50A.jpeg
-.. |image8| image:: https://tomlee.wtf/wp-content/uploads/2024/01/549538B8-0CCF-4A7F-BDFF-D3B4F41022DC-1024x768.jpeg
+   :target: /static/2024/01/DA8E86E8-BB43-41F0-AC3F-DCDD1A52C50A.jpeg
+.. |image8| image:: /static/2024/01/549538B8-0CCF-4A7F-BDFF-D3B4F41022DC-1024x768.jpeg
    :class: wp-image-3494
-   :target: https://tomlee.wtf/wp-content/uploads/2024/01/549538B8-0CCF-4A7F-BDFF-D3B4F41022DC.jpeg
+   :target: /static/2024/01/549538B8-0CCF-4A7F-BDFF-D3B4F41022DC.jpeg

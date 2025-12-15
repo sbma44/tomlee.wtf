@@ -70,7 +70,7 @@ While I respect that rationale, I join Luis in lamenting it, in large part becau
 
    <li>
 
-As is `often the case with retreats from openness <https://tomlee.wtf/2014/12/01/flickr-users-are-wrong/>`__, much of the impetus for this normative change seems to stem from discomfort with who is benefiting from it. I believe this is because many advocates conceive open data as a revolutionary project to reallocate social power rather than a commitment flowing from moral and practical judgments about how knowledge can and should be restricted.
+As is `often the case with retreats from openness </2014/12/01/flickr-users-are-wrong/>`__, much of the impetus for this normative change seems to stem from discomfort with who is benefiting from it. I believe this is because many advocates conceive open data as a revolutionary project to reallocate social power rather than a commitment flowing from moral and practical judgments about how knowledge can and should be restricted.
 
 .. raw:: html
 

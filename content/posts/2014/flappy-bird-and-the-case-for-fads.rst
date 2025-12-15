@@ -20,7 +20,7 @@ Admittedly, this is because, so far, the conversation is mostly among people who
 
 But for now, and maybe for the rest of its run, it's something everyone can talk about.
 
-.. |flappy_space_small| image:: /wp-content/uploads/2014/02/flappy_space_small.gif
+.. |flappy_space_small| image:: /static/2014/02/flappy_space_small.gif
    :class: alignright size-full wp-image-2764
    :width: 350px
    :height: 311px

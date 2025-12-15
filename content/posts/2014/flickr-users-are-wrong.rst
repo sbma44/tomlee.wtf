@@ -26,7 +26,7 @@ So let's look at the other reasons that people are upset about this. I think tha
 
 Think carefully and decide what you need. No one is going to make you tick that Creative Commons box. But when you do, it's a promise.
 
-.. |creative-commons-flickr| image:: https://tomlee.wtf/wp-content/uploads/2014/12/creative-commons-flickr-300x204.jpg
+.. |creative-commons-flickr| image:: /static/2014/12/creative-commons-flickr-300x204.jpg
    :class: alignright wp-image-2862 size-medium
    :width: 300px
    :height: 204px

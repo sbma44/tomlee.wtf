@@ -32,7 +32,7 @@ I don't begrudge this approach. What else can they do? These databases are expen
 
 When the process is complete--when the tunnel is done, its specifics related, its chronicler dead--we can drop the pretense. And we should. It's disappointing to see those who esteem ideas arguing that they ought to be more scarce.
 
-.. |stylized photo of malcolm gladwell| image:: https://tomlee.wtf/wp-content/uploads/2014/12/5982796280_f68a4753a9_z.jpg
+.. |stylized photo of malcolm gladwell| image:: /static/2014/12/5982796280_f68a4753a9_z.jpg
    :class: aligncenter size-full wp-image-2899
    :width: 640px
    :height: 433px

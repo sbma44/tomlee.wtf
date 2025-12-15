@@ -114,5 +114,5 @@ All that's left is to add a little flair:
 
 Ben will get a plaque now, too. I guess.
 
-.. |image1| image:: http://www.manifestdensity.net/wp-content/uploads/2013/10/kerf_demo.png
+.. |image1| image:: http://www.manifestdensity.net/static/2013/10/kerf_demo.png
    :class: center

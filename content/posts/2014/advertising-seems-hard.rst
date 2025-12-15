@@ -8,7 +8,7 @@ advertising seems hard
 :save_as: 2014/12/27/advertising-seems-hard/index.html
 :url: 2014/12/27/advertising-seems-hard/
 
-I was saying something dumb on Twitter and stumbled across `an old post about the constricting array of tools available to advertisers as consumers become ever more attuned to manipulation <https://tomlee.wtf/2008/12/31/ads-intents-and-obsolescence/>`__. I'm now less sure that this idea isn't just a product of my own limited imagination. Still, an observation in its favor:
+I was saying something dumb on Twitter and stumbled across `an old post about the constricting array of tools available to advertisers as consumers become ever more attuned to manipulation </2008/12/31/ads-intents-and-obsolescence/>`__. I'm now less sure that this idea isn't just a product of my own limited imagination. Still, an observation in its favor:
 
 |banana republic instagram ad featuring a puppy from the humane society|
 
@@ -22,8 +22,8 @@ Perhaps this boils down to the same old unanswerable questions about *mindshare*
 
 And yet every year the same Coca-Cola ads featuring Santa and, more recently (and pan-religio/culturally) polar bears--issued, presumably, from the vast bunker beneath the Masonic Temple in Alexandria. They must think they know something we don't about making us know things we don't think we know. Right?
 
-.. |banana republic instagram ad featuring a puppy from the humane society| image:: https://tomlee.wtf/wp-content/uploads/2014/12/IMG_6426-576x1024.png
+.. |banana republic instagram ad featuring a puppy from the humane society| image:: /static/2014/12/IMG_6426-576x1024.png
    :class: aligncenter wp-image-2907 size-large
    :width: 576px
    :height: 1024px
-   :target: https://tomlee.wtf/wp-content/uploads/2014/12/IMG_6426.png
+   :target: /static/2014/12/IMG_6426.png

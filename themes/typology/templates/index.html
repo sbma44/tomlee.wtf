@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }}{% if SITESUBTITLE %} - {{ SITESUBTITLE }}{% endif %}{% endblock %}
+
+{% block content %}
+<div class="typology-section">
+    {% if articles %}
+
+    <div class="section-content">
+        <div class="typology-posts">
+            {% for article in articles_page.object_list %}
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
+                        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                    </h2>
+                    {% if article.date %}
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime('%A, %d %B %Y') }}</time>
+                        </span>
+                    </div>
+                    {% endif %}
+                    {% if article.title %}
+                    <div class="post-letter">{{ article.title[0]|upper }}</div>
+                    {% endif %}
+                </header>
+
+                <div class="entry-content">
+                    {{ article.content }}
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- Archive by Year Section -->
+    {% if not articles_page.has_other_pages() or articles_page.number == 1 %}
+    <div class="section-content">
+        <div class="archive-section">
+            <div class="section-head">
+                <h2 class="section-title">Archive</h2>
+            </div>
+
+            {% set articles_by_year = dates|groupby('date.year')|list|reverse %}
+            {% for year, year_articles in articles_by_year %}
+            {% if year >= 2020 %}
+            <div class="archive-year">
+                <h3>{{ year }}</h3>
+                <ul class="archive-list">
+                    {% for article in year_articles|reverse %}
+                    <li>
+                        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                        <span class="archive-date">{{ article.date.strftime('%B %d') }}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+            <div class="more-archives">
+                <p><a href="{{ SITEURL }}/archives.html">Older, more embarrassing posts &raquo;</a></p>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    {% else %}
+    <div class="section-content">
+        <p>No posts yet.</p>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

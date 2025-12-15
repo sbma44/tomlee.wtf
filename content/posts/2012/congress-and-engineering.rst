@@ -14,7 +14,7 @@ In the wake of SOPA/PIPA, there's been some renewed talk about the necessity of 
 
 Keep in mind that much of this book is about exactly when and why it *isn't* safe for engineers to assume that any property is infinite.
 
-.. |image1| image:: http://www.manifestdensity.net/wp-content/uploads/2012/03/bollman.jpg
+.. |image1| image:: http://www.manifestdensity.net/static/2012/03/bollman.jpg
    :class: aligncenter size-full wp-image-2008
    :width: 491px
    :height: 619px

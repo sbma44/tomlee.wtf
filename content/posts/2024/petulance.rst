@@ -68,11 +68,11 @@ VCs and reddit blackpillers are one thing. America's police officers are another
 
 In the last two decades, perceptions of cops have swung from a 9/11 apotheosis as heroic first responders to an ACAB consensus among the cultural vanguard that cops must surely feel is implicit in every blue-jurisdiction yard sign they pass. The rules changed, and they don't like it.
 
-I say all of this with some sympathy. I have felt petulant as the world changed around me. I put it into words `here <https://tomlee.wtf/2015/04/08/dead-guys/>`__.
+I say all of this with some sympathy. I have felt petulant as the world changed around me. I put it into words `here </2015/04/08/dead-guys/>`__.
 
 Petulance is never an admirable reaction, even if the new rules really are under-justified. But I do think it's a reaction that we would all do better to expect, plan for, and understand. That doesn't mean that we can't change the rules. Many of the rules should be changed! But when we change them, we will be wise to allow the dislocated to embrace the new rules. This will frequently be annoying. I think I understand why it's satisfying and fun to respond with exasperated derision when some guy prefaces his stab at allyship with a proof-of-daughters statement. But where does that leave him? If he isn't permitted to come along, where will he go instead?
 
-I have `written before <https://tomlee.wtf/2023/01/27/who-will-be-ais-audience/>`__ about the overwhelming power I see in the human impulse to organize ourselves in hierarchies. Who's up, who's down; who's good, who's bad. It's perfectly natural, and usually satisfying. But it's not always necessary. Often--especially in politics--it might be better to limit ourselves to declaiming *what* is good, rather than who.
+I have `written before </2023/01/27/who-will-be-ais-audience/>`__ about the overwhelming power I see in the human impulse to organize ourselves in hierarchies. Who's up, who's down; who's good, who's bad. It's perfectly natural, and usually satisfying. But it's not always necessary. Often--especially in politics--it might be better to limit ourselves to declaiming *what* is good, rather than who.
 
 None of this excuses petulance. It's a childish emotion that should be recognized and controlled. Allowing it to drive you into a public tantrum is embarrassing. Allowing it to drive you toward a figure like Donald Trump should be profoundly chastening. I wonder how these guys think they will be understood a decade from now. Have thought about it at all? To embrace petulance is to let go of dissonance. Not having to think quite so hard is part of the appeal.
 
@@ -80,9 +80,9 @@ When the time comes, I suspect they will feel pretty mortified about this period
 
 For now, the petulant impulse is real, and--for whatever reason--has recently become of outsize importance. Most people need a way to feel that they are good. When we can, we should make sure they have one.
 
-.. |image1| image:: https://tomlee.wtf/wp-content/uploads/2024/07/image-1.png
+.. |image1| image:: /static/2024/07/image-1.png
    :class: wp-image-3587
-   :target: https://tomlee.wtf/wp-content/uploads/2024/07/image-1.png
-.. |image2| image:: https://tomlee.wtf/wp-content/uploads/2024/07/image-3.png
+   :target: /static/2024/07/image-1.png
+.. |image2| image:: /static/2024/07/image-3.png
    :class: wp-image-3589
-   :target: https://tomlee.wtf/wp-content/uploads/2024/07/image-3.png
+   :target: /static/2024/07/image-3.png

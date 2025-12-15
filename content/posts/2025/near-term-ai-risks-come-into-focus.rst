@@ -20,7 +20,7 @@ The bulk of this synthesis is already present in the 2024 Democratic Party Platf
 
    We know that AI can deepen discrimination, bias, and other abuses in justice, health care, education, and housing. That’s why the Administration has already taken action by publishing the Blueprint for an AI Bill of Rights and issuing new guidance from federal agencies on combating algorithmic discrimination across the economy.
 
-   https://democrats.org/wp-content/uploads/2024/09/2024_Democratic_Party_Platform_8a2cf8.pdf
+   https://democrats.org/static/2024/09/2024_Democratic_Party_Platform_8a2cf8.pdf
 
 The Biden-era approach to AI has been trash-binned, but nevermind: a rebranded version will be back in a few years. None of this will be enough to stop displacement, and none of *that* will be particularly good for our society's stability. I'm confident that old lawyers will protect themselves and young people will figure out something new to do, but there's going to be a big cohort of downwardly-mobile Millennials and Gen Zers whose resulting political neuroses will harm us all. Hopefully I am too old to be one of them!
 

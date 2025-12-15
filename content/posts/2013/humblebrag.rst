@@ -16,8 +16,8 @@ I need to add, though, that although I have worked on these issues first-hand an
 
 `Additional not-that-flattering photos available here <http://www.flickr.com/photos/senatormarkwarner/sets/72157635624395455/>`__.
 
-.. |tomlee-testimony| image:: http://www.manifestdensity.net/wp-content/uploads/2013/09/tomlee-testimony.gif
+.. |tomlee-testimony| image:: http://www.manifestdensity.net/static/2013/09/tomlee-testimony.gif
    :class: aligncenter size-full wp-image-2607
    :width: 311px
    :height: 176px
-   :target: http://www.manifestdensity.net/wp-content/uploads/2013/09/tomlee-testimony.gif
+   :target: http://www.manifestdensity.net/static/2013/09/tomlee-testimony.gif
