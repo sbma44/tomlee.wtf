@@ -17,4 +17,4 @@ I suppose I'm willing to admit debate regarding the Frightened Rabbit song — I
 
 The same can't be said for "Fairytale of New York", which is pretty clearly the greatest Christmas pop song of all time. Temporary waivers allowing dissenting opinions may be granted for "So This Is Christmas", I suppose, but only if you're feeling too depressed and dissolute to listen to the Pogues — which, unless you're presently stumbling through the trash-strewn streets, cold, alone and wearing a Santa beard caked with sick, you're probably not.
 
-Also, hey, here's `last year's equivalent post <http://www.manifestdensity.net/2007/12/20/hey_have_some_christmas_music/>`__, which includes that Christmas Dismemberment Plan song.
+Also, hey, here's `last year's equivalent post </2007/12/20/hey-have-some-christmas-music/>`__, which includes that Christmas Dismemberment Plan song.

@@ -12,7 +12,7 @@ Well, I'm back. The retreat was fun, and surprisingly useful. I'm more hostile t
 
 Fortunately there was surprisingly little of that stuff on the ED retreat. Most of the exercises we did were useful or led to useful conversations. Still, for sheer team-building efficacy nothing can compete with drinking beer and playing DDR:
 
-We had almost no internet access at the site, so I've been out of touch. That's led to me being a bad blogger, contenting myself over the weekend with adding useless `Technorati widgets <http://kailashnadh.name/ducksoup/>`__ and archives to this site instead of content. I can't say that the trend of pointless but technically interesting effort is going to end anytime soon — here's a teaser for the latest `useless thing <http://www.manifestdensity.net/2006/12/08/be_your_own_aronofsky/>`__ that I'm trying to do with video:
+We had almost no internet access at the site, so I've been out of touch. That's led to me being a bad blogger, contenting myself over the weekend with adding useless `Technorati widgets <http://kailashnadh.name/ducksoup/>`__ and archives to this site instead of content. I can't say that the trend of pointless but technically interesting effort is going to end anytime soon — here's a teaser for the latest `useless thing </2006/12/08/be-your-own-aronofsky/>`__ that I'm trying to do with video:
 
 |ascii art|
 

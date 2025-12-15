@@ -20,4 +20,4 @@ I don't want to oversell the preceding — I'm pretty sure that Clay Shirky acci
 
 It'll happen to Twitter, too — it *is* happening. So let's start talking now about what conditions we should demand of the next medium-of-the-moment before we start moving our political institutions onto it. My suggestion for a place to start: open, free, and likely to remain so.
 
-**UPDATE:** `This <http://www.manifestdensity.net/2009/03/17/i_do_love_conspiracies/>`__ is somewhat related — it's an example of what I mean by people withdrawing from the collaborative filtering process.
+**UPDATE:** `This </2009/03/17/i-do-love-conspiracies/>`__ is somewhat related — it's an example of what I mean by people withdrawing from the collaborative filtering process.

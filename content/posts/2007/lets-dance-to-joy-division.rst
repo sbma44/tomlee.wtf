@@ -8,7 +8,7 @@ let's dance to Joy Division
 :save_as: 2007/08/31/lets-dance-to-joy-division/index.html
 :url: 2007/08/31/lets-dance-to-joy-division/
 
-I sang the praises of The Wombats a `while ago <http://www.manifestdensity.net/2007/03/01/an_embarrassment_of_riches/>`__, although at the time the hype kaleidoscope had me confused about whether they were up & coming or come & gone. I thought they were the latter; it turns out that they're the former. And, judging by how frequently they seem to be popping up in my RSS reader, it seems like their debut full-length might be pretty big.
+I sang the praises of The Wombats a `while ago </2007/03/01/an-embarrassment-of-riches/>`__, although at the time the hype kaleidoscope had me confused about whether they were up & coming or come & gone. I thought they were the latter; it turns out that they're the former. And, judging by how frequently they seem to be popping up in my RSS reader, it seems like their debut full-length might be pretty big.
 
 So here, have a couple of songs from them. The first is their most recent, I believe, and has a title that seems likely to intrigue at least a few of you.
 

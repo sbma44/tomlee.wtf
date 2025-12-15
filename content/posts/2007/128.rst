@@ -6,7 +6,7 @@ we have a winner
 :slug: 128
 :status: draft
 
-Remember when my `checkcard number was stolen <http://www.manifestdensity.net/2007/01/21/more_crime/>`__? Well, today I got an email that explains how it probably happened:
+Remember when my `checkcard number was stolen </2007/01/21/more-crime/>`__? Well, today I got an email that explains how it probably happened:
 
    | Hello,
    | On February 8th, 2007 it came to our attention that someone or

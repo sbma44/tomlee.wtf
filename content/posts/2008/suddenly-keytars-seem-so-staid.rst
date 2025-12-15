@@ -20,7 +20,7 @@ Unrelatedly, I'm also currently a little fixated on the song at the end of `this
 
    `Frightened Rabbit – The Modern Leper <http://stereogum.com/mp3/Frightened%20Rabbit%20-%20The%20Modern%20Leper.mp3>`__
 
-You might remember me `getting excited <http://www.manifestdensity.net/2007/12/20/hey_have_some_christmas_music/>`__ about this band's Christmas music offerings. Now I'm just excited about them in general (or at least about their upcoming album, from which this song is taken — the stuff I've heard from their last release isn't blowing me away). Scottish accents and melodrama are a winning combination.
+You might remember me `getting excited </2007/12/20/hey-have-some-christmas-music/>`__ about this band's Christmas music offerings. Now I'm just excited about them in general (or at least about their upcoming album, from which this song is taken — the stuff I've heard from their last release isn't blowing me away). Scottish accents and melodrama are a winning combination.
 
 .. |animal keyboard| image:: /static/2008/03/06/20080306_animal_keyboard.jpg
    :class: right

@@ -10,7 +10,7 @@ by sort-of-popular demand
 
 **UPDATE:** I'm no longer using this code since the move to Wordpress -- you might want to check out `this plugin <http://wordpress.org/extend/plugins/flickr-tag/installation/>`__ if you're in a similar situation.
 
-I've now had a whopping three people tell me that they think the lightbox/flickr thing on `this post <http://www.manifestdensity.net/2007/01/01/welcome_to_2007_everybody/>`__ is neat. So here's the script and the process for installing it, for anyone who'd like it (and is running their blog on a PHP-capable webhost).
+I've now had a whopping three people tell me that they think the lightbox/flickr thing on `this post </2007/01/01/welcome-to-2007-everybody/>`__ is neat. So here's the script and the process for installing it, for anyone who'd like it (and is running their blog on a PHP-capable webhost).
 
 #. Get and install `Lightbox2 <http://www.huddletogether.com/projects/lightbox2/>`__ on your site
 

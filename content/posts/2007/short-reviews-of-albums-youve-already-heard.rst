@@ -14,7 +14,7 @@ Spoon – Ga Ga Ga Ga Ga
    It turns out that Joe Strummer faked his death. Thank goodness.
 Stars – In Our Bedroom After The War
    Every Stars song sort of sounds like it's being sung while staring passionately into someone's eyes as a mustachioed villain flourishes his cape in the wings and plots to destroy the Moulin Rouge. This may or may not be a problem.
-`Travison Morrison – All Y'All <http://www.manifestdensity.net/2007/07/27/command_line_rock/>`__
+`Travison Morrison – All Y'All </2007/07/27/command-line-rock/>`__
    The emerging consensus seems to be "almost as good as the Plan!" I'll take a dramatically iconoclastic approach and say that parts of it are just as good as the Plan, while others are not.
 The Cribs – Men's Needs, Women's Needs, Whatever
    Where were you guys when I was driving to the beach?

@@ -8,7 +8,7 @@ science journalism!
 :save_as: 2007/03/29/science-journalism/index.html
 :url: 2007/03/29/science-journalism/
 
-Let's make up for yesterday's `egregious overtagging <http://www.manifestdensity.net/2007/03/28/this_is_pretty_neat/#comment-1424>`__. `Via Slashdot <http://science.slashdot.org/article.pl?sid=07/03/29/0317248&from=rss>`__ I see that some researchers at the MIT Media Lab have `figured out a novel way to stop neurons from firing <http://web.mit.edu/newsoffice/2007/brain-block.html>`__. The secret lies with a light-sensitive chloride channel — shine yellow light on the neurons and chloride ions flood into the cell, eliminating the potential across its membrane and making it impossible for it to fire. They know the gene for this chloride gate, too — it comes from a particular bacterium.
+Let's make up for yesterday's `egregious overtagging </2007/03/28/this-is-pretty-neat/#comment-1424>`__. `Via Slashdot <http://science.slashdot.org/article.pl?sid=07/03/29/0317248&from=rss>`__ I see that some researchers at the MIT Media Lab have `figured out a novel way to stop neurons from firing <http://web.mit.edu/newsoffice/2007/brain-block.html>`__. The secret lies with a light-sensitive chloride channel — shine yellow light on the neurons and chloride ions flood into the cell, eliminating the potential across its membrane and making it impossible for it to fire. They know the gene for this chloride gate, too — it comes from a particular bacterium.
 
 The subhead? "Work could lead to non-surgical treatment for epilepsy, Parkinson's". Christ. This conclusion is apparently based on the following quote from someone at the Media Lab:
 

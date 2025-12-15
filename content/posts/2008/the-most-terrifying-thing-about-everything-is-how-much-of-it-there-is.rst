@@ -8,7 +8,7 @@ the most terrifying thing about everything is how much of it there is
 :save_as: 2008/09/26/the-most-terrifying-thing-about-everything-is-how-much-of-it-there-is/index.html
 :url: 2008/09/26/the-most-terrifying-thing-about-everything-is-how-much-of-it-there-is/
 
-Although everyone's keeping a low profile so far, I'm encouraged by the interest expressed to me privately about the `Halloween story contest <http://www.manifestdensity.net/2008/09/24/competitive_spookiness/>`__. I think this'll be fun.
+Although everyone's keeping a low profile so far, I'm encouraged by the interest expressed to me privately about the `Halloween story contest </2008/09/24/competitive-spookiness/>`__. I think this'll be fun.
 
 So let's press onward! As promised, I'm going to post a bunch of spooky stuff in order to provide both inspiration and a gentle kick in the ass. I think I'm going to start this process by heading back in time from `the Hellboy comic <http://www.flickr.com/photos/30858603@N08/sets/72157607468306330/show/with/2885384174/>`__ that started the process.
 

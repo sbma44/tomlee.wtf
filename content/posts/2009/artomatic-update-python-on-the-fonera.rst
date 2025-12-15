@@ -40,4 +40,4 @@ Once again, googling around downloads.openwrt.org turned out to be a good idea. 
 
 For those of you trying to follow my steps exactly, `here's the termios.so that I'm using </2009/05/05/python_on_the_fonera/termios.so>`__. This method should work more generally for selectively loading python libraries that you need onto your Fonera.
 
-Incidentally, all of this is a *massive* overengineering of what's necessary to finish my Artomatic project: those requirements could probably be satisfied with a wireless doorbell kit from Logan Hardware and a couple of `555 ICs <http://www.manifestdensity.net/2007/06/15/beat_me_to_it/>`__. But I want this system to ultimately work over the internet, so for me it's worthwhile to create an IP-capable device.
+Incidentally, all of this is a *massive* overengineering of what's necessary to finish my Artomatic project: those requirements could probably be satisfied with a wireless doorbell kit from Logan Hardware and a couple of `555 ICs </2007/06/15/beat-me-to-it/>`__. But I want this system to ultimately work over the internet, so for me it's worthwhile to create an IP-capable device.

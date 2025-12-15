@@ -26,4 +26,4 @@ In the past you could prove your mettle and gain entry to an industry via skillf
 
 But this is a pretty depressing perspective, and not at all in keeping with my general internet triumphalism. Explanations why I'm wrong will be welcomed with open arms.
 
-**OH YEAH!** I nearly forgot: I wrote about related issues in somewhat rosier terms `a while ago <http://www.manifestdensity.net/2007/04/20/giant_nazi_robots/>`__.
+**OH YEAH!** I nearly forgot: I wrote about related issues in somewhat rosier terms `a while ago </2007/04/20/giant-nazi-robots/>`__.

@@ -8,7 +8,7 @@ similarity matrix 2
 :save_as: 2007/03/14/similarity-matrix-2/index.html
 :url: 2007/03/14/similarity-matrix-2/
 
-A promise is a promise, even if no one particularly cares. Here's that DHTML similarity matrix `I promised <http://www.manifestdensity.net/2007/03/02/keeping_promises/>`__. I haven't done much cross-browser testing, but in Firefox at least you should now be able to see which state delegation are the most homogenous\* and which are the most loyal to their party. The results won't shock you (Californians are better Democrats than Kansans!?!!), but it's nice to see that my math seems to be correct.
+A promise is a promise, even if no one particularly cares. Here's that DHTML similarity matrix `I promised </2007/03/02/keeping-promises/>`__. I haven't done much cross-browser testing, but in Firefox at least you should now be able to see which state delegation are the most homogenous\* and which are the most loyal to their party. The results won't shock you (Californians are better Democrats than Kansans!?!!), but it's nice to see that my math seems to be correct.
 
 Now that I'm home (and Southby preparations are over with) I can devote some more time to this Sunlight Foundation contest. I've got a few ideas and a bunch of very good leads courtesy of `son1 <http://bayes.wordpress.com/>`__. The deadline isn't until mid-April — I think I should definitely be able to come up with something cool by then.
 
@@ -1473,6 +1473,6 @@ Now that I'm home (and Southby preparations are over with) I can devote some mor
 
    </p>
 
-**UPDATE:** Looks like the DHTML is a little finicky. Given that this isn't the final form that this data will be visualized in, I don't think I'm going to bother fixing it. It still works on the `permalinked page <http://www.manifestdensity.net/2007/03/14/similarity_matrix_2/>`__ though, so if you want to see it in action follow that link.
+**UPDATE:** Looks like the DHTML is a little finicky. Given that this isn't the final form that this data will be visualized in, I don't think I'm going to bother fixing it. It still works on the `permalinked page </2007/03/14/similarity-matrix-2/>`__ though, so if you want to see it in action follow that link.
 
 .. |image1| image:: http://raymond.bluegecko.net/~tom/sunlight/graph_color.png

@@ -33,7 +33,7 @@ It's tempting to just hit "mark all as read" on every feed in my reader, but I'd
 
      .. raw:: html
 
-        <embed src="/static/2007/03/16/xspf_player.swf?playlist_url=http://www.manifestdensity.net/2007/03/16/cityveins.xspf" <br>
+        <embed src="/static/2007/03/16/xspf_player.swf?playlist_url=/static/2007/03/16/cityveins.xspf" <br>
 
      .. raw:: html
 

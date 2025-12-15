@@ -12,7 +12,7 @@ So look, cut me some slack. It's been a rough week: between work trauma and bein
 
 I *did* manage to fail to implement a cool webcam thing I was working on, as well as managing to not get Arcade Fire tickets (iCal reminders don't work, apparently). I know, quite a week.
 
-But I didn't just sit around complaining! I did other things, too. Ever since `Jeff <http://www.jeffnye.org>`__ `told me <http://www.manifestdensity.net/2006/11/30/well_im_sick/#comments>`__ that my beloved zinc tables were probably destroying my brain I've been looking for a new pseudoscientific way to recover from colds. But nothing plausible and affordable had come along, and I was ill again — I found myself lowering my standards. I was getting sicker and more suggestible by the day.
+But I didn't just sit around complaining! I did other things, too. Ever since `Jeff <http://www.jeffnye.org>`__ `told me </2006/11/30/well-im-sick/#comments>`__ that my beloved zinc tables were probably destroying my brain I've been looking for a new pseudoscientific way to recover from colds. But nothing plausible and affordable had come along, and I was ill again — I found myself lowering my standards. I was getting sicker and more suggestible by the day.
 
 That's when I heard `this <http://www.npr.org/templates/story/story.php?storyId=7108546&ft=1&f=3>`__ NPR report. Nasal irrigation? Sure! Why not?
 

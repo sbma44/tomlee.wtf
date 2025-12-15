@@ -12,6 +12,7 @@ THEME = "themes/typology"
 
 # Feeds
 FEED_ALL_ATOM = "feed.xml"
+FEED_MAX_ITEMS = 20
 
 # Pagination
 DEFAULT_PAGINATION = 20

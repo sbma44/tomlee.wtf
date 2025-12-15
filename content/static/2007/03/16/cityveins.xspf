@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="0" xmlns = "http://xspf.org/ns/0/">
+  <trackList>
+   <track>
+    <location>http://web.omnidrive.com/APIServer/public/hW2fK2pq1JlHErkkV7Mz8Pi2/01 Conversation.mp3</location>
+    <image>http://bp1.blogger.com/_JyDL8sKr0AE/RexCsvsBPbI/AAAAAAAAAA8/JQvoMjEzTk8/s1600/cityveins.jpg</image>
+    <annotation>Conversation</annotation>
+   </track>
+      <track>
+    <location>http://web.omnidrive.com/APIServer/public/lCa2Rn4jprSApU7ZlfzDqjmJ/02 CulturedCapital.mp3</location>
+    <image>http://bp1.blogger.com/_JyDL8sKr0AE/RexCsvsBPbI/AAAAAAAAAA8/JQvoMjEzTk8/s1600/cityveins.jpg</image>
+    <annotation>Cultured Capital</annotation>
+   </track>
+   <track>
+    <location>http://web.omnidrive.com/APIServer/public/RoZPKx7TchLpv0Y1KLueLuun/03 KeepItAllInside.mp3</location>
+    <image>http://bp1.blogger.com/_JyDL8sKr0AE/RexCsvsBPbI/AAAAAAAAAA8/JQvoMjEzTk8/s1600/cityveins.jpg</image>
+    <annotation>Keep It All Inside</annotation>
+   </track>
+   <track>
+    <location>http://web.omnidrive.com/APIServer/public/3EvyBrO78zYEfjmZHVkokKVn/04 ToeTheLine.mp3</location>
+    <image>http://bp1.blogger.com/_JyDL8sKr0AE/RexCsvsBPbI/AAAAAAAAAA8/JQvoMjEzTk8/s1600/cityveins.jpg</image>
+    <annotation>Toe The Line</annotation>
+   </track>
+   <track>
+    <location>http://web.omnidrive.com/APIServer/public/DEGHxvRhcBUC754WHfTR5RUv/05 OnePicture.mp3</location>
+    <image>http://bp1.blogger.com/_JyDL8sKr0AE/RexCsvsBPbI/AAAAAAAAAA8/JQvoMjEzTk8/s1600/cityveins.jpg</image>
+    <annotation>One Picture</annotation>
+   </track>
+   <track>
+    <location>http://web.omnidrive.com/APIServer/public/YDUJcwkyBgVkwM0aplwS0LSx/06 Downtown.mp3</location>
+    <image>http://bp1.blogger.com/_JyDL8sKr0AE/RexCsvsBPbI/AAAAAAAAAA8/JQvoMjEzTk8/s1600/cityveins.jpg</image>
+    <annotation>Downtown</annotation>
+   </track>
+   <track>
+    <location>http://web.omnidrive.com/APIServer/public/8dAzJPZYJErzDAKfCOMv8o7q/07 IDon'tSeeItComing.mp3</location>
+    <image>http://bp1.blogger.com/_JyDL8sKr0AE/RexCsvsBPbI/AAAAAAAAAA8/JQvoMjEzTk8/s1600/cityveins.jpg</image>
+    <annotation>I Don't See It Coming</annotation>
+   </track>
+   <track>
+    <location>http://web.omnidrive.com/APIServer/public/yPd2YNLinSH8RIgiborI4T7C/08 BleedTheSame.mp3</location>
+    <image>http://bp1.blogger.com/_JyDL8sKr0AE/RexCsvsBPbI/AAAAAAAAAA8/JQvoMjEzTk8/s1600/cityveins.jpg</image>
+    <annotation>Bleed The Same</annotation>
+   </track>
+   <track>
+    <location>http://web.omnidrive.com/APIServer/public/7eKat6M4bk7E7CQcZ7IJ7bbH/09 TheseWordsAreFlattery.mp3</location>
+    <image>http://bp1.blogger.com/_JyDL8sKr0AE/RexCsvsBPbI/AAAAAAAAAA8/JQvoMjEzTk8/s1600/cityveins.jpg</image>
+    <annotation>These Words Are Flattery</annotation>
+   </track>
+   <track>
+    <location>http://web.omnidrive.com/APIServer/public/4aFNIL1MzJ6FwqFvrnebXXbJ/10 StrikeUpTheBand.mp3</location>
+    <image>http://bp1.blogger.com/_JyDL8sKr0AE/RexCsvsBPbI/AAAAAAAAAA8/JQvoMjEzTk8/s1600/cityveins.jpg</image>
+    <annotation>Strike Up The Band</annotation>
+   </track>
+  </trackList>
+</playlist>

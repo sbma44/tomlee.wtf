@@ -14,7 +14,7 @@ But all regularly scheduled activities continue: chief among them the Halloween 
 
 The essential details, for those only now paying attention: the deadline is a week from today; there's no minimum length; stories may be submitted anonymously; and the winner of the resulting popular vote gets $100. It's easy.
 
-My absence from the internet stopped me from posting more inspirational Halloweeniana, so now I'm going to have to pick up the pace. My last offering was `particularly lame <http://www.manifestdensity.net/2008/10/08/childhood_terror/>`__, so let's return to one of the classics: M.R. James.
+My absence from the internet stopped me from posting more inspirational Halloweeniana, so now I'm going to have to pick up the pace. My last offering was `particularly lame </2008/10/08/childhood-terror/>`__, so let's return to one of the classics: M.R. James.
 
 Some of James' stories are pretty creepy — `The Ash-Tree <http://gaslight.mtroyal.ca/jamesX05.htm>`__ is probably the best one I've read on that score — but that's not the thing about his work that I most enjoy. James taught at King's College and Eton, and composed many of his stories as part of the English tradition of telling ghost stories at Christmas Eve (yuletide, they call it, just to further British things up). It's a tradition I'd never heard of before, but one that sounds pretty great.
 

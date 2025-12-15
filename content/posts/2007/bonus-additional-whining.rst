@@ -16,4 +16,4 @@ bonus additional whining
 
 [STRIKEOUT:A-HA!: "Mark all as read" also doesn't work. Fantastic. And it turns out I could've upgraded to version 3.0 for free as late as Friday (when my NewsGator subscription ran out) — maybe my failure to get the latest & greatest is what's responsible for the current malfunction.]
 
-Ranchero eventually wrote back and confirmed that I was experiencing a bug, not an unusually evil licensing policy. They've made everything better, and I'm once more a happy customer — see `here <http://www.manifestdensity.net/2007/08/01/all_better/>`__ for more.
+Ranchero eventually wrote back and confirmed that I was experiencing a bug, not an unusually evil licensing policy. They've made everything better, and I'm once more a happy customer — see `here </2007/08/01/all-better/>`__ for more.
