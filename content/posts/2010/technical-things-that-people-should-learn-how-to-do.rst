@@ -19,7 +19,7 @@ Not that I blame those who don't! But:
 
 /pet peeves
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/twitter_convo-20100203-115722.png
+.. |image1| image:: /static/2010/02/03/twitter_convo-20100203-115722.png
    :class: aligncenter
    :width: 456px
    :height: 455px

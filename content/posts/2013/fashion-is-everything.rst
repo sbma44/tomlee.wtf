@@ -8,7 +8,7 @@ fashion is everything
 :save_as: 2013/01/02/fashion-is-everything/index.html
 :url: 2013/01/02/fashion-is-everything/
 
-`Michael Arrington is bored <http://techcrunch.com/2012/12/30/im-bored-whats-next/>`__. About eight months ago, `Alexis Madrigal was similarly bored <http://www.manifestdensity.net/2012/04/18/technology-is-driving-me-crazy/>`__. These guys are leaders in their field, and consequently I think their malaise is likely to spread. I suspect it has to -- that it's an inevitable consequence of the kind of mentality on display in this audio clip:
+`Michael Arrington is bored <http://techcrunch.com/2012/12/30/im-bored-whats-next/>`__. About eight months ago, `Alexis Madrigal was similarly bored </2012/04/18/technology-is-driving-me-crazy/>`__. These guys are leaders in their field, and consequently I think their malaise is likely to spread. I suspect it has to -- that it's an inevitable consequence of the kind of mentality on display in this audio clip:
 
 That's from NPR's "`Best Apps of 2012 <http://www.npr.org/2012/12/31/168367414/tech-writers-five-best-apps-of-2012>`__" piece. I think it's revealing: Brown picks an app in a done-to-death genre and \*explicitly\* says that novelty forms the basis of his excitement about it.
 

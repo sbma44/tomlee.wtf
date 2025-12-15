@@ -25,5 +25,5 @@ A lack of attention shouldn't be confused with a lack of calculation, however: N
 
 **UPDATE:** Nintendo has responded through private channels, and consequently it looks like the exploit won't be released until after a patch is issued. It's still entertaining to check out the comments at the linked post, though, which are full of morons impersonating Nintendo representatives in order to get the exploit sent to them. A hint for these overconfident confidence men: most major corporations don't ask to use IRC to discuss trade secrets.
 
-.. |mario and pirate| image:: http://www.manifestdensity.net/skitch/skitched-20080717-113346.jpg
+.. |mario and pirate| image:: /static/2008/07/17/skitched-20080717-113346.jpg
    :class: center

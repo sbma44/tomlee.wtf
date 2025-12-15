@@ -12,8 +12,8 @@ Once again, I pretty much lost track of the debate by its end — I was typing f
 
 She did regress in at least one respect, though: her pronunciation. She managed to say the word "nuclear" perfectly correctly during her convention speech. But last night she adopted the "nucular" formulation favored by grade school boys and our current president. Here, check it out.
 
-   | `Palin at the RNC – Nuclear, clearly <http://www.manifestdensity.net/2008/10/03/palin-speech-nuclear.mp3>`__
-   | `Palin at the Debate – Nucular contamination <http://www.manifestdensity.net/2008/10/03/palin-debate-nucular.mp3>`__
+   | `Palin at the RNC – Nuclear, clearly </static/2008/10/03/palin-speech-nuclear.mp3>`__
+   | `Palin at the Debate – Nucular contamination </static/2008/10/03/palin-debate-nucular.mp3>`__
 
 There are a few ways to react to this. `Wolfson linked <http://www.unfogged.com/archives/week_2008_09_28.html#009273>`__ to `this piece at Language Log <http://itre.cis.upenn.edu/~myl/languagelog/archives/001134.html>`__ today, which perceptively notes that:
 

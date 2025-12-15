@@ -26,8 +26,8 @@ The result worked pretty well. Still, there were a few problems with the approac
 
 But I'd still love to see my algorithm adapted by the people who make RSS readers, and would be happy to talk to any interested and qualified parties about making that happen.  Those SEO morons don't appear to be particularly technically proficient -- I'm not too worried about them managing to steal content via a client-side app (though certainly some thought should be given to the matter before giving the store away, say via Applescript).
 
-.. |blackhat_seo_lg| image:: http://www.manifestdensity.net/static/2009/12/blackhat_seo_lg-96x300.png
+.. |blackhat_seo_lg| image:: /static/2009/12/blackhat_seo_lg-96x300.png
    :class: aligncenter size-medium wp-image-1118
    :width: 96px
    :height: 300px
-   :target: http://www.manifestdensity.net/static/2009/12/blackhat_seo_lg.png
+   :target: /static/2009/12/blackhat_seo_lg.png

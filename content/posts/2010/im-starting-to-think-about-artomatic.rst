@@ -12,8 +12,8 @@ I'm starting to think about Artomatic
 
 |image1|
 
-.. |image1| image:: http://www.manifestdensity.net/static/2010/03/entwined_circles_test.gif
+.. |image1| image:: /static/2010/03/entwined_circles_test.gif
    :class: aligncenter size-full wp-image-1319 center
    :width: 200px
    :height: 300px
-   :target: http://www.manifestdensity.net/static/2010/03/entwined_circles_test.gif
+   :target: /static/2010/03/entwined_circles_test.gif

@@ -22,5 +22,5 @@ A typical middle class family doesn't feel threatened by the improving fortunes 
 
 But, as is all too typical, the pirate menace that dominates the nightmares of the nation's breadwinners is going unacknowledged by our warmongering village elites. You see it's just not that glamorous to talk seriously about the roots of piracy, or to build the sorts of institutions that can stop its spread in a meaningful way. No, it's much easier to craft a self-flattering narrative about plucky humans standing up to gleaming mechanical terrors. Frankly, I expected more of Matt.
 
-.. |PROOF| image:: http://www.manifestdensity.net/2008/03/27/20080327_robots.png
+.. |PROOF| image:: /static/2008/03/27/20080327_robots.png
    :class: center

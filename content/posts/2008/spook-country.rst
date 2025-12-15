@@ -20,7 +20,7 @@ Anyway, I say all of this by way of introducing the following passage (which is 
 
 I have no idea if the above is true, but it's certainly an interesting idea: that, when it comes to torture, black & white bellicosity is a meme capable of self-preservation, rather than just a manifestation of the torturer's ignorance and imcompetence. Failing to get results, forcing everyone to play their assigned parts with conviction — that's actually the *point*.
 
-.. |20080630_spookcountry.jpg| image:: http://www.manifestdensity.net/2008/06/30/20080630_spookcountry.jpg
+.. |20080630_spookcountry.jpg| image:: /static/2008/06/30/20080630_spookcountry.jpg
    :class: right
    :width: 144px
    :height: 225px

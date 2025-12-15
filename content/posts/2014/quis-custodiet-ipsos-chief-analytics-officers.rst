@@ -30,7 +30,7 @@ Although it would be hard to completely deny a fad dynamic to these successive w
 
    </p>
 
-I can see why Eric thinks black-box metrics would be bad. But the bespoke nature of the new, increasingly in-house analytics trends carries advantages for those creating them. And this isn't the first time that content creators have evolved toward capturing the mechanisms by which their own success is measured. A little over three years ago, before many of the aforementioned analytics trends occurred, `I wrote this <http://www.manifestdensity.net/2010/12/05/more-efficiency-means-less-profit/>`__:
+I can see why Eric thinks black-box metrics would be bad. But the bespoke nature of the new, increasingly in-house analytics trends carries advantages for those creating them. And this isn't the first time that content creators have evolved toward capturing the mechanisms by which their own success is measured. A little over three years ago, before many of the aforementioned analytics trends occurred, `I wrote this </2010/12/05/more-efficiency-means-less-profit/>`__:
 
    [B]y all accounts online advertising doesn’t work very well. You can measure whether someone clicks on an ad, and often whether they buy something after that click. But it turns out they rarely do those things. So businesses aren’t willing to pay very much for ad space on websites.
 

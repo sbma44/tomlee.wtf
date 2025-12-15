@@ -20,7 +20,7 @@ But I realize that I've been putting my few long-suffering readers through a lot
 
 **UPDATE:** Here's `a workplace philosophy <http://blogs.nbcuni.com/DwightsBlog/2006/11/how_to_work_well_with_others.php>`__ that I wholeheartedly endorse (see final paragraph).
 
-.. |ascii art| image:: http://www.manifestdensity.net/2007/01/16/_20thcenturyascii.jpg
+.. |ascii art| image:: /static/2007/01/16/_20thcenturyascii.jpg
    :class: center
    :width: 439px
    :height: 283px

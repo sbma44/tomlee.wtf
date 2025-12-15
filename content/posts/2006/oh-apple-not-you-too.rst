@@ -16,5 +16,5 @@ I suppose that this verbal use of "gift" isn't technically incorrect — that's 
 
 Other things! The Wii: pretty great, although potentially bad for my joints. Emily: currently stuck in Philadelphia. Myself: off to make half-hearted efforts at physical fitness. More on all of these later.
 
-.. |screen grab from the itunes music store reading 'gift this music'| image:: http://www.manifestdensity.net/2006/12/27/20061227_giftmusic.jpg
+.. |screen grab from the itunes music store reading 'gift this music'| image:: /static/2006/12/27/20061227_giftmusic.jpg
    :class: center

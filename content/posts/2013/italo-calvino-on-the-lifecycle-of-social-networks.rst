@@ -18,4 +18,4 @@ Italo Calvino on the lifecycle of social networks
 
    Then, when traveling in the territory of Ersilia, you come upon the ruins of the abandoned cities, without the walls which do not last, without the bones of the dead which the wind rolls away: spiderwebs of intricate relationships seeking a form.
 
-(`Previously <http://www.manifestdensity.net/2009/07/02/after-twitter/>`__)
+(`Previously </2009/07/02/after-twitter/>`__)

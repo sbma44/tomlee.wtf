@@ -26,7 +26,7 @@ My childlike faith in the internet makes it hard for me to believe that it's any
 
 Anyway, it's all very mysterious, but for now the danger seems to have passed.
 
-.. |some jerk used my card at kroger| image:: http://www.manifestdensity.net/2007/01/21/20070117_kroger.gif
+.. |some jerk used my card at kroger| image:: /static/2007/01/21/20070117_kroger.gif
    :class: center
    :width: 481px
    :height: 69px

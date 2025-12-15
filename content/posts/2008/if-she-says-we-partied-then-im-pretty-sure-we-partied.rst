@@ -26,5 +26,5 @@ The show wasn't recorded, but the band did a set from this tour on World Cafe, a
 
 *Image by Flickr user* `hyku <http://flickr.com/photos/hyku/134963545/>`__\ *, used under a* `Creative Commons <http://creativecommons.org>`__ *license*
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/yborcity3-20080815-115155.jpg
+.. |image1| image:: /static/2008/08/15/yborcity3-20080815-115155.jpg
    :class: center

@@ -18,8 +18,8 @@ I can back that up.  When I was done with my first attempt, I could swear I tas
 
 Perhaps your cardiovascular system is not as pathetic as my own (I hope not; these lungs have proven to be serious underperformers).  Either way, this is worth a try.  And as a bonus, it produces an unusually bumpy and cool-looking heart rate graph, captured courtesy of the neat Garmin monitoring doohickey that Emily bought for me a year ago (that first peak is from me climbing up the six floors to the YMCA's indoor track).
 
-.. |image1| image:: http://www.manifestdensity.net/static/2010/02/exhausting.png
+.. |image1| image:: /static/2010/02/exhausting.png
    :class: aligncenter size-full wp-image-1299
    :width: 500px
    :height: 218px
-   :target: http://www.manifestdensity.net/static/2010/02/exhausting.png
+   :target: /static/2010/02/exhausting.png

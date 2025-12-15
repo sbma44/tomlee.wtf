@@ -24,7 +24,7 @@ It may seem like a pretty trivial thing, but I think this could actually make a 
 
 *Photo by Flickr user* `nedrichards <http://flickr.com/photos/nedrichards/381834107/>`__\ *, used under a* `Creative Commons <http://creativecommons.org>`__ *license*
 
-.. |20080617_electribike.jpg| image:: http://www.manifestdensity.net/2008/06/17/20080617_electribike.jpg
+.. |20080617_electribike.jpg| image:: /static/2008/06/17/20080617_electribike.jpg
    :class: center
    :width: 500px
    :height: 375px

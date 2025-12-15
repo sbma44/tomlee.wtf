@@ -16,7 +16,7 @@ Anyway, by counting the lines in each file, I was able to generate the following
 
 |Active Weekday WMATA Trips by Time|
 
-.. |Active Weekday WMATA Trips by Time| image:: http://www.manifestdensity.net/skitch/weekday_wmata_trips_by_time-20090419-104847.png
+.. |Active Weekday WMATA Trips by Time| image:: /static/2009/04/19/weekday_wmata_trips_by_time-20090419-104847.png
    :class: center
    :width: 521px
    :height: 387px

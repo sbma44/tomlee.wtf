@@ -18,5 +18,5 @@ There are of course some practical concerns. The foil would have to be significa
 
 Whatever the specifics, I think this is an initiative that would be welcomed by the public. Certainly I'd be a lot happier about it than I was when I received five one-dollar coins' worth of change from the Chinatown bus people last night.
 
-.. |Gelt!| image:: http://www.manifestdensity.net/skitch/20090131_gelt-20090131-165317.jpg
+.. |Gelt!| image:: /static/2009/01/31/20090131_gelt-20090131-165317.jpg
    :class: right

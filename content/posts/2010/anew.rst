@@ -18,7 +18,7 @@ Unfortunately, the folks who created ANEW `don't want to give their data away <h
 
 This seems a little silly to me.  And it seems *really* silly when you consider that their `widely-available 1999 paper introducing ANEW <http://scholar.google.com/scholar?q=Affective%20norms%20for%20English%20words%20%28ANEW%29%3A%20Instruction%20manual%20and%20affective%20ratings&um=1&ie=UTF-8&sa=N&hl=en&tab=ws>`__ contains a complete data set.
 
-`You can probably see where this is going <http://www.manifestdensity.net/2007/10/16/hypem-revivified-then-vivisected/>`__.
+`You can probably see where this is going </2007/10/16/hypem-revivified-then-vivisected/>`__.
 
 `Here's the data in CSV format </static/2010/06/anew-1999.tar.gz>`__.  `Here's the code used to generate it <http://github.com/sbma44/begin_anew>`__. `Here's a paper that shows how to use ANEW <http://www.springerlink.com/content/757723154j4w726k/fulltext.html>`__.
 

@@ -10,7 +10,7 @@ I still don't like Sleigh Bells
 
 Kriston wants me to believe that Sleigh Bells is good. To wit, he shares this video:
 
-So! They've dropped the irritating `audio clipping <http://en.wikipedia.org/wiki/Clipping_(audio)>`__, which `I found physically unpleasant <http://www.manifestdensity.net/2010/05/14/sleigh-bells/>`__. But this is just as gimmicky. Have a look at the waveform:
+So! They've dropped the irritating `audio clipping <http://en.wikipedia.org/wiki/Clipping_(audio)>`__, which `I found physically unpleasant </2010/05/14/sleigh-bells/>`__. But this is just as gimmicky. Have a look at the waveform:
 
 |sleigh bells waveform|
 
@@ -26,7 +26,7 @@ Loudness is just the same. The louder it is, the more fervent it is; the more ra
 
 So I leave it to you: is Sleigh Bells a Ferran Adrià, or are they a Frito Lay? Tedious pop historians will adjudicate this, but based on the simplistic lyrics, repetitive hooks and increasingly well-worn playbook, I know where I'm placing my bet.
 
-.. |sleigh bells waveform| image:: http://www.manifestdensity.net/skitch/sleigh_bells-20120524-233233.png
+.. |sleigh bells waveform| image:: /static/2012/05/24/sleigh_bells-20120524-233233.png
    :class: center
-.. |Back in Black| image:: http://www.manifestdensity.net/skitch/back_in_black-20120524-233416.png
+.. |Back in Black| image:: /static/2012/05/24/back_in_black-20120524-233416.png
    :class: center

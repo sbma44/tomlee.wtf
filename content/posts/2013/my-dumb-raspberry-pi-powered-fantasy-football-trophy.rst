@@ -99,7 +99,7 @@ Yahoo ensures that this will not be the end of your woes, but I've encoded a num
 Moving the Needle
 -----------------
 
-The last piece of the puzzle: making the damn needles move. Most of the excitement is already recorded in `this post <http://www.manifestdensity.net/2013/03/10/texameter/>`__. But in short: microcontrollers are all-or-nothing beasts, setting output pins to zero volts or ALL THE VOLTS (3.3 in the case of the Pi). But they can approximate intermediate values by turning a pin on and off very rapidly, with the ratio of on:off determining the voltage that's being approximated. This is called pulse width modulation, and the Pi has built-in hardware that allows it to deal with this constant switching without expending any brainpower -- but only on one pin.
+The last piece of the puzzle: making the damn needles move. Most of the excitement is already recorded in `this post </2013/03/10/texameter/>`__. But in short: microcontrollers are all-or-nothing beasts, setting output pins to zero volts or ALL THE VOLTS (3.3 in the case of the Pi). But they can approximate intermediate values by turning a pin on and off very rapidly, with the ratio of on:off determining the voltage that's being approximated. This is called pulse width modulation, and the Pi has built-in hardware that allows it to deal with this constant switching without expending any brainpower -- but only on one pin.
 
 Luckily, the wiringpi library has included as sophisticated a system for additional, software-controlled pins as one could hope for, though each additional pin comes at the cost of a bit more CPU utilization. Fortunately we only need two for this meter (the -100 to +100 meter is actually set up to behave as if it's two separate meters).
 
@@ -114,5 +114,5 @@ All that's left is to add a little flair:
 
 Ben will get a plaque now, too. I guess.
 
-.. |image1| image:: http://www.manifestdensity.net/static/2013/10/kerf_demo.png
+.. |image1| image:: /static/2013/10/kerf_demo.png
    :class: center

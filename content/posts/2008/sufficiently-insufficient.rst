@@ -8,7 +8,7 @@ sufficiently insufficient
 :save_as: 2008/06/19/sufficiently-insufficient/index.html
 :url: 2008/06/19/sufficiently-insufficient/
 
-The Wii Twilight Princess hack (which I wrote about `here <http://www.manifestdensity.net/2008/03/18/smash/>`__) was killed by the system's most recent update, received this week by all Wiis connected to the internet.
+The Wii Twilight Princess hack (which I wrote about `here </2008/03/18/smash/>`__) was killed by the system's most recent update, received this week by all Wiis connected to the internet.
 
 The `industrious hackers <http://hackmii.com/2008/06/june-16-wii-update/>`__ of the net have already figured out a workaround, though. Apparently Nintendo's fix is targeted to Twilight Princess, and scans for the specific corrupted save files that enable the hack. That's already an encouraging sign — there are almost certainly similar vulnerabilities in other games, and if Nintendo is tackling the problem in this piecemeal approach it means that the homebrew scene is unlikely to ever be thwarted for long.
 

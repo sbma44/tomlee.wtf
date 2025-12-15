@@ -28,7 +28,7 @@ I'll boil it down to a few things, I guess:
 
 - The adoption of ubiquitous computing is a function of physical technology's ever-falling price versus the benefit it confers. There are many applications enabled by lower prices that are just now achieving market viability. But that's because their benefit is meager, not because the tech was impossibly pricey. This may not be universally true, but it's probably true for the anticipated uses that are currently being used to sell this phenomenon: quantified self and home automation.
 - Concerns about maintaining the software in a zillion different devices seem legit (though people are underestimating just how awful embedded tech can get away with being, and overestimating both the incentives facing bad actors and the threat surface present on devices that are designed to be \*extremely\* limited). Partly for this reason, functions will continue to accrue to your phone whenever possible (we're running low on compelling sensors at the moment, but IR photography and laser rangefinding might sell some iPhones). `Some will try to achieve a profitable, lock-in-driven business through proprietary solutions to this headache, but I doubt they'll succeed <http://www.vox.com/2014/5/8/5590228/how-tiny-computers-could-change-the-way-we-live>`__.
-- `The most interesting questions surrounding these issues concern transhumanism <http://www.manifestdensity.net/2013/05/02/project-glass-is-scary-enough-to-deserve-some-respect/>`__.
+- `The most interesting questions surrounding these issues concern transhumanism </2013/05/02/project-glass-is-scary-enough-to-deserve-some-respect/>`__.
 
 **UPDATE:** You know, I did leave off one huge thing--the sharing economy (with apologies to Tom Slee). Uber, Bixi, AirBnB--using technology for access control really is only recently possible, thanks to the evolution of IT payment and identity systems. And it really can make our collective use of property hugely different and better.
 
@@ -36,4 +36,4 @@ I'll boil it down to a few things, I guess:
    :class: alignright wp-image-2808
    :width: 319px
    :height: 294px
-   :target: http://www.manifestdensity.net/static/2014/05/things.gif
+   :target: /static/2014/05/things.gif

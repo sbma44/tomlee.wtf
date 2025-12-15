@@ -54,7 +54,7 @@ Finally, let me offer my apologies for the resolution of this clip — for now, 
 
    </p>
 
-.. |image1| image:: http://www.manifestdensity.net/2007/02/02/_bigmediamathis.jpg
+.. |image1| image:: /static/2007/02/02/_bigmediamathis.jpg
    :width: 500px
    :height: 394px
    :target: http://blip.tv/file/get/Sbma44-SommerRecompress126.flv

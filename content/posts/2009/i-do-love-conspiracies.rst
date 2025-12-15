@@ -14,5 +14,5 @@ There's an obvious advantage to moving the social and argument-refining function
 
 It's hard to begrudge anyone this sort of professional conservatism, particularly when their industry is in turmoil. I certainly engage in similar behaviors when I find them advantageous. But it does seem likely to me that there's a homogenizing effect that comes from blog-labor-saving devices like mailing lists and `memeorandum <http://www.memeorandum.com/>`__. As a fan of these writers I'm glad for anything that makes their work easier, but as a member of the reading public I have to admit: it's kind of a drag to know that the blogosphere's efforts to improve itself have led to its audience being protected from so much interesting content.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/illuminati-20090317-183138.png
+.. |image1| image:: /static/2009/03/17/illuminati-20090317-183138.png
    :class: right

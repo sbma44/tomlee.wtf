@@ -22,5 +22,5 @@ My point is that Washington knows how to deal with his type: when we've had a fe
 
 That's the way things work around here, and it's a system we're comfortable with. Seeing misfortune befall ol' Bob seems like an imbalance, and that makes me sad. If I get my choice of foe I'll take reptilian evil over reptile-sized brains any day.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/skitched-20080723-135202.jpg
+.. |image1| image:: /static/2008/07/23/skitched-20080723-135202.jpg
    :class: center

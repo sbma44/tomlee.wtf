@@ -8,7 +8,7 @@ I was wrong about analytic price discrimination
 :save_as: 2012/08/20/i-was-wrong-about-analytic-price-discrimination/index.html
 :url: 2012/08/20/i-was-wrong-about-analytic-price-discrimination/
 
-`This post from Kate <http://crawfordkate.tumblr.com/post/29843732871/this-piece-at-the-billfold-is-terrible-an>`__ reminds me: I realized over the weekend that `I was totally wrong about the evilness of automated price discrimination <http://www.manifestdensity.net/2012/06/25/analytic-price-discrimination-is-becoming-a-real-pain-in-the-ass/>`__.
+`This post from Kate <http://crawfordkate.tumblr.com/post/29843732871/this-piece-at-the-billfold-is-terrible-an>`__ reminds me: I realized over the weekend that `I was totally wrong about the evilness of automated price discrimination </2012/06/25/analytic-price-discrimination-is-becoming-a-real-pain-in-the-ass/>`__.
 
 I'd heard the arguments, but for some reason they hadn't sunk in. Pricing goods based on the buyer's means isn't too dissimilar to `the Swiss policy of ticketing drivers for amounts that go up with their incomes <http://www.autoblog.com/2010/08/13/swedish-man-may-pay-largest-speeding-fine-ever/>`__. In most markets, it seems likely that this will amount to a cross-subsidization from rich purchasers to poor -- a progressive transfer. In the past I might have complained about this because the sorting mechanism used to distinguish between the rich and poor was basically to make the poor jump through a ton of hoops: weird store hours, clipping coupons, and otherwise imposing what amounted to a tax on their time (which they were willing to pay because their time was worth less than that of the wealthy). This seemed pointlessly wasteful and inhumane. I think that's the part that really bugged me.
 

@@ -28,8 +28,8 @@ Anyway, I'm open to other suggested analyses. Lay 'em on me.
 
  
 
-.. |image1| image:: http://www.manifestdensity.net/static/2012/12/Screen-Shot-2012-12-21-at-12.02.03-PM.png
+.. |image1| image:: /static/2012/12/Screen-Shot-2012-12-21-at-12.02.03-PM.png
    :class: aligncenter size-full wp-image-2290
    :width: 628px
    :height: 425px
-   :target: http://www.manifestdensity.net/static/2012/12/Screen-Shot-2012-12-21-at-12.02.03-PM.png
+   :target: /static/2012/12/Screen-Shot-2012-12-21-at-12.02.03-PM.png

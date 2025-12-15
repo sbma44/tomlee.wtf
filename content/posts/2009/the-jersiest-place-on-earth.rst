@@ -36,8 +36,8 @@ The bar turned out to be filled with raucous twenty- and thirty-somethings, only
 
 Lager was $2.50 a pint, the pizza wasn't great but had its cheese broiled to crisp brown deliciousness, and everything was just right. Well, alright, the jukebox could use some work. But really, next time you're in Atlantic City you should consider losing a ton of money and then buying yourself some very cheap beer. Tony's Baltimore Grill. Don't tell them I sent you.
 
-.. |weregladyourhere| image:: http://www.manifestdensity.net/static/2009/08/weregladyourhere.jpg
+.. |weregladyourhere| image:: /static/2009/08/weregladyourhere.jpg
    :class: alignright size-full wp-image-902
    :width: 250px
    :height: 247px
-   :target: http://www.manifestdensity.net/static/2009/08/weregladyourhere.jpg
+   :target: /static/2009/08/weregladyourhere.jpg

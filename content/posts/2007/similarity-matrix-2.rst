@@ -45,7 +45,7 @@ Now that I'm home (and Southby preparations are over with) I can devote some mor
    <!--<br />
    var graphsrc = new Array();<br />
    graphsrc[0] = new Image();<br />
-   graphsrc[0].src = 'http://www.manifestdensity.net/2007/03/02/20070302_similarity_matrix.gif';<br />
+   graphsrc[0].src = '/static/2007/03/02/20070302_similarity_matrix.gif';<br />
    graphsrc[1] = new Image();<br />
    graphsrc[1].src = 'http://raymond.bluegecko.net/~tom/sunlight/graph_color.png';<br />
    function ToggleColor()<br />

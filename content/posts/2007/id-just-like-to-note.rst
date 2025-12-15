@@ -19,15 +19,15 @@ Traditional sources of diamonds (aka "diamonds for suckers"):
 
 That's pretty great. On a related note, if you didn't see it when it first ran, go check out `Wired's article on artificial diamonds <http://www.wired.com/wired/archive/11.09/diamond.html>`__. Some of the entrepreneurs quoted in the piece were actually in hiding because they thought DeBeers might come and *kill them*. Awesome. Maybe that's why the scientists in the photo above are all either floating safely out of harm's way or have their heads ensconced in pressurized chambers.
 
-.. |vulcan's forge| image:: http://www.manifestdensity.net/2007/04/04/20070404_diamondsvulcan.jpg
+.. |vulcan's forge| image:: /static/2007/04/04/20070404_diamondsvulcan.jpg
    :class: center
    :width: 500px
    :height: 384px
-.. |blood diamonds| image:: http://www.manifestdensity.net/2007/04/04/20070304_diamondsleo.jpg
+.. |blood diamonds| image:: /static/2007/04/04/20070304_diamondsleo.jpg
    :class: center
    :width: 500px
    :height: 329px
-.. |science!| image:: http://www.manifestdensity.net/2007/04/04/20070404_diamondsscience.gif
+.. |science!| image:: /static/2007/04/04/20070404_diamondsscience.gif
    :class: center
    :width: 500px
    :height: 214px

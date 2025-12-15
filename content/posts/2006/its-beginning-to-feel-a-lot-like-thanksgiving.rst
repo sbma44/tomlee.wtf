@@ -15,6 +15,6 @@ it's beginning to feel a lot like thanksgiving
 | |neeeeeeerd!|
 | There's a bounty attached, so even if your own bash/vi/D&D skills are rusty, you should still send along anybody who you think might fit the bill.
 
-.. |neeeeeeerd!| image:: http://www.manifestdensity.net/2006/11/20/geek.jpg
+.. |neeeeeeerd!| image:: /static/2006/11/20/geek.jpg
    :width: 320px
    :height: 240px

@@ -12,7 +12,7 @@ drink the change you want to see in the world
 
 *Original image by Flickr user* `KungPaoCajun <http://flickr.com/photos/begnaud/>`__\ *, modified under a* `CC <http://www.creativecommons.org>`__ *license*
 
-.. |picture of an empty beer glass with foam in the shape of the dc flag| image:: http://www.manifestdensity.net/2007/03/28/20070328_voting_rights_happy_hour.jpg
+.. |picture of an empty beer glass with foam in the shape of the dc flag| image:: /static/2007/03/28/20070328_voting_rights_happy_hour.jpg
    :class: right
    :width: 180px
    :height: 300px

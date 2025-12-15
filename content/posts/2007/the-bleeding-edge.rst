@@ -24,7 +24,7 @@ I'll leave you with this sample of the high-quality educational resource that aw
 
 |Cassandra's PDA|
 
-.. |Cassandra's PDA| image:: http://www.manifestdensity.net/2007/10/04/20071004_cassandra_pda.gif
+.. |Cassandra's PDA| image:: /static/2007/10/04/20071004_cassandra_pda.gif
    :class: center
    :width: 403px
    :height: 362px

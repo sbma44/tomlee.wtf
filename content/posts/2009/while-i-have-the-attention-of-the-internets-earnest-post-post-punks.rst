@@ -18,7 +18,7 @@ It's a great, great show, is what I'm trying to say. Talk to your Tivo about it.
 
 **UPDATE:** Also, `this <http://videogum.com/archives/justice/steven_seagal_knows_all_the_po_103891.html>`__.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/seagal-20091203-160858.jpg
+.. |image1| image:: /static/2009/12/03/seagal-20091203-160858.jpg
    :class: aligncenter
    :width: 400px
    :height: 154px

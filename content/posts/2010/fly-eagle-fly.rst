@@ -23,12 +23,12 @@ The wages of internet success, I suppose.
 
 **AAAAAND:** `Gizmodo <http://gizmodo.com/5480362/the-nerdiest-way-youll-see-a-door-opened-all-week>`__. That'll just about do it, I think. Their commenters are *mean*. Which I *like*. I want the apparent EE to offer some more information, though.  I think he's at least partly wrong.
 
-.. |image1| image:: http://www.manifestdensity.net/static/2010/02/schematic_small-1.png
+.. |image1| image:: /static/2010/02/schematic_small-1.png
    :class: aligncenter size-full wp-image-1286
    :width: 550px
    :height: 313px
    :target: http://assets.sunlightlabs.com/blog/door/schematic.png
-.. |it'd be so money, bro| image:: http://www.manifestdensity.net/skitch/baller_indeed-20100225-103631.jpg
+.. |it'd be so money, bro| image:: /static/2010/02/23/baller_indeed-20100225-103631.jpg
    :class: aligncenter
    :width: 489px
    :height: 73px

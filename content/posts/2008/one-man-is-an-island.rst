@@ -8,7 +8,7 @@ one man is an island
 :save_as: 2008/04/15/one-man-is-an-island/index.html
 :url: 2008/04/15/one-man-is-an-island/
 
-If you know anything about my musical tastes at all, you know that I'm a fan of the Unicorns. God but I loved that band. This was a group whose first press photo was of `their brutal murder <http://www.manifestdensity.net/2008/04/15/unicorns_murdered.jpg>`__, who wrote pop songs about ghosts and dying and getting famous and then some more ghosts, and who couldn't be bothered with verses and choruses because there was just too much great stuff to cram into each song. The first time I saw them they wore matching pink tuxedos and swung from the rafters.
+If you know anything about my musical tastes at all, you know that I'm a fan of the Unicorns. God but I loved that band. This was a group whose first press photo was of `their brutal murder </static/2008/04/15/unicorns_murdered.jpg>`__, who wrote pop songs about ghosts and dying and getting famous and then some more ghosts, and who couldn't be bothered with verses and choruses because there was just too much great stuff to cram into each song. The first time I saw them they wore matching pink tuxedos and swung from the rafters.
 
 The second time I saw them was months later, and they were much worse. The band played no encore and clearly had little interest in entertaining the crowd. Having the Arcade Fire open the show didn't help the band make a lasting impression, either. Not long after that the Unicorns broke up, leaving behind not much besides an album's worth of amazing songs.
 

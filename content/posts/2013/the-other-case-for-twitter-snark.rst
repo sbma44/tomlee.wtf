@@ -16,4 +16,4 @@ The great thing about Twitter is that you can absorb the thinking of and even in
 
 I'm glad that Nick Beaudrot has figured out that he wants to interact with Twitter on a more limited basis, I wish him luck with his self-promotion-only strategy, and if I had been following him before now I would cease doing so immediately.
 
-**UPDATE:** It occurs to me that `I wrote something similar a few years ago <http://www.manifestdensity.net/2009/07/02/after-twitter/>`__. The framing's different, but the upshot -- that social network users attempting to avoid trivial content become a free rider problem -- seems relevant.
+**UPDATE:** It occurs to me that `I wrote something similar a few years ago </2009/07/02/after-twitter/>`__. The framing's different, but the upshot -- that social network users attempting to avoid trivial content become a free rider problem -- seems relevant.

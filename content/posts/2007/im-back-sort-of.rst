@@ -12,7 +12,7 @@ I'm back, sort of
 
 I've got a ton of photos and lame California jokes that I intend to put online, but at the moment I'm occuppied with blogging over at `sxsw.echoditto.com <http://sxsw.echoditto.com>`__ — head on over and have a look, if you'd like.
 
-.. |a high unread message count in gmail, mail.app and net news wire| image:: http://www.manifestdensity.net/2007/03/10/20070310_busy.jpg
+.. |a high unread message count in gmail, mail.app and net news wire| image:: /static/2007/03/10/20070310_busy.jpg
    :class: left
    :width: 115px
    :height: 126px

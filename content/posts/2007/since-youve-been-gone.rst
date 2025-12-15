@@ -20,7 +20,7 @@ Note: this constitutes further proof that phpBB is some of the worst software in
 
 It's a poster by `Jason Goad <http://www.jasongoad.com>`__ that Nicco commissioned to mark the occasion, and it's fairly completely awesome.
 
-.. |comment spam| image:: http://www.manifestdensity.net/2007/05/23/20070523_pizza.jpg
+.. |comment spam| image:: /static/2007/05/23/20070523_pizza.jpg
    :class: center
    :width: 342px
    :height: 122px

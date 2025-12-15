@@ -51,10 +51,10 @@ All of this is occasioned by my Q+!U DC flag t-shirt getting worn-out enough to 
 
 A new flag-themed t-shirt is in order, and doing something with Spreadshirt seems like a good idea. So I whipped up a couple of illustrator files — if you want them, here you go. I've certainly found myself wanting a high-quality vector version of the flag before. But then, I may have to come up with more graphics for DCist than the average internet user...
 
-- `DC Flag (accurate) <http://www.manifestdensity.net/2007/04/30/dc_flag.ai>`__
-- `DC Flag (squashed into a snazzier configuration) <http://www.manifestdensity.net/2007/04/30/dc_flag_narrow.ai>`__
+- `DC Flag (accurate) </static/2007/04/30/dc_flag.ai>`__
+- `DC Flag (squashed into a snazzier configuration) </static/2007/04/30/dc_flag_narrow.ai>`__
 
-I was thinking of redoing the flag in ASCII but, like my `last project <http://www.manifestdensity.net/2007/01/17/asciimation/>`__ along these lines, the early returns are a little underwhelming:
+I was thinking of redoing the flag in ASCII but, like my `last project </2007/01/17/asciimation/>`__ along these lines, the early returns are a little underwhelming:
 
 |DC Flag in ASCII|
 

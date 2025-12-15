@@ -28,11 +28,11 @@ But things aren't as clear-cut in the financial arena. The closest thing to a ca
 
 `Counteraguments aside <http://youtube.com/watch?v=ete3p0AQf98&mode=related&search=>`__, I decided to give it a shot. But it's hopelessly confusing. There are *tons* of funds. And although they're rated with a varying number of stars along just a few axes (in order to assist stupid people like myself), the overall risk/reward relationship doesn't appear to be zero-sum. This leaves me wondering why anyone wouldn't just pick the one with the best combination of stars — and why it's so hard to use the interface to find that one (maybe this is why investment bankers are so well-paid). Until I figure out the answers to these questions I'm too terrified to do anything.
 
-.. |Erin from esurance.com| image:: http://www.manifestdensity.net/2007/05/01/20070501_esurance_erin.jpg
+.. |Erin from esurance.com| image:: /static/2007/05/01/20070501_esurance_erin.jpg
    :class: right
    :width: 145px
    :height: 186px
-.. |still from a charles schwab commercial that apes the visual style of waking life/scanner darkly| image:: http://www.manifestdensity.net/2007/05/01/20070501_charlesschwab.jpg
+.. |still from a charles schwab commercial that apes the visual style of waking life/scanner darkly| image:: /static/2007/05/01/20070501_charlesschwab.jpg
    :class: center
    :width: 445px
    :height: 332px

@@ -22,6 +22,6 @@ I have to cherish whatever opportunities I can find to be the one in this relati
 
 More topical: last night's celebration on U Street. Wherever you were when you heard the news last night, I hope there was as much joy on hand as there was in DC.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/20081105_drdactyl-20081105-225344.jpg
+.. |image1| image:: /static/2008/11/05/20081105_drdactyl-20081105-225344.jpg
    :class: center
    :target: http://flickr.com/photos/ethorson/2993218169/

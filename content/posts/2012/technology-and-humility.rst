@@ -22,7 +22,7 @@ My toothbrush has a microprocessor in it; it's great, and it only cost me $50 or
 
 Put another way: the most urgent uses for a technology will be addressed first. That's the beauty of markets. But a consequence is that, during a given technological milieu, engineers will generally find themselves working on tasks that increasingly seem trivial.
 
-I don't think developers should be discouraged by this, but I suspect that many of them will be. That's too bad. There's no shame in doing honest work for honest pay. I've argued before that `software development is a trade <http://www.manifestdensity.net/2010/11/27/software-development-is-a-trade/>`__ comparable to carpentry. I still think that's about right. Building someone a home may not be "innovative", but it's a necessary and important thing. There will always be meaningful work that needs to be done, and, if you pursue work that is especially difficult or neglected by the marketplace, even work that is novel and exciting.
+I don't think developers should be discouraged by this, but I suspect that many of them will be. That's too bad. There's no shame in doing honest work for honest pay. I've argued before that `software development is a trade </2010/11/27/software-development-is-a-trade/>`__ comparable to carpentry. I still think that's about right. Building someone a home may not be "innovative", but it's a necessary and important thing. There will always be meaningful work that needs to be done, and, if you pursue work that is especially difficult or neglected by the marketplace, even work that is novel and exciting.
 
 For what it's worth, I don't think that ours is the first engineering discipline that's had to go through this process. You only have to look at the automobile-triumphalist designs of Corbusier to understand how easily the early returns to an invention can be incorrectly projected into the future (in many such cases we should be happy to have gotten away with disappointment rather than `outright disaster <http://www.youtube.com/watch?v=FNBr6de7TD4>`__). Similarly crazed optimism affected observers looking forward to a future full of `steel <http://www.neatorama.com/2011/01/23/thomas-edisons-1911-predictions-for-2011/>`__, supersonic flight, `radiography <http://radiographics.rsna.org/content/24/2/544.fullxray-mania-F3-large>`__ and who knows how many other unhelpfully applied technologies.
 
@@ -32,7 +32,7 @@ Second, I dropped the phrase "for a given technological milieu" a couple of para
 
 To retreat to my point: I think that in IT, especially, we have a tendency to get confused about whether we're building a locomotive or inventing the steam engine. It's a willful confusion, it's driven by vanity, and it's now leading to disappointment -- and will do so all the more as we find we have enough locomotives on hand.
 
-.. |image1| image:: http://www.manifestdensity.net/static/2012/03/nowheresyourfuture.jpg
+.. |image1| image:: /static/2012/03/nowheresyourfuture.jpg
    :class: aligncenter size-full wp-image-2002
    :width: 500px
    :height: 42px

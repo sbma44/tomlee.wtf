@@ -22,7 +22,7 @@ Unrelatedly, I'm also currently a little fixated on the song at the end of `this
 
 You might remember me `getting excited <http://www.manifestdensity.net/2007/12/20/hey_have_some_christmas_music/>`__ about this band's Christmas music offerings. Now I'm just excited about them in general (or at least about their upcoming album, from which this song is taken — the stuff I've heard from their last release isn't blowing me away). Scottish accents and melodrama are a winning combination.
 
-.. |animal keyboard| image:: http://www.manifestdensity.net/2008/03/06/20080306_animal_keyboard.jpg
+.. |animal keyboard| image:: /static/2008/03/06/20080306_animal_keyboard.jpg
    :class: right
    :width: 225px
    :height: 338px

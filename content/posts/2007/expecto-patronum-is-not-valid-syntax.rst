@@ -8,7 +8,7 @@
 :save_as: 2007/07/25/expecto-patronum-is-not-valid-syntax/index.html
 :url: 2007/07/25/expecto-patronum-is-not-valid-syntax/
 
-Shortly after posting the `Unfoggedbot <http://www.manifestdensity.net/2007/07/12/unfoggedbot/>`__ I got this email from `Stanley <http://wryandstanley.blogspot.com/>`__:
+Shortly after posting the `Unfoggedbot </2007/07/12/unfoggedbot/>`__ I got this email from `Stanley <http://wryandstanley.blogspot.com/>`__:
 
    Is there anywhere that Joe Humanities Degree can go to to learn how to do this sort of thing?
 

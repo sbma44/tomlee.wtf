@@ -14,5 +14,5 @@ In fact, I'm not even upgrading to the iPhone 2 software — not yet, anyway. I'
 
 I'm sure I'll crack eventually, but for now I'm holding out. Who knows, I `might <http://blog.iphone-dev.org/post/41886107/the-quest-for-the-holy-ggg>`__ `not <http://blog.iphone-dev.org/post/41730121/living-in-sweet-harmony>`__ have to choose between the App Store and Installer at all.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/blog.iphone-dev.org-20080711-105450.jpg
+.. |image1| image:: /static/2008/07/11/blog.iphone-dev.org-20080711-105450.jpg
    :class: right

@@ -20,5 +20,5 @@ You've probably seen it before. It's `a nice little open source Flash player <ht
 
 The colors and sort of controls on these things can change, but they always look pretty much the same — customizing colors and button layout is easy, but changing, say, the shape of the play icon requires someone who knows Flash. So if you see a few examples of these players in the wild you can begin to recognize them very quickly. And the fact that they're designed to be configurable means that the MP3s they play can't be all that well squirreled away. They're in plain sight, if you know where to look.
 
-.. |a flash MP3 player| image:: http://www.manifestdensity.net/2007/11/28/RAC_flash_player.png
+.. |a flash MP3 player| image:: /static/2007/11/28/RAC_flash_player.png
    :class: center

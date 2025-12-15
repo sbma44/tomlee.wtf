@@ -16,5 +16,5 @@ It turns out that `tivodecode <http://tivodecode.sourceforge.net/>`__ is near-mi
 
 Still: pretty neat. It's nice to know that I've got a very high quality capture box sitting under my TV if I ever decide I badly need to put some televised video online. And it's just *fun*. Do any progressive media watchdogs want to pay me to help them create automated, annotated archives of cable news? Because with this gadgetry we could totally do it on the cheap.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/20080917_homemovies-20080917-190355.jpg
+.. |image1| image:: /static/2008/09/17/20080917_homemovies-20080917-190355.jpg
    :class: center

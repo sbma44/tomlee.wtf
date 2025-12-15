@@ -105,5 +105,5 @@ This may take a while. But once it's done, you just have to launch iComic and ev
 
 `Lots more information about iComic can be found in this thread <http://www.ipodtouchfans.com/forums/showthread.php?t=23759>`__. Enjoy!
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/20081022_ultimateironman-20081022-141238.jpg
+.. |image1| image:: /static/2008/10/23/20081022_ultimateironman-20081022-141238.jpg
    :class: right

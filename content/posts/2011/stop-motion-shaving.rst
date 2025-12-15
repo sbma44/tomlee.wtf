@@ -120,8 +120,8 @@ import processing.video.\*;
 
 [/cc]
 
-.. |image1| image:: http://www.manifestdensity.net/static/2011/03/enhanced-cropped-small.gif
+.. |image1| image:: /static/2011/03/enhanced-cropped-small.gif
    :class: aligncenter size-full wp-image-1748
    :width: 241px
    :height: 296px
-   :target: http://www.manifestdensity.net/static/2011/03/enhanced-cropped-small.gif
+   :target: /static/2011/03/enhanced-cropped-small.gif

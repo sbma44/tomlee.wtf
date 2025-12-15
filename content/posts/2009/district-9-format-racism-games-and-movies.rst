@@ -56,7 +56,7 @@ In the meantime, the games that can be best turned into movies will be those tha
 
 *\* District 9 started out as an adaptation of Halo, but when that project fell apart the director was given free reign to pursue a smaller-budget adventure.  What he came up with has a production design that is recognizably descended from the Halo universe, but which shares none of its ponderous, godawful backstory.  Fanboys' refusal to acknowledge the incredibly-derivative-yet-also-really-stupid-and-boring nature of the Halo games' setting and story is a persistent source of irritation for me.*
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/skitched-20090818-220659.jpg
+.. |image1| image:: /static/2009/08/18/skitched-20090818-220659.jpg
    :class: alignright
    :width: 234px
    :height: 350px

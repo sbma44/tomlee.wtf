@@ -14,7 +14,7 @@ More to the nominal point of the session, this is from Denton:
 
    "The idea of capturing the intelligence of the readership [now] sounds like a joke."
 
-This strikes me as right, and completely at odds with the optimistic, inclusive, democratic vision of our networked future that dominated SXSW in 2007.  But I think it's true, and basically compatible with the (admittedly ugly) view I expressed back `here <http://www.manifestdensity.net/2010/02/11/thoughts-on-buzz/>`__, in which part of new sites'/network's success hangs on their ability to attract early adopting elites who are genuinely *better* at the internet than the general online population (which arrives later, bringing advertiser dollars and ruin).
+This strikes me as right, and completely at odds with the optimistic, inclusive, democratic vision of our networked future that dominated SXSW in 2007.  But I think it's true, and basically compatible with the (admittedly ugly) view I expressed back `here </2010/02/11/thoughts-on-buzz/>`__, in which part of new sites'/network's success hangs on their ability to attract early adopting elites who are genuinely *better* at the internet than the general online population (which arrives later, bringing advertiser dollars and ruin).
 
 The net really is more democratic than other mediums. But that doesn't mean it's egalitarian, it just means the gating/sorting mechanism is (arguably) based on less arbitrary/unfair personal attributes than other parts of our society.  This is about as Randian an opinion as you're likely to get out of me, but as far as I can tell it's true.
 

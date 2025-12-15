@@ -28,7 +28,7 @@ Poe's pleasantly located in the public domain, so there are a bunch of ways to g
 
 Okay! Enough with the big names. Next time we'll creep forward, then lurch fully back into the twentieth century. Then I don't know what, but it'll be scary.
 
-.. |20081006-poe.jpg| image:: http://www.manifestdensity.net/2008/10/06/20081006-poe.jpg
+.. |20081006-poe.jpg| image:: /static/2008/10/06/20081006-poe.jpg
    :class: right
    :width: 230px
    :height: 310px

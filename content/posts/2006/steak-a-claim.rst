@@ -36,9 +36,9 @@ If I had to choose I guess I'd cast my lot with Pat's, even before considering t
 
 *Photos by* `davechiu <http://www.flickr.com/photos/79877130@N00/24180245>`__\ *,* `Greg S. <http://flickr.com/photos/gregscher/181969149/>`__ *and* `LHOON <http://flickr.com/photos/lhoon/150998789/>`__\ *, used under various* `Creative Commons <http://www.creativecommons.org>`__ *licenses*
 
-.. |photo of Geno's Steaks by flickr user davechiu| image:: http://www.manifestdensity.net/2006/11/12/20061112_genos.jpg
+.. |photo of Geno's Steaks by flickr user davechiu| image:: /static/2006/11/12/20061112_genos.jpg
    :target: http://www.flickr.com/photos/79877130@N00/24180245
-.. |photo of Pat's Steaks by Flickr user LHOON| image:: http://www.manifestdensity.net/2006/11/12/20061112_pats.jpg
+.. |photo of Pat's Steaks by Flickr user LHOON| image:: /static/2006/11/12/20061112_pats.jpg
    :target: http://flickr.com/photos/lhoon/150998789/
-.. |photo of Geno's rightwing signs by by Flickr user greg s.| image:: http://www.manifestdensity.net/2006/11/12/20061112_speakenglish.jpg
+.. |photo of Geno's rightwing signs by by Flickr user greg s.| image:: /static/2006/11/12/20061112_speakenglish.jpg
    :target: http://flickr.com/photos/gregscher/181969149/

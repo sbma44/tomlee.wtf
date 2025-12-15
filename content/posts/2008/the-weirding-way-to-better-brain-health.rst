@@ -24,5 +24,5 @@ Blue sclera — as in the used-to-be-whites of your eyes. So yes: grandma might 
 
 Presumably the drug can be used synergistically with the `Juice of Saphoo <http://en.wikipedia.org/wiki/Sapho_juice>`__.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/skitched-20080731-115749.jpg
+.. |image1| image:: /static/2008/07/31/skitched-20080731-115749.jpg
    :class: center

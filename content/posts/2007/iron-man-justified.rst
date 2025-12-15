@@ -8,7 +8,7 @@ iron man justified
 :save_as: 2007/09/11/iron-man-justified/index.html
 :url: 2007/09/11/iron-man-justified/
 
-`Some <http://www.manifestdensity.net/2007/09/10/asdfr111/#comment-12993>`__ `questions <http://pygmalioninablanket.blogspot.com/2007/09/131.html>`__ have been raised about my and `Amanda's <http://blogstretch.blogspot.com/2007/09/zomg.html>`__ recent *Iron Man* advocacy. Allow me to offer a slightly more nuanced case `than I did last night <http://www.manifestdensity.net/2007/09/10/asdfr111/>`__:
+`Some </2007/09/10/asdfr111/#comment-12993>`__ `questions <http://pygmalioninablanket.blogspot.com/2007/09/131.html>`__ have been raised about my and `Amanda's <http://blogstretch.blogspot.com/2007/09/zomg.html>`__ recent *Iron Man* advocacy. Allow me to offer a slightly more nuanced case `than I did last night </2007/09/10/asdfr111/>`__:
 
 #. First, as the Nabob points out, there's the Robert Downey Jr. factor. Consider the recent awesomeness of comic book movies. Now consider that the title of Greatest Living Superhero Actor is currently held by either Wesley Snipes or Christopher Reeve, depending on your personal taste and how carefully you read the criteria for winning the aforementioned title.
    Robert Downey Jr. has the sort of genuine charisma that can only be learned by having to repeatedly explain to strangers why they just found you sleeping in their house. It comes through in his performances. In the preview his delivery of the script's lame jokes actually makes them seem sort of funny! Ask yourself: what if Sir Laurence Olivier had been cast in a role involving repulsor beams? What would cinema look like today? My guess: explodier.

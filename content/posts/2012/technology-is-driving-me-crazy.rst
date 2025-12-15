@@ -46,4 +46,4 @@ And don't forget Big Data. No, we still have no idea what problems we actually w
 
    There's vast amounts of databases, real-world data, and video that remains unindexed. Who knows what a billion Chinese Internet users will come up with? The quantified self is just getting going on its path to the programmable self. And no one has figured out how to do augmented reality in an elegant way.
 
-Anyway, thank goodness. `For a second there I was worried <http://www.manifestdensity.net/2012/03/14/technology-and-humility/>`__.
+Anyway, thank goodness. `For a second there I was worried </2012/03/14/technology-and-humility/>`__.

@@ -57,15 +57,15 @@ But the first-coolest was Dave. Dave was friendly, short, and very successful wi
 
 Ugh. I have to admit, though, that I'm kind of fascinated by this awful, awful scene. Much like when Kriston regaled the Jagermeister promotional team with the true, sordid origin of their employer's wares, I think it would be pretty fun to catch it `in action <http://en.wikipedia.org/wiki/Seduction_community#Approaching_and_opening>`__ and have a chat with them about it. To McFadden's!
 
-.. |some poor sucker| image:: http://www.manifestdensity.net/2007/09/26/mystery_1.jpg
+.. |some poor sucker| image:: /static/2007/09/26/mystery_1.jpg
    :class: center
    :width: 422px
    :height: 317px
-.. |image1| image:: http://www.manifestdensity.net/2007/09/26/mystery_2.jpg
+.. |image1| image:: /static/2007/09/26/mystery_2.jpg
    :class: center
    :width: 422px
    :height: 317px
-.. |image2| image:: http://www.manifestdensity.net/2007/09/26/mystery_3.jpg
+.. |image2| image:: /static/2007/09/26/mystery_3.jpg
    :class: center
    :width: 422px
    :height: 317px

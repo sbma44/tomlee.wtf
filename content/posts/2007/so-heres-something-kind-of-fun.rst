@@ -31,7 +31,7 @@ I'm pretty confident that this works OK on Macs, but things may be dicier on Win
    else<br />
    videodiv = document.getElementById('processing-sinevideo');<br />
    if(videodiv!=null)<br />
-   videodiv.innerHTML='<applet code=\'processingdemo_video\' archive=\'http://www.manifestdensity.net/2007/02/26/processingdemo_video.jar\' width=\'320\' height=\'240\' mayscript=\'true\'>
+   videodiv.innerHTML='<applet code=\'processingdemo_video\' archive=\'/static/2007/02/26/processingdemo_video.jar\' width=\'320\' height=\'240\' mayscript=\'true\'>
    <param name=\'image\' value=\'loading.gif\'>
    <param name=\'boxmessage\' value=\'Loading Processing software...\'>
    <param name=\'boxbgcolor\' value=\'#FFFFFF\'><!-- This is the message that shows up when people don\'t have Java installed in their browser. Any HTML can go here  (i.e. if you wanted to include an image other links,  or an anti-Microsoft diatribe. -->To view this content, you need to install Java from <a href=\'http://java.com\'>java.com</a></applet>';<br />

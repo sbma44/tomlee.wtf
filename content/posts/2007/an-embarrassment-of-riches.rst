@@ -14,7 +14,7 @@ In fact I just got back from seeing `Karmella's Game <http://karmellasgame.com/h
 
 So that bring us to this post's first mp3. Have at it (and my apologies to the band for hosting it — I wouldn't have, except your last.fm page is broken):
 
-   `Karmella's Game – Safely Negative <http://www.manifestdensity.net.nyud.net:8080/2007/03/01/07_safely_negative.mp3>`__
+   `Karmella's Game – Safely Negative </static/2007/03/01/07_safely_negative.mp3>`__
 
 Moving on! I stumbled upon The Wombats a few days ago. I know that their NME heyday may have already come and gone, but their new EP (leaked in December, apparently) seems stronger to me than their last album (although that's good, too — more mp3s `here <http://spuckle.blogspot.com/2006/12/wombats-moving-to-new-york.html>`__):
 

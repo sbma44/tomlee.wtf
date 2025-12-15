@@ -8,7 +8,7 @@ die mail die
 :save_as: 2009/08/06/die-mail-die/index.html
 :url: 2009/08/06/die-mail-die/
 
-` <http://yglesias.thinkprogress.org/archives/2009/08/people-like-the-postal-service.php>`__\ |a_SMASHBOX|\ The Postal Service is dying, and I guess that's sort of sad except for how much `I despise everything about mail <http://www.manifestdensity.net/2007/08/20/admitting-defeat/>`__.
+` <http://yglesias.thinkprogress.org/archives/2009/08/people-like-the-postal-service.php>`__\ |a_SMASHBOX|\ The Postal Service is dying, and I guess that's sort of sad except for how much `I despise everything about mail </2007/08/20/admitting-defeat/>`__.
 
 Most of the accounts of paper mail's decline explain it by pointing to the advantages of electronic communication.  And it's true: email and the phone have the edge in terms of both speed and cost.  But most commentators ignore one of their biggest advantages, which is that modern communication mediums outperform the mail by *not being terrible and useless.*
 
@@ -23,10 +23,10 @@ The reduction of home delivery to five days per week won't change this, of cours
 .. container::
    :name: _mcePaste
 
-   http://www.manifestdensity.net/2007/08/20/admitting-defeat/
+   /2007/08/20/admitting-defeat/
 
-.. |a_SMASHBOX| image:: http://www.manifestdensity.net/static/2009/08/a_SMASHBOX-300x216.jpg
+.. |a_SMASHBOX| image:: /static/2009/08/a_SMASHBOX-300x216.jpg
    :class: alignright size-medium wp-image-899
    :width: 300px
    :height: 216px
-   :target: http://www.manifestdensity.net/static/2009/08/a_SMASHBOX.jpg
+   :target: /static/2009/08/a_SMASHBOX.jpg

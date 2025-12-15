@@ -12,7 +12,7 @@ I wouldn't normally beat a dead horse like this, but this is not only a subhead,
 
 |another typo in the same issue of time. I think.|
 
-.. |another typo in the same issue of time. I think.| image:: http://www.manifestdensity.net/2007/01/23/20070123_timetypo.jpg
+.. |another typo in the same issue of time. I think.| image:: /static/2007/01/23/20070123_timetypo.jpg
    :class: center
    :width: 500px
    :height: 138px

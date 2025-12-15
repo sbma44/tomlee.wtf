@@ -14,6 +14,6 @@ how a resurrection really looks
 | Second and more importantly, by the end of the show Craig Finn seemed more than a little drunk. That can be fine and charming, but this time, and to this curmudgeon, it wasn't. His tossed-off alternate phrasings got grating, particularly during a downright Shatnerian performance of "Hot Soft Light". I'm all for changing up arrangements during a live show, but this was closer to Duritz than Dylan.
 | But I don't mean to complain too much. It may not have been as enjoyable as `last February's concert <http://www.zunta.org/blog/archives/2006/02/02/pygs_at_the_doo/>`__, but it was still a good show by a great band. I'm glad I went, but I would've been pretty pissed off if I'd been one of the people who got beer sprayed on them. But then, I *am* approximately a million years old. Consarnit.
 
-.. |20061127_boysngirls.jpg| image:: http://www.manifestdensity.net/2006/11/27/20061127_boysngirls.jpg
+.. |20061127_boysngirls.jpg| image:: /static/2006/11/27/20061127_boysngirls.jpg
    :width: 500px
    :height: 231px

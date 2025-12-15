@@ -25,11 +25,11 @@ Those are just my initial impressions, though, and I could be misinterpreting so
 | 
 | |image1|
 
-.. |congressional similarity matrix| image:: http://www.manifestdensity.net/2007/03/02/20070302_similarity_matrix_color.png
+.. |congressional similarity matrix| image:: /static/2007/03/02/20070302_similarity_matrix_color.png
    :class: center
    :width: 439px
    :height: 439px
-.. |image1| image:: http://www.manifestdensity.net/2007/03/02/20070302_similarity_matrix.gif
+.. |image1| image:: /static/2007/03/02/20070302_similarity_matrix.gif
    :class: center
    :width: 439px
    :height: 439px

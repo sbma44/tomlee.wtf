@@ -27,5 +27,5 @@ But this is still infuriating. The return on a stolen bike wheel is miniscule â€
    :width: 375px
    :height: 500px
    :target: http://www.flickr.com/photos/sbma44/3520459426/
-.. |stolen wheel| image:: http://www.manifestdensity.net/skitch/stolen_wheel-20090511-103517.png
+.. |stolen wheel| image:: /static/2009/05/11/stolen_wheel-20090511-103517.png
    :class: center

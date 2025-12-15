@@ -16,7 +16,7 @@ But disrespect for the Marvel canon? That just won't stand. The guy playing Dr. 
 
 |Galactus!|
 
-.. |Galactus!| image:: http://www.manifestdensity.net/2007/06/18/galactus_head.jpg
+.. |Galactus!| image:: /static/2007/06/17/galactus_head.jpg
    :class: center
    :width: 504px
    :height: 283px

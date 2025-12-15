@@ -14,7 +14,7 @@ So, I suppose I should have mentioned this earlier, but I'm on the verge of a de
 
 Second! It's back home via Austin, where we'll rejoin the EchoDitto crew at SXSW Interactive for some good old-fashioned internet fun. Needless to say if any readers, lurkers or inter-friends will be in either area you should send me an email. If you don't have my address, send a blank message to tom@[this domain] to get the real one sent to you (consider it an experiment in spammer-foiling).
 
-.. |picture of some gold rush prospectors| image:: http://www.manifestdensity.net/2007/02/28/20070228_goldrush2.jpg
+.. |picture of some gold rush prospectors| image:: /static/2007/02/28/20070228_goldrush2.jpg
    :class: center
    :width: 396px
    :height: 279px

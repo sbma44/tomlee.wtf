@@ -43,11 +43,11 @@ Sean's too busy being a neuroscientist to draw strips these days, but he's still
 - `Buried alive <http://polyn.com/strips/strip-4.html>`__
 - `Choke-cola <http://polyn.com/struct/choke.html>`__ (I don't know why I like [STRIKEOUT:you] this but I do)
 
-.. |Quirksmith Ethiopian Food Fight Cartoon| image:: http://www.manifestdensity.net/2007/09/12/quirksmith_ethiopian_food_fight.jpg
+.. |Quirksmith Ethiopian Food Fight Cartoon| image:: /static/2007/09/12/quirksmith_ethiopian_food_fight.jpg
    :class: center
    :width: 400px
    :height: 133px
-.. |another stupid quirksmith cartoon| image:: http://www.manifestdensity.net/2007/09/12/quirksmith060824.png
+.. |another stupid quirksmith cartoon| image:: /static/2007/09/12/quirksmith060824.png
    :class: center
    :width: 500px
    :height: 165px

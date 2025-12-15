@@ -10,7 +10,7 @@ to hell with this
 
 DCR/TV RSS:
 
-- `host it <http://www.manifestdensity.net/2006/10/11/dcrtv.php.txt>`__
+- `host it </static/2006/10/11/dcrtv.php.txt>`__
 - `consume it <http://feeds.feedburner.com/DCRTVByDaveHughes>`__
 
 | I don't understand why people insist on being such non-RSS-using pains-in-the-ass.

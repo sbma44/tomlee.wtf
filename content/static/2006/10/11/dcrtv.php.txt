@@ -1,0 +1,108 @@
+<?php
+header("Content-type: application/xml");
+
+define('ARCHIVE_PAGE_URL','http://www.dcrtv.com');
+define('NUMBER_EPISODES', ((isset($_GET['n'])) ? (intval($_GET['n'])) : 15));
+
+function get_content($url)
+{
+   $ch = curl_init();
+
+   curl_setopt ($ch, CURLOPT_URL, $url);
+   curl_setopt ($ch, CURLOPT_HEADER, 0);
+
+   ob_start();
+
+   curl_exec ($ch);
+   curl_close ($ch);
+   $string = ob_get_contents();
+
+   ob_end_clean();
+  
+   return $string;   
+}
+
+
+$archives_html = get_content(ARCHIVE_PAGE_URL);
+
+$split_archives = split("\n",$archives_html);
+$archive_matches = array();
+foreach($split_archives as $line)
+{
+	$matches = array();
+	if(preg_match('/^<b><font[^>]*>/i',$line))
+	{		
+		$title = '';
+		$body = '';
+		$guid = '';
+		$pubDate = '';
+		if(preg_match('/<font color="0000FF">(.*?)<\/font>/i',$line,$matches))
+		{
+			$title = $matches[1];
+		}
+		if(preg_match('/<\/font>\s*<\/b>\s*-([^-]+)-\s*(.*)$/i',$line,$matches))
+		{
+			$pubDate = $matches[1];
+			$body = $matches[2];
+		}
+		$archive_matches[] = array(
+			'title' => $title,
+			'body' => $body,
+			'guid' => md5($title . $body),
+			'pubDate' => strtotime($pubDate . '/' . date('Y')),
+		);
+		
+	}
+	if(sizeof($archive_matches)>NUMBER_EPISODES)
+		break;
+}
+
+
+
+	$output = '<?xml version="1.0"?>
+
+<rss version="0.91">
+
+<channel>
+
+<title>DCRTV by Dave Hughes</title>
+
+<link>http://www.dcrtv.com</link>
+
+<language>en-us</language>
+
+<description>The complete guide to Washington DC and Baltimore radio and TV stations</description>
+
+
+';
+
+	foreach($archive_matches as $match):
+	
+		$output .= '
+
+<item>
+
+<title>' . $match['title'] . '</title>
+
+<guid>http://www.dcrtv.com/#' . $match['guid'] . '</guid>
+
+<pubDate>' . date('r',$match['pubDate']) . '</pubDate>
+
+<description><![CDATA[' . $match['body'] . ']]></description>
+
+</item>
+
+';
+
+endforeach;
+	
+$output .= '
+
+</channel>
+	
+</rss>
+
+';
+	
+print $output;
+?>

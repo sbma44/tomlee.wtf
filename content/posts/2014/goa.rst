@@ -30,7 +30,7 @@ Why did my aunt go to India, and why did she come back? I've never been told and
 
 My cousins seem none the worse for it, though. They are now implacable Vermonters, wise and capable and, if one insisted on naming a fault, perhaps even too strong for their own good. Just like their grandmother, and her grandmother. A generational displacement as geographically and culturally vast as possible couldn't dislodge their destiny. At times I find this immensely reassuring.
 
-.. |pano| image:: http://www.manifestdensity.net/static/2014/01/pano.jpg
+.. |pano| image:: /static/2014/01/pano.jpg
    :class: center aligncenter size-full wp-image-2747
    :width: 100.0%
-   :target: http://www.manifestdensity.net/static/2014/01/pano.jpg
+   :target: /static/2014/01/pano.jpg

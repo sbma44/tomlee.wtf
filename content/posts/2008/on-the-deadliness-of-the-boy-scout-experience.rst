@@ -30,5 +30,5 @@ But at the end of the week my parents picked me up, took me to the beach and aft
 
 *Image by Flickr user* `jimstonjournal <http://flickr.com/photos/jimstonjournal/291463318/>`__\ *, used under a* `Creative Commons <http://www.creativecommons.org>`__ *license*
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/20080807_scout-20080807-113057.jpg
+.. |image1| image:: /static/2008/08/07/20080807_scout-20080807-113057.jpg
    :class: right

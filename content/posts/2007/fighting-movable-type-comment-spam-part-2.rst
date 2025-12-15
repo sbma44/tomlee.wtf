@@ -58,7 +58,7 @@ Okay. What Movable Type has just done is regenerated every file on your site as 
       </IfModule>
       # adapted from http://www.totalchoicehosting.com/forums/lofiversion/index.php/t25151.html
 
-Be sure you edit the line with "RewriteBase" in it if your blog lives in a subdirectory of your website (if it lives at the domain's root — e.g. http://www.manifestdensity.net instead of http://www.zunta.org/blog — then you can leave it alone). Save this as a file called "htaccess". Using an FTP client, upload it to the root public directory of your website — the directory which, if I uploaded a file called test.txt to it, would result in the file being available at http://www.manifestdensity.net/test.txt (it's frequently the directory called "public_html" that you see as soon as you connect with FTP). Then, still using the FTP client, rename it to "**.**\ htaccess" (we're adding the dot at this point because on some systems adding it earlier would have made it invisible, and consequently quite a bit harder to work with). If an .htaccess file already existed, you probably shouldn't overwrite it. Email me the contents and we can sort through how to merge the two.
+Be sure you edit the line with "RewriteBase" in it if your blog lives in a subdirectory of your website (if it lives at the domain's root — e.g. http://www.manifestdensity.net instead of http://www.zunta.org/blog — then you can leave it alone). Save this as a file called "htaccess". Using an FTP client, upload it to the root public directory of your website — the directory which, if I uploaded a file called test.txt to it, would result in the file being available at /static/2007/01/27/test.txt (it's frequently the directory called "public_html" that you see as soon as you connect with FTP). Then, still using the FTP client, rename it to "**.**\ htaccess" (we're adding the dot at this point because on some systems adding it earlier would have made it invisible, and consequently quite a bit harder to work with). If an .htaccess file already existed, you probably shouldn't overwrite it. Email me the contents and we can sort through how to merge the two.
 
 If your webserver is configured in a typical way, this .htaccess file will make the server look at every incoming request for a file ending in .html and check to see if there's an identically-named file ending in .php. If there is, it'll forward the user to the .php version. If there isn't, it'll serve up the original .html. Handy, huh? Have a look around your site (and via old links to it on other sites) and make sure that everything is working the way you expect it to.
 
@@ -162,5 +162,5 @@ Next: a way to rename *mt-comments.cgi* on an hourly basis. That'll show 'em.
 .. |changing movable type's archive template extension| image:: http://farm1.static.flickr.com/138/370935654_8110dea79a.jpg
    :class: center
    :target: http://www.flickr.com/photo_zoom.gne?id=370935654&size=o
-.. |Movable Type's 'Rebuild' Button| image:: http://www.manifestdensity.net/2007/01/27/2000127_mtrebuilt.gif
+.. |Movable Type's 'Rebuild' Button| image:: /static/2007/01/27/2000127_mtrebuilt.gif
    :class: right

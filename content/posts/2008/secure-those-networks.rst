@@ -20,6 +20,6 @@ It's also a little unsettling. I didn't have to provide any configuration; the t
 
 Not the end of the world, perhaps, but a sign of things to come as our appliances get smarter and smarter. Secure those networks! If you want to be a generous with your wifi, get a `Fonera <http://fon.com>`__.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/skitched-20080709-110811.jpg
+.. |image1| image:: /static/2008/07/09/skitched-20080709-110811.jpg
    :class: center
    :target: http://code.google.com/p/tivoremote/

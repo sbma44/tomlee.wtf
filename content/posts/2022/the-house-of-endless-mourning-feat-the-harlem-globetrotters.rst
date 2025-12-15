@@ -24,9 +24,10 @@ And that's what led me to write this, which I hope you will enjoy.
 
    |image1|
 
-| **THE HOUSE OF ENDLESS MOURNING**
-| featuring the Harlem Globetrotters
-| [`pdf </fiction/the_house_of_endless_mourning_featuring_the_harlem_globetrotters.pdf>`__] [`epub </fiction/the_house_of_endless_mourning_featuring_the_harlem_globetrotters.epub>`__]
+   | **THE HOUSE OF ENDLESS MOURNING**
+   | featuring the Harlem Globetrotters
+   | [`pdf </static/2022/10/the_house_of_endless_mourning_featuring_the_harlem_globetrotters.pdf>`__] [`epub </static/2022/10/the_house_of_endless_mourning_featuring_the_harlem_globetrotters.epub>`__]
+
 
 I tried to cover all the greatest hits:
 

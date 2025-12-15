@@ -20,5 +20,5 @@ I do have one complaint, though:
 
 These bears are part of the winter display in the lobby, and they're really starting to freak me out.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/skitched-20081211-153050.png
+.. |image1| image:: /static/2008/12/11/skitched-20081211-153050.png
    :class: center

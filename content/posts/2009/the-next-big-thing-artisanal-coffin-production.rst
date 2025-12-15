@@ -20,7 +20,7 @@ The other method is to char the surface with a propane torch.  It doesn't produ
 
 Both techniques are fairly labor-intensive, though (particularly the brushing when using only a hand drill).  If anyone has access to an angle grinder or feels like joining me in my garage for some beer, fire and power tools, drop me a line.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/coffin-20090904-152058.jpg
+.. |image1| image:: /static/2009/09/04/coffin-20090904-152058.jpg
    :class: alignright
    :width: 240px
    :height: 220px

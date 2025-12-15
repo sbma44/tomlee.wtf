@@ -18,7 +18,7 @@ I had always assumed that the "Children's" in the title stood for `Children's Ho
 
 Is that "children's" a proper noun or an adjective? It might be time to read up on how charter schools get their funding.
 
-.. |image1| image:: http://www.manifestdensity.net/2007/02/13/20070213_bloodmobile.jpg
+.. |image1| image:: /static/2007/02/13/20070213_bloodmobile.jpg
    :class: center
    :width: 250px
    :height: 212px

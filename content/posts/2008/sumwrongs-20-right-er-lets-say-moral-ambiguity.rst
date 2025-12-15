@@ -20,4 +20,4 @@ And it should be really easy, too. All you have to do is click the link below, s
 
 And if you *really* want to demonstrate your love for Brian, you can leave proof of your vote total here in comments by pasting the tiny hexadecimal garbage displayed under it (along with the vote total you're claiming) — each total has a unique code. No cheating!
 
-`Install the Beutlerator <http://www.manifestdensity.net/2008/08/06/beutlerator.xpi>`__
+`Install the Beutlerator </static/2008/08/06/beutlerator.xpi>`__

@@ -18,7 +18,7 @@ A few key links:
 - `Nancy Scola discusses the media's inability to report responsibly on technology <http://techpresident.com/blog-entry/whos-fault-hyping-haystack>`__ (and is very nice to me, though I hasten to say that I'm no security expert)
 - The twitter stream of @ioerror, beginning at `this tweet <http://twitter.com/ioerror/status/24425326976>`__
 
-I think Nancy's piece raises the most important questions: why did the media -- and more importantly, the federal government -- fall for Austin Heap's bullshit?  Here I disagree with Nancy: I don't think it's just a question of technical expertise.  I've been `skeptical <http://www.manifestdensity.net/2010/06/10/checking-in-on-twitter-and-iran/>`__ of `Haystack <http://twitter.com/sbma44/statuses/20716325414>`__ since its announcement, but I couldn't write a secure crypto proxy to save my life.  That stuff is really hard.
+I think Nancy's piece raises the most important questions: why did the media -- and more importantly, the federal government -- fall for Austin Heap's bullshit?  Here I disagree with Nancy: I don't think it's just a question of technical expertise.  I've been `skeptical </2010/06/10/checking-in-on-twitter-and-iran/>`__ of `Haystack <http://twitter.com/sbma44/statuses/20716325414>`__ since its announcement, but I couldn't write a secure crypto proxy to save my life.  That stuff is really hard.
 
 But here's the thing: the technology is hard, but it's also *done*.  Smart people have looked at these problems and have solved the ones that are solvable.  There's work left to be done at the edges -- better hash algorithms, that kind of thing -- but I guarantee that's not the sort of flaw that's afflicting Haystack.
 

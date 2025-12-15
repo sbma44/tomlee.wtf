@@ -18,7 +18,7 @@ The video implicitly makes another, more subtle point, too: *Vladimir Putin may 
 
 Write your own "blood for oil" joke — I'm too terrified to do it.
 
-.. |20081009_putinvampire.jpg| image:: http://www.manifestdensity.net/2008/10/09/20081009_putinvampire.jpg
+.. |20081009_putinvampire.jpg| image:: /static/2008/10/09/20081009_putinvampire.jpg
    :class: center
    :width: 480px
    :height: 312px

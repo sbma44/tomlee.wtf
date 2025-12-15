@@ -14,7 +14,7 @@ I imagine that the folks at the Times will come to their senses. But to me the m
 
 Actually, though, I'm not sure whether I can still count myself among their ranks. I don't remember performing the highlighting tic recently. But I honestly couldn't say whether that's because I've gotten out of the habit or because it's now so automatic for me that I don't notice myself doing it.
 
-.. |graphic for kriston's campaign to get the nytimes to get rid of their stupid double-click functionality| image:: http://www.manifestdensity.net/2007/02/28/click_campaign3.jpg
+.. |graphic for kriston's campaign to get the nytimes to get rid of their stupid double-click functionality| image:: /static/2007/02/28/click_campaign3.jpg
    :class: right
    :width: 300px
    :height: 130px

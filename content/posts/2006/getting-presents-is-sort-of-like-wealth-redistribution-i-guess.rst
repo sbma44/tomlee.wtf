@@ -16,7 +16,7 @@ I really, *really* don't understand why Indymedia exists. If they has some sort 
 
 I'm left to conclude that the only other function they serve is to lower the barriers that prevent dopes from publishing things on the internet. Which, if you haven't noticed, aren't particularly high to begin with. I can't believe that governments bother to seize these guys' servers.
 
-.. |replica rolexes on indymedia| image:: http://www.manifestdensity.net/2006/12/21/20061221_rolexindymedia.jpg
+.. |replica rolexes on indymedia| image:: /static/2006/12/21/20061221_rolexindymedia.jpg
    :class: center
    :width: 500px
    :height: 308px

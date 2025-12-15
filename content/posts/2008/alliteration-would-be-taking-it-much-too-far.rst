@@ -24,5 +24,5 @@ But — with the exception of the cake donut perverts, who frankly should be rou
 
 | But I won't belabor the point. By now I can see that I'm on the wrong side of history (it's something of a family tradition). But those of us who truly love our donuts will keep the faith, and wait patiently for the day when Real Americans are ready to emerge from behind the silence of the glaze curtain and cry *Hot Donuts... NOW!*
 
-.. |never trust a leader with a mustache| image:: http://www.manifestdensity.net/skitch/skitched-20081021-104954.jpg
+.. |never trust a leader with a mustache| image:: /static/2008/10/21/skitched-20081021-104954.jpg
    :class: right

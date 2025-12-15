@@ -16,7 +16,7 @@ Thanks to `ZiPhone <http://www.ziphone.org/>`__ it's not a difficult operation, 
 
 But lo! There's finally a reason to unlock your phone that doesn't include pornographic videogames or touchscreen guitar simulations: `IntelliScreen <http://www.intelliborn.com/>`__, which adds weather, email, calendar and other notifications to your phone's lock screen. It's pretty nice; give it a try.
 
-.. |Intelliscreen for the iPhone| image:: http://www.manifestdensity.net/2008/05/19/20080519_intelliscreen.jpg
+.. |Intelliscreen for the iPhone| image:: /static/2008/05/19/20080519_intelliscreen.jpg
    :class: right
    :width: 212px
    :height: 382px

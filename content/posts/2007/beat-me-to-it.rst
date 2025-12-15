@@ -28,7 +28,7 @@ The basic idea here is that the Hall sensor's output changes the characteristics
 
 The rest of the circuit is just stuff to regulate the power supply. It's a pretty simple doohickey, but I still think it'd be fun to build.
 
-.. |a 555 timer chip| image:: http://www.manifestdensity.net/2007/06/15/20070615_555.jpg
+.. |a 555 timer chip| image:: /static/2007/06/15/20070615_555.jpg
    :class: right
    :width: 250px
    :height: 250px

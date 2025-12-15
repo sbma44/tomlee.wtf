@@ -27,7 +27,7 @@ Oh! But let me reiterate `Charles' <http://thecityveins.com/blog>`__ previously-
 
 **UPDATE 2:** `Ryan==smart <http://www.ryanavent.com/blog/?p=1187>`__. I agree completely, with the previously-expressed caveat to his second point.
 
-.. |20080626_bronson.jpg| image:: http://www.manifestdensity.net/2008/06/26/20080626_bronson.jpg
+.. |20080626_bronson.jpg| image:: /static/2008/06/26/20080626_bronson.jpg
    :class: right
    :width: 117px
    :height: 146px

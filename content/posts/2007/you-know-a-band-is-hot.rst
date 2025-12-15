@@ -12,7 +12,7 @@ you know a band is hot
 
 |screengrab of my inbox, featuring a spam message sent by 'the arcade fire'|
 
-.. |screengrab of my inbox, featuring a spam message sent by 'the arcade fire'| image:: http://www.manifestdensity.net/2007/02/14/20070214_arcadefire.gif
+.. |screengrab of my inbox, featuring a spam message sent by 'the arcade fire'| image:: /static/2007/02/14/20070214_arcadefire.gif
    :class: center
    :width: 494px
    :height: 112px

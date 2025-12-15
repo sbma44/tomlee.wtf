@@ -31,7 +31,7 @@ Still, Tim's right. Philosophically, I can't reconcile this unscientific uneasin
 
 *Photo by Flickr user* `Shermeee <http://flickr.com/photos/smanography/447005952/>`__
 
-.. |20080626_greengun.jpg| image:: http://www.manifestdensity.net/2008/06/26/20080626_greengun.jpg
+.. |20080626_greengun.jpg| image:: /static/2008/06/26/20080626_greengun.jpg
    :class: center
    :width: 500px
    :height: 375px

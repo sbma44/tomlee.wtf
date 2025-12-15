@@ -18,7 +18,7 @@ I guess this means my dreams of HDTV ownership will once again be delayed. At le
 
 Man. Doing my taxes used to be a lot more fun.
 
-.. |I'm not getting a tax refund| image:: http://www.manifestdensity.net/2007/04/04/20070404_taxes.gif
+.. |I'm not getting a tax refund| image:: /static/2007/04/04/20070404_taxes.gif
    :class: center
    :width: 338px
    :height: 78px

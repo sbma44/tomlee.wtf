@@ -16,7 +16,7 @@ But I could use some advice, o people of the internet. I've assisted a friend wi
 
 *Image by Flickr user* `pusgums <http://flickr.com/photos/smason/138893995/>`__ *(ew), used under a* `Creative Commons License <http://creativecommons.org>`__
 
-.. |20080630_homebrewing.jpg| image:: http://www.manifestdensity.net/2008/06/30/20080630_homebrewing.jpg
+.. |20080630_homebrewing.jpg| image:: /static/2008/06/30/20080630_homebrewing.jpg
    :class: right
    :width: 159px
    :height: 240px

@@ -14,7 +14,7 @@ I like `Penny Arcade <http://www.penny-arcade.com>`__ quite a lot, but `this <ht
 
 All you can really say about this is that neither side knows what the hell the other side is talking about.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/this-is-an-awful-argument-20100421-172939.png
+.. |image1| image:: /static/2010/04/21/this-is-an-awful-argument-20100421-172939.png
    :class: aligncenter
    :width: 257px
    :height: 380px

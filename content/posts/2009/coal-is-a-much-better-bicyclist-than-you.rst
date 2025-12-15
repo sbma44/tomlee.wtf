@@ -22,7 +22,7 @@ Sadly, this doesn't look like a compelling case for spending money to outfit bik
 
 But although this is bleak news for this particular instance of innumerate ecothusiasm, I still find the situation kind of inspirational: it's a reminder that the forces we casually harness are incredibly vast when compared to the relatively meager capabilities of our biology. That's not bad for a species that watches as much *Law & Order* as we do.
 
-.. |20090716_coalhelmet.jpg| image:: http://www.manifestdensity.net/2009/07/16/20090716_coalhelmet.jpg
+.. |20090716_coalhelmet.jpg| image:: /static/2009/07/16/20090716_coalhelmet.jpg
    :class: right
    :width: 261px
    :height: 282px

@@ -16,7 +16,7 @@ The quality of costumes was very, very high -- I was particularly thrilled by `J
 
 |10524626925_f75d4077f5_n|
 
-In a departure from my streak of dressing up as supervillains with romantic problems (which, to be fair, is most of them), I went as Mr. Fantastic. I wanted to concentrate on the party, and this was relatively easy to pull off -- just (yet another set of) Under Armour and a layer of white duct tape on top of part of my `Omni-Man costume <http://www.manifestdensity.net/2011/10/30/this-years-model/>`__.
+In a departure from my streak of dressing up as supervillains with romantic problems (which, to be fair, is most of them), I went as Mr. Fantastic. I wanted to concentrate on the party, and this was relatively easy to pull off -- just (yet another set of) Under Armour and a layer of white duct tape on top of part of my `Omni-Man costume </2011/10/30/this-years-model/>`__.
 
 People did get a kick out of the `electroluminescent panel I used for the logo on my chest <http://www.flickr.com/photos/sbma44/10524624665/>`__, though. Like everything else that is good in this world, `you can buy this material from Chinese vendors on eBay <http://www.ebay.com/itm/EL-Lamp-electroluminescent-panel-backlight-led-alternative-A5-White-/231066989058?pt=LH_DefaultDomain_0&hash=item35ccaa7202>`__ -- it comes in various sizes and colors. Attached to an inverter -- which requires a meager 2 AA batteries -- it'll change from a pink to a cool white glow. Pretty neat! You can cut the material down, too, but bear in mind the delicate nature of the foil that makes the electrical connections. Adhesives and solder won't work -- you're going to need to clamp your connections. I found that paper binder clips did a good job. Conductive paint or glue might work, but I didn't have any on hand.
 
@@ -26,8 +26,8 @@ I made one for myself and one for Steph, too -- she put together a great version
 
 Anyway! More on this year's specific decorative efforts in a separate post. For now: many thanks to everyone who came out; to Annie and Ezra for opening their house to this stupid hobby of mine (and buying everyone beer!); and to Steph for putting up with my weird obsessiveness these past few weeks.
 
-.. |10524626925_f75d4077f5_n| image:: http://www.manifestdensity.net/static/2013/10/10524626925_f75d4077f5_n.jpg
+.. |10524626925_f75d4077f5_n| image:: /static/2013/10/10524626925_f75d4077f5_n.jpg
    :class: aligncenter size-full wp-image-2630
    :width: 320px
    :height: 320px
-   :target: http://www.manifestdensity.net/static/2013/10/10524626925_f75d4077f5_n.jpg
+   :target: /static/2013/10/10524626925_f75d4077f5_n.jpg

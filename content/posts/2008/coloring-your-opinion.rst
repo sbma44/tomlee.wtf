@@ -24,6 +24,6 @@ Yglesias's point that this isn't a huge change between cycles still stands, of c
 
 It's also easy to see that there really *are* very Republican and very Democratic sections of the country. I don't want to overstate my case — obviously this conclusion can be drawn from the color map, too. Still, using a whole bunch of linearly-defined purple pixels is a clever way to latch onto a media cliche, but not necessarily the best way to visualize information. Things are more black and white than they may seem, and certainly less purple.
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/20081108_vanderbei_small-20081108-142538.jpg
+.. |image1| image:: /static/2008/11/08/20081108_vanderbei_small-20081108-142538.jpg
    :class: center
-   :target: http://www.manifestdensity.net/skitch/20081108_vanderbei_big-20081108-142429.jpg
+   :target: /static/2008/11/08/20081108_vanderbei_big-20081108-142429.jpg

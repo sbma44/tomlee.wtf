@@ -21,7 +21,7 @@ Fortunately, there's a hell of a lot of good stuff coming to the Black Cat in th
 - 11/20 - The Wrens - $15
 - 12/3 - Ted Leo Rx - $15
 
-I guess that's it. I could be talked into Bishop Allen, Girls, Dirty Projectors, that guy from Television, or virtually anyone else who isn't Art Brut. And of course the Cat isn't the only game in town. I've got tickets for Gaslight Anthem, but I also see Dinosaur Jr., the Raveonettes and Built to Spill coming up at 9:30. Headlights is coming to DC9 on 10/25, and I'm `on record <http://www.manifestdensity.net/2008/05/01/aots-08/>`__ as loving them. A bit more tentatively, I could under the right circumstances head to RNR for the Spinto Band or Titus Andronicus.
+I guess that's it. I could be talked into Bishop Allen, Girls, Dirty Projectors, that guy from Television, or virtually anyone else who isn't Art Brut. And of course the Cat isn't the only game in town. I've got tickets for Gaslight Anthem, but I also see Dinosaur Jr., the Raveonettes and Built to Spill coming up at 9:30. Headlights is coming to DC9 on 10/25, and I'm `on record </2008/05/01/aots-08/>`__ as loving them. A bit more tentatively, I could under the right circumstances head to RNR for the Spinto Band or Titus Andronicus.
 
 In short: make me go to some shows, please. I'll drop these into a Google calendar shortly; if you're interested in contributing to that effort, let me know.
 

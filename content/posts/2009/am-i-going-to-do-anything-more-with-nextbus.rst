@@ -12,6 +12,6 @@ Well, I don't know.  Sommer wrote a `great review of the newly-released Nextbus
 
 So I can either duplicate functionality (but try to do things slightly better -- unlikely, given my lack of iPhone development experience) or I could try to anonymously release a free, quick-hit application that undercuts Nextbus's slightly dodgy inclination to charge Metro, then turn around and charge the people who fund Metro.  But doing that would certainly violate the license surrounding their data, and they'd get the app pulled and/or break whatever interface I cook up.
 
-At the moment I'm leaning toward collecting data over a set period of time, then analyzing how badly Metro does at arriving at each stop on time.  But doing that would require matching GTFS stops to Nextbus stops, which `isn't easy <http://www.manifestdensity.net/2009/07/02/some-nextbus-stats/>`__.
+At the moment I'm leaning toward collecting data over a set period of time, then analyzing how badly Metro does at arriving at each stop on time.  But doing that would require matching GTFS stops to Nextbus stops, which `isn't easy </2009/07/02/some-nextbus-stats/>`__.
 
 So tell me, Nextbus-iPhone-app-users: is there anything you wish the app did that it doesn't?  Or should I content myself with the above-proposed navel-gazing?

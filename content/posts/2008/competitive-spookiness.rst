@@ -24,7 +24,7 @@ This little story probably took no more than two pages of script, but it's one o
 
 |20080924_bprd_universal_machine.jpg|
 
-.. |20080924_bprd_universal_machine.jpg| image:: http://www.manifestdensity.net/2008/09/24/20080924_bprd_universal_machine.jpg
+.. |20080924_bprd_universal_machine.jpg| image:: /static/2008/09/24/20080924_bprd_universal_machine.jpg
    :class: center
    :width: 250px
    :height: 394px

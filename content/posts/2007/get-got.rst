@@ -14,7 +14,7 @@ Why yes, I *do* enjoy being a small-minded jerk:
 
 I mostly just like this because it makes me feel better about the many times when a typo of mine has made it onto DCist. Also, it provided a handy excuse to put Photoshop CS3 through the paces (Review: it works! But it doesn't use the right style of brush cursor when you're zoomed in.).
 
-.. |typo in Time| image:: http://www.manifestdensity.net/2007/01/18/time_typo.jpg
+.. |typo in Time| image:: /static/2007/01/18/time_typo.jpg
    :class: center
    :width: 500px
    :height: 629px

@@ -20,7 +20,7 @@ I think there's a lot of low-hanging fruit that can be grabbed on this front: vo
 
 How are you going to compete in the workforce against someone who can Google without a keyboard?
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/ken_jennings_watson-20110217-153920.jpg
+.. |image1| image:: /static/2011/02/17/ken_jennings_watson-20110217-153920.jpg
    :class: aligncenter
    :width: 483px
    :height: 362px

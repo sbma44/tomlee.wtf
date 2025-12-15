@@ -18,7 +18,7 @@ Oh, also, one of the characters has a gigantic flying bison. In other words: rec
 
 (For what it's worth, this property is also being adapted into a series of three films M. Night Shyamalan; I don't have particularly high hopes for them, though.)
 
-.. |image1| image:: http://www.manifestdensity.net/skitch/appa-20090824-233346.jpg
+.. |image1| image:: /static/2009/08/23/appa-20090824-233346.jpg
    :class: alignright
    :width: 270px
    :height: 233px
