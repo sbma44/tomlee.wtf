@@ -20,12 +20,21 @@ DATE_PATTERN = re.compile(r"^:date:\s*(\d{4})-(\d{2})-(\d{2})", re.MULTILINE)
 YEAR_FRAGMENT = re.compile(r"/(19|20)\d{2}/")
 TRAILING_PUNCTUATION = ".,);:\"'!?]>\\"
 DEFAULT_EXTENSIONS = (".rst", ".md", ".markdown", ".html", ".htm", ".txt")
+META_PATTERN = re.compile(r"^:([\w-]+):\s*(.+)$", re.MULTILINE)
 
 
 @dataclass
 class RewriteResult:
     replacement: str
     scenario: str
+
+
+@dataclass
+class ArticleInfo:
+    slug: str
+    normalized_slug: str
+    url: str
+    path: Path
 
 
 class TarAssetResolver:
@@ -107,6 +116,10 @@ def extract_post_date(text: str) -> Optional[tuple[int, int, int]]:
         return None
     year, month, day = match.groups()
     return int(year), int(month), int(day)
+
+
+def normalize_slug(value: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", value.lower())
 
 
 def strip_trailing_punctuation(url: str) -> tuple[str, str]:
@@ -240,6 +253,84 @@ def should_process(path: Path, content_root: Path, allowed_exts: set[str]) -> bo
     return path.suffix.lower() in allowed_exts
 
 
+def extract_metadata(text: str) -> dict[str, str]:
+    metadata: dict[str, str] = {}
+    for key, value in META_PATTERN.findall(text):
+        metadata[key.lower()] = value.strip()
+    return metadata
+
+
+def build_article_index(
+    content_root: Path, allowed_exts: set[str]
+) -> list[ArticleInfo]:
+    articles: list[ArticleInfo] = []
+    posts_root = content_root / "posts"
+    for path in posts_root.rglob("*"):
+        if not should_process(path, content_root, allowed_exts):
+            continue
+        try:
+            text = path.read_text(encoding="utf-8")
+        except UnicodeDecodeError:
+            continue
+        metadata = extract_metadata(text)
+        slug = metadata.get("slug")
+        url = metadata.get("url")
+        if not slug or not url:
+            continue
+        normalized = normalize_slug(slug)
+        relative_url = "/" + url.lstrip("/")
+        articles.append(
+            ArticleInfo(
+                slug=slug,
+                normalized_slug=normalized,
+                url=relative_url,
+                path=path,
+            )
+        )
+    return articles
+
+
+def match_slug_subset(
+    parsed: urllib.parse.SplitResult, articles: list[ArticleInfo]
+) -> Optional[RewriteResult]:
+    parts = [part for part in parsed.path.split("/") if part]
+    if not parts:
+        return None
+    slug_candidate = parts[-1]
+    slug_candidate = re.sub(r"_(\d+)$", "", slug_candidate)
+    if "." in slug_candidate:
+        return None
+    normalized_old = normalize_slug(slug_candidate)
+    if not normalized_old:
+        return None
+
+    best: Optional[ArticleInfo] = None
+    best_score: Optional[int] = None
+
+    for article in articles:
+        if not article.normalized_slug:
+            continue
+        if article.normalized_slug == normalized_old:
+            score = 0
+        elif article.normalized_slug.startswith(normalized_old):
+            score = len(article.normalized_slug) - len(normalized_old)
+        else:
+            continue
+        if best is None or best_score is None or score < best_score:
+            best = article
+            best_score = score
+
+    if best is None:
+        return None
+
+    relative = best.url
+    if parsed.query:
+        relative = f"{relative}?{parsed.query}"
+    if parsed.fragment:
+        relative = f"{relative}#{parsed.fragment}"
+    return RewriteResult(relative, "slug")
+
+
 def process_file(
     path: Path,
     content_root: Path,
@@ -248,6 +339,7 @@ def process_file(
     dry_run: bool,
     mirror_cache: dict[str, Optional[str]],
     allowed_exts: set[str],
+    articles: list[ArticleInfo],
     stats: dict[str, int],
 ) -> None:
     if not should_process(path, content_root, allowed_exts):
@@ -275,6 +367,8 @@ def process_file(
         result: Optional[RewriteResult] = check_mirror(
             url_body, parsed, mirror_base, mirror_cache
         )
+        if result is None:
+            result = match_slug_subset(parsed, articles)
         if result is None:
             result = match_static_asset(parsed, content_root)
         if result is None and tar_resolver is not None:
@@ -310,6 +404,7 @@ def main() -> None:
     tar_resolver = load_tar_resolver(args.tar_archive)
 
     allowed_exts = {ext.strip().lower() for ext in args.extensions.split(",") if ext.strip()}
+    articles = build_article_index(content_root, allowed_exts)
 
     stats: dict[str, int] = {
         "files_scanned": 0,
@@ -330,6 +425,7 @@ def main() -> None:
                 dry_run=args.dry_run,
                 mirror_cache=mirror_cache,
                 allowed_exts=allowed_exts,
+                articles=articles,
                 stats=stats,
             )
     finally:
