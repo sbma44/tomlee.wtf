@@ -331,6 +331,10 @@ pre code {
     background: var(--color-primary);
 }
 
+.aligncenter {
+    text-align: center;
+}
+
 /*--------------------------------------------------------------
    4. COMPONENTS
 --------------------------------------------------------------*/
@@ -386,7 +390,7 @@ pre code {
 }
 
 .entry-title a:hover {
-    color: var(--color-secondary);
+    color: var(--color-primary);
 }
 
 .entry-content {

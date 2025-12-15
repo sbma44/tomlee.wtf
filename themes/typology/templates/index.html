@@ -48,7 +48,7 @@
             <div class="archive-year">
                 <h3>{{ year }}</h3>
                 <ul class="archive-list">
-                    {% for article in year_articles|reverse %}
+                    {% for article in year_articles %}
                     <li>
                         <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
                         <span class="archive-date">{{ article.date.strftime('%B %d') }}</span>
