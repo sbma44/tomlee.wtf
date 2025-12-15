@@ -63,6 +63,7 @@ HomeKit is Apple's home automation framework. It nice enough: baked into iOS dev
 
 .. figure:: /static/2022/02/image-1024x648.png
    :figclass: wp-image-3280
+   :alt: Homekit accessories displayed via Homebridge
 
 Homebridge helps with this problem. Install it on a Raspberry Pi; search for the brands of home automation garbage you have littering your LAN. Whatever they are, someone has probably written a Homebridge plugin for them. These plugins speak whichever dialect the device (or its cloud API) insists upon, while Homebridge translates to HomeKit-ese. Suddenly, you are not at the mercy of those velvet-rope devs. An army of weird home automation dads has crested the ridge to flank your enemy!
 

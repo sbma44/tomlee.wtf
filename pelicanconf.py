@@ -2,7 +2,6 @@ from pathlib import Path
 
 # Site Information
 SITENAME = "Tom Lee"
-SITEURL = ""
 AUTHOR = "Tom Lee"
 TIMEZONE = "America/New_York"
 
