@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>the problem with automating forgetfulness - Tom Lee</title>
+
+    <meta name="description" content="Last week I used Viktor Mayer-SchÃ¶nberger's "Useful Void" proposal (PDF) as a jumping-off point to ruminate about Facebook, the work/personal...">
+    <meta name="robots" content="noindex, nofollow">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;600;700&family=Josefin+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="/theme/css/style.css">
+
+    <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Tom Lee Atom Feed" />
+
+</head>
+
+<body>
+    <header id="typology-header" class="typology-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="site-branding">
+                    <h1 class="site-title"><a href="/">Tom Lee</a></h1>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/about/">About</a></li>
+                        <li><a href="/projects/">Projects</a></li>
+                        <li class="social-icon"><a href="https://github.com/sbma44" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://x.com/tjl" target="_blank" rel="noopener" title="Twitter" aria-label="Twitter">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://bsky.app/profile/tjl.bsky.social" target="_blank" rel="noopener" title="Bluesky" aria-label="Bluesky">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z"/></svg>
+                        </a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="typology-fake-bg">
+<div class="typology-section">
+    <div class="section-content">
+        <article class="typology-post typology-single-post">
+            <header class="entry-header">
+                <h1 class="entry-title">the problem with automating forgetfulness</h1>
+
+                <div class="entry-meta">
+                    <span class="meta-item">
+                        <time datetime="2007-05-16T18:10:00-04:00">Wednesday, 16 May 2007</time>
+                    </span>
+                </div>
+
+                <div class="post-letter">T</div>
+            </header>
+
+            <div class="entry-content">
+                <p>Last week I used Viktor Mayer-SchÃ¶nberger's <a class="reference external" href="http://www.vmsweb.net/attachments/pdf/Useful_Void.pdf">&quot;Useful Void&quot; proposal</a> (PDF) as a jumping-off point to ruminate about Facebook, the work/personal divide and darknets over <a class="reference external" href="/2007/05/10/the-internet-like-an-electronic-elephant/">here</a>. Along the way I casually dismissed Mayer-SchÃ¶nberger's proposal:</p>
+<blockquote>
+I'm sure his heart is in the right place, but this is dumb for all the same reasons that DRM is dumb. You really, really can't control the spread or persistence of publicly available digital information. Efforts to do so are a waste of everyone's time.</blockquote>
+<p>But then, much to my surprise, the man himself popped up in comments, leaving this polite note:</p>
+<blockquote>
+<div class="line-block">
+<div class="line">You seem to suggest that my proposal is similar to IP secured by DRM. It seems that you haven't actually looked at my paper. In the paper I suggest that a DRM-like approach (as Lessig has made in Code 2.0) would be overkill. What I desire is not perfect solution, just a shift in defaults that makes users think again about the choice of forgetting.</div>
+<div class="line">I encourage you to read the paper - it's a free download, including from my <a class="reference external" href="http://www.vmsweb.net/">website</a>, and I think addresses some of the concerns you seem to have.</div>
+<div class="line">In contrast your solution (cognitively accepting the fact that we are transparent and thus weigh things differently) depends on our brains ability to adapt - not something that cognitive scientists have much hope in I am afraid, espcially since biologically we are wired to forget.</div>
+<div class="line">Kind regards,</div>
+<div class="line">VMS</div>
+</div>
+</blockquote>
+<p>Well, guilty as charged — I hadn't read his proposal. But now I have, and I'm afraid that I still arrive at much the same conclusion: I think that it probably isn't workable, and it definitely wouldn't be wise.</p>
+<p>His proposal specifically involves the legislative mandating of a system of expiration metadata that would be built into software. It could be easily overridden by data creators when necessary — your Word documents won't start disappearing — but by default data would be &quot;forgotten&quot; after a set period of time.</p>
+<p>But how did we get into the situation we're currently in, with huge amounts of data being acquired? As Mayer-SchÃ¶nberger points out, storage is very cheap. But it's not free — data is still retained for one of two reasons: either people assign <em>value</em> to the data, or the costs associated with throwing it away (and sifting out what shouldn't be thrown away) exceed the cost of storing it.</p>
+<p>The proposal may help with the second situation. Introducing statutory penalties raises the cost of retaining data, which may spur organizations to throw it away. Of course, the cost of throwing away data isn't made any cheaper by the system, but presumably Mayer-SchÃ¶nberger thinks it's worthwhile to introduce that inefficiency.</p>
+<p>The first situation is unlikely to be helped, however. If a user assigns value to a piece of data — i.e. they think it's useful or may become useful in the future — there's very little that one can do to stop them from retaining it indefinitely. Data doesn't just delete itself, after all. To make sure it disappears at a set time you can do one of two things: either design a system that simply refuses to read a piece of data after the expiration date, or one that actively collects and deletes content on or near the expiration date. The first option involves per-use permissioning — simply put, it's DRM, and just as difficult to implement effectively. The second system relies on the creation and maintenance by the user of systems designed to destroy data they want to keep. Unless Trusted Computing becomes a reality, that's not likely to happen — and even then, what could you do about physical media like DVDs?</p>
+<p>Besides, there's a downside to this proposal: driving data archiving underground (so to speak) would lead to great losses in utility. Suppose that a message board's content is set to auto-expire after a few years in order to protect its participants from getting into trouble over their semi-private conversations. Google and other prominent digital archivists would no doubt comply with the regulation, depriving users of whatever legitimate benefit could be had from searching its content. But there's simply no way to stop, say, a group administrator from burning the archives to disc and then releasing embarrassing posts when another forum denizen runs for office. If data is valued, it will be retained.</p>
+<p>I think the proposed system would work decently for preventing employers from going through photos of employees' drunken college exploits, or stopping health insurers from checking clients' web output for hints of preexisting conditions. But it would do very little to affect data retention by individuals — technologically-enforced auto-deletion won't work and encryption makes enforcement nearly impossible. And it's difficult to imagine how a universal technological solution would be any more effective at constraining data retention than simple legislation targeting specific industries that says, &quot;Hey! Throw that data away after X months!&quot;</p>
+<p>As a technologist I'm extremely familiar with the temptation to accomplish everything with a well-designed system. But it's very difficult to constrain digital actions with digital technology. Fear of punishment is the only real way to change this behavior — and that can be instilled without rewriting every piece of software in existence.</p>
+<p><em>Crossposted at</em> <a class="reference external" href="http://labs.echoditto.com">EchoDitto Labs</a></p>
+
+            </div>
+
+        </article>
+    </div>
+</div>
+    </div>
+
+    <footer id="typology-footer" class="typology-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy;  Tom Lee</p>
+                <!-- <p>Powered by <a href="https://getpelican.com/" target="_blank" rel="noopener">Pelican</a></p> -->
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

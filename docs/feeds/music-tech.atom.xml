@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tom Lee - music, tech</title><link href="/" rel="alternate"/><link href="/feeds/music-tech.atom.xml" rel="self"/><id>/</id><updated>2009-03-30T11:26:00-04:00</updated><entry><title>WOXY Growl notifications</title><link href="/2009/03/30/woxy-growl-notifications/" rel="alternate"/><published>2009-03-30T11:26:00-04:00</published><updated>2009-03-30T11:26:00-04:00</updated><author><name>admin</name></author><id>tag:None,2009-03-30:/2009/03/30/woxy-growl-notifications/</id><summary type="html">&lt;p&gt;A while ago I pestered the author of the &lt;a class="reference external" href="http://www.uhlenbrock.us/woxy/"&gt;WOXY playlist widget&lt;/a&gt; to add Growl support — I like to be able to learn what I'm listening to without opening my web browser — and he was nice enough to do so. That worked okay for a while, but I think the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A while ago I pestered the author of the &lt;a class="reference external" href="http://www.uhlenbrock.us/woxy/"&gt;WOXY playlist widget&lt;/a&gt; to add Growl support — I like to be able to learn what I'm listening to without opening my web browser — and he was nice enough to do so. That worked okay for a while, but I think the widget's no longer being maintained; at the very least my copy now seems to be broken.&lt;/p&gt;
+&lt;p&gt;But two things have changed, making the kludginess of a widget unnecessary. First, a few months ago &lt;a class="reference external" href="http://woxy.com/stream/mpg128.pls"&gt;WOXY began offering a 128kbps MP3 stream&lt;/a&gt;, providing listenable sound quality without the use of their iTunes-unfriendly AACPlus stream. Second, it appears that last month &lt;a class="reference external" href="http://www.dolejsky.com/2009/02/19/growltunes-patch/"&gt;some nice fellow on the internet&lt;/a&gt; patched the GrowlTunes helper app so that it actually shows notifications properly when there's a track change in a radio stream being played by iTunes. Thanks, stranger!&lt;/p&gt;
+</content><category term="music, tech"/></entry><entry><title>all you wanna do is street fight</title><link href="/2008/10/07/all-you-wanna-do-is-street-fight/" rel="alternate"/><published>2008-10-07T16:51:00-04:00</published><updated>2008-10-07T16:51:00-04:00</updated><author><name>admin</name></author><id>tag:None,2008-10-07:/2008/10/07/all-you-wanna-do-is-street-fight/</id><summary type="html">&lt;p&gt;I only mentioned Man Factory's Street Fighter concept album &lt;a class="reference external" href="/2008/09/15/music-at-least-some-of-which-is-not-about-videogames/"&gt;in passing&lt;/a&gt; at first, but having given it some more attention (and having done so at Ezra's recommendation), I feel like I should push it a little harder: it's pretty clever and catchy, and is really more of a straight-up rock …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I only mentioned Man Factory's Street Fighter concept album &lt;a class="reference external" href="/2008/09/15/music-at-least-some-of-which-is-not-about-videogames/"&gt;in passing&lt;/a&gt; at first, but having given it some more attention (and having done so at Ezra's recommendation), I feel like I should push it a little harder: it's pretty clever and catchy, and is really more of a straight-up rock opera than a mere concept album. Its brevity left me a bit confused at first, but I now see that this is just the first of &lt;a class="reference external" href="http://blogs.dallasobserver.com/dc9/2008/06/man_factory_talks_street_fight.php"&gt;three planned &amp;quot;rounds&amp;quot;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It's a &lt;a class="reference external" href="http://students.uta.edu/tm/tmw7914/roundone.zip"&gt;free download&lt;/a&gt; — what have you got to lose?&lt;/p&gt;
+</content><category term="music, tech"/></entry><entry><title>Muxtape unraveled</title><link href="/2008/03/27/muxtape-unraveled/" rel="alternate"/><published>2008-03-27T21:31:00-04:00</published><updated>2008-03-27T21:31:00-04:00</updated><author><name>admin</name></author><id>tag:None,2008-03-27:/2008/03/27/muxtape-unraveled/</id><summary type="html">&lt;p&gt;I've seen a lot of attention paid to &lt;a class="reference external" href="http://www.muxtape.com"&gt;Muxtape&lt;/a&gt; over the past few days, and I agree: it's nice! I think a lot of the romanticism that people attach to the mixtape format is silly, and that removing portability from the equation makes it a lot less useful. But Muxtape …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I've seen a lot of attention paid to &lt;a class="reference external" href="http://www.muxtape.com"&gt;Muxtape&lt;/a&gt; over the past few days, and I agree: it's nice! I think a lot of the romanticism that people attach to the mixtape format is silly, and that removing portability from the equation makes it a lot less useful. But Muxtape is clean and built around an attractively simple idea.&lt;/p&gt;
+&lt;p&gt;I will say, though, that it does even less than usual to prevent the files it stores from being downloaded. If you fire up Firebug after you start a song playing, it's easy enough to find the Flash player, which is being passed a set of parameters that look like this:&lt;/p&gt;
+&lt;blockquote&gt;
+type=mp3&amp;amp;width=0&amp;amp;height=0&amp;amp;file=http%3A//muxtape.s3.amazonaws.com/songs/abcdefg94fb3f63d668bbc521b8eb3460%3FPLEASE%3DDO_NOT_STEAL_MUSIC%26AWSAccessKeyId%3D1R7VFFT45XS0N28M1K02%26Expires%3D1206670309%26Signature%3Dl8pKlxHGgz2LdSomiK38sA%252Fp7EM%253D&amp;amp;javascriptid=playeraa5bd894fb3f63d668bbc521b8eb3460&amp;amp;enablejs=true&lt;/blockquote&gt;
+&lt;p&gt;If you pull out the &lt;em&gt;file&lt;/em&gt; parameter and decode it, it looks like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;a class="reference external" href="http://muxtape.s3.amazonaws.com/songs/abcdefg94fb3f63d668bbc521b8eb3460?PLEASE=DO_NOT_STEAL_MUSIC"&gt;http://muxtape.s3.amazonaws.com/songs/abcdefg94fb3f63d668bbc521b8eb3460?PLEASE=DO_NOT_STEAL_MUSIC&lt;/a&gt;&lt;/blockquote&gt;
+&lt;p&gt;Yes, really. I've changed enough of the URL to make it invalid, but still: asking is probably not going to be enough.&lt;/p&gt;
+&lt;p&gt;I'll admit that this is a hard problem to solve. Unless you're prepared to undertake a major software development project whereby you decrypt your data client-side and send raw PCM to the sound card — and trust me, you're probably not — you're going to be stuck using Adobe Flash to play music in-browser. And if that's the case, you're pretty much stuck using a command that amounts to:&lt;/p&gt;
+&lt;blockquote&gt;
+dear_flash_please_play_this_mp3('&lt;a class="reference external" href="http://server.com/my-music-file.mp3"&gt;http://server.com/my-music-file.mp3&lt;/a&gt;');&lt;/blockquote&gt;
+&lt;p&gt;This is not very secure — Flash needs to get that URL from somewhere, and if the user can figure it out they can download the file as easily as Flash can. All you can do at THAT point is hiding the name of the file by changing it so quickly that a user's browser can be bothered to figure it out, but the user herself cannot (this is what iMeem and MySpace do). You'll probably also insert some hoops that Flash has to jump through to prove its Flash-iness, all of which can be easily faked but which will at least discourage casual downloading.&lt;/p&gt;
+&lt;p&gt;But the guy running Muxtape has screwed himself out of these measures by using Amazon S3 to store his files, which is handy and cheap but can't implement a system for changing filenames rapidly, or employ HTTP user agent filtering, or check for tokens, or really do any other server-side cleverness. So the only option he has left is simply asking people not to download. Which I admire, because all of these countermeasures, even the encryption, can be defeated. But I doubt the record companies are going to be as sanguine about it.&lt;/p&gt;
+&lt;p&gt;But who knows! Maybe he'll be able to figure out some sort of promotional detente the way the Hype Machine folks have. I hope so. But right now it will be pretty easy for someone to write a Greasemonkey script to allow direct downloading, or for music bloggers looking for free storage to hotlink the site to death.&lt;/p&gt;
+</content><category term="music, tech"/></entry><entry><title>the march of progress</title><link href="/2008/03/10/the-march-of-progress/" rel="alternate"/><published>2008-03-10T11:56:00-04:00</published><updated>2008-03-10T11:56:00-04:00</updated><author><name>admin</name></author><id>tag:None,2008-03-10:/2008/03/10/the-march-of-progress/</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://tinyurl.com/yt7ynq"&gt;Looks like&lt;/a&gt; someone took &lt;a class="reference external" href="http://tinyurl.com/24k82j"&gt;my work&lt;/a&gt; as a starting point and make a &lt;a class="reference external" href="http://userscripts.org/scripts/show/23612"&gt;hy/pe m Greasemonkey script&lt;/a&gt;. It's nice! I wrote an equivalent bookmarklet right after I wrote that post but didn't distribute it. It wasn't as nice as this Greasemonkey script, either — check out the fancy data-URI-encoded icons …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://tinyurl.com/yt7ynq"&gt;Looks like&lt;/a&gt; someone took &lt;a class="reference external" href="http://tinyurl.com/24k82j"&gt;my work&lt;/a&gt; as a starting point and make a &lt;a class="reference external" href="http://userscripts.org/scripts/show/23612"&gt;hy/pe m Greasemonkey script&lt;/a&gt;. It's nice! I wrote an equivalent bookmarklet right after I wrote that post but didn't distribute it. It wasn't as nice as this Greasemonkey script, either — check out the fancy data-URI-encoded icons on this guy! Anyway, get (and use) it now before they rotate encryption keys and break both of em.&lt;/p&gt;
+&lt;p&gt;It seems slightly silly to me that the free music sampling position we've arrived at is so delicate and tendentious. Everyone's fiercely guarding their bandwidth and ability to deny liability while tacitly admitting the underlying truth: single tracks are now essentially free, priced only by the amount of inconvenience it takes to obtain them — which is primarily a function of which startup has how much remaining money/lawsuits pending against them. It's all pretty dumb.&lt;/p&gt;
+&lt;p&gt;A suggestion for the idle Flash developers that I'd like to believe are reading this but probably aren't: how about a &lt;a class="reference external" href="http://blog.delicious.com/blog/2005/11/we_rock_part_2.html"&gt;PlayTagger&lt;/a&gt;-like application with the following capabilities:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;The ability to take a semicolon-delimited list of URLs for an mp3 link (in the &lt;em&gt;rel&lt;/em&gt; attribute or similar) and randomly serve one so as to balance load and bandwidth costs.&lt;/li&gt;
+&lt;li&gt;HTTP_REFERER header forging; either automatic (root of serving domain) or user-specified.&lt;/li&gt;
+&lt;li&gt;The ability to scrape HTML pages included in that &lt;em&gt;rel&lt;/em&gt; list of URLs and find matching mp3 links based on filename or link text comparison.&lt;/li&gt;
+&lt;li&gt;Testing links for 404s/30xs; on error, proceed to the next URL specified.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It should all be pretty simple stuff, except perhaps for the second and last item — I'm not sure how sophisticated ActionScript's HTTP functionality is. And it'd allow linking to mp3 files in a way that's unlikely to break, unlikely to bankrupt the people hosting the files, and that could be automatically generated without too much trouble.&lt;/p&gt;
+</content><category term="music, tech"/></entry><entry><title>the denials get weaker</title><link href="/2008/01/08/the-denials-get-weaker/" rel="alternate"/><published>2008-01-08T10:33:00-05:00</published><updated>2008-01-08T10:33:00-05:00</updated><author><name>admin</name></author><id>tag:None,2008-01-08:/2008/01/08/the-denials-get-weaker/</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://juliansanchez.com/notes/archives/2008/01/the_music_today_is_nuthin_but.php"&gt;Julian's&lt;/a&gt; just linked to a &lt;a class="reference external" href="http://www.rollingstone.com/news/story/17777619/the_death_of_high_fidelity/print"&gt;pretty good article about audio compression&lt;/a&gt; from Rolling Stone. I'd also recommend &lt;a class="reference external" href="http://spectrum.ieee.org/aug07/5429"&gt;this IEEE Spectrum article&lt;/a&gt; on the subject. I suggest you choose according to who you consider more culpable: the geeks who engineer the offending waveform compressors, or the sold-out music journalists who help …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://juliansanchez.com/notes/archives/2008/01/the_music_today_is_nuthin_but.php"&gt;Julian's&lt;/a&gt; just linked to a &lt;a class="reference external" href="http://www.rollingstone.com/news/story/17777619/the_death_of_high_fidelity/print"&gt;pretty good article about audio compression&lt;/a&gt; from Rolling Stone. I'd also recommend &lt;a class="reference external" href="http://spectrum.ieee.org/aug07/5429"&gt;this IEEE Spectrum article&lt;/a&gt; on the subject. I suggest you choose according to who you consider more culpable: the geeks who engineer the offending waveform compressors, or the sold-out music journalists who help create a market for them.&lt;/p&gt;
+&lt;p&gt;But I wonder how much longer this will be a problem. The cost to keeping an alternate version of a digital file in inventory is just about zero. And consider that radio-ready crossover tracks are already commonly mixed into different forms for different broadcast outlets: adult contemporary stations get the acoustic guitar cranked up, and stations with &amp;quot;Z&amp;quot; in their names may be treated to an extra bass line (the better to make their listeners' rusted-out hatchbacks buzz, rattle and hum).&lt;/p&gt;
+&lt;p&gt;I'll admit I'm not an expert on the mixing and mastering process — Charles, maybe you can chime in? — but my impression is that compressing the hell out of a song requires considerably less work than mixing those alternate versions. So if you can get just a few hundred people to buy the crisp, uncompressed FLAC version of a song, I imagine that'd pay for its production costs. It's actually the audiophiles who are holding this back: their disdain for portable players and digital files is preventing support for the lossless FLAC format from hitting the market (&lt;a class="reference external" href="http://flac.sourceforge.net/links.html#hardware"&gt;some players support it, of course&lt;/a&gt;, but not many).&lt;/p&gt;
+&lt;p&gt;Incidentally, this all ties pretty well into something I've been pondering lately. Since the demise of Oink I've found myself listening to a lot of 128kbps or lower MP3s — the Hype Machine transcodes everything to that bitrate, and WOXY's 32kbps AACPlus stream, while somewhat of an apple to MP3's orange, is certainly less than perfect sounding. And it's true that I've been feeling a little less emotional impact from many of the songs. It sounds stupid, I know. This didn't happen to me in the past.&lt;/p&gt;
+&lt;p&gt;But I think this is partly just the result of getting older, and it's given me an important perspective on audiophile pretension. The market for high-end equipment is defined by the rich old guys who can afford to buy it — folks whose high-frequency-sensitive cochlear hair cells have given up the ghost in significant numbers. So one should expect that audiophile gear will be tuned to overcome these deficiencies. It'll seem both extravagantly stupid and stupidly extravagant to the still-immortal young'uns, but decreasingly so as their own ears age — different age groups effectively have different equalizers built into their heads. It's worth keeping in mind that a hunger for ludicrously expensive speakers may be as much a sign of a medical condition as it is a sign of having too much money. Happily, the cure for both afflictions is the same.&lt;/p&gt;
+&lt;p&gt;(None of the preceding should be taken to mean that anyone buying &lt;a class="reference external" href="http://www.machinadynamica.com/machina31.htm"&gt;this&lt;/a&gt; is anything less than a complete moron.)&lt;/p&gt;
+</content><category term="music, tech"/></entry><entry><title>more command line rock</title><link href="/2007/12/13/more-command-line-rock/" rel="alternate"/><published>2007-12-13T12:50:00-05:00</published><updated>2007-12-13T12:50:00-05:00</updated><author><name>admin</name></author><id>tag:None,2007-12-13:/2007/12/13/more-command-line-rock/</id><summary type="html">&lt;p&gt;Recording for posterity, because recreating Perl one-liners is a pain in the ass. If you're on a *nix like system (including OS X), this will download all the MP3s linked from a given URL:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre class="literal-block"&gt;
+curl -s http://somemusicblog.com/goodsongs.html | perl -nle 'print $1 while /\&amp;lt;a\b[^\&amp;gt;&amp;quot;]*?\bhref=\&amp;quot;?([^\&amp;gt;&amp;quot;]*)\.mp3 …&lt;/pre&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;Recording for posterity, because recreating Perl one-liners is a pain in the ass. If you're on a *nix like system (including OS X), this will download all the MP3s linked from a given URL:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre class="literal-block"&gt;
+curl -s http://somemusicblog.com/goodsongs.html | perl -nle 'print $1 while /\&amp;lt;a\b[^\&amp;gt;&amp;quot;]*?\bhref=\&amp;quot;?([^\&amp;gt;&amp;quot;]*)\.mp3/g' | xargs -I {} curl -O {}.mp3
+&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE:&lt;/strong&gt; &lt;a class="reference external" href="http://earfarm.blogspot.com/2007/12/ear-farms-top-ten-bands-to-emerge-in.html"&gt;This URL&lt;/a&gt; might be a good one to try it out on.&lt;/p&gt;
+</content><category term="music, tech"/></entry><entry><title>let's pick on a different mp3 aggregator for a change</title><link href="/2007/11/26/lets-pick-on-a-different-mp3-aggregator-for-a-change/" rel="alternate"/><published>2007-11-26T16:14:00-05:00</published><updated>2007-11-26T16:14:00-05:00</updated><author><name>admin</name></author><id>tag:None,2007-11-26:/2007/11/26/lets-pick-on-a-different-mp3-aggregator-for-a-change/</id><summary type="html">&lt;p&gt;The Hype Machine is great, but it's not the only one out there, after all. Besides, it's got certain shortcomings: its &amp;quot;popular&amp;quot; page is fine if you want to listen to a ton of Bloc Party, but can suffer from a lack of variation. And looking at the front page …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Hype Machine is great, but it's not the only one out there, after all. Besides, it's got certain shortcomings: its &amp;quot;popular&amp;quot; page is fine if you want to listen to a ton of Bloc Party, but can suffer from a lack of variation. And looking at the front page is like drinking from a firehose. The &lt;a class="reference external" href="/2007/11/23/everything-is-connected/"&gt;podcast feed that I made last week&lt;/a&gt; suffers for it: you're not getting a representative snapshot of what's being talked about, but rather just a random sampling of what was popular when your copy of iTunes decided to check in. And, as I mentioned, the feed will no doubt be shut down by the HM guys (they may have already throttled iTunes' bandwidth).&lt;/p&gt;
+&lt;p&gt;So what about elbo.ws? They publish a &lt;a class="reference external" href="http://elbo.ws/tracks"&gt;daily-updated list of popular tracks&lt;/a&gt; that contains more music I haven't heard. And it's persistent enough that querying it once a day could be useful. The only problem is that it doesn't carry any MP3 links: users have to go hunting at the linked blogs to find links that are still alive. This makes it kind of a pain in the ass to check out the referenced music (and is why I generally prefer the Hype Machine).&lt;/p&gt;
+&lt;p&gt;But it &lt;em&gt;is&lt;/em&gt; possible to create a podcast feed using techniques similar to the ones I applied to the Hype Machine. &lt;a class="reference external" href="http://pipes.yahoo.com/sbma44/elbowspodcast"&gt;Here's&lt;/a&gt; a pipe that simply retrieves the elbo.ws top tracks feed (or any other elbo.ws feed — it just defaults to that) and adds an enclosure tag to each entry. That tag tells iTunes (or whatever) to come talk to my server, passing the link associated with the elbo.ws entry.&lt;/p&gt;
+&lt;p&gt;At the server the request is intercepted via an .htaccess rewrite rule and redirected to a script (iTunes insists on URLs ending in .mp3, otherwise this would be unnecessary). The script pulls up the elbo.ws page and grabs the song name and listed blogs. It then loads the blogs and pulls out all of the MP3 links. From there it compares the link text to the collected song name and orders the results by similarity scores. Then it attempts to load each URL. For the first working one it finds it sends a redirect message to iTunes.&lt;/p&gt;
+&lt;p&gt;All this text processing and page-loading is pretty computationally expensive — it generally takes about half a minute to find a match — but with some caching it my server shouldn't be &lt;em&gt;completely&lt;/em&gt; destroyed. An occasional incorrect match is returned, but overall I'm pretty pleased with the thing.&lt;/p&gt;
+&lt;p&gt;Here's the code for anyone interested. Given that this doesn't affect the elbo.ws folks' bandwidth or liability, I'm assuming they won't mind:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre class="literal-block"&gt;
+&amp;lt;?php
+// taken from http://www.php.net/manual/en/function.file-exists.php#79118
+function url_exists($url)
+{
+$handle   = curl_init($url);
+if (false === $handle)
+{
+return false;
+}
+curl_setopt($handle, CURLOPT_HEADER, false);
+curl_setopt($handle, CURLOPT_FAILONERROR, true);
+curl_setopt($handle, CURLOPT_NOBODY, true);
+curl_setopt($handle, CURLOPT_RETURNTRANSFER, false);
+$connectable = curl_exec($handle);
+curl_close($handle);
+return $connectable;
+}
+function get_url($location)
+{
+$ch = curl_init($location);
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('Connection: close'));
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_TIMEOUT, 15);
+$response = curl_exec($ch);
+curl_close($ch);
+return $response;
+}
+function usort_by_similarity($a,$b)
+{
+if($a['similarity']==$b['similarity'])
+return 0;
+else
+return (($a['similarity']&amp;gt;$b['similarity']) ? 1 : -1);
+}
+function get_mp3_link_uncached($elbows_url)
+{
+$blog_matches = array();
+$elbows_page_id = preg_replace('/^.*#/','',$elbows_url);
+$elbows_page_html = get_url($elbows_url);
+$blog_links = array();
+if(preg_match_all('/&amp;lt;ul[^&amp;gt;]*&amp;gt;.*?&amp;lt;\/ul&amp;gt;/i',$elbows_page_html,$elbows_page_unordered_lists,PREG_SET_ORDER))
+{
+$matching_ul_html = '';
+foreach($elbows_page_unordered_lists as $match)
+{
+if(stristr($match[0],$elbows_page_id))
+$matching_ul_html .= $match[0];
+}
+preg_match_all('/href=[\'&amp;quot;](.*?)[\'&amp;quot;]/',$matching_ul_html,$blog_matches,PREG_SET_ORDER);
+$song_name = $elbows_page_id;
+if(preg_match_all('/&amp;lt;h3[^&amp;gt;]*&amp;gt;(.*?)&amp;lt;\/h3&amp;gt;/',$elbows_page_html,$song_name_matches,PREG_SET_ORDER))
+$song_name = $song_name_matches[0][1];
+}
+$matches_for_analysis = array();
+foreach($blog_matches as $match)
+{
+// find all mp3 links on the blog page
+$html = get_url($match[1]);
+if(preg_match_all('/&amp;lt;a[^&amp;gt;]+href=[\'&amp;quot;]([^\'&amp;quot;]*?\.mp3)[\'&amp;quot;][^&amp;gt;]*&amp;gt;(.*?)&amp;lt;\s*\/a\s*&amp;gt;/i',$html,$mp3_matches,PREG_SET_ORDER))
+{
+// retrieve the one with the most similar inner text and store it for more processing
+$current_best_match = null;
+foreach($mp3_matches as $mp3_match)
+{
+$l_similarity = levenshtein(substr($mp3_match[2],0,255), substr($song_name,0,255));
+if((!is_array($current_best_match))||($current_best_match['similarity']&amp;gt;$l_similarity))
+{
+$current_best_match = array(
+'url' =&amp;gt; $mp3_match[1],
+'text' =&amp;gt; $mp3_match[2],
+'similarity' =&amp;gt; $l_similarity,
+);
+}
+}
+if($current_best_match!=null)
+{
+$matches_for_analysis[] = array(
+'url' =&amp;gt; $current_best_match['url'],
+'text' =&amp;gt; $current_best_match['text'],
+'similarity' =&amp;gt; $current_best_match['similarity'],
+);
+}
+}
+}
+// sort the matches list from all blogs to find the one with the most similar title
+usort($matches_for_analysis,'usort_by_similarity');
+for($i=0;$i&amp;lt;sizeof($matches_for_analysis);$i++)
+if(url_exists($matches_for_analysis[$i]['url']))
+return $matches_for_analysis[$i]['url'];
+}
+if(isset($_GET['url']))
+{
+ini_set('max_execution_time',999999);
+ini_set('include_path','.:/usr/lib/php:/usr/local/lib/php:/include:/home/metamon/php');
+require_once('Cache/Function.php');
+define('CACHE_EXPIRATION_IN_SECONDS',900);
+$fcache = new Cache_Function('file', array('cache_dir' =&amp;gt; './cache', 'filename_prefix' =&amp;gt; 'fcache_elbows_'), CACHE_EXPIRATION_IN_SECONDS);
+$mp3_url = $fcache-&amp;gt;call('get_mp3_link_uncached',urldecode($_GET['url']));
+header(&amp;quot;HTTP/1.1 301 Moved Permanently&amp;quot;);
+header(&amp;quot;Location: &amp;quot; . $mp3_url);
+exit();
+}
+?&amp;gt;
+&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And the .htaccess looks like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre class="literal-block"&gt;
+&amp;lt;IfModule mod_rewrite.c&amp;gt;
+RewriteEngine on
+RewriteRule ^.*\.mp3(.*)$ index.php$1 [L,QSA]
+&amp;lt;/IfModule&amp;gt;
+&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I should add that I know none of this is new or mindblowing — projects like &lt;a class="reference external" href="http://www.songbirdnest.com/"&gt;Songbird&lt;/a&gt; are designed for exactly this sort of thing. But I like having my iPod automatically sync from one place, and I wanted to get at the elbo.ws feed specifically. Plus, y'know, it was fun to figure this out — it certainly taught me some things about the limits of Yahoo Pipes' JSON functionality.&lt;/p&gt;
+</content><category term="music, tech"/></entry><entry><title>everything is connected</title><link href="/2007/11/23/everything-is-connected/" rel="alternate"/><published>2007-11-23T13:26:00-05:00</published><updated>2007-11-23T13:26:00-05:00</updated><author><name>admin</name></author><id>tag:None,2007-11-23:/2007/11/23/everything-is-connected/</id><summary type="html">&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://noref.biz/?r=http%3A%2F%2Fblog.hypem.com%2F%3Fp%3D108"&gt;As noted on their blog&lt;/a&gt;, some guy (not me; I wish I'd thought of it, although I wouldn't have published the MP3 URLs publicly) has written a script that pulls RSS from the HM, adds Last.fm popular tags to songs, and posts the MP3s' URLs to del.icio.us …&lt;/li&gt;&lt;/ol&gt;</summary><content type="html">&lt;ol class="arabic simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://noref.biz/?r=http%3A%2F%2Fblog.hypem.com%2F%3Fp%3D108"&gt;As noted on their blog&lt;/a&gt;, some guy (not me; I wish I'd thought of it, although I wouldn't have published the MP3 URLs publicly) has written a script that pulls RSS from the HM, adds Last.fm popular tags to songs, and posts the MP3s' URLs to del.icio.us. The &lt;a class="reference external" href="http://del.icio.us/taggedhype/indie_rock"&gt;result&lt;/a&gt; is a huge, well-categorized stream of MP3s that represents most of the music blogosphere.&lt;/li&gt;
+&lt;li&gt;As you probably know, it's easy to filter a del.icio.us user's entries by tag — for instance, &lt;a class="reference external" href="http://del.icio.us/taggedhype/indie_rock"&gt;here&lt;/a&gt; are the HM entries tagged &amp;quot;indie_rock&amp;quot; (I should point out that the tags get considerably more granular than this example). Thanks to del.icio.us's cool &lt;a class="reference external" href="http://del.icio.us/help/playtagger"&gt;PlayTagger&lt;/a&gt; Flash audio player, this is already pretty useful. But it gets better.&lt;/li&gt;
+&lt;li&gt;It's also very easy to get an RSS feed of &lt;a class="reference external" href="http://del.icio.us/rss/taggedhype"&gt;all&lt;/a&gt; or &lt;a class="reference external" href="http://del.icio.us/rss/taggedhype/indie_rock"&gt;part&lt;/a&gt; of a del.icio.us user's entries.&lt;/li&gt;
+&lt;li&gt;It's only slightly harder to use Yahoo Pipes to turn an RSS feed of links to MP3s into an iTunes-compatible podcast feed. &lt;a class="reference external" href="http://pipes.yahoo.com/pipes/pipe.info?_id=_jSmNvCZ3BGZCNZWYEsBXw"&gt;Here's a pipe&lt;/a&gt; that lets you do exactly that to any given feed of MP3s.&lt;/li&gt;
+&lt;li&gt;Add this up and you get an ipod-ready podcast version of the HM. This is a feature that the site used to offer but no longer does (I could never get it working, anyway, although I think this was probably due to PC iTunes' suckiness at the time).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Incidentally, they also have a new flash MP3 player over there, which is very nicely done. It's based on &lt;a class="reference external" href="http://www.jeroenwijering.com/?item=jw_mp3_player"&gt;this guy's&lt;/a&gt; MP3 player — I've used his Flash video player on a project at work and can attest to its awesomeness (javascript bindings!). It's free for personal use, too, and cheap for commercial applications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE:&lt;/strong&gt; I should add that if you decide to try this out you should absolutely not set iTunes to update more often than once a day, as you'll be getting too much music to listen to and burning through HM's bandwidth for no good reason. Also, I should warn that the HM folks will probably shut this approach down shortly by disallowing iTunes' HTTP user agent string. I wish they'd just run the feed themselves, sticking advertising in the podcast entries to pay for the bandwidth. But it's probably pretty complicated to sell that particular kind of ad unit, so I'm not holding my breath waiting for it to happen.&lt;/p&gt;
+&lt;p&gt;Incidentally, this is yet another app that makes me wish Amazon's S3 storage service was free. That's a bit unrealistic, of course. But I'm increasingly convinced that we need an open P2P storage system. Something like &lt;a class="reference external" href="http://wua.la/en/what.html"&gt;this&lt;/a&gt; or an easier-to-use (and less porn-riddled) Freenet, but with a simple API. Ideally it'd be baked into some hugely-popular Firefox extension in order to garner sufficient levels of adoption.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE 2:&lt;/strong&gt; At a cursory glance &lt;a class="reference external" href="http://oceanstore.cs.berkeley.edu/"&gt;Oceanstore&lt;/a&gt; looks about right, although it seems as though it hasn't been worked on for a couple of years.&lt;/p&gt;
+</content><category term="music, tech"/></entry><entry><title>if I don't write (properly commented code)</title><link href="/2007/05/02/if-i-dont-write-properly-commented-code/" rel="alternate"/><published>2007-05-02T15:55:00-04:00</published><updated>2007-05-02T15:55:00-04:00</updated><author><name>admin</name></author><id>tag:None,2007-05-02:/2007/05/02/if-i-dont-write-properly-commented-code/</id><content type="html">&lt;p&gt;&lt;a class="reference external" href="http://www.travismorrison.com"&gt;Travis Morrison&lt;/a&gt; &lt;a class="reference external" href="http://www.stereogum.com/archives/005271.html"&gt;talks to Stereogum&lt;/a&gt; about music, programming, and working for the Post. Interesting to see that he's a Javascript/ASP guy. I wonder if he's worked on anything with Adrian Holovaty (probably not, given their locations, departments and languages).&lt;/p&gt;
+</content><category term="music, tech"/></entry><entry><title>we love to build</title><link href="/2007/02/07/we-love-to-build/" rel="alternate"/><published>2007-02-07T12:44:00-05:00</published><updated>2007-02-07T12:44:00-05:00</updated><author><name>admin</name></author><id>tag:None,2007-02-07:/2007/02/07/we-love-to-build/</id><summary type="html">&lt;p&gt;Holy crap. That Swimmers album is better than I'd expected — is it too early to start nominating candidates for Album of the Summer? The last few years' poor, belated crops of AoTSes makes me think that it'd best to get way out ahead of this thing. Anyway, you can listen …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Holy crap. That Swimmers album is better than I'd expected — is it too early to start nominating candidates for Album of the Summer? The last few years' poor, belated crops of AoTSes makes me think that it'd best to get way out ahead of this thing. Anyway, you can listen to the whole album over at &lt;a class="reference external" href="http://www.theswimmers.com/"&gt;their website&lt;/a&gt;. I particularly like &amp;quot;We Love To Build&amp;quot; and &amp;quot;St. Cecilia&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Relatedly, thanks to their use of the XSPF player the following super-nerdy* command is possible. I normally wouldn't post it, but I think it's the first time I ever actually got sed to do what I wanted.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre class="literal-block"&gt;
+wget -q -O - http://theswimmers.com/player/playlist.xspf | sed -e '/annotation/d' -e '/playlist/d' -e '/track/d' -e '/encoding/d' -e 's/&amp;lt;\/*location&amp;gt;//g' | xargs wget
+&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A similar technique should be possible with the &lt;a class="reference external" href="http://hype.non-standard.net"&gt;Hype Machine&lt;/a&gt;, but their failure to use line breaks in their XSPF files makes the regex composition a bit harder, so I haven't bothered to figure it out yet.&lt;/p&gt;
+&lt;p&gt;* Admittedly, it's not even &lt;em&gt;close&lt;/em&gt; to being as nerdy as &lt;a class="reference external" href="http://stevenf.com/2007/01/zeppl_1.php"&gt;this&lt;/a&gt;, which is awesome (via &lt;a class="reference external" href="http://www.allthegooddomainsweretaken.com/"&gt;Miller&lt;/a&gt;'s &lt;a class="reference external" href="http://www.allthegooddomainsweretaken.com/"&gt;del.icio.us feed&lt;/a&gt;).&lt;/p&gt;
+</content><category term="music, tech"/></entry></feed>

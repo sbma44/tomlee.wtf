@@ -1,0 +1,44 @@
+<html>
+<head><title>Where Am I?</title></head>
+<body>
+<p>This script is residing in <?php print getcwd();?>/
+
+<?php if(file_exists('./mt-config.cgi')):?>
+<strong>and</strong> it appears that this is the directory where Movable Type is installed.  Good job!</p>
+
+<p>That means that your form declaration should look something like this:<br/>
+
+<blockquote><pre>&lt;?php require('<?php print getcwd();?>/mt-comments-location.php'); ?&gt;
+
+&lt;form method="post" action="&lt;?php print $PATH_TO_MT_COMMENTS;?&gt;" name="comments_form"&gt;
+
+<em>Rest of the comments form</em>
+
+&lt;/form&gt;
+</pre></blockquote>
+
+<?php else:?>
+</p>
+
+<p>However, it appears that this isn't the directory where Movable Type is installed &mdash; this script
+couldn't detect the presence of mt-config.cgi.</p>
+
+<p>You may have a very good reason for not putting this PHP file in your MT 
+directory.  If that's the case, please use the working directory shown above
+to figure out the full path of the directory where MT is installed.  Here's
+the code that you'll want to use once you do:</p>
+
+<blockquote><pre>&lt;?php require('/full/path/to/mt/mt-comments-location.php'); ?&gt;
+
+&lt;form method="post" action="&lt;?php print $PATH_TO_MT_COMMENTS;?&gt;" name="comments_form"&gt;
+
+<em>Rest of the comments form</em>
+
+&lt;/form&gt;
+</pre></blockquote>
+
+
+<?php endif;?>
+
+</body>
+</html>

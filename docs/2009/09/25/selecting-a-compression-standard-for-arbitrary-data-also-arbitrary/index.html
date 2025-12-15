@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>selecting a compression standard for arbitrary data: also arbitrary! - Tom Lee</title>
+
+    <meta name="description" content="In keeping with this site's new ambition to become a J. Sanchez metablog: Randomly wondered when/why RAR supplanted ZIP as the default compression...">
+    <meta name="robots" content="noindex, nofollow">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;600;700&family=Josefin+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="/theme/css/style.css">
+
+    <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Tom Lee Atom Feed" />
+
+</head>
+
+<body>
+    <header id="typology-header" class="typology-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="site-branding">
+                    <h1 class="site-title"><a href="/">Tom Lee</a></h1>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/about/">About</a></li>
+                        <li><a href="/projects/">Projects</a></li>
+                        <li class="social-icon"><a href="https://github.com/sbma44" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://x.com/tjl" target="_blank" rel="noopener" title="Twitter" aria-label="Twitter">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://bsky.app/profile/tjl.bsky.social" target="_blank" rel="noopener" title="Bluesky" aria-label="Bluesky">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z"/></svg>
+                        </a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="typology-fake-bg">
+<div class="typology-section">
+    <div class="section-content">
+        <article class="typology-post typology-single-post">
+            <header class="entry-header">
+                <h1 class="entry-title">selecting a compression standard for arbitrary data: also arbitrary!</h1>
+
+                <div class="entry-meta">
+                    <span class="meta-item">
+                        <time datetime="2009-09-25T12:16:00-04:00">Friday, 25 September 2009</time>
+                    </span>
+                </div>
+
+                <div class="post-letter">S</div>
+            </header>
+
+            <div class="entry-content">
+                <p>In keeping with this site's new ambition to become a J. Sanchez metablog:</p>
+<blockquote>
+Randomly wondered when/why RAR supplanted ZIP as the default compression scheme. Internet knows: <a class="reference external" href="http://www.codinghorror.com/blog/archives/000798.html">http://www.codinghorror.com/blog/archives/000798.html</a> - &#64;normative, <a class="reference external" href="http://twitter.com/normative/status/4370570567">9/25/2009</a></blockquote>
+<p>The Coding Horror writeup is characteristically excellent, but the story is actually a little more complicated than it implies.&nbsp; It provides good reasons why RAR is superior to ZIP.&nbsp; But why hasn't RAR been beaten by something else?</p>
+<p>As with many technologies, the answer lies in the balance between the advantages of the new technology and the costs of sacrificing the incumbent technology's network effects -- that, and simple timing.&nbsp; To wit: 7Zip is a format that, in most situations, is <a class="reference external" href="http://kikizas.net/en/apps.7z.html">as good or better than RAR*</a>.&nbsp; It's also an open standard, unlike RAR.</p>
+<p>So why isn't 7Zip in use instead of RAR?&nbsp; I think it comes down to timing.&nbsp; The standardization of large-file trading on Usenet demanded a format that could be broken into chunks, as a single post can only carry a limited amount of binary data**.&nbsp; ZIP can handle this sort of operation -- I have fond memories of spreading friends' EGA games across innumerable bitrot-ridden 1.44M floppies -- but it's a feature that had been ignored or intentionally dropped by many Windows 95-era ZIP clients.&nbsp; RARs were also typically a few percentage points smaller than ZIPs at a time when the average home user's internet connection was several orders of magnitude slower than it is today.</p>
+<p>There was a moment when piracy became professionalized, and at that moment RAR was the best thing going.&nbsp; And it's still pretty good!&nbsp; The situation is quite similar to that of the MP3 format: it's been beaten by better audio compression schemes like Ogg Vorbis and AAC, but MP3 is good enough -- and popular enough -- that it's not worthwhile to tear out out the infrastructure that's been built around it.</p>
+<p>Admittedly, I doubt that RAR will remain in vogue as long as MP3 will.&nbsp; A shift in audio codec means buying hardware players with new chipsets -- and, not infrequently, acquiescing to the DRM gimmicks of whatever corporation is pushing the new format.&nbsp; Archive formats can be counted on to only matter in a flexible general-purpose computing environment, where those concerns don't really apply.&nbsp; Also, archive formats can be selected in an ad-hoc manner by release groups made of technical users that are largely immune to network effects -- the popularity or usability of their release is much less important in their insular prestige economy them than is its timing.&nbsp; For these reasons <a class="reference external" href="http://isohunt.com/torrents/7z">it's not at all uncommon to run across 7Zip torrents</a>.</p>
+<p>So RAR might fall out of fashion some day. But it owes more of its popularity to being the right technology at the right time than it does to its current technical merits.</p>
+<p>* This comparison asserts that RAR's dominance has to do with its &quot;repair archive&quot; functionality.&nbsp; I disagree; I've never found that feature to be reliable enough to be worthwhile.&nbsp; Usenet file-traders agree with me, and instead rely on a checksum metafile standard called SFV which helps both to correct errors and, in some situations, to replace missing files.</p>
+<p>** Torrents are presumably still broken into volumes because the releases have been plucked from Usenet, which remains the font of nearly all piracy. It's also handy to be able to download a single volume and run a checksum on it to look for malware before grabbing the whole archive, but this is a relatively uncommon thing for casual users to do.</p>
+
+            </div>
+
+        </article>
+    </div>
+</div>
+    </div>
+
+    <footer id="typology-footer" class="typology-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy;  Tom Lee</p>
+                <!-- <p>Powered by <a href="https://getpelican.com/" target="_blank" rel="noopener">Pelican</a></p> -->
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

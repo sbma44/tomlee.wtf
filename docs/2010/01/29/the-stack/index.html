@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>the stack - Tom Lee</title>
+
+    <meta name="description" content="A couple of weeks ago, Bunnie Huang wrote this in response to a piece on NPR: Here’s [the part of the NPR story that] I found particularly...">
+    <meta name="robots" content="noindex, nofollow">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;600;700&family=Josefin+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="/theme/css/style.css">
+
+    <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Tom Lee Atom Feed" />
+
+</head>
+
+<body>
+    <header id="typology-header" class="typology-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="site-branding">
+                    <h1 class="site-title"><a href="/">Tom Lee</a></h1>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/about/">About</a></li>
+                        <li><a href="/projects/">Projects</a></li>
+                        <li class="social-icon"><a href="https://github.com/sbma44" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://x.com/tjl" target="_blank" rel="noopener" title="Twitter" aria-label="Twitter">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://bsky.app/profile/tjl.bsky.social" target="_blank" rel="noopener" title="Bluesky" aria-label="Bluesky">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z"/></svg>
+                        </a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="typology-fake-bg">
+<div class="typology-section">
+    <div class="section-content">
+        <article class="typology-post typology-single-post">
+            <header class="entry-header">
+                <h1 class="entry-title">the stack</h1>
+
+                <div class="entry-meta">
+                    <span class="meta-item">
+                        <time datetime="2010-01-29T13:57:00-05:00">Friday, 29 January 2010</time>
+                    </span>
+                </div>
+
+                <div class="post-letter">T</div>
+            </header>
+
+            <div class="entry-content">
+                <p>A couple of weeks ago, <a class="reference external" href="http://www.bunniestudios.com/blog/?p=826">Bunnie Huang wrote this in response to a piece on NPR</a>:</p>
+<blockquote>
+<p>Here’s [the part of the NPR story that] I found particularly poignant:</p>
+<blockquote>
+Two centuries ago, our forebears would have known the precise history and source of almost every one of the limited number of things they ate and owned. They would have been familiar with the pig, the carpenter, the weaver, the loom and the dairymaid. The range of items available for purchase may have grown exponentially since then, but our understanding of their genesis has grown ever more obscure. We are now as imaginatively disconnected from the production and distribution of our goods as we are practically in reach of them, a process of alienation which has stripped us of opportunities for wonder, gratitude and guilt.</blockquote>
+<p>That last sentence, I think, resonates strongly with my personal motivation as a Maker. I dive deeply into the supply chain, learning the processes and understanding the people behind our Things, because it enables me to once again feel the wonder, gratitude, and guilt for the Things we otherwise take for granted. Wonder at the skill of craftsmen and the cleverness of designers; gratitude for the passion and hard work of my peers; and guilt for the sacrifice, waste, and unsustainable practices motivated by an obscure system of perverse economic incentives.</p>
+</blockquote>
+<p>When I was a kid, I fell in love with computers.&nbsp; The world was incomprehensibly vast and terrifying, but here was a sort of bounded system, created by and therefore obviously understandable by humans, yet still mysterious enough to fascinate.&nbsp; It was the closest thing to magic that I knew of that I also knew I could master.</p>
+<p>So, without even realizing what I was doing, I started to try to learn about computers.&nbsp; I messed around with AppleSoft BASIC; I set up BBS software; I figured out how to get a dual-modem setup working for 3-person games of Doom; I snipped the keyboard lock wire on my parents' 386 so that they couldn't keep me off of the thing during summer break while they were away at work.</p>
+<p>Along the way I began to understand bits and pieces of these systems.&nbsp; More importantly, I began to understand the larger aesthetic that unified them.&nbsp; It's a cliche that kids are better at technology than adults -- the joke's now about programming Tivo instead of programming the VCR, but it persists because it's true.&nbsp; I think that's mostly because kids come to new interfaces with fewer preconceptions about how they ought to work, and with more patience because their time is worth less (I've certainly found myself getting worse at learning new interfaces as I've gotten older and (even) less patient).</p>
+<p>But I was <em>really</em> good with technology, not just kid-good, and I think it's because I had immersed myself in so much of it.&nbsp; The thing you have to understand about bad interface design is that it's not a product of stupidity: it's a product of engineering.&nbsp; There's a reason that your childhood TV's power button made a bigger click than its channel button did.&nbsp; There's a reason that the channel button only became a button after it was a dial!&nbsp; At that age, I couldn't explain those reasons.&nbsp; But I could sense their existence, and became able to make inferences based upon them.</p>
+<p>This isn't a project that I've completed, and certainly not one that I've abandoned.&nbsp; People sometimes refer to &quot;stacks&quot; of technologies that work in complementary ways -- the PHP scripting language runs on the Apache webserver, which runs on a machine using the Linux operating system that also has a MySQL database installed, and together they form the so-called LAMP stack that serves a lot of the web's content.</p>
+<p>What the above quote is talking about is what I think of as the stack: the system of abstractions and physical mechanisms that makes digital computing possible.&nbsp; There is <em>so much of it</em>.&nbsp; It's a good thing, too, because as you chase down an explanation for one mysterious part, the fascination associated with it recedes.&nbsp; There was a time when I didn't know how web pages worked, and was thrilled to learn HTML.&nbsp; Now, frankly, I don't give a shit.&nbsp; But I <em>am</em> interested in how HTML is interpreted by Mozilla's layout engine. And how operating systems work. And how those operating systems abstract away the varyingly serial and parallel nature of processors.&nbsp; And how silicon doping and photolithography produce those processors (and why ever-higher wavelengths frequencies of light are needed for that -- and what limits there are on this technique). Or how sound is stored on a hard drive. And what makes a keyboard's keys rebound, and how USB keyboards are different from PS/2 keyboards. And how copper is mined, and how we create a voltage across huge stretches of it.&nbsp; And what a voltage is! And why my LCD monitor needs to create such a large voltage to produce light, and how that light is encoded by my retina.&nbsp; And the way that an HTTP request becomes TCP packets which become ethernet frames, and then how that's all reversed on the other side.</p>
+<p>I can give pretty good answers to a few of these questions, perform tolerable hand-waving for others, and am totally at sea for some.&nbsp; As you might've noticed from my list, I've become less and less interested in what's happening within software's incredibly vast tangle of abstractions as I've gotten older -- the abstraction itself eventually becomes a predictable pattern, and therefore a bit boring.&nbsp; These days it takes a relatively extreme case of novelty to get me excited about software (typically something that will be completely inscrutable to non-geeks who don't share my now-quite-perverse taste).</p>
+<p>And of course there's always more. Really, the computer was a conceptual frame and gateway through which I could start considering every piece of technology, bit by bit.&nbsp; It's a little more than a hobby and considerably less than a religion, but pondering the stack is important to me.</p>
+<p>It's not for everybody, though.&nbsp; <a class="reference external" href="http://www.rinich.com/post/358597818/i-love-walled-gardens">Here's an example</a>!</p>
+<blockquote>
+<p>Some of the biggest complaints [about the iPad] come from programmers that say the closed system means people won’t be able to satisfy their computer curiosities. To which I again say: Good! Then they’ll have to satisfy their curiosities about emotional maturity and social interaction and possibly even thinking about making the world a better place.</p>
+<p>It is not productive to spend an hour learning how to change the font on your computer’s clock. Even if while you’re doing that you’re learning about how computers work, you’re wasting your time and getting somewhere trivial very slowly. It reminds me of those copies of Shakespeare schools give children with all the annotations defining words and metaphors and techniques, so that kids can appreciate Shakespeare. It doesn’t work. It just makes Shakespeare look like a cryptogram that you can’t read like you do a normal play. Opening up a system that wasn’t meant to be opened just makes little kids cry.</p>
+<p>The standard response, when I sink so low as to let programmers communicate with me, is: “But Rory, programming is my passion. I was willing to spend that long learning how to code.” No, I think back at them — programmers are not given the satisfaction of hearing my voice. No, you were willing to spend that long because you had obsessive-compulsive problems mixed with an antisocial attitude.</p>
+<p>[...]</p>
+<p>This system is closed! No tinkering! You can browse the Internet, or check your mail, or take notes, or listen to music, but when you’re out of little buttons to press then you’re out of things to do. Discover something else. You are not allowed to delve into the things that nobody ought to care about. You’re forced to get another button, or to put down your pad and make out with the other people wandering, dazed, unsure of what to do.</p>
+<p>But however will children learn how to program? Simple: We will make them applications that teach them how to program. Every kid wants to make video games and Google, so it’s not like having a closed system will make them forget that such things are possible. When they go to learn, however, they will not learn by wasting their time doing things that will never make them happy in life. Instead, they will go to the carefully-screened App Store, and they will search for “How do I make video games”, and they will find a little button that teaches them and gives them a run-time environment in which to tinker. And because the iPad is so elegant and makes elegance so relatively easy, these apps will be elegant. We won’t get a row of advanced text editors too complex for people to understand. We will have a lot of simple, easy things that show us how joyful it is to tinker around, and that reveal their complexity and power as we learn enough to work at that level. I might even try my hand at something like that myself.</p>
+</blockquote>
+<p>There is something to this!&nbsp; And yet, it's just <em>wrong</em> about how to teach programming.&nbsp; Programs that teach programming are stupid -- they're for tourists.&nbsp; The motivating impulse is noble, and I'd use one to give a class of students an idea of how computers work, but the talented engineers that emerge from that class will abandon such toys as soon as they can.</p>
+<p>This is how people like <a class="reference external" href="http://al3x.net/2010/01/28/ipad.html">Alex</a> and myself learned to do the things we can do.&nbsp; Like anyone else, we like some things about ourselves, and we don't like things that we perceive as threats to the cultural dynamics that made us the way we are.</p>
+<p>And I think this is why we don't like the idea of the iPad.&nbsp; More abstraction is good for users and bad for budding engineers.&nbsp; A kid today will learn much less about engineering from an HDTV's on screen menu than he would from my grandparents' chunky black &amp; white set.&nbsp; There's just more complexity to sort through, and replacing those raw objects d'engineering with stupid toys that represent what some engineer <em>thinks</em> is important about engineering -- well, I'm not sure there's a better alternative, but really it's just adding another layer of abstraction, one that will inevitably have to be peeled back.&nbsp; The entry point to the stack is getting <a class="reference external" href="http://feedproxy.google.com/~r/matthewyglesias/~3/i0sJv8S8apQ/the-end-of-hierarchical-file-systems.php">further and further away from its bottom</a>; the task ahead of those kids is getting harder and harder.</p>
+<p>Fortunately, we're not all going to be issued iPads.&nbsp; The personal computer will continue to exist.&nbsp; It's still quite modular, projects like Linux are still going strong, and the geeks of tomorrow will still be able to get a foothold as they begin to figure out how the world works.&nbsp; But hopefully this explains why things like the iPad are galling to people like me.&nbsp; My objections aren't really technical; they're cultural.</p>
+<p><strong>UPDATE:</strong> <a class="reference external" href="http://timothyblee.com/?p=2191">Tim feels similarly</a>. Imagine that!</p>
+
+            </div>
+
+        </article>
+    </div>
+</div>
+    </div>
+
+    <footer id="typology-footer" class="typology-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy;  Tom Lee</p>
+                <!-- <p>Powered by <a href="https://getpelican.com/" target="_blank" rel="noopener">Pelican</a></p> -->
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

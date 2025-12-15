@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>how transparency works - Tom Lee</title>
+
+    <meta name="description" content="It's no fun to argue with the dead, but sometimes it can't be helped. Or at least, I can't help myself. I've tried to limit how much I say about...">
+    <meta name="robots" content="noindex, nofollow">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;600;700&family=Josefin+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="/theme/css/style.css">
+
+    <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Tom Lee Atom Feed" />
+
+</head>
+
+<body>
+    <header id="typology-header" class="typology-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="site-branding">
+                    <h1 class="site-title"><a href="/">Tom Lee</a></h1>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/about/">About</a></li>
+                        <li><a href="/projects/">Projects</a></li>
+                        <li class="social-icon"><a href="https://github.com/sbma44" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://x.com/tjl" target="_blank" rel="noopener" title="Twitter" aria-label="Twitter">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://bsky.app/profile/tjl.bsky.social" target="_blank" rel="noopener" title="Bluesky" aria-label="Bluesky">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z"/></svg>
+                        </a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="typology-fake-bg">
+<div class="typology-section">
+    <div class="section-content">
+        <article class="typology-post typology-single-post">
+            <header class="entry-header">
+                <h1 class="entry-title">how transparency works</h1>
+
+                <div class="entry-meta">
+                    <span class="meta-item">
+                        <time datetime="2013-01-18T18:41:00-05:00">Friday, 18 January 2013</time>
+                    </span>
+                </div>
+
+                <div class="post-letter">H</div>
+            </header>
+
+            <div class="entry-content">
+                <p>It's no fun to argue with the dead, but sometimes it can't be helped. Or at least, I can't help myself.</p>
+<p>I've tried to limit how much I say about Aaron Swartz's death, because I'm not sure I have much right to say anything. I only met the guy a couple of times, exchanged a couple of emails, replied to a few tweets. We were not friends, and I understand that I don't deserve to grieve the loss of him the way his loved ones do. That would be distasteful and presumptuous of me.</p>
+<p>But it is true that Aaron was part of an embarrassingly small pool of technologists that I revere -- people toward whom I do not feel my usual, regrettable reflex toward rivalrous, Holden Caulfieldish pissiness. Instead, I was in awe of Aaron. I told the PACER story frequently, and I read his book reviews with disbelief. (I didn't realize it at the time, but I suppose I must have begun my Goodreads book-reviewing habit as a way of emulating him.)</p>
+<p>I didn't know him well, but I sort of thought that someday I would, when (if!) I had done something that earned me the right. The fact that this will never happen is something that I suspect I haven't fully grasped.</p>
+<p>I've been reading a lot of his old stuff this week, and today that included the chapter he contributed to the book <em>Open Government</em>, which O'Reilly Media <a class="reference external" href="https://github.com/oreillymedia/open_government">generously open-sourced as a memorial to Aaron</a>. Entitled &quot;When Is Transparency Useful?&quot;, I think it could fairly count as one of the &quot;high-profile, public denunciations&quot; that Cory Doctorow mentioned in <a class="reference external" href="http://boingboing.net/2013/01/12/rip-aaron-swartz.html">his remembrance of Aaron</a>.</p>
+<p>Aaron began work on a project supported by Sunlight, but he ultimately decided it was fruitless and abandoned it before completion. This was all before my time, but I know it resulted in some hurt feelings. I'm sorry things ended that way, because in this case I think Aaron got it wrong. He had good company, though: people like Lessig and Clay burned out on transparency, too.</p>
+<p>I haven't, and I don't think I will. My understanding of how transparency works is different, I suspect (and probably different from that of my colleagues). It might be worth writing it down here, in advance of the next ally that loses faith.</p>
+<hr class="docutils" />
+<p>So. Let's say we're running a school. The school has a cafeteria, which is largely unmonitored. In political theory we would call this a Hobbesian state of nature, but never mind that for now.</p>
+<p>Within this cafeteria we have a bullying problem. Some kids make a regular practice of socking other kids in the gut and demanding their lunch money, which is then handed over. This is against the rules, of course, but enforcement is imperfect. Sometimes a teacher will be passing through and catch a bully in the act, or a victim will muster enough evidence and courage to tattle effectively. When that happens, detention is assigned to the bully. Along with anecdotal evidence, the number of detentions forms our sense both of the extent of the bullying problem and of how effectively we're fighting it.</p>
+<p>Eventually, repeated petitions from the members of the Audio-Visual Club convince us that this situation is intolerable, and we agree to install some surveillance cameras in the cafeteria. We can't monitor every moment of footage, of course, but we make a concerted effort at the start, handing out tons of detention slips. Soon the bullies wise up, the on-camera punching stops, and the detention hall sits empty.</p>
+<p>There are a lot of potential problems with this. Maybe the bullies have taken to waiting for the A.V. Club by the flagpole after school. Maybe they're issuing verbal threats instead of physical ones. Maybe the invasion of student privacy that the cameras represent is a substantial harm that outweighs the reduction in bullying.</p>
+<p>But it would be pretty silly to look at the empty detention hall and conclude that it means the cameras aren't working. And it would be downright stupid if we gave in to disappointment because we find our lack of bullies to punish less emotionally satisfying than the pre-camera days.</p>
+<p>Besides, even if the system isn't perfect, it's still probably harder for bullies to catch kids when they're running past the flagpole instead of massed in the lunchroom. If the threats are now verbal, at least fewer people are getting punched.</p>
+<p>You can argue that other reforms would be superior, and I might agree with you. Having the school sell lunch plans that eliminate the need for carrying cash, for instance, might make this entire problem disappear. But I do think that the cameras were a useful intervention, even if they fall short of &quot;silver bullet&quot; status.</p>
+<p>Obviously it's easy for me to concoct this story. <a class="reference external" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1922859">But there's evidence that this is how transparency actually works</a>.</p>
+<p>It's deeply unsatisfying, I know! Believe me, I dream about our databases leading to corrupt politicians being marched off in handcuffs. It'd make for some great stories -- I suspect grant officers would much rather hear about that stuff than about unmeasurable counterfactuals (&quot;Why should we keep paying for these videotapes when they don't show any bullying?&quot;). If I'm honest, though, it's probably a better idea to raise the costs of bad behavior so that it doesn't happen as much, rather than trying to catch bad behavior after it happens.</p>
+<p>Perhaps this isn't enough to fix things. But it really can help.</p>
+
+            </div>
+
+        </article>
+    </div>
+</div>
+    </div>
+
+    <footer id="typology-footer" class="typology-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy;  Tom Lee</p>
+                <!-- <p>Powered by <a href="https://getpelican.com/" target="_blank" rel="noopener">Pelican</a></p> -->
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

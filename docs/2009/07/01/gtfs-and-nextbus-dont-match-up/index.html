@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GTFS and NextBus don't match up - Tom Lee</title>
+
+    <meta name="description" content="NextBus launched! It's exciting. I and a lot of other area developers are looking at how to take advantage of the realtime GPS data that NextBus...">
+    <meta name="robots" content="noindex, nofollow">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;600;700&family=Josefin+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="/theme/css/style.css">
+
+    <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Tom Lee Atom Feed" />
+
+</head>
+
+<body>
+    <header id="typology-header" class="typology-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="site-branding">
+                    <h1 class="site-title"><a href="/">Tom Lee</a></h1>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/about/">About</a></li>
+                        <li><a href="/projects/">Projects</a></li>
+                        <li class="social-icon"><a href="https://github.com/sbma44" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://x.com/tjl" target="_blank" rel="noopener" title="Twitter" aria-label="Twitter">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://bsky.app/profile/tjl.bsky.social" target="_blank" rel="noopener" title="Bluesky" aria-label="Bluesky">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z"/></svg>
+                        </a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="typology-fake-bg">
+<div class="typology-section">
+    <div class="section-content">
+        <article class="typology-post typology-single-post">
+            <header class="entry-header">
+                <h1 class="entry-title">GTFS and NextBus don't match up</h1>
+
+                <div class="entry-meta">
+                    <span class="meta-item">
+                        <time datetime="2009-07-01T22:00:00-04:00">Wednesday, 01 July 2009</time>
+                    </span>
+                </div>
+
+                <div class="post-letter">G</div>
+            </header>
+
+            <div class="entry-content">
+                <p>NextBus launched! It's exciting. I and a lot of other area developers are looking at how to take advantage of the realtime GPS data that NextBus collects to make the DC transit system easier to use. I haven't gotten too far with it — I'm just poking around — but the early word is that NextBus isn't going to make this easy.</p>
+<p>First: they're claiming copyright on the location of metrobuses. They serve their data as XML, and each &lt;body&gt; tag looks like this:</p>
+<blockquote>
+<tt class="docutils literal">&lt;body <span class="pre">copyright=&quot;All</span> data copyright NextBus 2009. Allowed use is for noncommercial purposes <span class="pre">only.&quot;&gt;</span></tt></blockquote>
+<p>Not great. But okay, whatever — whether this data is copyrightable in a meaningful sense is the first question; whether WMATA willingly sold off their bus locations is the second. But realistically, NextBus can apply whatever license terms on their service that they'd like, and can plausibly enforce them against commercial users. So that'd bring us back to where we are, which is fine.</p>
+<p>But just because NextBus says it's <em>okay</em> to have the data doesn't mean they're going to make it easy. Your browser makes a lot of requests to NextBus in order to show a map, of course, but the most interesting ones are to <a class="reference external" href="http://wmata.nextbus.com/service/googleMapXMLFeed">http://wmata.nextbus.com/service/googleMapXMLFeed</a>, a script that performs a number of different operations based on what querystring parameters it's passed. For instance, <a class="reference external" href="http://wmata.nextbus.com/service/googleMapXMLFeed?command=routeConfig&amp;a=wmata&amp;r=64&amp;key=1424073267381">http://wmata.nextbus.com/service/googleMapXMLFeed?command=routeConfig&amp;a=wmata&amp;r=64&amp;key=1424073267381</a> will get you a list of stops and route geometry for the 64 bus.</p>
+<p>But if you paste that URL into your browser, you'll get this:</p>
+<blockquote>
+<div class="line-block">
+<div class="line"><tt class="docutils literal">&lt;Error <span class="pre">shouldRetry=&quot;false&quot;&gt;</span></tt></div>
+<div class="line">``&nbsp;&nbsp;Feed can only be accessed by NextBus map page.``</div>
+<div class="line"><tt class="docutils literal">&lt;/Error&gt;</tt></div>
+</div>
+</blockquote>
+<p>Charming. But of course it works in the context of the map. So we need to figure out what the difference is. <a class="reference external" href="/2009/07/01/nextbus_headers.txt">Here's</a> a complete conversation between my browser and NextBus. And here's a specific request that worked for that URL:</p>
+<blockquote>
+<div class="line-block">
+<div class="line"><tt class="docutils literal"><span class="pre">http://wmata.nextbus.com/service/googleMapXMLFeed?command=routeConfig&amp;a=wmata&amp;r=64&amp;key=1424073267381</span></tt></div>
+<div class="line"><tt class="docutils literal">GET <span class="pre">/service/googleMapXMLFeed?command=routeConfig&amp;a=wmata&amp;r=64&amp;key=1424073267381</span> HTTP/1.1</tt></div>
+<div class="line"><tt class="docutils literal">Host: wmata.nextbus.com</tt></div>
+<div class="line"><tt class="docutils literal"><span class="pre">User-Agent:</span> Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; <span class="pre">en-US;</span> rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11</tt></div>
+<div class="line"><tt class="docutils literal">Accept: <span class="pre">text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8</span></tt></div>
+<div class="line"><tt class="docutils literal"><span class="pre">Accept-Language:</span> <span class="pre">en-us,en;q=0.5</span></tt></div>
+<div class="line"><tt class="docutils literal"><span class="pre">Accept-Encoding:</span> gzip,deflate</tt></div>
+<div class="line"><tt class="docutils literal"><span class="pre">Accept-Charset:</span> <span class="pre">ISO-8859-1,utf-8;q=0.7,*;q=0.7</span></tt></div>
+<div class="line"><tt class="docutils literal"><span class="pre">Keep-Alive:</span> 300</tt></div>
+<div class="line"><tt class="docutils literal">Connection: <span class="pre">keep-alive</span></tt></div>
+<div class="line"><tt class="docutils literal">Referer: <span class="pre">http://wmata.nextbus.com/googleMap/customGoogleMap.jsp?a=wmata&amp;cssFile=http://www.wmata.com/css/nextbus.css</span></tt></div>
+<div class="line"><tt class="docutils literal">Cookie: userProfile_rev1=wmata|A11|A11_A11_0|7067|8166&amp;wmata|64|64_64_0|16797|7073&amp;wmata|64|64_64_0|6454|16793&amp;; __utma=222659997.501906468.1246378684.1246395595.1246496449.3; <span class="pre">__utmz=222659997.1246496449.3.3.utmccn=(referral)|utmcsr=wmata.com|utmcct=/rider_tools/nextbus/arrivals.cfm|utmcmd=referral;</span> userID_rev4=5534021; __utma=64696752.769952994.1246496428.1246496428.1246496428.1; __utmb=64696752; __utmc=64696752; <span class="pre">__utmz=64696752.1246496428.1.1.utmccn=(organic)|utmcsr=google|utmctr=nextbus+wmata|utmcmd=organic;</span> <span class="pre">Coyote-2-407c7b2d=c0a80a66:0;</span> JSESSIONID=53015434E8CF00D3FEC91D4B491FFA08; __utmb=222659997; __utmc=222659997</tt></div>
+</div>
+</blockquote>
+<p>It actually can't be that many things. There's the set of session-maintaining cookies, the HTTP referrer header, and the user agent reported by the browser (or some combination). Spoiler alert: it's the referrer. So! Borrowing the referring URL from the headers (it checks for more than just the domain), we can use <em>curl -e&quot;http://wmata.nextbus.com/googleMap/customGoogleMap.jsp?a=wmata&amp;cssFile=http://www.wmata.com/css/nextbus.css&quot; &quot;http://wmata.nextbus.com/service/googleMapXMLFeed?command=routeConfig&amp;a=wmata&amp;r=64&amp;key=1424073267381&quot;</em> and get back <a class="reference external" href="/2009/07/01/routeconfig.xml">this file</a>.</p>
+<p>It's got three things in it: stops; routes, which are ordered lists of stops; and paths, which define the shape of the lines that'll be drawn to represent the routes (because roads have twists and turns, connecting stops with straight lines is insufficient).</p>
+<p>This is pretty much how the GTFS dataset is organized. So you might expect to be able to match up the stops from GTFS to NextBus. Well, here's a stop from NextBus:</p>
+<blockquote>
+<tt class="docutils literal">&lt;stop <span class="pre">tag=&quot;5880&quot;</span> <span class="pre">title=&quot;11th</span> St Nw + H St Nw&quot; <span class="pre">dirTag=&quot;null&quot;</span> <span class="pre">lat=&quot;38.90032&quot;</span> <span class="pre">lon=&quot;-77.02657&quot;</span> <span class="pre">stopId=&quot;1001159&quot;/&gt;</span></tt></blockquote>
+<p>Here's the same stop from a fresh download of the WMATA GTFS dataset:</p>
+<blockquote>
+<tt class="docutils literal">7591 / NW 11TH ST &amp; NW H ST / 38.899812 / <span class="pre">-77.027053</span></tt></blockquote>
+<p>It's a drag. The IDs don't match. The human-readable stop names don't match. <em>Even the latitude and longitude don't match</em>. I mean, sure, they're close. But making these line up is going to be a sloppy, relatively expensive calculation. Now, true, it probably only has to happen once. It's not that hard of a problem. It's just that it's so <em>unnecessary</em>. Ah well. I've got an email in to Metro; we'll see if they can provide a cleaner solution than the one I'm thinking about scripting up.</p>
+<p><strong>UPDATE:</strong> <a class="reference external" href="http://blog.case.edu/gps10/2006/01/30/debugging_nextbus">Some thoughts on NextBus's javascript interface from 2006</a>. A few things have changed since then, but from my initial investigation I'd say that not <em>too</em> much is different — just URLs, mostly.</p>
+<p>An alternative to messing with the protected javascript interface is to scrape the HTML for the &quot;next arrival time&quot; pages. But a) this only gets you distance-expressed-as-time, which is lousy data compared to actual lat/lon coordinates and b) it's still messy, as &quot;<a class="reference external" href="http://mihasya.com/blog/?p=203">apparently NextBus hired a live bear to write their markup</a>&quot; (the author of that post does have his <a class="reference external" href="http://github.com/mihasya/yourmuni/tree/master/">scraping code up on GitHub</a>, though).</p>
+
+            </div>
+
+        </article>
+    </div>
+</div>
+    </div>
+
+    <footer id="typology-footer" class="typology-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy;  Tom Lee</p>
+                <!-- <p>Powered by <a href="https://getpelican.com/" target="_blank" rel="noopener">Pelican</a></p> -->
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
