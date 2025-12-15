@@ -251,7 +251,7 @@ q .line-block .line {
 
 blockquote .line-block .line:last-child,
 q .line-block .line:last-child {
-    margin-bottom: 0;
+    margin-bottom: 1em;
 }
 
 code {
@@ -272,6 +272,11 @@ pre {
 pre code {
     background: none;
     padding: 0;
+}
+
+ul li:not(:last-child),
+ol li:not(:last-child) {
+  margin-bottom: 1rem; /* adjust as needed */
 }
 
 /*--------------------------------------------------------------

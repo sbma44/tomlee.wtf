@@ -7,7 +7,7 @@
     <div class="section-head">
         <h1 class="section-title">Posts by {{ author }}</h1>
     </div>
-    
+
     <div class="section-content">
         {% if articles %}
         <div class="typology-posts">
@@ -28,7 +28,7 @@
                     <div class="post-letter">{{ article.title[0]|upper }}</div>
                     {% endif %}
                 </header>
-                
+
                 <div class="entry-content">
                     {{ article.content }}
                 </div>
