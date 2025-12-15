@@ -7,6 +7,7 @@ ich mÃ¶chte nicht Ihre Gruppe verbinden
 :status: published
 :save_as: 2007/11/05/ich-ma%c2%b6chte-nicht-ihre-gruppe-verbinden/index.html
 :url: 2007/11/05/ich-ma%c2%b6chte-nicht-ihre-gruppe-verbinden/
+:private: true
 
 Over the weekend I briefly considered writing a FaceBot to take the reins of my completely-neglected FaceBook account. I have no interest in logging in and grappling with my acquaintances' neverending lycanthropic demands. But it shouldn't be too hard to write a script that does, thereby proving that I exist as a social entity. For an extra layer of authenticity the bot would watch the RSS coming out of Google News and periodically create a new group with a title like "WE WILL NEVER FORGET YOU Musharraf Declares Martial Law".
 

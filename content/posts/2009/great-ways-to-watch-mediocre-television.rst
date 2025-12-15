@@ -7,6 +7,7 @@ great ways to watch mediocre television
 :status: published
 :save_as: 2009/06/15/great-ways-to-watch-mediocre-television/index.html
 :url: 2009/06/15/great-ways-to-watch-mediocre-television/
+:private: true
 
 **Sort-of-recommended:** *Harper's Island*, a CBS horror miniseries that Emily **EDIT: And I! And I!** began watching over the weekend. It's not good in the traditional/objective/subjective/plausible sense, but it's not all that bad. It's essentially a conventional horror movie spread over a thirteen episode miniseries. That lets the action ramp up at a pleasantly leisurely pace, but the long home stretch threatens to buckle under the weight of a series of red herrings and a body count that seems to climb simply because the writers don't know what else to do. But there are four more episodes left, so it's too early to make any definitive judgments.
 

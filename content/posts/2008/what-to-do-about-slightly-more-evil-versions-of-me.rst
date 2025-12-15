@@ -7,6 +7,7 @@ what to do about slightly more evil versions of me
 :status: published
 :save_as: 2008/11/03/what-to-do-about-slightly-more-evil-versions-of-me/index.html
 :url: 2008/11/03/what-to-do-about-slightly-more-evil-versions-of-me/
+:private: true
 
 Julian, reacting to `Angela's new piece in Salon about phonebanking for the McCain campaign <http://www.salon.com/news/feature/2008/11/03/mccain_calls/index.html>`__, voices `some concern <http://www.juliansanchez.com/2008/11/03/open-source-dirty-tricks/>`__ over the candidates' phonebank-from-home systems and their potential value to dirty tricksters.
 

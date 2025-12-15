@@ -5,6 +5,7 @@ how websites break
 :category: Uncategorized
 :slug: 2615
 :status: draft
+:private: true
 
 `This Reuters article about Healthcare.gov has been getting some attention today <http://mobile.reuters.com/article/idUSBRE99407T20131005?irpc=932>`__. Alas, it's not very good, focusing on client-side optimizations that are probably unrelated to the site's early woes.
 

@@ -7,6 +7,7 @@ it's actually 70 love songs, but one of them is about gum
 :status: published
 :save_as: 2008/02/28/its-actually-70-love-songs-but-one-of-them-is-about-gum/index.html
 :url: 2008/02/28/its-actually-70-love-songs-but-one-of-them-is-about-gum/
+:private: true
 
 `Charles <http://thecityveins.com/>`__ just sent me `this link <http://idolator.com/361972/is-stephin-merritt-absolutely-cuckoo-for-spearmint-and-wintergreen>`__ which contains the following commercial, over which he and I have been scratching our heads for the past week or so:
 

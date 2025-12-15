@@ -5,6 +5,7 @@ kevin drum on the dot-com bubble
 :category: Uncategorized
 :slug: 1795
 :status: draft
+:private: true
 
 Kevin Drum wrote a `good post <http://motherjones.com/kevin-drum/2011/07/explaining-away-latest-dotcom-bubble>`__ about the ongoing dot-com bubble earlier today.  But even more striking to me is the response he `received and published <http://motherjones.com/kevin-drum/2011/07/dotcom-bubble-response>`__:
 

@@ -7,6 +7,7 @@ date with ikea
 :status: published
 :save_as: 2007/05/13/date-with-ikea/index.html
 :url: 2007/05/13/date-with-ikea/
+:private: true
 
 Some guy had been wandering through my neighborhood for the last 20 minutes or so yelling what I assume is the name of his dog. It's sad, and I wish him luck. But seriously: "Anton"? I can't say I blame it.
 

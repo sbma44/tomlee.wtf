@@ -7,6 +7,7 @@ the thing about the Internet of Things
 :status: published
 :save_as: 2014/05/20/the-thing-about-the-internet-of-things/index.html
 :url: 2014/05/20/the-thing-about-the-internet-of-things/
+:private: true
 
 |things|\ Wired makes `a yeoman's effort <http://www.wired.com/2014/05/iot-report/>`__ at turning a `basically boring Pew report about the Internet of Things <http://www.pewinternet.org/2014/05/14/internet-of-things/>`__ into something worth wringing your hands over. If you actually read the report, the experts seem much less worried (and quite a bit less compelling) than Wired wants us to think.
 

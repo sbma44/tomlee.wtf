@@ -7,6 +7,7 @@ TMLMTBGB
 :status: published
 :save_as: 2007/07/27/tmlmtbgb/index.html
 :url: 2007/07/27/tmlmtbgb/
+:private: true
 
 Kriston and Kate dragged Emily and I, kicking and screaming, out to get some culture last night, having purchased tickets to *Too Much Light Makes The Baby Go Blind* on our behalf. "It's okay," Emily assured me, "We can always leave and go see *Die Hard* — it's only a couple of blocks away."
 

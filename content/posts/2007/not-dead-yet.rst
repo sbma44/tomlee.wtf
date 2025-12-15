@@ -7,6 +7,7 @@ not dead yet
 :status: published
 :save_as: 2007/06/10/not-dead-yet/index.html
 :url: 2007/06/10/not-dead-yet/
+:private: true
 
 It's been a pretty enjoyable, laid-back weekend. An early night on Friday, a leisurely Saturday afternoon and an extremely fun night out in SW and on H Street — we haven't even gotten to the Sopranos finale yet, but I'm prepared to declare the weekend a success.
 

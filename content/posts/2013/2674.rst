@@ -5,5 +5,6 @@ Great North Road
 :category: books
 :slug: 2674
 :status: draft
+:private: true
 
 Tom started reading 'Great North Road'

@@ -5,6 +5,7 @@ July 4 disloyalty blogging
 :category: misc
 :slug: 293
 :status: draft
+:private: true
 
 I've just gotten back from some thoroughly wholesome frisbee golfing in an Arlington park filled with happy families, delicious barbecue smells and robust American activity. I'm drinking a beverage produced by a brewer-patriot, getting ready to eat grilled meat and generally feeling pretty good about this country.
 

@@ -7,6 +7,7 @@ browser warnings
 :status: published
 :save_as: 2010/03/18/browser-warnings/index.html
 :url: 2010/03/18/browser-warnings/
+:private: true
 
 `Kevin Drum elects to take security advice from Microsoft <http://motherjones.com/kevin-drum/2010/03/you-and-your-browser>`__. This is not a good idea!
 

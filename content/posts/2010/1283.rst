@@ -5,6 +5,7 @@ science journalism
 :category: Uncategorized
 :slug: 1283
 :status: draft
+:private: true
 
 NEED TO CONVERT TO WATTS. AMP HOURS = NO GOOD!
 

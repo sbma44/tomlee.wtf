@@ -7,6 +7,7 @@ stop motion shaving
 :status: published
 :save_as: 2011/03/19/stop-motion-shaving/index.html
 :url: 2011/03/19/stop-motion-shaving/
+:private: true
 
 I'm heading to the beach on Monday, which means that the beard had to go.  I don't know when it might return -- certainly not for a long time.  It was fun, but I think I'm probably just not cut out to operate a beard at a professional level.  Ah well.
 

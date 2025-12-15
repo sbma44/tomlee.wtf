@@ -7,6 +7,7 @@ Ryan Avent on innovation
 :status: published
 :save_as: 2013/01/10/ryan-avent-on-innovation/index.html
 :url: 2013/01/10/ryan-avent-on-innovation/
+:private: true
 
 Ryan Avent has `a very, very good article on the state of innovation <http://www.economist.com/news/briefing/21569381-idea-innovation-and-new-technology-have-stopped-driving-growth-getting-increasing?fsrc=scn/tw_ec/has_the_ideas_machine_broken_down_>`__. You should go read it. I come down on the pessimistic-but-waiting-to-be-surprised side -- it really looks to me like fossil fuels were a one-time (and possibly impermanent) equilibrium-shifter -- but Ryan makes a very strong case, and there's really nothing I can disagree with.
 

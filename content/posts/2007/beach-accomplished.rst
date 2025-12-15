@@ -7,6 +7,7 @@ beach accomplished
 :status: published
 :save_as: 2007/06/04/beach-accomplished/index.html
 :url: 2007/06/04/beach-accomplished/
+:private: true
 
 Well, I'm back. I brought with me a tan, a briefly-broken camera, five new pounds of body fat and a profound sense of bewilderment at having `missed my college reunion <http://www.flickr.com/photos/medildo/sets/72157600306784210/>`__.
 

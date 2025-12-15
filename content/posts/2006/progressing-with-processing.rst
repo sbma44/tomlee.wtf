@@ -7,6 +7,7 @@ progressing with processing
 :status: published
 :save_as: 2006/12/11/progressing-with-processing/index.html
 :url: 2006/12/11/progressing-with-processing/
+:private: true
 
 I've got a couple of projects in the works centering around novel interfaces — specifically, some hijinks with Asterisk and my poor, neglected `Arduino <http://www.arduino.cc>`__. The only problem with this is that it means I have to have something to interface with. Drat.
 

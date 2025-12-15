@@ -7,6 +7,7 @@ a quick but extremely important poll
 :status: published
 :save_as: 2007/08/03/a-quick-but-extremely-important-poll/index.html
 :url: 2007/08/03/a-quick-but-extremely-important-poll/
+:private: true
 
 How many people are familiar with the urban legend involving a family gone on vacation, a robbery, and a developed roll of film that reveals the burglar doing unpleasant things to the family's toothbrushes?
 

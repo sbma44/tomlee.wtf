@@ -7,6 +7,7 @@ open source and inventiveness
 :status: published
 :save_as: 2007/06/18/open-source-and-inventiveness/index.html
 :url: 2007/06/18/open-source-and-inventiveness/
+:private: true
 
 Tim Lee `takes issue <http://www.techliberation.com/archives/042486.php>`__ with `an article by Nicholas Carr <http://www.strategy-business.com/press/freearticle/07204?pg=all>`__ in which Carr explores the limits of the open source development methodology. Carr says the OSS isn't very good at innovating. Tim disagrees:
 

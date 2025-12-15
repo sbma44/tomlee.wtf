@@ -7,6 +7,7 @@ gray skies look cheerful when they're full of snow
 :status: published
 :save_as: 2007/12/05/gray-skies-look-cheerful-when-theyre-full-of-snow/index.html
 :url: 2007/12/05/gray-skies-look-cheerful-when-theyre-full-of-snow/
+:private: true
 
 A few songs that I can't stop listening to. They've been all over WOXY and the blogs, but if you've missed em you should give them a listen.
 

@@ -7,6 +7,7 @@ command line rock
 :status: published
 :save_as: 2007/07/27/command-line-rock/index.html
 :url: 2007/07/27/command-line-rock/
+:private: true
 
 ..
 

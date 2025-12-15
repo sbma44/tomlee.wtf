@@ -7,6 +7,7 @@ chain restaurants
 :status: published
 :save_as: 2008/05/05/chain-restaurants/index.html
 :url: 2008/05/05/chain-restaurants/
+:private: true
 
 `Okay <http://meganmcardle.theatlantic.com/archives/2008/05/false_contempt.php>`__, `I <http://www.prospect.org/csnc/blogs/ezraklein_archive?month=05&year=2008&base_name=and_ill_take_some_contempt_on>`__ `agree <http://matthewyglesias.theatlantic.com/archives/2008/05/outback_strikes_back.php>`__: the New York Times treating a visit to a chain restaurant like some sort of sociological safari is a pretty irritating premise for an article. And as a child of the DC suburbs whose family very, very rarely dined out, I'm not sure what kind of claim I have to this conversation. I eat a lot of arugula (it's good!), which I think probably at least partially disqualifies me.
 

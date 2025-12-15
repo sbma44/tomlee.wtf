@@ -7,6 +7,7 @@ welding!
 :status: published
 :save_as: 2010/04/22/welding/index.html
 :url: 2010/04/22/welding/
+:private: true
 
 My colleague Kerry assures me that I am insufferable when I talk about the interesting things I do in an increasingly desperate attempt to forestall... well, whatever [INSERT SUBJECT OF EXISTENTIAL DREAD HERE].
 

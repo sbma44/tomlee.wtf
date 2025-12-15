@@ -5,6 +5,7 @@ CivilWarLand in Bad Decline
 :category: books
 :slug: 2601
 :status: draft
+:private: true
 
 | New comment on `Lindsay <http://www.goodreads.com/user/show/2247814>`__'s review of
 | `CivilWarLand in Bad Decline <http://www.goodreads.com/book/show/28747.CivilWarLand_in_Bad_Decline>`__

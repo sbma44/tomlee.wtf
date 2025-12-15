@@ -7,6 +7,7 @@ shows what I know
 :status: published
 :save_as: 2007/10/02/shows-what-i-know/index.html
 :url: 2007/10/02/shows-what-i-know/
+:private: true
 
 Yesterday I read Brian Doherty `claiming <http://www.reason.com/blog/show/122765.html>`__ that Radiohead's pay-what-you-want scheme for their new album would undercut piracy and thought "Not so fast!" In my experience folks will upload any content that's even marginally relevant to a site. I've certainly seem freely-available content redistributed through pirate channels before.
 

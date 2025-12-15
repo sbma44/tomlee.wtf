@@ -7,6 +7,7 @@ the pitch
 :status: published
 :save_as: 2007/10/03/the-pitch/index.html
 :url: 2007/10/03/the-pitch/
+:private: true
 
 "Alright, here it is: we take a normal, by-the-numbers sitcom. I mean, totally unremarkable in every way."
 

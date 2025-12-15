@@ -7,6 +7,7 @@ IP piracy is just like terrorism (and vice versa)
 :status: published
 :save_as: 2007/10/02/ip-piracy-is-just-like-terrorism-and-vice-versa/index.html
 :url: 2007/10/02/ip-piracy-is-just-like-terrorism-and-vice-versa/
+:private: true
 
 Two other things occurred to me about that bird-supplied `testimony before the Senate <http://www.senate.gov/~govt-aff/index.cfm?Fuseaction=Hearings.Detail&HearingID=441>`__, so I'll share them quickly and then return to hi-tech frivolity. Apologies in advance for seeming to presume that I know things about terrorism; clearly, I don't. I do know things about the internet, though.
 

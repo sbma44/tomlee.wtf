@@ -7,6 +7,7 @@ not rocket science
 :status: published
 :save_as: 2011/08/05/not-rocket-science/index.html
 :url: 2011/08/05/not-rocket-science/
+:private: true
 
 I mostly really like The Awl these days -- contra `Quinn <http://www.quinnnorton.com/said/?p=559>`__, I think the site started strong, had a rough patch, and now is back to publishing a lot of great stuff. `But this is not a very good article <http://www.theawl.com/2011/08/was-aaron-swartz-stealing>`__. It's credulous about things that call for skepticism, and skeptical about things that are perfectly reasonable.
 

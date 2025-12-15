@@ -7,6 +7,7 @@ I'm reading Oscar Wao
 :status: published
 :save_as: 2010/03/28/im-reading-oscar-wao/index.html
 :url: 2010/03/28/im-reading-oscar-wao/
+:private: true
 
 And I was thinking that I wasn't going to emerge thrilled about the book, but once through the (necessary) parts about Oscar's mom it gets pretty great. How can you not want to be Yunior's friend? (er, at the point in the story where I am, I should say. Maybe something terrible happens. Well, okay, obviously something terrible is going to happen; maybe Yunior's complicit, I mean).
 

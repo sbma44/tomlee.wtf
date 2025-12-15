@@ -7,6 +7,7 @@ the growing phonegap gap
 :status: published
 :save_as: 2009/04/09/the-growing-phonegap-gap/index.html
 :url: 2009/04/09/the-growing-phonegap-gap/
+:private: true
 
 Since the release of WMATA's GTFS dataset I've been reading up on iPhone application development, and in particular the `PhoneGap development framework <http://phonegap.com/>`__. Traditional iPhone development requires a lot of specialized knowledge and the use of Objective C, a language that's used for Apple development and not much else. It takes a significant investment of time to get up to speed.
 

@@ -7,6 +7,7 @@ weirdos from the internet
 :status: published
 :save_as: 2007/06/29/weirdos-from-the-internet/index.html
 :url: 2007/06/29/weirdos-from-the-internet/
+:private: true
 
 Emily and I are in Cazenovia for the weekend, barely. Decades of inbreeding and exposure to elevated levels of cosmic radiation have finally taken their toll on the men and women of the US airline industry: it appears that we're in the waning days of air travel. Our flight was delayed — everyone's flight was delayed. Time lost its meaning, the captain sang the Flipper theme song to us over the intercom, and everyone was inexplicably wearing shorts. The situation is very bad. And as unpleasant as it was to get to bed at 4AM, our ordeal will no doubt pale in comparison to that of the poor soulds who'll be flying after us. God help you all.
 

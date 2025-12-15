@@ -7,6 +7,7 @@ ads' intents and obsolescence
 :status: published
 :save_as: 2008/12/31/ads-intents-and-obsolescence/index.html
 :url: 2008/12/31/ads-intents-and-obsolescence/
+:private: true
 
 Having spent the last week or so attending to less demanding electronic devices — the Xbox, the DS and the iPhone chief among them — I'm now hopelessly late with this post. But I still find the intersection of technology and advertising to be very interesting, and hope you'll bear with me even if the holidays have played havoc with the bloggy news cycle.
 

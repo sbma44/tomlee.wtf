@@ -7,6 +7,7 @@ the emerging bus nonconspiracy
 :status: published
 :save_as: 2008/07/14/the-emerging-bus-nonconspiracy/index.html
 :url: 2008/07/14/the-emerging-bus-nonconspiracy/
+:private: true
 
 First: the plan to move DC's intercity buses to the L'Enfant wasteland is on hold. I got the following in an email on Friday:
 

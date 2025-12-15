@@ -7,6 +7,7 @@ for posterity
 :status: published
 :save_as: 2010/01/06/for-posterity/index.html
 :url: 2010/01/06/for-posterity/
+:private: true
 
 It's already turned into a great day for `making an ass out of myself <http://twitter.com/sbma44/status/7445279063>`__, so why not just get it all out of the way at once?  Yesterday `Fox 5 asked me to talk about the new Google phone <http://www.myfoxdc.com/dpp/money/google-unveils-nexus-one-superphone-010510>`__, for some reason. It was very nice of them, and they asked smart questions, and I did my best to fool them into thinking I was as qualified to speak about it as the people from whom I've stolen all my opinions.
 

@@ -7,6 +7,7 @@ it's kind of like a spanish vampire
 :status: published
 :save_as: 2007/02/11/its-kind-of-like-a-spanish-vampire/index.html
 :url: 2007/02/11/its-kind-of-like-a-spanish-vampire/
+:private: true
 
 It's true that I'm not much of an expert in these matters. Still, I feel confident in saying that the announcer's allegedly-Mexican accent in this Taco Bell commercial is astoundingly fake:
 

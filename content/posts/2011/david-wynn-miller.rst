@@ -7,6 +7,7 @@ David Wynn Miller
 :status: published
 :save_as: 2011/01/10/david-wynn-miller/index.html
 :url: 2011/01/10/david-wynn-miller/
+:private: true
 
 It's a little pointless to speculate about where the Arizona shooter got some of his super-crazy ideas: presumably he will eventually be medicated and/or interviewed enough to simply tell us. Still, the press's sudden fascination with David Wynn Miller strikes me as a little over-eager. There isn't really much evidence tying him to Loughner. Yes, both men seem to have strange ideas about the government using grammar as a means of mind control. It seems perfectly possible -- maybe likely -- that Miller's the source of that. But for what it's worth, I think we probably shouldn't rule out simultaneous, uh, discovery.
 

@@ -7,6 +7,7 @@ Halloween: today's the day!
 :status: published
 :save_as: 2008/10/27/halloween-todays-the-day/index.html
 :url: 2008/10/27/halloween-todays-the-day/
+:private: true
 
 But not really! I've been vague about the scary story contest deadline from the start, saying it was today but not specifying a time. This was by design: obviously some of us might wind up scrambling to finish. I'm no exception, I'm afraid — Halloween party prep has begun in earnest, consuming a lot of the weekend. Although I'm almost done with my story, I'm not there quite yet.
 

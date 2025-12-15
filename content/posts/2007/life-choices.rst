@@ -7,6 +7,7 @@ life choices
 :status: published
 :save_as: 2007/05/25/life-choices/index.html
 :url: 2007/05/25/life-choices/
+:private: true
 
 I am, let's face it, a little hungover. The City Veins show last night was a lot of fun, but the accompanying revelry has left me a little worse for wear. I've already consumed a number of pills of some sort and waited patiently for someone to make me some coffee, but it appears that too many of my coworkers are off doing less important things (e.g. meeting with clients) for this to happen on its own. I still feel lousy.
 

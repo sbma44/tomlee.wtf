@@ -7,6 +7,7 @@ fmylife
 :status: published
 :save_as: 2009/04/07/fmylife/index.html
 :url: 2009/04/07/fmylife/
+:private: true
 
 Becks is right: this `FML phenomenon is intolerable <http://www.unfogged.com/archives/week_2009_04_05.html#009718>`__. I don't really agree with her complaint about its negativity being the problem, though. The problem is that it isn't negative *enough*. The people participating in this meme are doing it wrong.
 

@@ -7,6 +7,7 @@ hacking your Canon point & shoot
 :status: published
 :save_as: 2008/05/07/hacking-your-canon-point-shoot/index.html
 :url: 2008/05/07/hacking-your-canon-point-shoot/
+:private: true
 
 Slashdot `posted <http://hardware.slashdot.org/hardware/08/05/06/2032216.shtml>`__ something yesterday; today I gave it a try. Apparently the `CHDK project <http://chdk.wikia.com/wiki/CHDK>`__ allows you to supplement your Canon camera's firmware. The modified software allows you to override the rather constrained exposure times and ISO settings, and do other fun things like shoot in RAW, trigger exposures via USB, record longer movies and even set the camera up to take pictures whenever it detects motion. There are also a few less useful applications thrown in:
 

@@ -7,6 +7,7 @@ Home
 :status: published
 :save_as: 2009/12/09/home/index.html
 :url: 2009/12/09/home/
+:private: true
 
 A few weeks ago `Sara <http://twitter.com/sasara>`__ mentioned to me that she was enjoying a band called Edward Sharpe and the Magnetic Zeros. I would've been sold on the strength of the name alone; a friend's recommendation was more than enough to make me resolve to give them a listen.
 

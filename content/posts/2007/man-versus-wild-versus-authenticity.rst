@@ -7,6 +7,7 @@ man versus wild versus authenticity
 :status: published
 :save_as: 2007/07/23/man-versus-wild-versus-authenticity/index.html
 :url: 2007/07/23/man-versus-wild-versus-authenticity/
+:private: true
 
 A few traumatic hours ago Ogged alerted me to some `alarming allegations <http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/tv_and_radio/article2116195.ece>`__ about my beloved *Man Vs. Wild* (known as *Born Survivor* in the UK):
 

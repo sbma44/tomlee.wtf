@@ -7,6 +7,7 @@ electrical pedantry
 :status: published
 :save_as: 2007/01/03/electrical-pedantry/index.html
 :url: 2007/01/03/electrical-pedantry/
+:private: true
 
 I'm sorry, but `this <http://www.boingboing.net/2007/01/03/cheap_aaa_batteries_.html>`__ is pretty stupid. BoingBoing and Gizmodo think that you can harvest cheap AAA batteries from 9V batteries (the kind with the snaps on top). If you crack open a 9V you'll find six 1.5V cylinders inside, and the 9V battery sells for a much lower price than six AAAs do at retail.
 

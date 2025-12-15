@@ -7,6 +7,7 @@ how scared should you be of your webcam?
 :status: published
 :save_as: 2013/12/19/how-scared-should-you-be-of-your-webcam/index.html
 :url: 2013/12/19/how-scared-should-you-be-of-your-webcam/
+:private: true
 
 Yesterday Tim Lee and Ashkan Soltani reported a `surprising and alarming revelation <http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/18/research-shows-how-macbook-webcams-can-spy-on-their-users-without-warning/>`__: some webcams can be activated without their accompanying light being turned on. This means it's conceivable that criminals or government agents could compromise your computer and take surreptitious pictures of you. It's a frightening prospect.
 

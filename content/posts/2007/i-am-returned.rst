@@ -7,6 +7,7 @@ I am returned
 :status: published
 :save_as: 2007/11/20/i-am-returned/index.html
 :url: 2007/11/20/i-am-returned/
+:private: true
 
 Back! Back from San Diego, which appeared to currently be running some sort of citywide promotional tie-in with upcoming feature file `The Mist <http://www.imdb.com/title/tt0884328/>`__. It was nice enough, I guess: I attended meetings, ate continental breakfasts, and toured a number of culturally significant faux-adobe strip malls. Also, I watched about a million episodes of Deadwood's second season. Combined with jetlag, this is leading me to formulate sentences in some pretty strange/pretentious ways.
 

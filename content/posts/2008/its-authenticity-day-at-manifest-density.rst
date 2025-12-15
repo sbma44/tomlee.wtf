@@ -7,6 +7,7 @@ it's authenticity day at Manifest Density
 :status: published
 :save_as: 2008/08/19/its-authenticity-day-at-manifest-density/index.html
 :url: 2008/08/19/its-authenticity-day-at-manifest-density/
+:private: true
 
 `Spencer's right <http://attackerman.firedoglake.com/2008/08/19/personalitycrisesandcrabchips/>`__: I shouldn't get myself tangled up in questions of potato chip birthrights. Perhaps my intemperate comments were motivated by jealousy. After all, it's not like you can buy Utz Chili Half Smoke Chips. The Crab Chip belongs to Baltimore; maybe I only think I don't want it because I know it can never truly be mine.
 

@@ -7,6 +7,7 @@ for the record, I wish it *could* change everything
 :status: published
 :save_as: 2012/04/18/technology-is-driving-me-crazy/index.html
 :url: 2012/04/18/technology-is-driving-me-crazy/
+:private: true
 
 Let me start by saying that I really like Alexis Madrigal's work. He's got an eye for what's new and interesting and he writes pieces that are fluid and thoughtful.
 

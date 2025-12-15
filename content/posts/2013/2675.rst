@@ -5,5 +5,6 @@ Min kamp 1
 :category: books
 :slug: 2675
 :status: draft
+:private: true
 
 Tom wants to read 'Min kamp 1'

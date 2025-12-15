@@ -7,6 +7,7 @@ a skeptic is an activist who's been mugged by the HuffPo wellness section
 :status: published
 :save_as: 2011/02/16/a-skeptic-is-an-activist-whos-been-mugged-by-the-huffpo-wellness-section/index.html
 :url: 2011/02/16/a-skeptic-is-an-activist-whos-been-mugged-by-the-huffpo-wellness-section/
+:private: true
 
 Over at Grist Tom Philpott has written a few posts about the `dangers <http://www.grist.org/article/2011-02-10-still-drinking-diet-soda-dont-be-a-fashion-victim-pepsi-strokes>`__ of `diet <http://www.grist.org/article/2011-02-14-just-how-bad-is-aspartame-the-leading-u.s.-fake-sweetener>`__ `soda <http://www.grist.org/article/2011-02-16-aspartame-soda-caramel-BPA-diet-soda-kill-you>`__, and I've been acting cranky about them on Twitter. To be honest, it's not that the posts are that bad, or even that I disagree with their gist. I tend to think that soda isn't very good for me in general, and I avoid artificial sweeteners because (in order of decreasing importance to me) I don't like the taste, have mostly weaned myself off sweeteners, and put at least some stock in the health case against them. So I haven't really got a dog in this fight, other than general reactionary impulses. I am also not anxious to get into a big huge debate with Tom, because frankly he knows much more about food science than I do. Besides, he seems like a nice guy.
 

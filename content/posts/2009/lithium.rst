@@ -7,6 +7,7 @@ lithium
 :status: published
 :save_as: 2009/10/01/lithium/index.html
 :url: 2009/10/01/lithium/
+:private: true
 
 I need to resist the urge to drone on and on about this, but having failed to heed Matt's encouragement to weigh in on the vital "worst bar in DC" debate, I feel obliged to pick this one up: why is `CNAS's post about lithium <http://www.cnas.org/blogs/naturalsecurity/2009/09/lithium-not-just-nirvana-song.html>`__ dumb?
 

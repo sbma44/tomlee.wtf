@@ -7,6 +7,7 @@ donating by SMS is like ordering room service
 :status: published
 :save_as: 2010/01/13/donating-by-sms-is-like-ordering-room-service/index.html
 :url: 2010/01/13/donating-by-sms-is-like-ordering-room-service/
+:private: true
 
 `I was wrong <http://twitter.com/sbma44/status/7712418746>`__ about SMS donations to Haiti lining the pockets of mobile carriers: I'm told that the carriers are waiving their fees (which normally consume about half of the funds donated through SMS). I'm happy to be proven wrong! If you want to give to relief efforts by texting, you can do so without worrying that your money will be wasted. I still wish you wouldn't, though.
 

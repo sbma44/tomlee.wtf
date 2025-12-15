@@ -7,6 +7,7 @@ this is totally badass
 :status: published
 :save_as: 2007/08/22/this-is-totally-badass/index.html
 :url: 2007/08/22/this-is-totally-badass/
+:private: true
 
 Computationally speaking, I mean:
 

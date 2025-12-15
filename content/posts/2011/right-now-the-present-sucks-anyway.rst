@@ -7,6 +7,7 @@ right now the present sucks anyway
 :status: published
 :save_as: 2011/01/08/right-now-the-present-sucks-anyway/index.html
 :url: 2011/01/08/right-now-the-present-sucks-anyway/
+:private: true
 
 I'll keep my ill-advised and emotional reactions to the horror in Arizona confined to Twitter for now (though I should say that I'm quite certain I have a unique and trenchant perspective on the matter, having had a brief and superficial conversation about gun control with a cab driver in Phoenix last month). Let's talk about something totally different!
 

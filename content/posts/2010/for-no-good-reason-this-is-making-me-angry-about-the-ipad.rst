@@ -7,6 +7,7 @@ for no good reason this is making me angry about the iPad
 :status: published
 :save_as: 2010/04/03/for-no-good-reason-this-is-making-me-angry-about-the-ipad/index.html
 :url: 2010/04/03/for-no-good-reason-this-is-making-me-angry-about-the-ipad/
+:private: true
 
 This will interest nobody, but I need to complain (and perhaps spare others some fruitless googling): the iPhone version of Safari seems to be broken when using AJAX in offline caching in HTML5 applications.
 

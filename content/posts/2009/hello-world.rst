@@ -7,6 +7,7 @@ Wordpress!
 :status: published
 :save_as: 2009/07/19/hello-world/index.html
 :url: 2009/07/19/hello-world/
+:private: true
 
 I should really have gone to bed a while ago, but I just couldn't stand it any longer.  Movable Type.  Oh, Movable Type.  I stood by you for so long.  But Perl is a wasteland.  And now, having spent a vast amount of time recompiling Apache *just to export my archives*, I know I made the right decision.
 

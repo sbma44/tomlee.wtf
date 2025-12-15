@@ -7,6 +7,7 @@ the myth of American decline
 :status: published
 :save_as: 2012/12/21/the-myth-of-american-decline/index.html
 :url: 2012/12/21/the-myth-of-american-decline/
+:private: true
 
 Being the crotchety old man that I am, the time I spent this evening on my gym's treadmill left me feeling cantankerous. I had been watching Jeopardy, and all of the categories seemed horrible, dagnabit. Back in my day we didn't have questions about sitcoms! No, it was all Latin, and poetry, and similarly high-minded pursuits.
 

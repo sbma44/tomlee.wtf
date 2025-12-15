@@ -7,6 +7,7 @@ Sarah Palin tall
 :status: published
 :save_as: 2008/08/29/sarah-palin-tall/index.html
 :url: 2008/08/29/sarah-palin-tall/
+:private: true
 
 `Get to know your new vice presidential candidate <http://sarahpalin.typepad.com/>`__.
 

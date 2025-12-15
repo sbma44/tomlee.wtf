@@ -7,6 +7,7 @@ sufficiently insufficient
 :status: published
 :save_as: 2008/06/19/sufficiently-insufficient/index.html
 :url: 2008/06/19/sufficiently-insufficient/
+:private: true
 
 The Wii Twilight Princess hack (which I wrote about `here </2008/03/18/smash/>`__) was killed by the system's most recent update, received this week by all Wiis connected to the internet.
 

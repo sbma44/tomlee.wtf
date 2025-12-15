@@ -7,6 +7,7 @@
 :status: published
 :save_as: 2013/09/23/humblebrag/index.html
 :url: 2013/09/23/humblebrag/
+:private: true
 
 Or not, whatever. `This was a thrill for me <http://www.budget.senate.gov/democratic/index.cfm/committeehearings?ContentRecord_id=2c940932-ad2f-45ab-8df1-88de0d523a07&ContentType_id=14f995b9-dfa5-407a-9d35-56cc7152a7ed&Group_id=d68d31c2-2e75-49fb-a03a-be915cb4550b>`__, and my colleague Nicko was kind enough to make me a GIF, so I'm sticking the links here for posterity.
 

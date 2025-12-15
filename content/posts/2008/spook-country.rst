@@ -7,6 +7,7 @@ Spook Country
 :status: published
 :save_as: 2008/06/30/spook-country/index.html
 :url: 2008/06/30/spook-country/
+:private: true
 
 |20080630_spookcountry.jpg|\ Last night I finished `Spook Country <http://www.amazon.com/dp/product/0425221415/?tag=unrequitednar-20&linkCode=asn&creativeASIN=0425221415>`__, William Gibson's most recent novel. `Twittered snark <http://twitter.com/sbma44/statuses/846412851>`__ aside, it's actually quite good — probably the best Gibson novel I've read, although it's mostly a do-over of *Pattern Recognition*, and of course will never be as influential or noteworthy as *Neuromancer*.
 

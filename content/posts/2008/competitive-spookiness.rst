@@ -7,6 +7,7 @@ competitive spookiness
 :status: published
 :save_as: 2008/09/24/competitive-spookiness/index.html
 :url: 2008/09/24/competitive-spookiness/
+:private: true
 
 So! Halloween is fast approaching, and as some of you know, `preparations are well underway <http://twinkle.tapulous.com/index.php?id=2106255>`__. I'd like to try something new this year, though: let's have a spooky story contest. Folks will submit their stories — anonymously, if they'd like — and we'll all read and vote on them during the week leading up to Halloween (non-robotically, I hasten to add). The winner gets a $100 bar tab, or bottle of scotch, or, if you're one of those professional writer types that needs some sort of compensatory justification for wasting time writing about ghosts, a small green portrait of Benjamin Franklin.
 

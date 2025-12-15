@@ -7,6 +7,7 @@ ok, weird
 :status: published
 :save_as: 2008/10/25/ok-weird/index.html
 :url: 2008/10/25/ok-weird/
+:private: true
 
 I apologize; I'm totally fascinated by this Ashley Todd business. I can't stop.
 

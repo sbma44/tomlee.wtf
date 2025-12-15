@@ -7,6 +7,7 @@ charts & graphs
 :status: published
 :save_as: 2008/11/19/charts-graphs/index.html
 :url: 2008/11/19/charts-graphs/
+:private: true
 
 son1 has written `a post <http://bayes.wordpress.com/2008/11/18/color-me-bad/>`__ that continues the discussion I began around `colors and data visualization </2008/11/08/coloring-your-opinion/>`__, and I'm jealous of it for two reasons. First, I can't believe I didn't think of and claim that post title for myself, because it's perfect.
 

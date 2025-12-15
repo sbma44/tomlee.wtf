@@ -7,6 +7,7 @@ it's all just bits
 :status: published
 :save_as: 2007/01/31/its-all-just-bits/index.html
 :url: 2007/01/31/its-all-just-bits/
+:private: true
 
 The assuredly-distinct-from-me Tim Lee has `a post about videogame piracy <http://www.techliberation.com/archives/041952.php>`__ over at the excellent Tech Liberation Front that doesn't seem quite right to me. I started to leave this as a comment, but it sort of got out of hand.
 

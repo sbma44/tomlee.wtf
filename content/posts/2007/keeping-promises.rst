@@ -7,6 +7,7 @@ keeping promises
 :status: published
 :save_as: 2007/03/02/keeping-promises/index.html
 :url: 2007/03/02/keeping-promises/
+:private: true
 
 I said I'd have a similarity matrix for you, didn't I? Well, here it is.
 

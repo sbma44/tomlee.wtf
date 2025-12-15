@@ -7,6 +7,7 @@ analytic price discrimination is becoming a real pain in the ass
 :status: published
 :save_as: 2012/06/25/analytic-price-discrimination-is-becoming-a-real-pain-in-the-ass/index.html
 :url: 2012/06/25/analytic-price-discrimination-is-becoming-a-real-pain-in-the-ass/
+:private: true
 
 Via `Tim O'Reilly's twitter feed <http://twitter.com/timoreilly/status/217413877544132609>`__ I see that `Orbitz is experimenting with showing different results to Mac users than PC users <http://online.wsj.com/article/SB10001424052702304458604577488822667325882.html>`__, based on the observation that Mac users tend to spend more money. The Orbitz folks claim that the price for a given hotel room is the same for everyone: they're just showing a different selection of options. Well, fine. Presumably other firms have just gone ahead and begun quoting a higher price to certain users based on their browser (one Australian firm recently decided to [STRIKEOUT:discourage IE7 use] grab some cheap PR by `doing so as loudly as possible <http://techcrunch.com/2012/06/13/kogan-hates-ie7-so-much-its-imposing-a-tax-on-all-shoppers-that-use-the-browser/>`__). I've seen `suspicious pricing games </2008/04/02/virgin-america-still-evil-but-now-defeatable/>`__ around online travel in the past.
 

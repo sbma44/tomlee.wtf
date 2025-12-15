@@ -7,6 +7,7 @@ complaining about the MSM is so old-electronic-media
 :status: published
 :save_as: 2010/05/05/complaining-about-the-msm-is-so-old-electronic-media/index.html
 :url: 2010/05/05/complaining-about-the-msm-is-so-old-electronic-media/
+:private: true
 
 `This Politico story <http://www.politico.com/news/stories/0510/36789.html>`__ finishes solidly, but man does it ever start off badly.  I suppose I shouldn't expect anything different, but the newspapers' obsession with an imagined era of dispassionate objectivity is now less charmingly eccentric than it is indicative of a distressing disconnection from the fundamental nature of reality.  Anyway, `Ezra's take <http://voices.washingtonpost.com/ezra-klein/2010/05/a_theory_of_bloggers_and_the_m.html>`__ is both smarter and, hopefully, will allow those truth-and-justice-believin-in newspapermen a way to mentally sidestep the dreaded question of partisanship.
 

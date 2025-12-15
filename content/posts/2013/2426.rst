@@ -5,5 +5,6 @@ Foucault's Pendulum
 :category: books
 :slug: 2426
 :status: draft
+:private: true
 
 | Shelves: to-read

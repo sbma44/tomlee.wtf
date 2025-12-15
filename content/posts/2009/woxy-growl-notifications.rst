@@ -7,6 +7,7 @@ WOXY Growl notifications
 :status: published
 :save_as: 2009/03/30/woxy-growl-notifications/index.html
 :url: 2009/03/30/woxy-growl-notifications/
+:private: true
 
 A while ago I pestered the author of the `WOXY playlist widget <http://www.uhlenbrock.us/woxy/>`__ to add Growl support — I like to be able to learn what I'm listening to without opening my web browser — and he was nice enough to do so. That worked okay for a while, but I think the widget's no longer being maintained; at the very least my copy now seems to be broken.
 

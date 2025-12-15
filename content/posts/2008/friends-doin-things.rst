@@ -7,6 +7,7 @@ friends! doin' things!
 :status: published
 :save_as: 2008/08/05/friends-doin-things/index.html
 :url: 2008/08/05/friends-doin-things/
+:private: true
 
 - Kriston `makes his triumphant return <http://grammarpolice.net/>`__. Woo! Just in time to make up for the lack of Yglesias, too, who turns out to have been responsible for about 40% of all the material on the internet's daily output.
 - Jeff has `returned to the east coast <http://www.jeffnye.org/adventures/2008/08/jersey.php>`__, where the weather — and lifestyle — is appropriately unpleasant, by god. Marie's arrival is... imminent? Simultaneous? A secret? Time will tell.

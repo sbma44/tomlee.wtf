@@ -7,6 +7,7 @@ the internet: like an electronic elephant
 :status: published
 :save_as: 2007/05/10/the-internet-like-an-electronic-elephant/index.html
 :url: 2007/05/10/the-internet-like-an-electronic-elephant/
+:private: true
 
 This morning Slashdot `linked <http://yro.slashdot.org/article.pl?sid=07/05/09/2248254&from=rss>`__ to a `piece over at Ars Technica <http://arstechnica.com/news.ars/post/20070509-escaping-the-data-panopticon-teaching-computers-to-forget.html>`__ quoting Viktor Mayer-SchÃ¶nberger of Harvard's Kennedy School (whew!) on the subject of digital forgetfulness. The problem, he says, is that anyone participating in online society will accumulate an ever-larger tail of embarrassing cruft. It'll be trivially easy for us to confront one another with `beer-belt pictures <http://wonkette.com/politics/bill-frist/john-frist-beer-wrangler-178678.php>`__ and Inuyasha fanfic written at age fourteen. "Gotcha!" will move out of the realm of politics and into the office.
 

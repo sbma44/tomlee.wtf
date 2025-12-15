@@ -7,6 +7,7 @@ book review: Nemesis
 :status: published
 :save_as: 2013/07/13/book-review-nemesis/index.html
 :url: 2013/07/13/book-review-nemesis/
+:private: true
 
 Pretty brutal. I'm ashamed to admit this is the first Roth I've read -- my mom sent this to me -- but based on his reputation and my sense of the book, it's hard for me to imagine this is among his best.
 

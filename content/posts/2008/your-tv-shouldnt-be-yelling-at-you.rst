@@ -7,6 +7,7 @@ your TV shouldn't be yelling at you
 :status: published
 :save_as: 2008/10/23/your-tv-shouldnt-be-yelling-at-you/index.html
 :url: 2008/10/23/your-tv-shouldnt-be-yelling-at-you/
+:private: true
 
 If you're anything like me you really don't appreciate the games that your television service providers play with you. It would be nice, for instance, if Comcast didn't `compress its programming to within an inch of its life <http://www.avsforum.com/avs-vb/showthread.php?t=1008271>`__. It's a lousy way to treat your customers.
 

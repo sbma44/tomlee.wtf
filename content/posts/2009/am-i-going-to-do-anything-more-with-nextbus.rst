@@ -7,6 +7,7 @@ am I going to do anything more with Nextbus?
 :status: published
 :save_as: 2009/08/04/am-i-going-to-do-anything-more-with-nextbus/index.html
 :url: 2009/08/04/am-i-going-to-do-anything-more-with-nextbus/
+:private: true
 
 Well, I don't know.  Sommer wrote a `great review of the newly-released Nextbus iPhone app <http://dcist.com/2009/08/testing_the_new_nextbus_iphone_app.php>`__.  I went ahead and bought it, and you know what?  It's worth three bucks.  I'm not sure I can or should undercut the effort. Besides, one of their developers showed up in comments and stated that they're willing to work with developers via their (not publicly disclosed) API.  I've been emailing back and forth with him, and it's clear that they're willing to let people use their data if they enter into royalty agreements.
 

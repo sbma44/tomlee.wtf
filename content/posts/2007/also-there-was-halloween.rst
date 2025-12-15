@@ -7,6 +7,7 @@ also, there was Halloween
 :status: published
 :save_as: 2007/10/31/also-there-was-halloween/index.html
 :url: 2007/10/31/also-there-was-halloween/
+:private: true
 
 Right, Halloween: it's already happened, as far as I'm concerned. I'm exhausted, haven't been to the gym in ages, and have a ton of work to finish. I intend to nod approvingly as Charles hands out the massive quantities of candy that he bought, but my holiday celebrations occurred last Saturday. I think I'm even skipping out on a fun-sounding bar outing.
 

@@ -7,6 +7,7 @@ a little more on migrating from Typepad to Movable Type
 :status: published
 :save_as: 2007/08/27/a-little-more-on-migrating-from-typepad-to-movable-type/index.html
 :url: 2007/08/27/a-little-more-on-migrating-from-typepad-to-movable-type/
+:private: true
 
 I realized I might as well post this script, too. Say you're moving from one host to another, and the source exports to the MT/Typepad format (a big long text file) and the new host can read that format (`Wordpress can <http://wordpress.org/docs/tutorials/import-mt/>`__, and of course MT/Typepad can).
 

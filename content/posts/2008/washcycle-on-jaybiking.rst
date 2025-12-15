@@ -7,6 +7,7 @@ washcycle on jaybiking
 :status: published
 :save_as: 2008/07/15/washcycle-on-jaybiking/index.html
 :url: 2008/07/15/washcycle-on-jaybiking/
+:private: true
 
 WashCycle has a `good post <http://washcycle.typepad.com/home/2008/07/the-myth-of-the.html>`__ on scofflaw cyclists and the outsized anger directed at them by pedestrians and drivers. It's worth `reading the whole thing <http://washcycle.typepad.com/home/2008/07/the-myth-of-the.html>`__, but here's a bit about jaybiking:
 

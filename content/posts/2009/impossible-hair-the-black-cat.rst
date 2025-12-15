@@ -7,6 +7,7 @@ Impossible Hair @ the Black Cat
 :status: published
 :save_as: 2009/04/03/impossible-hair-the-black-cat/index.html
 :url: 2009/04/03/impossible-hair-the-black-cat/
+:private: true
 
 Man! There are few things I like more than getting back from a good show at the Black Cat. Chris suggested we go see his buddy's CD release party, and it was unexpectedly great. With the exception of the City Veins' horn-heavy, guest-star-laden offering, it was probably the best local CD release observation I've attended.
 

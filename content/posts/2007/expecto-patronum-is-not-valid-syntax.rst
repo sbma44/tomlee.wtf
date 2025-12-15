@@ -7,6 +7,7 @@
 :status: published
 :save_as: 2007/07/25/expecto-patronum-is-not-valid-syntax/index.html
 :url: 2007/07/25/expecto-patronum-is-not-valid-syntax/
+:private: true
 
 Shortly after posting the `Unfoggedbot </2007/07/12/unfoggedbot/>`__ I got this email from `Stanley <http://wryandstanley.blogspot.com/>`__:
 

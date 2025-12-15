@@ -7,6 +7,7 @@ desperately seeking serial
 :status: published
 :save_as: 2008/04/18/desperately-seeking-serial/index.html
 :url: 2008/04/18/desperately-seeking-serial/
+:private: true
 
 One of the projects I've been fiddling with recently has been `Mobile Processing <http://mobile.processing.org/>`__. You might remember me `screwing around </2006/12/11/progressing-with-processing/>`__ with its parent project, `Processing <http://www.processing.org>`__, in 2006. That project's cross-platform IDE and open ethos has spread to a number of other projects, including `Arduino <http://www.arduino.cc>`__, `Wiring <http://www.wiring.org.co/>`__, `Fritzing <http://www.fritzing.org/>`__ and `Mobile Processing <http://mobile.processing.org>`__. Of these, Mobile Processing is probably the most like Processing proper, in that it attempts to provide an easy-to-use environment for writing small applications that can display graphics, respond to input and manipulate system devices. The only difference is that Processing Mobile is designed to work on J2ME-capable mobile phones.
 

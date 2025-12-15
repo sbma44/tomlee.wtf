@@ -7,6 +7,7 @@ transparent proxying (and a brief allusion to lesbians)
 :status: published
 :save_as: 2008/06/23/transparent-proxying-and-a-brief-allusion-to-lesbians/index.html
 :url: 2008/06/23/transparent-proxying-and-a-brief-allusion-to-lesbians/
+:private: true
 
 It was a busy weekend, one filled with baseball-watching, party attendance, delicious kitchen adventures, `videogame <http://en.wikipedia.org/wiki/Zack_and_wiki>`__ `acquisition <http://en.wikipedia.org/wiki/Assassin%27s_creed>`__ and a screening of the better part of `D.E.B.S. <http://en.wikipedia.org/wiki/D.E.B.S._(2004_film)>`__ thanks to `Logo <http://www.logoonline.com/>`__ (they're sexy female high-school-aged assassins who can't be stopped — except, perhaps, by the charms of equally sexy arch-villainess Lucy Diamond). But along the way I also managed to conquer my technical problem du jour: getting transparent proxying with URL rewriting working under OpenWRT.
 

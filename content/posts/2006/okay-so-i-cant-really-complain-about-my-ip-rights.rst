@@ -7,6 +7,7 @@ okay, so I can't *really* complain about my IP rights
 :status: published
 :save_as: 2006/10/13/okay-so-i-cant-really-complain-about-my-ip-rights/index.html
 :url: 2006/10/13/okay-so-i-cant-really-complain-about-my-ip-rights/
+:private: true
 
 But hey! Wonkette! That `photo <http://www.wonkette.com/politics/matthew-yglesias/blogger-dresses-funny-ends-up-on-facebook-206947.php>`__ isn't yours to use — `it's mine <http://flickr.com/photos/sbma44/57221879/in/set-1239224/>`__. Two things: first, my normally creative-commons-loving self didn't put a friendly license on the photo, precisely because my friends might not appreciate photos of themselves looking silly being republished. Second, even if I *had* put a CC license on it, you'd still be obligated to provide attribution. It's just being polite.
 

@@ -7,6 +7,7 @@ what would a data scientist do for a campaign, anyway?
 :status: published
 :save_as: 2012/01/16/what-would-a-data-scientist-do-for-a-campaign-anyway/index.html
 :url: 2012/01/16/what-would-a-data-scientist-do-for-a-campaign-anyway/
+:private: true
 
 I take it that `this <http://www.slate.com/articles/news_and_politics/victory_lab/2012/01/project_dreamcatcher_how_cutting_edge_text_analytics_can_help_the_obama_campaign_determine_voters_hopes_and_fears_.html>`__ is what the Obama campaign `was hiring <http://www.politico.com/blogs/bensmith/0711/Obama_campaign_hiring_data_mining_scientists.html>`__ "data scientists" to do.  It's an interesting project, but I think the Slate writeup fails to make a few important connections.
 

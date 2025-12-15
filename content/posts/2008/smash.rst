@@ -7,6 +7,7 @@ smash
 :status: published
 :save_as: 2008/03/18/smash/index.html
 :url: 2008/03/18/smash/
+:private: true
 
 Super Smash Bros. Brawl was waiting for me when I got home on Sunday thanks to a years-old, barely-remembered gift card from my mom (thanks, mom!). Wanna play? My friend number is 0645-5578-9044.
 

@@ -7,6 +7,7 @@ iphone/nextbus progress
 :status: published
 :save_as: 2009/07/08/iphonenextbus-progress/index.html
 :url: 2009/07/08/iphonenextbus-progress/
+:private: true
 
 |nextbus on the iphone|\ Nextbus stops! Served by Google App Engine! Displayed on the iPhone!
 

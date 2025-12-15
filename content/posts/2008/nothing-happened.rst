@@ -7,6 +7,7 @@ nothing happened
 :status: published
 :save_as: 2008/02/25/nothing-happened/index.html
 :url: 2008/02/25/nothing-happened/
+:private: true
 
 Yup, still sick, although not as deliriously so as I was over the last four days — this is some bad stuff. Mostly I've been confined to lying on the couch feeling sorry for myself. But Saturday's activities did also include an unexpected win at Scrabble and confirmation of Philadelphia's banh mi supremacy — Emily and I checked out `Song Que and Nhu Lan <http://www.washingtonpost.com/wp-dyn/content/article/2008/02/05/AR2008020500888_pf.html>`__, and though the latter has definitely got something to offer in terms of mayo & bread, both offered insultingly small portions of jalapeno and cilantro. It was still pretty delicious, though. And it's always good to be reminded of how stupid an idea bubble tea is.
 

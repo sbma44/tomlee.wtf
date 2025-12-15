@@ -7,6 +7,7 @@ yet more a la carte
 :status: published
 :save_as: 2011/11/17/yet-more-a-la-carte/index.html
 :url: 2011/11/17/yet-more-a-la-carte/
+:private: true
 
 Matt and I have gone `back and forth </2011/09/20/no-seriously-cable-tv-is-terrible/>`__ about this before, and I'd be lying if I said I felt completely confident in my response to the licenses-for-parks metaphor.  But I do feel confident that `he's wrong about this <http://thinkprogress.org/yglesias/2011/11/17/370919/the-a-la-carte-mirage/>`__:
 

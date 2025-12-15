@@ -5,6 +5,7 @@ The Man in the High Castle
 :category: books
 :slug: 2329
 :status: draft
+:private: true
 
 | 4 stars
 | An interesting book. This is the first novel by Dick that I've read, and I can see why he's entered the sci-fi canon: there are tremendous thematic resonances littered throughout the thing, but it's all so discursive and slightly askew that it's hard to imagine that they're deliberately engineered that way. It seems like they must have bubbled out of Dick's own febrile preoccupations, and that makes them feel both more interesting and more honest.

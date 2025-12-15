@@ -7,6 +7,7 @@ it's mostly just shots of the smoke machine anyway
 :status: published
 :save_as: 2007/10/29/its-mostly-just-shots-of-the-smoke-machine-anyway/index.html
 :url: 2007/10/29/its-mostly-just-shots-of-the-smoke-machine-anyway/
+:private: true
 
 I'm down in Charlottesville for a couple of days, helping my mom get around as she gets some more surgery on her arm (it never quite healed properly from her motorcycle accident 15 months ago). There are a bunch of restaurants and bars that I used to frequent as an undergrad just a short walk from the hospital, and the nurses assured me that hanging around the waiting room would gain me nothing except, perhaps, a deadly staph infection. So I wandered up to the Corner, had lunch at Bodo's (now with `official Jewish approval <http://matthewyglesias.theatlantic.com/archives/2007/05/monday_bagel_blogging.php>`__ — he's matrilinear & everything!) and then wandered over to Plan 9 music, where I've been sipping coffee and having very little luck using the free wireless.
 

@@ -4,6 +4,7 @@ Untitled Post 968
 :author: admin
 :slug: 968
 :status: draft
+:private: true
 
 Tim is `disappointed <http://timothyblee.com/?p=757>`__ to see the EFF taking on the cause of regulating data collection for the purposes of advertising -- he sees it as a departure from the organization's core mission of defending civil liberties from the depredations of the government.  Tangling with corporations is not what he signed up to support.
 

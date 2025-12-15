@@ -7,6 +7,7 @@ some probably dumb thoughts about the tenability of campaign finance laws
 :status: published
 :save_as: 2011/06/18/some-probably-dumb-thoughts-about-the-tenability-of-campaign-finance-laws/index.html
 :url: 2011/06/18/some-probably-dumb-thoughts-about-the-tenability-of-campaign-finance-laws/
+:private: true
 
 There's no way to write this post without seeming like I'm just being a shill for my employer. And yet, as I write it, I need to be careful to point out that I am *not speaking on behalf of my employer*, and could easily get myself in trouble for posting it. Really, this is all downside for me.
 

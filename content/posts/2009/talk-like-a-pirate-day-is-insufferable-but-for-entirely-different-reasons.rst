@@ -7,6 +7,7 @@ talk like a pirate day is insufferable, but for entirely different reasons
 :status: published
 :save_as: 2009/04/14/talk-like-a-pirate-day-is-insufferable-but-for-entirely-different-reasons/index.html
 :url: 2009/04/14/talk-like-a-pirate-day-is-insufferable-but-for-entirely-different-reasons/
+:private: true
 
 Rob Pegoraro, the Post's technology columnist, `is looking for alternative names for software theft <http://voices.washingtonpost.com/fasterforward/2009/04/who_are_you_calling_a_software.html>`__ that aren't associated with, ahem, maritime terrorism:
 

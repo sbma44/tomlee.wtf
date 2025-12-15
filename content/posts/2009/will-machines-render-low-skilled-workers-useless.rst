@@ -7,6 +7,7 @@ will machines render low-skilled workers useless?
 :status: published
 :save_as: 2009/08/09/will-machines-render-low-skilled-workers-useless/index.html
 :url: 2009/08/09/will-machines-render-low-skilled-workers-useless/
+:private: true
 
 |mcterminator|\ Yes! Well, okay, `Ryan doesn't think so <http://www.ryanavent.com/blog/?p=2201>`__.  You should go read that post and `the Greg Clark column <http://www.washingtonpost.com/wp-dyn/content/article/2009/08/07/AR2009080702043.html?hpid=opinionsbox1>`__ that prompted this discussion, although I have a feeling I'm about to quote a lot of Ryan's entry:
 

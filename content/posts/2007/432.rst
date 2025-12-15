@@ -5,6 +5,7 @@ the first convocation of the institute for advanced internet studies
 :category: tech
 :slug: 432
 :status: draft
+:private: true
 
 Rereading the last entry and its context-free tossing off of the terms "chip trace" and "solder pad", it occurred to me that the geeky content on this blog has hit a particularly bad balance. It's too technical for the people who might've been interested by my earlier, more accessible geek ramblings; and it's doubtless too simplistic to interest many experts. Since becoming smarter is harder than acting dumb, I've resolved to think of some more interesting, universally-relevant tech content.
 

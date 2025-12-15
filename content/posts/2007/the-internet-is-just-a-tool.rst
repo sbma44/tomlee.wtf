@@ -7,6 +7,7 @@ the internet is just a tool
 :status: published
 :save_as: 2007/11/14/the-internet-is-just-a-tool/index.html
 :url: 2007/11/14/the-internet-is-just-a-tool/
+:private: true
 
 | **Hell is other commenters**
 | `Via Dan's Data <http://www.dansdata.com/danletters193.htm>`__, check out `this article <http://www.newstarget.com/021970.html>`__, in which the author explains what foods are most compatible with "The Secret", Oprah's made-up religion for turning dumb luck into an intentional act. Aspartame is right out, as is caffeine: "the onslaught of daily stimulants leaves the body depleted of energy, unable to reach the level of vibration necessary to effectively broadcast intention to the universe." Clearly.

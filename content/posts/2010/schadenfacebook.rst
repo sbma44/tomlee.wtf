@@ -7,6 +7,7 @@ schadenfacebook
 :status: published
 :save_as: 2010/05/12/schadenfacebook/index.html
 :url: 2010/05/12/schadenfacebook/
+:private: true
 
 People seem to `really <http://blogstretch.blogspot.com/2010/05/i-quit-facebook.html>`__ `be <http://www.prospect.org/cs/articles?article=farewell_facebook>`__ `upset <http://attackerman.firedoglake.com/2010/05/11/this-is-not-a-defense-of-facebook/>`__ with Facebook this time!  Naturally, I think this is great.  I'm `on record as a Facebook curmudgeon </2007/03/22/i-already-have-a-perfectly-good-internet/>`__, having almost entirely displaced my anger over the flight of my friends from social blogging -- a change that was probably inevitable thanks to the progression of age and career -- onto the service that so many of them fled to\ *.*
 

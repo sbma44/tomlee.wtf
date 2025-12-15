@@ -7,6 +7,7 @@ sure it's sleazy, but it holds to a proud tradition of sleaze
 :status: published
 :save_as: 2008/03/06/sure-its-sleazy-but-it-holds-to-a-proud-tradition-of-sleaze/index.html
 :url: 2008/03/06/sure-its-sleazy-but-it-holds-to-a-proud-tradition-of-sleaze/
+:private: true
 
 Look, I like Barack Obama, too. I hope he wins the nomination and becomes our next president. But `this stuff <http://www.dailykos.com/storyonly/2008/3/5/14345/50395/126/469746>`__ about the Clinton campaign altering videotape of him to make him seem blacker is just crazy. Have we all really never seen a political ad before? Here, allow me to summarize the art form for you:
 

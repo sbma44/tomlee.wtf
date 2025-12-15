@@ -7,6 +7,7 @@ I'm back, sort of
 :status: published
 :save_as: 2007/03/10/im-back-sort-of/index.html
 :url: 2007/03/10/im-back-sort-of/
+:private: true
 
 |a high unread message count in gmail, mail.app and net news wire|\ The west coast was great — more on that later. Right now I'm in Austin for `SXSWi <http://2007.sxsw.com/interactive/>`__ and, as you can see, I'm a bit behind on things.
 

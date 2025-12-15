@@ -7,6 +7,7 @@ are we still playing net neutrality? if so, I want in
 :status: published
 :save_as: 2007/04/02/are-we-still-playing-net-neutrality-if-so-i-want-in/index.html
 :url: 2007/04/02/are-we-still-playing-net-neutrality-if-so-i-want-in/
+:private: true
 
 I missed all of the net neutrality fun, I'm afraid. But to summarize: Julian `took issue <http://juliansanchez.com/notes/archives/2007/03/an_accidentally_apt_metaphor.php>`__ with Craig Newmark's decision to analogize a non-neutral internet to pizza companies buying additional phone lines. Cory Doctorow dropped by, `son1 <http://bayes.wordpress.com/2007/03/29/network-ports-archly/>`__ posted about it, Kriston was all over the comments, and I was too sick to wade in. Argh.
 

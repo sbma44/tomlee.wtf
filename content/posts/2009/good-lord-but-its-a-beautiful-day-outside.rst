@@ -7,6 +7,7 @@ good lord but it's a beautiful day outside
 :status: published
 :save_as: 2009/11/09/good-lord-but-its-a-beautiful-day-outside/index.html
 :url: 2009/11/09/good-lord-but-its-a-beautiful-day-outside/
+:private: true
 
 I just got back from a trip to Staples where I bought a USB thumbdrive that -- it could be argued -- I didn't really need.  People were out, the sun was shining, some folks were drumming on plastic buckets to protest something -- it was great.  I missed the bucket drumming, though, as I was busy listening to some indie rock guitar heroism.  Here, maybe you'd enjoy some, too:
 

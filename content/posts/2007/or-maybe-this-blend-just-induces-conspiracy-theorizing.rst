@@ -7,6 +7,7 @@ or maybe this blend just induces conspiracy theorizing
 :status: published
 :save_as: 2007/03/21/or-maybe-this-blend-just-induces-conspiracy-theorizing/index.html
 :url: 2007/03/21/or-maybe-this-blend-just-induces-conspiracy-theorizing/
+:private: true
 
 I've got a bit of a reputation around the office for being completely useless and insufferable before I've had my first two or three cups of coffee. Although I'm not that bothered by this, I'm also not particularly pleased about it — I think that participation in the geek cult of caffeine is a fairly lame affectation, and I'd like to think that I can function without a chemical crutch. I haven't intentionally cultivated this reputation; I guess I've just accidentally been kind of mean to people.
 

@@ -7,6 +7,7 @@ more crime!
 :status: published
 :save_as: 2007/01/21/more-crime/index.html
 :url: 2007/01/21/more-crime/
+:private: true
 
 I really don't think I did, but I *was* out drinking that night, so I suppose I should just go ahead and ask. Michael, Matt, Ezra, Sam, Sarah and everyone else who was out on Friday: did we get drunk at Townhouse and then go grocery shopping in Michigan? Normally I wouldn't ask, but Bank of America sent me an email on Saturday morning wondering about these charges:
 

@@ -7,6 +7,7 @@ Dorkbot DC: Arduino, Meet Fonera
 :status: published
 :save_as: 2008/03/26/dorkbot-dc-arduino-meet-fonera/index.html
 :url: 2008/03/26/dorkbot-dc-arduino-meet-fonera/
+:private: true
 
 Whew! Well, I presented last night at Dorkbot and it seemed to go pretty well. Thanks to Gareth, Alberto and everyone else who makes Dorkbot possible. Alberto was particularly helpful and encouraging, and I greatly appreciate it.
 

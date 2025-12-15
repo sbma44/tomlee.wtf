@@ -7,6 +7,7 @@ trapeze!
 :status: published
 :save_as: 2010/04/04/trapeze/index.html
 :url: 2010/04/04/trapeze/
+:private: true
 
 It was kind of super fun.
 

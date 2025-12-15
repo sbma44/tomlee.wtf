@@ -7,6 +7,7 @@ plus time equals comedy
 :status: published
 :save_as: 2007/09/17/plus-time-equals-comedy/index.html
 :url: 2007/09/17/plus-time-equals-comedy/
+:private: true
 
 From Wired Magazine's June 2007 *Playlist* feature, because the bathroom at work will not be restocked with reading material until Nicco returns to DC in 2008 or the End of Days:
 

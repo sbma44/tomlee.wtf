@@ -7,6 +7,7 @@ pÃ¢tÃ© infringement
 :status: published
 :save_as: 2007/06/27/pa%c2%a2ta%c2%a9-infringement/index.html
 :url: 2007/06/27/pa%c2%a2ta%c2%a9-infringement/
+:private: true
 
 `This New York Times article <http://www.nytimes.com/2007/06/27/nyregion/27pearl.html?pagewanted=1&_r=1>`__, about a restaurateur who's suing her former sous chef for opening a competing restaurant that copies her own in many respects, is more than a little astonishing. First, because it ends on this brazen note:
 

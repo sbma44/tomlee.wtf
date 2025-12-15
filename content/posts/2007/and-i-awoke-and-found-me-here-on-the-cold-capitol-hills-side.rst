@@ -7,6 +7,7 @@ and I awoke and found me here / on the cold (capitol) hill's side
 :status: published
 :save_as: 2007/12/05/and-i-awoke-and-found-me-here-on-the-cold-capitol-hills-side/index.html
 :url: 2007/12/05/and-i-awoke-and-found-me-here-on-the-cold-capitol-hills-side/
+:private: true
 
 As someone who has to think about how to write DCist Morning Roundup introductions on a somewhat regular basis, I feel that I can say this with confidence: there are only so many ways to whimsically express the idea that Washingtonians are bad at driving in snow. But that doesn't make it the underlying fact any less true, as `Amanda can attest <http://blogstretch.blogspot.com/2007/12/oh-what-dummy-full-moooorning.html>`__.
 

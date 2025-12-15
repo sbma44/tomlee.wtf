@@ -7,6 +7,7 @@ so long as everyone's buying RAM
 :status: published
 :save_as: 2008/01/04/so-long-as-everyones-buying-ram/index.html
 :url: 2008/01/04/so-long-as-everyones-buying-ram/
+:private: true
 
 I may as well add my two cents, speaking as both an all-around nerd and someone who bought a gig of RAM this holiday season (it's the gift that says "Baby, I consider reducing your disk swap space usage a subcomponent of 'treating you right'"). RAM is indeed ridiculously cheap right now — there've been allegations of price-fixing in the memory industry, in fact, as the players try to grapple with the bottom falling out of their market. But a few things about buying memory for your Mac:
 

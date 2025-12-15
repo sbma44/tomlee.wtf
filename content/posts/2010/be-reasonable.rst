@@ -7,6 +7,7 @@ be reasonable
 :status: published
 :save_as: 2010/04/13/be-reasonable/index.html
 :url: 2010/04/13/be-reasonable/
+:private: true
 
 I hate being a NIMBY. The truth about city life is that it's crowded. Not unpleasantly so, not most of the time, but you're going to find yourself around a lot of your fellow men, and sometimes they'll get in your way and sometimes you'll get in theirs. It's your responsibility to try to hold your tongue in the case of the former and count on your obliviousness to the latter to even everything out. If everyone threw a fit about every inconvenience they had to suffer, none of us could enjoy the things that are great about living together.
 

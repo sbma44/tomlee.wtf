@@ -7,6 +7,7 @@ numbers aren't just numbers
 :status: published
 :save_as: 2007/05/03/numbers-arent-just-numbers/index.html
 :url: 2007/05/03/numbers-arent-just-numbers/
+:private: true
 
 Ed Felten has `an interesting post <http://www.freedom-to-tinker.com/?p=1154>`__ up this morning discussing the 09-f9 HD-DVD key and why the net has been replicating it so enthusiastically. He has a number of explanations for why people are showing such antipathy toward the AACS LA's efforts to suppress the key. I'm most interested in the second one, because it's pretty widespread and very, very silly:
 

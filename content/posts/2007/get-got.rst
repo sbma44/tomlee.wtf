@@ -7,6 +7,7 @@ get got
 :status: published
 :save_as: 2007/01/18/get-got/index.html
 :url: 2007/01/18/get-got/
+:private: true
 
 Why yes, I *do* enjoy being a small-minded jerk:
 

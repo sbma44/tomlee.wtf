@@ -7,6 +7,7 @@ if anyone has a brilliant idea about how to get the complete staff of TSA's Burl
 :status: published
 :save_as: 2009/10/12/if-anyone-has-a-brilliant-idea-about-how-to-get-the-complete-staff-of-tsas-burligton-branch-fired/index.html
 :url: 2009/10/12/if-anyone-has-a-brilliant-idea-about-how-to-get-the-complete-staff-of-tsas-burligton-branch-fired/
+:private: true
 
 Shoot me an email. We should chat.
 

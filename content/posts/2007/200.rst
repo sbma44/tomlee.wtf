@@ -5,6 +5,7 @@ rambo syndrome
 :category: politics
 :slug: 200
 :status: draft
+:private: true
 
 Tim Lee `links <http://www.angryblog.org/?p=771>`__ without comment to `a blog post <http://freestudents.blogspot.com/2007/04/dozens-massacred-in-gun-free-zone-again.html>`__ arguing that the tragedy at Virginia Tech could have been stopped by students being allowed to carry weapons. I've seen a bunch of comments to this effect, too.
 

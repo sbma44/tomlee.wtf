@@ -7,6 +7,7 @@ fair enough
 :status: published
 :save_as: 2007/08/20/fair-enough/index.html
 :url: 2007/08/20/fair-enough/
+:private: true
 
 |flies through air with the greatest of ease|
 

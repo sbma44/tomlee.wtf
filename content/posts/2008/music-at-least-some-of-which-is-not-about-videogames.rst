@@ -7,6 +7,7 @@ music, at least some of which is not about videogames
 :status: published
 :save_as: 2008/09/15/music-at-least-some-of-which-is-not-about-videogames/index.html
 :url: 2008/09/15/music-at-least-some-of-which-is-not-about-videogames/
+:private: true
 
 It's been a while, and so a backlog of musical tidbits has been gathering at the top of my spine, periodically releasing pleasant shivering waves. I've been enjoying listening to some things, in other words. Hey, let's direct some of that energy at the internet!
 

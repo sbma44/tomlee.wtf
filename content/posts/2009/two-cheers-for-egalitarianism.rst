@@ -7,6 +7,7 @@ two cheers for egalitarianism
 :status: published
 :save_as: 2009/06/23/two-cheers-for-egalitarianism/index.html
 :url: 2009/06/23/two-cheers-for-egalitarianism/
+:private: true
 
 ONE: `The beginning of the end of the Registered Traveler program <http://blogs.wsj.com/middleseat/2009/06/22/un-clear-registered-traveler-company-shuts-down/>`__. I've always `been uncomfortable </2008/06/04/new_and_better_ways_to_make_ai/>`__ with the idea behind this program — allowing the rich a means of escape from a vexing and arguably arbitrary set of collectively-self-imposed strictures `has something of a history <http://en.wikipedia.org/wiki/Indulgences#Abuses>`__, and it's not a noble one. Props to TSA, though, if the WSJ writeup really can be believed: the article cites the agency's unwillingness to relax security standards as one of the things that made CLEAR/Registered Traveler not worth the price of admission for many would-be line skippers.
 

@@ -7,6 +7,7 @@ city livin'
 :status: published
 :save_as: 2007/07/30/city-livin/index.html
 :url: 2007/07/30/city-livin/
+:private: true
 
 I woke up this morning to the banality of jackhammers. Construction crews were tearing up the street, redoing the lousy, lumpy patch job left by the workers who'd replaced our lead water pipes weeks ago. There was a $50 ticket on the hood of my mercifully un-towed rental car — my fault, I'd forgotten about the paper "No Parking" notices.
 

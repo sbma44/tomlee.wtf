@@ -7,6 +7,7 @@ diary of an antisocial gentrifier
 :status: published
 :save_as: 2007/03/19/diary-of-an-antisocial-gentrifier/index.html
 :url: 2007/03/19/diary-of-an-antisocial-gentrifier/
+:private: true
 
 The Post's `article on H Street <http://www.washingtonpost.com/wp-dyn/content/article/2007/03/17/AR2007031700699.html>`__ is getting blogged-up all over the place today. Aside from the ridiculous ending ("OHHHHHH it's *SYMBOLIC*"), it's pretty good. The opening struck an especially familiar note:
 

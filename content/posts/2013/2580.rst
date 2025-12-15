@@ -5,6 +5,7 @@ Nexus
 :category: books
 :slug: 2580
 :status: draft
+:private: true
 
 | 3 stars
 | A pretty solid spy novel focusing on transhuman technology that approximates telepathy. Lots of technological cleverness on display--the author clearly understands that world on a deep level, creating magical hand waving only when it comes to nanotechnology. Good, contemporary evocation of the surveillance state and repressive American security apparatus.

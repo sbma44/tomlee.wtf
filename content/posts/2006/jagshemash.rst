@@ -7,6 +7,7 @@ jagshemash!
 :status: published
 :save_as: 2006/10/25/jagshemash/index.html
 :url: 2006/10/25/jagshemash/
+:private: true
 
 | Cyrus has `a post linking to several articles profiling Borat's unwitting interview subjects <http://cyrusfarivar.com/blog/?p=1164>`__. I remember a bunch of these profiles coming out when Ali G got his big DVD-release PR push. Fake production companies, friendly assistants — just insist on meeting the on-air talent before the camera rolls and I think you can escape Mr. Baron-Cohen's traps.
 | But, as you might imagine, the people who were duped aren't entirely happy. To their credit, few seem really outraged. But there is a recurring theme. From `Newsweek <http://www.msnbc.msn.com/id/15175836/site/newsweek/>`__:

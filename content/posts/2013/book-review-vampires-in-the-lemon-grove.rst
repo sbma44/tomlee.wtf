@@ -7,6 +7,7 @@ book review: Vampires in the Lemon Grove
 :status: published
 :save_as: 2013/03/01/book-review-vampires-in-the-lemon-grove/index.html
 :url: 2013/03/01/book-review-vampires-in-the-lemon-grove/
+:private: true
 
 *I haven't posted my last two book reviews. In the case of* `Rabbit, Run <http://www.goodreads.com/review/show/516357090>`__\ *, I was skittish about offering any thoughts on a classic that has already been analyzed to death by scholars smarter than me. In the case of* `Homeland <http://www.goodreads.com/review/show/514473004>`__\ *, I wasn't eager to express equivocal feelings about the work of an author who is professionally relevant to me. But those links work if you're curious. Back to new stuff:*
 

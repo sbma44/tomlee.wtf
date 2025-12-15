@@ -5,6 +5,7 @@ a la carte, aspirational media and paternalism
 :category: Uncategorized
 :slug: 2584
 :status: draft
+:private: true
 
 The pay-TV landscape is evolving in ways that are both encouraging and confusing, as `today's David Carr column demonstrates <http://www.nytimes.com/2013/07/29/business/media/vcrs-past-is-guiding-televisions-future.html>`__.
 

@@ -7,6 +7,7 @@ a charlatan-friendly ecosystem
 :status: published
 :save_as: 2010/09/26/a-charlatan-friendly-ecosystem/index.html
 :url: 2010/09/26/a-charlatan-friendly-ecosystem/
+:private: true
 
 Alex Payne `points <http://twitter.com/al3x/status/25614922261>`__ to a `blog post by Ben Laurie <http://www.links.org/?p=998&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+links%2FZvUZ+%28Ben+Laurie+Blathering%29>`__ that discusses Diaspora and Haystack, and how projects like these can attract huge amounts of press, only to flame out as their charismatic founders' incompetence is revealed.
 

@@ -7,6 +7,7 @@ The Daily Caller
 :status: published
 :save_as: 2010/01/11/the-daily-caller/index.html
 :url: 2010/01/11/the-daily-caller/
+:private: true
 
 I gave `Spencer short shrift <http://attackerman.firedoglake.com/2010/01/11/automated-ticketing-exactly-like-rape/>`__ when I `tweeted <http://twitter.com/sbma44/status/7645289275>`__ earlier; he's doing the lord's work, and deserves recognition for it.
 

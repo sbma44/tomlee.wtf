@@ -7,6 +7,7 @@ the next big thing: artisanal coffin production
 :status: published
 :save_as: 2009/09/04/the-next-big-thing-artisanal-coffin-production/index.html
 :url: 2009/09/04/the-next-big-thing-artisanal-coffin-production/
+:private: true
 
 |image1|\ Emily and I have been building a coffin.  This is nominally for Halloween, though I realized partway through the process that "he was buried in a novelty coffin he constructed himself" would make a pretty awesome kicker for an obituary.  Of course, that assumes that in the future people still get buried in coffins instead of being cremated to reduce A) crowding on the space-ark or B) the odds of reanimation.  Frankly, that seems unlikely.  But while the coffin's ultimate fate remains uncertain, it should at least be a workable bar come October 31st.
 

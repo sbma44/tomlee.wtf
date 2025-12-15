@@ -7,6 +7,7 @@ pie charts are fine and you all need to calm down
 :status: published
 :save_as: 2013/06/17/pie-charts-are-fine-and-you-all-need-to-calm-down/index.html
 :url: 2013/06/17/pie-charts-are-fine-and-you-all-need-to-calm-down/
+:private: true
 
 I mean, `yikes <http://www.businessinsider.com/pie-charts-are-the-worst-2013-6>`__.
 

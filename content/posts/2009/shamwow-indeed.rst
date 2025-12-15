@@ -7,6 +7,7 @@ ShamWow, indeed
 :status: published
 :save_as: 2009/01/06/shamwow-indeed/index.html
 :url: 2009/01/06/shamwow-indeed/
+:private: true
 
 Look, I don't know what `you <http://pygmalioninablanket.blogspot.com/2009/01/guess-whos-back-to-work-thats-right-you.html>`__ `guys <http://blogstretch.blogspot.com/>`__ have against Vince or `ShamWow <https://www.shamwow.com/ver4/index.asp>`__, the revolutionary new absorption concept that is sweeping — well, if not the nation, then at least the parts of it that watch TBS at 1am. But this mean-spiritedness has got to stop. Yes, it's clear that Vince had been awake for at least 50 hours when that commercial was filmed. And yes, he is an `ex-Scientologist who sued Anna Nicole Smith for breach of contract <http://en.wikipedia.org/wiki/Vince_Offer>`__ in relation to his failed gross-out comedy movie (the New York Times called it "`a monument to ineptitude and self-delusion <http://query.nytimes.com/gst/fullpage.html?res=9805EFDF1F31F93BA15756C0A96F958260&scp=1&sq=underground+comedy+movie&st=nyt>`__").
 

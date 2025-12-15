@@ -7,6 +7,7 @@ I'm starting to think about Artomatic
 :status: published
 :save_as: 2010/03/03/im-starting-to-think-about-artomatic/index.html
 :url: 2010/03/03/im-starting-to-think-about-artomatic/
+:private: true
 
 `Processing <http://www.processing.org>`__ is kind of a fun prototyping tool. And it's got an `animated GIF library <http://www.extrapixel.ch/processing/gifAnimation/>`__!
 

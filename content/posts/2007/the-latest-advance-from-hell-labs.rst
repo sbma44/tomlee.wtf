@@ -7,6 +7,7 @@ the latest advance from Hell Labs
 :status: published
 :save_as: 2007/01/30/the-latest-advance-from-hell-labs/index.html
 :url: 2007/01/30/the-latest-advance-from-hell-labs/
+:private: true
 
 |a toy representing the Simpsons Halloween Special scene in which Homer is forced to eat countless donuts in Hell Labs' Ironic Punishment Division|
 

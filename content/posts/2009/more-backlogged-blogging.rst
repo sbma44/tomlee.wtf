@@ -7,6 +7,7 @@ more backlogged blogging
 :status: published
 :save_as: 2009/03/04/more-backlogged-blogging/index.html
 :url: 2009/03/04/more-backlogged-blogging/
+:private: true
 
 Small complaints that I will file here instead of on Twitter:
 

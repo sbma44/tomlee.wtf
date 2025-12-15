@@ -7,6 +7,7 @@ fear of a black hat
 :status: published
 :save_as: 2009/12/07/fear-of-a-black-hat/index.html
 :url: 2009/12/07/fear-of-a-black-hat/
+:private: true
 
 Earlier this week my old boss, JP, sent me a note saying that the full-text RSS script I'd written was being shut down.  EchoDitto was nice enough to continue hosting it on their servers, but it had been consuming an increasing share of resources, and finally it needed to be killed.  Sad.
 

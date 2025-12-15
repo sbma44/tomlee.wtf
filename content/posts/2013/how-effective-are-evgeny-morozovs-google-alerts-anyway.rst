@@ -7,6 +7,7 @@ how effective *are* Evgeny Morozov's Google alerts, anyway?
 :status: published
 :save_as: 2013/04/26/how-effective-are-evgeny-morozovs-google-alerts-anyway/index.html
 :url: 2013/04/26/how-effective-are-evgeny-morozovs-google-alerts-anyway/
+:private: true
 
 Let's find out. `This interview <http://blogs.spectator.co.uk/books/2013/04/interview-with-a-writer-evgeny-morozov/>`__ elicits a number of quibbles from me.
 

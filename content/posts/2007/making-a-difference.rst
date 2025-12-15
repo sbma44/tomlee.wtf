@@ -7,6 +7,7 @@ making a difference
 :status: published
 :save_as: 2007/02/28/making-a-difference/index.html
 :url: 2007/02/28/making-a-difference/
+:private: true
 
 |graphic for kriston's campaign to get the nytimes to get rid of their stupid double-click functionality|\ Kriston's `on to something here <http://grammarpolice.net/archives/001221.php>`__. People don't want websites to make their browsers work in radically different ways than they normally do. Or at least they don't want them to when everything else seems to be normal. This NYTimes behavior is almost as irritating as the `snap.com <http://www.snap.com>`__ preview windows that now pop up by default on every `wordpress.com <http://www.wordpress.com>`__ blog.
 

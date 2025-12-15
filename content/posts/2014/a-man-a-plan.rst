@@ -7,6 +7,7 @@ a man, a plan
 :status: published
 :save_as: 2014/04/14/a-man-a-plan/index.html
 :url: 2014/04/14/a-man-a-plan/
+:private: true
 
 Panama: pretty great. The Panama City aesthetic is the first thing that strikes you on the drive from the airport: chrome and colorful and BIG, with absurdly distracting animated LED brake lights sprinkled throughout. Optimus Prime was designed by a Panamanian, I'm sure of it.
 

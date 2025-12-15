@@ -7,6 +7,7 @@ let's pick on a different mp3 aggregator for a change
 :status: published
 :save_as: 2007/11/26/lets-pick-on-a-different-mp3-aggregator-for-a-change/index.html
 :url: 2007/11/26/lets-pick-on-a-different-mp3-aggregator-for-a-change/
+:private: true
 
 The Hype Machine is great, but it's not the only one out there, after all. Besides, it's got certain shortcomings: its "popular" page is fine if you want to listen to a ton of Bloc Party, but can suffer from a lack of variation. And looking at the front page is like drinking from a firehose. The `podcast feed that I made last week </2007/11/23/everything-is-connected/>`__ suffers for it: you're not getting a representative snapshot of what's being talked about, but rather just a random sampling of what was popular when your copy of iTunes decided to check in. And, as I mentioned, the feed will no doubt be shut down by the HM guys (they may have already throttled iTunes' bandwidth).
 

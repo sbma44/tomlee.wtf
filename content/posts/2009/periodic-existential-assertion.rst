@@ -7,6 +7,7 @@ periodic existential assertion
 :status: published
 :save_as: 2009/09/21/periodic-existential-assertion/index.html
 :url: 2009/09/21/periodic-existential-assertion/
+:private: true
 
 I'm waiting for Windows to finish installing some IE8 debugging software, so perhaps now is a good time to take a breath, open Wordpress and note that *I am not dead*.  I'm just busy.  We're perilously close to a major launch on the Subsidyscope project.  At the same time, Clay's taken a month off to get married (see also: `awww <http://twitpic.com/igdmm>`__), leaving me to mind the store at Sunlight in his absence.  It's flattering and exciting, but hasn't left a lot of time for bloggy diversions.
 

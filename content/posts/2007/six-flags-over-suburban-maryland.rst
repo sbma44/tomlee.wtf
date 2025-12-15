@@ -7,6 +7,7 @@ Six Flags over suburban Maryland
 :status: published
 :save_as: 2007/08/08/six-flags-over-suburban-maryland/index.html
 :url: 2007/08/08/six-flags-over-suburban-maryland/
+:private: true
 
 It's only Wednesday, but it's already been kind of an intense week. You may have noticed me failing to respond quickly by email, help you migrate your hotmail contacts, or join you in watching movies in which David Bowie magically inconveniences teens. I apologize. There's a deadline looming, and consequently I'm wasting a lot less time on the internet and elsewhere than I'd like. But I can still dimly recall a time when my life wasn't solely devoted to building doomed UGC also-rans.
 

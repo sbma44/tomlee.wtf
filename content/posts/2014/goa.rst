@@ -7,6 +7,7 @@ Goa
 :status: published
 :save_as: 2014/01/29/goa/index.html
 :url: 2014/01/29/goa/
+:private: true
 
 |pano|
 

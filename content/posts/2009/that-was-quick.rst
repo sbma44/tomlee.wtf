@@ -7,6 +7,7 @@ that was quick
 :status: published
 :save_as: 2009/09/21/that-was-quick/index.html
 :url: 2009/09/21/that-was-quick/
+:private: true
 
 I think that `this is great <http://dcist.com/2009/09/a_food_chain_unlike_any_other.php>`__: an aspiring lunch vendor has cleverly dodged the city's licensing limits on food carts by selling his product to existing hotdoggerias, whose licenses allow them to vend it.  More lunchtime variety on the streets of DC is a good thing!
 

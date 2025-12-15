@@ -7,6 +7,7 @@ a return to characteristically self-absorbed form
 :status: published
 :save_as: 2008/02/19/a-return-to-characteristically-self-absorbed-form/index.html
 :url: 2008/02/19/a-return-to-characteristically-self-absorbed-form/
+:private: true
 
 Last Wednesday's annual candy heart rumination aside, I haven't really written much here since getting back from New Orleans. It feels like I've gotten worse and worse at recording what I've been up to, which is of course unfair both to myself and to the historians of the future. So:
 

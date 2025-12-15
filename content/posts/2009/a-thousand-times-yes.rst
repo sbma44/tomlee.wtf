@@ -7,6 +7,7 @@ a thousand times yes
 :status: published
 :save_as: 2009/08/10/a-thousand-times-yes/index.html
 :url: 2009/08/10/a-thousand-times-yes/
+:private: true
 
 Ryan may be the first non-cyclist in the history of the internet to understand `this dynamic <http://www.ryanavent.com/blog/?p=2202>`__.
 

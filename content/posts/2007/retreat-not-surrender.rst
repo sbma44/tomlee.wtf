@@ -7,6 +7,7 @@ retreat, not surrender
 :status: published
 :save_as: 2007/01/16/retreat-not-surrender/index.html
 :url: 2007/01/16/retreat-not-surrender/
+:private: true
 
 Well, I'm back. The retreat was fun, and surprisingly useful. I'm more hostile than most when it comes to what I call team-ology — the sort of unscientific time-wasters that arise when someone takes an ex-CEO's platitudes about proactivity (or whatever else) a little too seriously. A surprisingly large number of people can be convinced that a set of `successories-style <http://www.successories.com/index.cfm/fuseaction/dir_product.brand_title_sku/product_group_id/e429709c-250d-488d-a7bb-90f537107324/brand_id/e1624976-0a99-4882-a357-9fa2471c0b4b/product_title_id/f045815b-2367-4b4a-86fd-70bd3f8012b2/product_id/6818c9b9-d30d-4419-bb21-43bcafec1d9d/page_number/1/page_sort/name/product_theme_id/e5c78b41-e1d4-4e31-9b7b-736baa0eb698/Above-Beyond.cfm>`__ cliches nested in a simply-made-up dependency tree counts as a theory of something. Ropes courses and trust falls are infinitely more useful than that sort of bullshit.
 

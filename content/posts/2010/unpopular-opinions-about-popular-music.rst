@@ -7,6 +7,7 @@ unpopular opinions about popular music
 :status: published
 :save_as: 2010/04/21/unpopular-opinions-about-popular-music/index.html
 :url: 2010/04/21/unpopular-opinions-about-popular-music/
+:private: true
 
 Now it can be said:
 

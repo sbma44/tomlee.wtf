@@ -7,6 +7,7 @@ what Colbert is up to
 :status: published
 :save_as: 2011/05/16/1760/index.html
 :url: 2011/05/16/1760/
+:private: true
 
 I was glad to see `Tim writing about Stephen Colbert's decision to start a PAC <http://timothyblee.com/2011/05/16/stephen-colberts-confused-parody-of-citizens-united/>`__. At work we've been excited to have such a high-profile figure talking about the campaign finance system -- excited enough to `dress people in bear costumes <http://www.flickr.com/photos/sunlightfoundation/sets/72157626713576460/>`__, in fact.
 

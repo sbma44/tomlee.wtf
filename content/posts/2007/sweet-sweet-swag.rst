@@ -7,6 +7,7 @@ sweet, sweet swag
 :status: published
 :save_as: 2007/03/15/sweet-sweet-swag/index.html
 :url: 2007/03/15/sweet-sweet-swag/
+:private: true
 
 There was a lot of good swag at SXSW, most of it in the form of promotional trinkets that a self-describedly net savvy individual such as myself will proudly add to the constellation of brands that define his persona, despite their uncaring and inhuman nature (they would take our blood if it could be used to cool CPUs). In fact, I'm wearing a `Yahoo Pipes <http://pipes.yahoo.com>`__ t-shirt right now. Capitalism works!
 

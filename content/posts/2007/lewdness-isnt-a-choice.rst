@@ -7,6 +7,7 @@ lewdness isn't a choice
 :status: published
 :save_as: 2007/05/02/lewdness-isnt-a-choice/index.html
 :url: 2007/05/02/lewdness-isnt-a-choice/
+:private: true
 
 Emily's signed up for the Club For Growth's email list and seems to really enjoy it. I didn't really understand why, and instead simply chalked it up to the Norquistian charisma that some of my other friends have fallen for.
 

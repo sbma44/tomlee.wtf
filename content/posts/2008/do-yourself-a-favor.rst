@@ -7,6 +7,7 @@ do yourself a favor
 :status: published
 :save_as: 2008/07/23/do-yourself-a-favor/index.html
 :url: 2008/07/23/do-yourself-a-favor/
+:private: true
 
 If you don't own a TV, go buy one. This way you'll never be tempted to `unnecessarily mention <http://twitter.com/jack/statuses/865549943>`__ that you don't own a television, preventing everyone else from thinking you're a supercilious jackass.
 

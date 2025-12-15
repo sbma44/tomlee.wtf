@@ -7,6 +7,7 @@ I call him Gamblor
 :status: published
 :save_as: 2008/07/21/i-call-him-gamblor/index.html
 :url: 2008/07/21/i-call-him-gamblor/
+:private: true
 
 It turns out that I'm not a very good gambler. I've already learned this during my still-brief career as a blackjack player — once at Foxwood's, again in New Orleans. In between those trips Atlantic City had neglected to reinforce the lesson, but yesterday it corrected the oversight. Ficke and I had driven there after an idyllic beach weekend — the girls, seemingly blind to the sophisticated glamour of AC, opted to head directly home in the other car. I should've known my luck was bad after five-putting during our pre-departure round of mini-golf. At the time I'd simply chalked it up to the robot spider guarding the hole, but now I see that my problem was more metaphysical.
 

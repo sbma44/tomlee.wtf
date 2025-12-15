@@ -7,6 +7,7 @@ about that work
 :status: published
 :save_as: 2009/01/27/about-that-work/index.html
 :url: 2009/01/27/about-that-work/
+:private: true
 
 As I mentioned, I've been working overtime to hit a deadline — that sort of thing comes up when you suddenly get word that `Steve Inskeep <http://www.npr.org/templates/rundowns/rundown.php?prgId=3>`__ is going to start mentioning your URL. Having my laptop suffer a catastrophic logic board failure on Tuesday afternoon didn't help matters.
 

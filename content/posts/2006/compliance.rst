@@ -7,5 +7,6 @@ compliance
 :status: published
 :save_as: 2006/12/12/compliance/index.html
 :url: 2006/12/12/compliance/
+:private: true
 
 New header graphic, courtesy of `C.P. Storm <http://flickr.com/photos/cpstorm/>`__. Creative Commons = hereby satisfied!

@@ -7,6 +7,7 @@ TLF on Google
 :status: published
 :save_as: 2007/07/30/tlf-on-google/index.html
 :url: 2007/07/30/tlf-on-google/
+:private: true
 
 I really like reading `The Technology Liberation Front <http://www.techliberation.com>`__, but they're in serious disarray over Google's bid to force the 700 MHz band open. The backstory, for those who haven't been following it: the FCC is about to auction off the last major block of radio frequencies that will become available for ten years or so. They're particularly delicious frequencies, too, able to penetrate buildings and carry lots of information. Google's been lobbying the FCC, hoping that the agency will require some or all of the winning licensees to keep their networks open: they'd have to let new services and devices connect instead of getting to pick who connects and what services they offer, the way today's cellphone companies do.
 

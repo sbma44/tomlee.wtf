@@ -7,6 +7,7 @@ I should've listened to the Threat-Down
 :status: published
 :save_as: 2007/08/16/i-shouldve-listened-to-the-threat-down/index.html
 :url: 2007/08/16/i-shouldve-listened-to-the-threat-down/
+:private: true
 
 `Ogged <http://www.unfogged.com>`__ sent me this, because he is unkind:
 

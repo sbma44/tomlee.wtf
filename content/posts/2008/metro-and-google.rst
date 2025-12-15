@@ -7,6 +7,7 @@ Metro and Google
 :status: published
 :save_as: 2008/12/16/metro-and-google/index.html
 :url: 2008/12/16/metro-and-google/
+:private: true
 
 Let's talk about Metro's recent decision to eschew Google Transit. This is a topic about which I have a small amount of inside knowledge, actually. At the end of August I wrote to WMATA's CTO, Suzanne Peck. I talked about some of the projects I'd done with WMATA data and expressed my affection for the agency. I explained that I was frustrated by the limits of the data available on wmata.com, and I requested a meeting. I received a response almost immediately (even though it was 11pm or so — a good sign in a CTO!). She thanked me for my interest, complimented me on my projects and directed me to Victor Grimes, her deputy, whom she instructed to meet with me.
 

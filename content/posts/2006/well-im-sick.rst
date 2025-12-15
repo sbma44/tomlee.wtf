@@ -7,6 +7,7 @@ well, I'm sick
 :status: published
 :save_as: 2006/11/30/well-im-sick/index.html
 :url: 2006/11/30/well-im-sick/
+:private: true
 
 | |box of Cold-Eeze lozenges|\ And have been since Sunday. I should've known something was up when the smoke at the Black Cat and `Sommer <http://cruelsommer.blogspot.com>`__'s party started to bother me. I'm usually of at least average hardiness when it comes to friends' cigarette fumes, but this time I was dying.
 | For once, I recognized my symptoms for what they were and immediately took countermeasures. My mom favors echinacea, but the male side of my family demands rigorous pseudo-scientific analyses that have been published in a respected journal, or at least on the back of an authoritative-looking cardboard box. So I started consuming zinc lozenges at a prodigious rate.

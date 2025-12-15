@@ -7,6 +7,7 @@ girls like mystery
 :status: published
 :save_as: 2007/09/26/girls-like-mystery/index.html
 :url: 2007/09/26/girls-like-mystery/
+:private: true
 
 I realize that many `already have <http://www.tvsquad.com/2007/09/24/six-creeps-id-rather-date-than-vh1s-mystery/>`__, but I think we need to talk about Mystery. I only became aware of the guy recently, as he unexpectedly began appearing on various TV shows that play in the background of my usual late night routine (which usually consists of fervently trying to load ROMs onto something or other).
 

@@ -7,6 +7,7 @@ weird
 :status: published
 :save_as: 2007/12/05/weird/index.html
 :url: 2007/12/05/weird/
+:private: true
 
 Earlier tonight I was tuned to the Food Network, watching Emeril trudge mirthlessly toward whatever release it is that he has in mind (syndication? retirement? death?). Inevitably, the program cut to commercial. I was presented with a spot encouraging me to sign up for a Health Savings Account. There are savings to be had, apparently! They even had a former Bush administration official on hand to attest to this fact.
 

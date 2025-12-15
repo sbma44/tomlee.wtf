@@ -7,6 +7,7 @@ via boingboing
 :status: published
 :save_as: 2007/03/21/via-boingboing/index.html
 :url: 2007/03/21/via-boingboing/
+:private: true
 
 `This <http://www.kasperhauser.com/>`__ really is a pretty good `This American Life <http://www.thisamericanlife.org>`__ parody.
 

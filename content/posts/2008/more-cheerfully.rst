@@ -7,6 +7,7 @@ more cheerfully
 :status: published
 :save_as: 2008/06/04/more-cheerfully/index.html
 :url: 2008/06/04/more-cheerfully/
+:private: true
 
 You might want to go check out `Emily's first batch of photos from Jeff and Marie's wedding <http://flickr.com/photos/ethorson/tags/jeffandmarieswedding/>`__, which include a number of shots of me looking pre-tty stupid. I seem to have lost my camera somewhere between DC and the beach — it sufficiently close to death that I can't say I'm too broken up about it — but while I wish I could supplement them, the pictures Emily took are more than enough to convey just how beautiful the wedding was.
 

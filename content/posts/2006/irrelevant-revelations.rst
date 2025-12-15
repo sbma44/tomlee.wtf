@@ -7,6 +7,7 @@ irrelevant revelations
 :status: published
 :save_as: 2006/12/21/irrelevant-revelations/index.html
 :url: 2006/12/21/irrelevant-revelations/
+:private: true
 
 A `meme <http://diplodocus.wordpress.com/2006/12/19/there-will-be-a-quiz/>`__! Awesome. I never get these. Here we go, five things that I think most people don't know about me (but that I don't mind telling them):
 

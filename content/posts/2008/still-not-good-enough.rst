@@ -7,6 +7,7 @@ still not good enough
 :status: published
 :save_as: 2008/10/28/still-not-good-enough/index.html
 :url: 2008/10/28/still-not-good-enough/
+:private: true
 
 Another day, `another music-sharing flash widget that uses RC4 to encrypt its MP3 URLs but keeps the key in the SWF <http://www.playlist.com/>`__.
 

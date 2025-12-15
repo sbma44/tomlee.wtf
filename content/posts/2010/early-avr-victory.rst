@@ -7,6 +7,7 @@ an early AVR victory
 :status: published
 :save_as: 2010/04/12/early-avr-victory/index.html
 :url: 2010/04/12/early-avr-victory/
+:private: true
 
 For the past few Sundays I've been heading over to HacDC for some intro-to-AVR classes run by Nikolas C. It's something I've wanted to learn for a while. Yesterday I actually got the toolchain working and managed to reprogram the `Game of Life doohickey <http://www.youtube.com/watch?v=F6OMX9pvuwo>`__ that Kriston and I built to do something of my own design. Not anything as cool as the GoL code, admittedly, but still: it's a start. Now the door's open.
 

@@ -7,6 +7,7 @@ back from Caz
 :status: published
 :save_as: 2008/07/07/back-from-caz/index.html
 :url: 2008/07/07/back-from-caz/
+:private: true
 
 Emily and I just got back from spending the Fourth of July weekend in Cazenovia, her `implausibly idyllic <http://flickr.com/photos/ethorson/2642333876/>`__ Upstate New York hometown. We helped sort books for the library's upcoming sale; we strolled through an enjoyably awful craft fair; we had drinks with Emily's high school friends in a bar where they'd carved their initials years ago (a rite of passage for the town's kids). That, plus barbecues, fireworks, beer, and the generous hospitality of Emily's family all made for a pretty great trip.
 

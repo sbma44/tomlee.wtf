@@ -7,6 +7,7 @@ enough! and then, somewhat more than enough
 :status: published
 :save_as: 2008/10/20/enough-and-then-somewhat-more-than-enough/index.html
 :url: 2008/10/20/enough-and-then-somewhat-more-than-enough/
+:private: true
 
 Michael Pollan was on Fresh Air a moment ago. It's part of his world/public radio tour in support of `Farmer In Chief <http://www.nytimes.com/2008/10/12/magazine/12policy-t.html?partner=permalink&exprod=permalink>`__, last week's NYT Magazine article asking the next president to adopt better agricultural policies. I heard him giving pretty much the same spiel on a Philadelphia-area NPR station over the weekend, too.
 

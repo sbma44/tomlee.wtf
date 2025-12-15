@@ -7,6 +7,7 @@ steak: a claim
 :status: published
 :save_as: 2006/11/12/steak-a-claim/index.html
 :url: 2006/11/12/steak-a-claim/
+:private: true
 
 |photo of Geno's Steaks by flickr user davechiu|\ Last weekend Sommer came up to Philadelphia to hang out with Emily and myself (okay, mostly Emily). That weekend remains undocumented, although I do have a blockbuster post about brains in jars planned (it was a good weekend).
 

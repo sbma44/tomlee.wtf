@@ -7,6 +7,7 @@ killer car
 :status: published
 :save_as: 2008/03/03/killer-car/index.html
 :url: 2008/03/03/killer-car/
+:private: true
 
 Well, I got hit by a car again. It's pretty stupid, but I thought you should know.
 

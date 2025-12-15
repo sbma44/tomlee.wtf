@@ -7,6 +7,7 @@ speaking of hacks
 :status: published
 :save_as: 2008/06/19/speaking-of-hacks/index.html
 :url: 2008/06/19/speaking-of-hacks/
+:private: true
 
 For some reason I perpetually forget about the existence of `IronGeek.com <http://irongeek.com>`__ except for a couple of times every year when it rises, Brigadoon-style, to the level of consciousness. I wish that weren't the case; there's a lot of great stuff on the site. Anyone interested but not well-versed in the security field (i.e. hacking) would do well to check it out.
 

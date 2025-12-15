@@ -7,6 +7,7 @@ automatically using the coral cdn
 :status: published
 :save_as: 2007/02/04/automatically-using-the-coral-cdn/index.html
 :url: 2007/02/04/automatically-using-the-coral-cdn/
+:private: true
 
 You might've noticed that I hotlinked those mp3s, providing URLs that point directly at someone else's blog. This is normally considered pretty poor form — you're using up someone else's bandwidth without giving them any associated (and salable) web traffic. But in this case it's not quite so bad: I used the Coral CDN to make the links. That reduces the bandwidth that my visitors will be consuming from the other sites to a negligible amount. NYU picks up most of the bill (and is presumably happy to do so). I wrote a bit more about the Coral CDN `here <http://www.zunta.org/blog/archives/2005/03/29/ourmedia_sux0rs/>`__; you can find their explanation `here <http://www.coralcdn.org/>`__. It's an extremely useful tool, and not just for excusing normally boorish behavior — if you have a large file on your own server, it can come in handy there, too.
 

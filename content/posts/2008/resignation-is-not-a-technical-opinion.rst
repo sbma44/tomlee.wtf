@@ -7,6 +7,7 @@ resignation is not a technical opinion
 :status: published
 :save_as: 2008/02/29/resignation-is-not-a-technical-opinion/index.html
 :url: 2008/02/29/resignation-is-not-a-technical-opinion/
+:private: true
 
 It was very nice of Megan to link to me yesterday (even if the `commenters </2008/02/28/tautologous-but-highly-patentable/#comments>`__ that came along with it proved to be huge pains in the ass). So I hope I won't seem ungrateful if I take issue with `this post <http://meganmcardle.theatlantic.com/archives/2008/02/was_hddvd_done_in_by_a_dirty_d.php>`__ about Blu-Ray's eventual triumph over HD-DVD.
 

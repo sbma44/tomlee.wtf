@@ -7,6 +7,7 @@ post-scarcity
 :status: published
 :save_as: 2012/04/17/post-scarcity/index.html
 :url: 2012/04/17/post-scarcity/
+:private: true
 
 `Robots are coming to take our jobs <http://earlywarn.blogspot.com/2012/04/global-robot-population.html>`__!
 

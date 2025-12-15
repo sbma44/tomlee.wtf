@@ -7,6 +7,7 @@ games that people don't want to play
 :status: published
 :save_as: 2006/10/20/games-that-people-dont-want-to-play/index.html
 :url: 2006/10/20/games-that-people-dont-want-to-play/
+:private: true
 
 - Ed Castronova is the biggest name I know of when it comes to studying sociology in massively multiplayer online roleplaying games. Nevertheless, the MacArthur foundation `giving him $240,000 <http://news.com.com/2102-1043_3-6127294.html?tag=st.util.print>`__ to build an Shakespeare-themed online world strikes me as a really, really bad idea. First, it's probably not enough money to make anything anyone would want to play. Second, it's *really* not enough money to deliver a game produced by people who aren't game designers and are going to make lots of project planning mistakes along the way. Third, players may not be keen to play a game that's just as concerned with using them as guinea pigs as it is with entertaining them. Fourth:
 

@@ -7,6 +7,7 @@ arduino class notes
 :status: published
 :save_as: 2014/06/30/arduino-class-notes/index.html
 :url: 2014/06/30/arduino-class-notes/
+:private: true
 
 For the last four weeks I've been teaching an Intro to Arduino class at Sunlight. It's been fun! I'm hopeful that the participants have gotten a new hobby out of it. Being able to translate your software skills into the physical world isn't exactly sorcery, but it's the next best thing.
 

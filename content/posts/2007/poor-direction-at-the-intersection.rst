@@ -7,6 +7,7 @@ poor direction at the intersection
 :status: published
 :save_as: 2007/08/08/poor-direction-at-the-intersection/index.html
 :url: 2007/08/08/poor-direction-at-the-intersection/
+:private: true
 
 Apologies for the terrible video quality, but I can't help posting a pet peeve of mine: the lack of standards for walk/don't walk signs at intersections. The countdown timers are great, but it's impossible to know at which point during the countdown the light will change to yellow.
 

@@ -5,6 +5,7 @@ yes, I am going to spin off as many wild tangents as possible
 :category: misc
 :slug: 657
 :status: draft
+:private: true
 
 Responding to my Crab Chip assertions, new commenter Matt:
 

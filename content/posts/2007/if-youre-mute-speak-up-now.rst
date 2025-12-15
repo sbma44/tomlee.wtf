@@ -7,6 +7,7 @@ if you're mute, speak up now
 :status: published
 :save_as: 2007/06/13/if-youre-mute-speak-up-now/index.html
 :url: 2007/06/13/if-youre-mute-speak-up-now/
+:private: true
 
 Everyone gets a ton of Nigerian 419 scams in their inbox, but I've got a new favorite. Apparently I've got a nefarious uncle who's trying to claim my new fortune for himself by maintaining that I recently died in a car accident. The dastard! Fortunately, my friends at the IMF are uneasy with his story — and, of course, deeply concerned that the sum in question gets to the person who truly deserves it. So they're trying to get in touch with me:
 

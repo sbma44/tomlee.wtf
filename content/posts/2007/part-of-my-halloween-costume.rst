@@ -7,6 +7,7 @@ part of my Halloween costume
 :status: published
 :save_as: 2007/10/11/part-of-my-halloween-costume/index.html
 :url: 2007/10/11/part-of-my-halloween-costume/
+:private: true
 
 |part of my Halloween costume|
 

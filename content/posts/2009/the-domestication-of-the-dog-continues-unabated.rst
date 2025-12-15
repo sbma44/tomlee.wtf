@@ -7,6 +7,7 @@ the domestication of the dog continues unabated
 :status: published
 :save_as: 2009/11/16/the-domestication-of-the-dog-continues-unabated/index.html
 :url: 2009/11/16/the-domestication-of-the-dog-continues-unabated/
+:private: true
 
 Hi there. You might have noticed me not blogging. Well, work's been busy, and I've been uninspired by the post-Halloween lull. Mostly I've been retreating into messing around with videogames and technology in an unproductive way (though I *have* leveled up quite a bit).
 

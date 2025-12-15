@@ -7,6 +7,7 @@ Haystack
 :status: published
 :save_as: 2010/09/14/haystack/index.html
 :url: 2010/09/14/haystack/
+:private: true
 
 I'm taking some grim satisfaction in the dissolution of the Haystack Project. If people have actually been hurt by this software, I'll be removing the "satisfaction" part of that reaction.  But given the `relentless overhyping <http://www.foreignpolicy.com/articles/2010/06/07/the_twitter_revolution_that_wasnt>`__ of technological interventions in pro-democratic organizing, I'm hopeful that little actual damage has been done.  These technologies will no doubt soon become genuinely crucial to people living under repressive governments, but I'm optimistic that Heap's work didn't spread far enough to cause serious trouble.
 

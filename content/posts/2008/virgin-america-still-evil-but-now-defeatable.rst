@@ -7,6 +7,7 @@ Virgin America: still evil, but now defeatable
 :status: published
 :save_as: 2008/04/02/virgin-america-still-evil-but-now-defeatable/index.html
 :url: 2008/04/02/virgin-america-still-evil-but-now-defeatable/
+:private: true
 
 Alright, a workaround. Clearing cookies didn't work. Switching browsers didn't work. What did work was clearing cookies and then sending my traffic through a SOCKS proxy server on the west coast. After doing so I was able to get the fare that had been `quoted to me, then snapped away </2008/04/02/thanks-virgin-america/>`__.
 

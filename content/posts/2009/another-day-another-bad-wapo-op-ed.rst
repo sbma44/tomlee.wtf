@@ -7,6 +7,7 @@ another day, another bad WaPo op-ed
 :status: published
 :save_as: 2009/09/28/another-day-another-bad-wapo-op-ed/index.html
 :url: 2009/09/28/another-day-another-bad-wapo-op-ed/
+:private: true
 
 It's hardly worth noting, but `this <http://www.washingtonpost.com/wp-dyn/content/article/2009/09/27/AR2009092703026.html>`__ is a lousy editorial.  A couple of points, one of which I buried in the last post about net neutrality:
 

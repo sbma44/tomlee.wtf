@@ -7,6 +7,7 @@ better to be thought a fool
 :status: published
 :save_as: 2008/01/02/better-to-be-thought-a-fool/index.html
 :url: 2008/01/02/better-to-be-thought-a-fool/
+:private: true
 
 I forgot to do the `morning roundup <http://dcist.com/2008/01/02/morning_roundup_163.php>`__ last night, so I had to wake up early this morning to do it. First: it was surprisingly easy! I guess having two weeks' worth of sleep saved up makes it possible to get up before 9:30. Second: morning news is even worse than I had imagined.
 

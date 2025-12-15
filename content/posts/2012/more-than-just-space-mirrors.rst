@@ -7,6 +7,7 @@ more than just space mirrors
 :status: published
 :save_as: 2012/05/13/more-than-just-space-mirrors/index.html
 :url: 2012/05/13/more-than-just-space-mirrors/
+:private: true
 
 > Lude just wants more money, better parties and prettier girls and I want something else. I'm not even sure what to call it anymore except I know it feels roomy and it's drenched in sunlight and it's weightless and I know it's not cheap. Probably not even real.
 

@@ -7,6 +7,7 @@ science journalism: still terrible
 :status: published
 :save_as: 2007/08/15/science-journalism-still-terrible/index.html
 :url: 2007/08/15/science-journalism-still-terrible/
+:private: true
 
 It's perpetually surprising to me that articles like `this one <http://www.nytimes.com/2007/08/14/science/14tier.html?ei=5124&en=22efff4469281187&ex=1344744000&adxnnl=1&partner=permalink&exprod=permalink&adxnnlx=1187101355-5HWiLxChv9ReqvISlLpTnQ>`__ can find their way into the Science section of what is by most accounts a Newspaper For Smart People. Even more astounding is that they got David Chalmers to contribute some quotes to it.
 

@@ -7,6 +7,7 @@ music in the year of the rat
 :status: published
 :save_as: 2008/12/16/music-in-the-year-of-the-rat/index.html
 :url: 2008/12/16/music-in-the-year-of-the-rat/
+:private: true
 
 I was going to write a post complaining about 2008's crop of music, but after reviewing a few more year end lists in addition to the first two that prompted my ire (Rolling Stone, NPR) it's clear that I was just listening to the wrong things.
 

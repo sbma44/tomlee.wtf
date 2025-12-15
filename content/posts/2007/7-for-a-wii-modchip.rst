@@ -7,6 +7,7 @@ $7 for a Wii modchip!?
 :status: published
 :save_as: 2007/08/26/7-for-a-wii-modchip/index.html
 :url: 2007/08/26/7-for-a-wii-modchip/
+:private: true
 
 `Man that's cheap <http://www.linker4u.com/pp/item_detail.asp?itemID=%7B54C60E9F-9FD9-48F9-A291-7039CA8B700E%7D>`__. I suppose you do need to buy a `special screwdriver <http://www.linker4u.com/pp/item_detail.asp?itemID=%7BA759CE86-6957-4203-ADD4-9C8847B03DA2%7D>`__, too. Still!
 

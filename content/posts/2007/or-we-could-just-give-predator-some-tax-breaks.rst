@@ -7,6 +7,7 @@ or we could just give Predator some tax breaks
 :status: published
 :save_as: 2007/12/26/or-we-could-just-give-predator-some-tax-breaks/index.html
 :url: 2007/12/26/or-we-could-just-give-predator-some-tax-breaks/
+:private: true
 
 Well, Christmas has been successfully completed. I went to parties, ate holiday-themed foodstuffs, and visited a whole bunch of relatives. All in all, it was a pretty nice time.
 

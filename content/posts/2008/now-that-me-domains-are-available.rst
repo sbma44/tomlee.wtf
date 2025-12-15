@@ -7,6 +7,7 @@ now that .me domains are available
 :status: published
 :save_as: 2008/07/17/now-that-me-domains-are-available/index.html
 :url: 2008/07/17/now-that-me-domains-are-available/
+:private: true
 
 There are a number of stupid jokes that I'd like to make but which I am not quite willing to `spend $40 on <https://www.godaddy.com/gdshop/tlds/me.asp?ci=12646>`__:
 

@@ -7,6 +7,7 @@ DIY abominations
 :status: published
 :save_as: 2013/10/27/diy-abominations/index.html
 :url: 2013/10/27/diy-abominations/
+:private: true
 
 I like to make a new Halloween decoration every year. One year it was `corpsing a skeleton <http://www.hectorturner.com/halloween/corpse.html>`__; another year I built a coffin; another time I made some big glowing papier mache spiders.
 

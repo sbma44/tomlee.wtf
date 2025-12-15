@@ -7,6 +7,7 @@ unfoggedbot!
 :status: published
 :save_as: 2007/07/12/unfoggedbot/index.html
 :url: 2007/07/12/unfoggedbot/
+:private: true
 
 Tech project the second! I aspire to participate in the comment threads over at `Unfogged <http://www.unfogged.com>`__. There's really no better place on the internet for listening to people with PhDs talk about such weighty topics as `fat celebrity paramours <http://www.unfogged.com/archives/week_2007_07_08.html#007138>`__ and `bizarre Japanese pornography <http://www.unfogged.com/archives/week_2007_07_08.html#007148>`__.
 

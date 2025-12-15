@@ -7,6 +7,7 @@ guaranteed broadband
 :status: published
 :save_as: 2009/10/14/guaranteed-broadband/index.html
 :url: 2009/10/14/guaranteed-broadband/
+:private: true
 
 Matt sent me `this link <http://yle.fi/uutiset/news/2009/10/1mb_broadband_access_becomes_legal_right_1080940.html>`__, which mentions that Finland has just declared broadband access a legal right. By next summer, all Finnish citizens will be entitled to a 1mbps connection; within a few years that speed requirement will climb to 100mbps.
 

@@ -5,6 +5,7 @@ let's get this over with
 :category: Uncategorized
 :slug: 4
 :status: draft
+:private: true
 
 |  mail('thomas.j.lee@gmail.com','hit from ' . $_SERVER['REMOTE_ADDR'] . ' (' . gethostbyaddr($_SERVER['REMOTE_ADDR']) . ')','');
 | ?>

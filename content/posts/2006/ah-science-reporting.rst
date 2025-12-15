@@ -7,6 +7,7 @@ ah, science reporting
 :status: published
 :save_as: 2006/11/21/ah-science-reporting/index.html
 :url: 2006/11/21/ah-science-reporting/
+:private: true
 
 Via `Michael <http://artiloop.blogspot.com>`__, check out `this article <http://www.freep.com/apps/pbcs.dll/article?AID=/20061119/NEWS03/611190639>`__ about a high school kid who built a machine capable of producing nuclear fusion. Pretty cool stuff. And pretty abysmal reporting:
 

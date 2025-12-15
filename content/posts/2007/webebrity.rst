@@ -7,6 +7,7 @@ webebrity!
 :status: published
 :save_as: 2007/05/16/webebrity/index.html
 :url: 2007/05/16/webebrity/
+:private: true
 
 Thanks to the Nabob for `alerting <http://pygmalioninablanket.blogspot.com/2007/05/im-tired-of-lohan-anyway.html>`__ me to this week's high levels of `Express <http://www.readexpress.com>`__ inclusion. It's very flattering, and I couldn't be more pleased about the world knowing I begrudge service employees their livings as I peer down upon them from my white-collar internet playground.
 

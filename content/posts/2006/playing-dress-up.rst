@@ -7,6 +7,7 @@ playing dress up
 :status: published
 :save_as: 2006/10/30/playing-dress-up/index.html
 :url: 2006/10/30/playing-dress-up/
+:private: true
 
 | Ayer's Hardware is the greatest store on earth. From the wealth of electrical doodads to the penny candy to the commendably deadly toy guns, it's a winner all the way. I've had two friends work there, re-told `Jeff <http://www.jeffnye.org>`__'s story about Mr. Ayers dying on the breakroom couch dozens of times, and been in the store for post-church candy acquisition on more occasions than I can possibly count. Also, it's where my in-store Santa of choice resided when I was a kid. It's a great store.
 | It's also probably the best place on earth to go for last-minute Halloween costume preparation. With its help (and a brief stop by Target for thermal underwear), I was able to go from zero to Krang in the space of one afternoon. I think it turned out pretty well:

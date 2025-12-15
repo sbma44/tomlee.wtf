@@ -7,6 +7,7 @@ a stipulation
 :status: published
 :save_as: 2008/02/08/a-stipulation/index.html
 :url: 2008/02/08/a-stipulation/
+:private: true
 
 `Ezra <http://www.prospect.org/csnc/blogs/ezraklein_archive?month=02&year=2008&base_name=the_future_of_bookstores>`__ and `Matt <http://matthewyglesias.theatlantic.com/archives/2008/02/chain_bookstores.php>`__ are talking about chain versus independent bookstores. Ezra says:
 

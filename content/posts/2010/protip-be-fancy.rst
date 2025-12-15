@@ -7,6 +7,7 @@ protip: be fancy
 :status: published
 :save_as: 2010/04/02/protip-be-fancy/index.html
 :url: 2010/04/02/protip-be-fancy/
+:private: true
 
 Oh right: back from Georgia, only sort of jetlagged, back up to speed shortly. It was great! But let me share one useful lesson learned on my trip: guys, when flying, wear a jacket.
 

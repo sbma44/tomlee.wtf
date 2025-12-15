@@ -7,6 +7,7 @@ the WMATA/Nextbus contract
 :status: published
 :save_as: 2010/02/02/the-wmatanextbus-contract/index.html
 :url: 2010/02/02/the-wmatanextbus-contract/
+:private: true
 
 Every DC Metro rider owes Michael Perkins a debt of gratitude. For a while now he's been not only `covering WMATA <http://greatergreaterwashington.org/author.cgi?username=michaelp>`__ **[UPDATE: link fixed]**, but jumping through the hoops necessary to `uncover details of their contracts, budgets and other documents <http://www.scribd.com/perkinsms>`__ (and working on tech projects besides!).
 

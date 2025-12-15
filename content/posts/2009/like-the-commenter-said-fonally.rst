@@ -7,6 +7,7 @@ like the commenter said: fonally!
 :status: published
 :save_as: 2009/04/07/like-the-commenter-said-fonally/index.html
 :url: 2009/04/07/like-the-commenter-said-fonally/
+:private: true
 
 Last week `Julian got laid off <http://www.juliansanchez.com/2009/04/02/sic-transit-gloria-conde/>`__, part of a bloodbath at Ars that resulted from the Conde Nast powers-that-be deciding that having excellent, industry-leading online properties didn't fit with their long-term business strategy of making it to retirement without being bothered.
 

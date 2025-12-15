@@ -7,6 +7,7 @@ hindsight
 :status: published
 :save_as: 2008/02/13/hindsight/index.html
 :url: 2008/02/13/hindsight/
+:private: true
 
 I meant to talk about the new evidence that biofuels are a bad idea when `Brian first wrote about it <http://www.brianbeutler.com/2008/02/corn_woes/>`__, but I forgot. Today `Matt mentioned it <http://matthewyglesias.theatlantic.com/archives/2008/02/flipflop_needed.php>`__, and I was reminded that virtually everyone is ignoring a key aspect of the biofuel land use debate. If I may quote the beginning of the cover story in the current issue of the excellent `Mid-Atlantic Brewing News <http://www.brewingnews.com/mid-atlantic/>`__:
 

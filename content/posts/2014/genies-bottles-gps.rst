@@ -7,6 +7,7 @@ genies, bottles & GPS
 :status: published
 :save_as: 2014/12/02/genies-bottles-gps/index.html
 :url: 2014/12/02/genies-bottles-gps/
+:private: true
 
 Over the past few months I've been idly picking my way through `You Are Here <http://www.amazon.com/You-Are-Here-Compass-Ourselves/dp/0465032850/ref=sr_1_4?ie=UTF8&qid=1417533136&sr=8-4&keywords=you+are+here>`__, a review copy of which was generously sent to me while I was still at Sunlight and in the wrong industry to review it. It's enjoyable!
 

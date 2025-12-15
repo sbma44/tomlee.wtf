@@ -7,6 +7,7 @@ the right man for the job
 :status: published
 :save_as: 2007/03/31/the-right-man-for-the-job/index.html
 :url: 2007/03/31/the-right-man-for-the-job/
+:private: true
 
 Well, I remain sick and miserable. Eleven or twelve hours' worth of sleep didn't do much to improve things (although I am at least a little less confused), but my body is still a distinctly unpleasant place to be. I've had enough — it's time to find a doctor and get some goddamn antibiotics. I've been a very good boy when it comes to not demanding superbug-breeding pharmaceuticals for minor illnesses, but this is too much. I'm calling in whatever credit I've built up.
 

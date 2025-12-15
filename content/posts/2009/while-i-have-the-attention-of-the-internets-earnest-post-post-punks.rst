@@ -7,6 +7,7 @@ while I have the attention of the internet's earnest post-post-punks
 :status: published
 :save_as: 2009/12/03/while-i-have-the-attention-of-the-internets-earnest-post-post-punks/index.html
 :url: 2009/12/03/while-i-have-the-attention-of-the-internets-earnest-post-post-punks/
+:private: true
 
 I should take this opportunity to note the awesomeness of last night's premiere of *Steven Seagal: Lawman*. Gabe Delahaye ably sums up the basic mechanic that they've established for the season:
 

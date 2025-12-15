@@ -7,6 +7,7 @@ technology and humility
 :status: published
 :save_as: 2012/03/14/technology-and-humility/index.html
 :url: 2012/03/14/technology-and-humility/
+:private: true
 
 |image1|
 

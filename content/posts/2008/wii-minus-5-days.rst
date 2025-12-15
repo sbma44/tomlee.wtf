@@ -7,6 +7,7 @@ wii-minus 5 days?
 :status: published
 :save_as: 2008/07/17/wii-minus-5-days/index.html
 :url: 2008/07/17/wii-minus-5-days/
+:private: true
 
 |mario and pirate|
 

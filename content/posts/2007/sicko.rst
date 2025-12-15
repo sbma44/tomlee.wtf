@@ -7,6 +7,7 @@ Sicko
 :status: published
 :save_as: 2007/06/19/sicko/index.html
 :url: 2007/06/19/sicko/
+:private: true
 
 `Ezra <http://ezraklein.typepad.com>`__ used his mastery of the healthcare-related arts to wrangle Emily & me a pair of tickets to Michael Moore's new movie, *Sicko*. Ezra's going to be seeing it later in the week, I believe, but his his shadow already loomed over the theater: I'm pretty sure I heard someone in the row behind us say his name (although I may have just misheard him asking, "Does this seat recline?").
 

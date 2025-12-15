@@ -7,6 +7,7 @@ let's dance to Joy Division
 :status: published
 :save_as: 2007/08/31/lets-dance-to-joy-division/index.html
 :url: 2007/08/31/lets-dance-to-joy-division/
+:private: true
 
 I sang the praises of The Wombats a `while ago </2007/03/01/an-embarrassment-of-riches/>`__, although at the time the hype kaleidoscope had me confused about whether they were up & coming or come & gone. I thought they were the latter; it turns out that they're the former. And, judging by how frequently they seem to be popping up in my RSS reader, it seems like their debut full-length might be pretty big.
 

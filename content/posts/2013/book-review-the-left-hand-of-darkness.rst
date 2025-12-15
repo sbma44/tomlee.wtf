@@ -7,6 +7,7 @@ book review: The Left Hand of Darkness
 :status: published
 :save_as: 2013/05/04/book-review-the-left-hand-of-darkness/index.html
 :url: 2013/05/04/book-review-the-left-hand-of-darkness/
+:private: true
 
 Beautifully written; this makes me want to read more Le Guin.
 

@@ -7,6 +7,7 @@ George Bush isn't the only one
 :status: published
 :save_as: 2008/02/06/george-bush-isnt-the-only-one/index.html
 :url: 2008/02/06/george-bush-isnt-the-only-one/
+:private: true
 
 If you're making a post-apocalyptic science fiction epic and are having trouble budgeting for the outdoor shots, I have a suggestion.
 

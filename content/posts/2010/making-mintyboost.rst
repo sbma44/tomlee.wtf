@@ -7,6 +7,7 @@ making mintyboost
 :status: published
 :save_as: 2010/03/02/making-mintyboost/index.html
 :url: 2010/03/02/making-mintyboost/
+:private: true
 
 `Kriston and I built Lady Ada's Game of Life kit <http://www.youtube.com/watch?v=F6OMX9pvuwo>`__ over at HacDC a while back, and it roused the interest of a few folks. Sommer asked that I be on the lookout for another kit that might be a good candidate for learning to solder. I eventually suggested another Lady Ada kit: the `MintyBoost <http://www.ladyada.net/make/mintyboost/>`__, a simple circuit that lets you top up your USB gadgets' batteries through the use of a pair of AAs. By the time I got my act together, six(!) people had expressed interest in building the kit, pushing supplies of my tools (somewhat scarce) and electronics knowledge (decidedly meager) to their limits.
 

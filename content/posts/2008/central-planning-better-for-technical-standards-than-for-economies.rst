@@ -7,6 +7,7 @@ central planning: better for technical standards than for economies
 :status: published
 :save_as: 2008/02/29/central-planning-better-for-technical-standards-than-for-economies/index.html
 :url: 2008/02/29/central-planning-better-for-technical-standards-than-for-economies/
+:private: true
 
 Ryan `responds <http://www.ryanavent.com/blog/?p=786>`__ to my last post. I appreciate the thoughtful attention, but I can't say that I agree with much of his post.
 

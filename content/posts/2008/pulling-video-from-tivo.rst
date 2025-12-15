@@ -7,6 +7,7 @@ pulling video from tivo
 :status: published
 :save_as: 2008/09/17/pulling-video-from-tivo/index.html
 :url: 2008/09/17/pulling-video-from-tivo/
+:private: true
 
 |image1|
 

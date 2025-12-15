@@ -7,6 +7,7 @@ in a continuing series
 :status: published
 :save_as: 2008/07/08/in-a-continuing-series/index.html
 :url: 2008/07/08/in-a-continuing-series/
+:private: true
 
 A 22 year-old woman on a bicycle `was run over and killed by a garbage truck this morning <http://www.washingtonpost.com/wp-dyn/content/article/2008/07/08/AR2008070800975.html>`__. Commenters in the `DCist thread <http://dcist.com/2008/07/08/woman_killed_by_garbage_truck_in_du.php#comments>`__ are speculating that she was in a bike lane, which makes sense given the location of the accident — the area north of Dupont is actually pretty bike-friendly by District standards.
 

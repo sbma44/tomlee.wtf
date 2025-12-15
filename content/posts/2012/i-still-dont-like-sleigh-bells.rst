@@ -7,6 +7,7 @@ I still don't like Sleigh Bells
 :status: published
 :save_as: 2012/05/24/i-still-dont-like-sleigh-bells/index.html
 :url: 2012/05/24/i-still-dont-like-sleigh-bells/
+:private: true
 
 Kriston wants me to believe that Sleigh Bells is good. To wit, he shares this video:
 

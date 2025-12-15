@@ -7,6 +7,7 @@ speaking past each other
 :status: published
 :save_as: 2010/04/21/speaking-past-each-other/index.html
 :url: 2010/04/21/speaking-past-each-other/
+:private: true
 
 I like `Penny Arcade <http://www.penny-arcade.com>`__ quite a lot, but `this <http://www.penny-arcade.com/comic/>`__ is a `really terrible argument <http://www.penny-arcade.com/2010/4/21/>`__ to make in response to `Roger Ebert's equally terrible argument that video games can never be art <http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html>`__:
 

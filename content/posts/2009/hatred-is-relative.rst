@@ -7,6 +7,7 @@ hatred is relative
 :status: published
 :save_as: 2009/10/05/hatred-is-relative/index.html
 :url: 2009/10/05/hatred-is-relative/
+:private: true
 
 I sort of buried this point in one of my long, super-boring net neutrality posts, but I've been going back and forth with Brooke about it on Twitter today, and consequently feel like emphasizing it: neutrality opponents would do themselves a favor by dropping the critiques that essentially say, "Well, if you want to make your ISP more like the DMV, be my guest!"
 

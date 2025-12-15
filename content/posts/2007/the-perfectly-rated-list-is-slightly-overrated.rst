@@ -7,6 +7,7 @@ the perfectly-rated list is slightly overrated
 :status: published
 :save_as: 2007/06/19/the-perfectly-rated-list-is-slightly-overrated/index.html
 :url: 2007/06/19/the-perfectly-rated-list-is-slightly-overrated/
+:private: true
 
 Julian `links <http://juliansanchez.com/notes/archives/2007/06/this_post_is_so_overrated.php>`__ to `Chuck Klosterman's list of perfectly-rated bands <http://vixi.livejournal.com/198971.html>`__ (that is, bands that are neither under- nor overrated). I'm pretty sure I've seen this before, but had forgotten about it. It's a good list, with one exception:
 

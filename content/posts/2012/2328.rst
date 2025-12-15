@@ -5,6 +5,7 @@ Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity
 :category: books
 :slug: 2328
 :status: draft
+:private: true
 
 | 5 stars
 | As good as everyone says. Completely heartbreaking, and as compelling as a novel. I had a lot of questions about the level of speculation about individuals' interior lives -- how much of this could be reported, really? -- but the author's note at the end addresses these questions, and left me deeply impressed.

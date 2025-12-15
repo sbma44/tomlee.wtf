@@ -7,6 +7,7 @@ alliteration would be taking it much too far
 :status: published
 :save_as: 2008/10/21/alliteration-would-be-taking-it-much-too-far/index.html
 :url: 2008/10/21/alliteration-would-be-taking-it-much-too-far/
+:private: true
 
 |never trust a leader with a mustache|
 

@@ -7,6 +7,7 @@ generating the Affective Norms for English Words (ANEW) dataset
 :status: published
 :save_as: 2010/06/16/anew/index.html
 :url: 2010/06/16/anew/
+:private: true
 
 So!  At work we've been spending a couple of days working on off-the-wall projects -- it's a change of pace, a chance to work with folks not on our usual teams, an opportunity to try out new ideas, and a venue for some friendly competition.
 

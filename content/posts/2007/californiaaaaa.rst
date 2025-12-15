@@ -7,6 +7,7 @@ californiaaaaa
 :status: published
 :save_as: 2007/03/27/californiaaaaa/index.html
 :url: 2007/03/27/californiaaaaa/
+:private: true
 
 Let's not leave things on a down note. You know what I haven't posted yet? Photos of California. So here they are — the best ones, anyway. The full set of at-least-vaguely-redeemable photos can be found `here <http://www.flickr.com/photos/sbma44/sets/72157600030591614/>`__.
 

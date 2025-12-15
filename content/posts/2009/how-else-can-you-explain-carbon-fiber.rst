@@ -7,6 +7,7 @@ how else can you explain carbon fiber?
 :status: published
 :save_as: 2009/07/14/how-else-can-you-explain-carbon-fiber/index.html
 :url: 2009/07/14/how-else-can-you-explain-carbon-fiber/
+:private: true
 
 During my Artomatic shift on Saturday I finished Charles Stross's *The Atrocity Archives*, the first in a series of scifi novels that I heard of via Paul Krugman's blog, of all places. The book's conceit is appealing: certain mathematical constructions possess mystical powers — often dangerous ones. Our humble protagonist is part of a highly specialized, highly secret, and highly bureaucratic arm of the British government devoted to suppressing such dangerous technology. It's Lovecraft + spy thriller + ironic office comedy — brazenly so, to the point where the author breaks down his influences in an irritating postscript essay. Still, it was an enjoyable read.
 

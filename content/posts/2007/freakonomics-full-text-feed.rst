@@ -7,6 +7,7 @@ Freakonomics full-text feed
 :status: published
 :save_as: 2007/08/27/freakonomics-full-text-feed/index.html
 :url: 2007/08/27/freakonomics-full-text-feed/
+:private: true
 
 I almost forgot: a little birdy tells me that you can find a full-text version of the `recently-bowdlerized Freakonomics RSS feed <http://freakonomics.blogs.nytimes.com/2007/08/22/the-last-word-for-now-on-our-rss-feed-an-excruciatingly-long-and-boring-post-that-will-please-exactly-no-one/>`__ at the following URL.
 

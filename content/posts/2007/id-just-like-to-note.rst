@@ -7,6 +7,7 @@ I'd just like to note
 :status: published
 :save_as: 2007/04/04/id-just-like-to-note/index.html
 :url: 2007/04/04/id-just-like-to-note/
+:private: true
 
 Traditional sources of diamonds (aka "diamonds for suckers"):
 

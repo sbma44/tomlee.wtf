@@ -7,6 +7,7 @@ I only favor internet triumphalism when it's about non-proprietary tech
 :status: published
 :save_as: 2009/06/15/i-only-favor-internet-triumphalism-when-its-about-non-proprietary-tech/index.html
 :url: 2009/06/15/i-only-favor-internet-triumphalism-when-its-about-non-proprietary-tech/
+:private: true
 
 Look, I know I have a dog in this fight — as much as I like Twitter, I really, *really* bristle at the idea of a communication medium being coronated as essential while it's still a proprietary product of a single company (which hasn't yet set pricing!). I know I'm biased. But still, c'mon: you can't tell me that people aren't a bit overeager to write `this story <http://politics.theatlantic.com/2009/06/its_too_easy_to_call.php>`__.
 

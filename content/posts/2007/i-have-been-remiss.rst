@@ -7,6 +7,7 @@ I have been remiss
 :status: published
 :save_as: 2007/08/23/i-have-been-remiss/index.html
 :url: 2007/08/23/i-have-been-remiss/
+:private: true
 
 Lots of people I know are doing great things on the internet, and I haven't been paying enough attention. So here! Some links that you ought to pay attention to, two of which are shamelessly lifted from `DCeiver <http://dceiver.blogspot.com/2007/08/dceptette-tickety-tockety.html>`__.
 

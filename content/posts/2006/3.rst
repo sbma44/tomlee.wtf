@@ -5,6 +5,7 @@ there was a time we lived in truth / let's bring it back
 :category: Uncategorized
 :slug: 3
 :status: draft
+:private: true
 
 | Hi. Welcome to the new blog. See the header? It's all Flickr-powered and dynamic and other things. Also, there's a sidebar. Yeah. Great, I know.
 | So, look: I'll get down to the business of bloggy fun just as soon as I can. But unfortunately `the old site <http://www.zunta.org/blog>`__ — and my relationship with Catherine — needs to be eulogized first. This is a terrible way to start, I know.

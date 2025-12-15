@@ -7,6 +7,7 @@ sometimes I watch movies
 :status: published
 :save_as: 2007/12/02/sometimes-i-watch-movies/index.html
 :url: 2007/12/02/sometimes-i-watch-movies/
+:private: true
 
 **Troy**: *Enough* with the elegiac moaning. Christ.
 

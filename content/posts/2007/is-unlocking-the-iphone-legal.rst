@@ -7,6 +7,7 @@ is unlocking the iPhone legal?
 :status: published
 :save_as: 2007/08/28/is-unlocking-the-iphone-legal/index.html
 :url: 2007/08/28/is-unlocking-the-iphone-legal/
+:private: true
 
 Cord Blomquist wonders this, among other things, over at `Tech Liberation <http://www.techliberation.com/archives/042725.php>`__, saying:
 

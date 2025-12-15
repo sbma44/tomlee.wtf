@@ -7,6 +7,7 @@ have you heard of this Twitter thing?
 :status: published
 :save_as: 2009/04/04/have-you-heard-of-this-twitter-thing/index.html
 :url: 2009/04/04/have-you-heard-of-this-twitter-thing/
+:private: true
 
 This morning I read Ezra and Tim Fernholz's 140-char-or-less (clever) discussion about Twitter in the front of the current issue of the Prospect (I don't think the exchange is online). Naturally, I agree with their basic conclusion that everything is terrible and getting worse. But they're primarily interested in the advent of Twitter within the media industry. I'm more concerned with how the media industry is transforming Twitter.
 

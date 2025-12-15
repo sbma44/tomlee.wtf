@@ -7,6 +7,7 @@ whoops!
 :status: published
 :save_as: 2007/03/17/whoops/index.html
 :url: 2007/03/17/whoops/
+:private: true
 
 I should've seen this one coming: I had a problem with my math in the similarity matrix stuff. I didn't think through the problem carefully enough, and failed to realize that a given representative might vote several times on a piece of legislation as various amendments and procedural votes come up. That resulted in a screwed-up data model, which resulted in taking dot products of vectors of variable length, which shouldn't have worked at all (Perl is apparently pretty forgiving about referring to variables that don't exist).
 

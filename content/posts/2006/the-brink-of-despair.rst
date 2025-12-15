@@ -7,6 +7,7 @@ the brink of despair
 :status: published
 :save_as: 2006/12/22/the-brink-of-despair/index.html
 :url: 2006/12/22/the-brink-of-despair/
+:private: true
 
 I'm not sure what else I can do. I've been to the suburbs Sunday after Sunday — but there have been no Wiis. The last two days I've gotten up early and taken the Metro to Pentagon City before work, visiting the Best Buy within minutes of its opening — no Wiis. My [STRIKEOUT:agents] friends have generously scoured `Texas <http://urbancoyote.blogspot.com>`__, `Arizona <http://www.cruelsommer.blogspot.com>`__ and `London <http://www.movering.com>`__ on my behalf, like Nintendo Nazgul — no Wiis.
 

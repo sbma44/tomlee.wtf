@@ -7,6 +7,7 @@ cleanly redirecting users from your old Typepad site
 :status: published
 :save_as: 2007/08/26/cleanly-redirecting-users-from-your-old-typepad-site/index.html
 :url: 2007/08/26/cleanly-redirecting-users-from-your-old-typepad-site/
+:private: true
 
 Here's a sort-of-interesting problem I've been working on recently, and which might help prevent an internet stranger or two from pulling their hair out. When you're moving from one blog to another, how do you set things up so that folks stumbling across your old site are sent to the new one? This came up while Emily and I were working on `Brian's new site <http://brianbeutler.com>`__. His existing Typepad site had URLs like this:
 

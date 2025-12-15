@@ -7,6 +7,7 @@ I guess there's a lot I don't understand about religion
 :status: published
 :save_as: 2006/10/09/i-guess-theres-a-lot-i-dont-understand-about-religion/index.html
 :url: 2006/10/09/i-guess-theres-a-lot-i-dont-understand-about-religion/
+:private: true
 
 I feel your pain, `Billy <http://www.unfogged.com/archives/week_2006_10_08.html#005580>`__. On Saturday I drove down 395 to visit my mom in Louisa (home of `alleged deer heads <http://www.charlottesvillenewsplex.tv/news/headlines/4250196.html>`__!). On the way there I saw two deeply confusing things.
 

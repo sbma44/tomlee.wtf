@@ -5,5 +5,6 @@ I made a favicon
 :category: personal
 :slug: 49
 :status: draft
+:private: true
 
 And I'm immensely pleased with myself over it. But does anyone have any idea what the hell it is? A shiny beer goes to the winner.

@@ -7,6 +7,7 @@ snow makes everything look dramatic
 :status: published
 :save_as: 2007/01/21/snow-makes-everything-look-dramatic/index.html
 :url: 2007/01/21/snow-makes-everything-look-dramatic/
+:private: true
 
 |shiloh from behind|
 

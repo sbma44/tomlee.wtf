@@ -7,6 +7,7 @@ the other case for Twitter snark
 :status: published
 :save_as: 2013/04/01/the-other-case-for-twitter-snark/index.html
 :url: 2013/04/01/the-other-case-for-twitter-snark/
+:private: true
 
 I'm sympathetic to `what Matt says here <http://www.slate.com/blogs/moneybox/2013/04/01/there_is_no_problem_with_twitter.html>`__, but I think he misses the bigger value of Twitter snark: as long as journalists and experts use Twitter for social ends (whether by telling the best snarky joke or whatever) their participation in the medium will remain at least somewhat grounded.
 

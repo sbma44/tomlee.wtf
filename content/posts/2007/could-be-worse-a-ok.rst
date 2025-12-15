@@ -7,6 +7,7 @@ could be worse = A-OK
 :status: published
 :save_as: 2007/06/14/could-be-worse-a-ok/index.html
 :url: 2007/06/14/could-be-worse-a-ok/
+:private: true
 
 Yesterday Kevin Drum `quoted a ridiculous excerpt from the Weekly Standard <http://www.washingtonmonthly.com/archives/individual/2007_06/011482.php>`__ in which Irwin Stelzer frets about CEOs' solidly middle-class-ish income when compared to the titans of Wall Street.
 

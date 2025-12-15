@@ -7,6 +7,7 @@ how to think about reboots
 :status: published
 :save_as: 2012/07/11/how-to-think-about-reboots/index.html
 :url: 2012/07/11/how-to-think-about-reboots/
+:private: true
 
 Like every other self-respecting fanboy, I was outraged by `Anthony Lane's review of the new Spider-man movie <http://www.newyorker.com/arts/critics/cinema/2012/07/09/120709crci_cinema_lane>`__. But my reasons are idiosyncratic -- I don't care that he disdains geek culture (to each his own), and I don't care to defend my ilk against his charges of emotional immaturity (that's a fool's errand). No, I'm pissed because Lane tosses off an observation that I've been meaning to write up ever since it hit me during the drive to Ezra's bachelor party:
 

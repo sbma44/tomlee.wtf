@@ -7,6 +7,7 @@ a couple of quick responses
 :status: published
 :save_as: 2011/06/21/a-couple-of-quick-responses/index.html
 :url: 2011/06/21/a-couple-of-quick-responses/
+:private: true
 
 I am now substantially de-jetlagged!  Let's get this published quickly, then deal with the chaos of my inbox.
 

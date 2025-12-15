@@ -7,6 +7,7 @@ there is nothing worse than tempeh
 :status: published
 :save_as: 2008/01/03/there-is-nothing-worse-than-tempeh/index.html
 :url: 2008/01/03/there-is-nothing-worse-than-tempeh/
+:private: true
 
 From `Megan <http://meganmcardle.theatlantic.com/archives/2008/01/ive_had_a_slightly_horrified.php>`__, this is a pretty good line:
 

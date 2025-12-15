@@ -7,6 +7,7 @@ no, seriously, cable TV is terrible
 :status: published
 :save_as: 2011/09/20/no-seriously-cable-tv-is-terrible/index.html
 :url: 2011/09/20/no-seriously-cable-tv-is-terrible/
+:private: true
 
 Matt pointed me to `this post <http://groups.drupal.org/node/176914>`__, by Matt Rognlie, as an argument against my `previous post </2011/09/19/a-rare-opportunity/>`__'s a la carte pricing dreams.  I've seen this pro-bundling argument before, but I'm not swayed by it. Still, since I now have several people who are smarter than me about economics telling me I'm wrong, perhaps it's best to spell out my objections here rather than via sputtering, half-formed tweets.
 

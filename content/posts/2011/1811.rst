@@ -5,6 +5,7 @@ ebook pricing is infuriating
 :category: Uncategorized
 :slug: 1811
 :status: draft
+:private: true
 
 Not too long ago, I went to a happy hour with a bunch of people interested in copyright policy.  At some point I observed/complained that my ebook reader wasn't delivering very good value.  I've stepped up my novel consumption quite a bit over the last year or so, and bought a Kindle to feed that habit.  But it's proven to be a bad bet. Kindle books turn out to be more expensive than used copies of paper editions of the same work -- even with shipping taken into account.  It makes no sense to me.
 

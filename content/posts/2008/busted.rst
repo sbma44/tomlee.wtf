@@ -7,6 +7,7 @@ busted
 :status: published
 :save_as: 2008/02/20/busted/index.html
 :url: 2008/02/20/busted/
+:private: true
 
 Whoops! We got a DMCA notice at work today from our ISP, and I'm to blame. It was an accident, honest! I had (allegedly!) been downloading episode five of The Wire's current season and neglected to shut off my Bittorrent app before leaving home. Apparently HBO took notice and didn't take kindly to it.
 

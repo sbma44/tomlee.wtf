@@ -7,6 +7,7 @@ the new sign is really working
 :status: published
 :save_as: 2007/01/04/the-new-sign-is-really-working/index.html
 :url: 2007/01/04/the-new-sign-is-really-working/
+:private: true
 
 Kriston's `upset <http://grammarpolice.net/archives/001166.php>`__ that Fairfax libraries are using their shelf space for popular flashes-in-the-pan, rather than stocking classics like *The Sound and the Fury*. And I guess I agree with him. Mostly. But the thing is, libraries shouldn't *have* to make this choice.
 

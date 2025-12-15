@@ -7,6 +7,7 @@ ask me about the direction-finding motors I keep strapped to my ankle
 :status: published
 :save_as: 2011/02/17/ask-me-about-the-direction-finding-motors-i-keep-strapped-to-my-ankle/index.html
 :url: 2011/02/17/ask-me-about-the-direction-finding-motors-i-keep-strapped-to-my-ankle/
+:private: true
 
 |image1|
 

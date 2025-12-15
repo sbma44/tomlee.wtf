@@ -5,5 +5,6 @@ A Tale for the Time Being
 :category: books
 :slug: 2599
 :status: draft
+:private: true
 
 Tom is currently reading 'A Tale for the Time Being'

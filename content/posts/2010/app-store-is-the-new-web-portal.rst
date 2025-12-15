@@ -7,6 +7,7 @@ app store is the new web portal
 :status: published
 :save_as: 2010/07/19/app-store-is-the-new-web-portal/index.html
 :url: 2010/07/19/app-store-is-the-new-web-portal/
+:private: true
 
 I'm not in much of a blogging mood, but I wanted to get this down now, with a timestamp, so I can say "I told you so" in 9 months: *app* is going to become a dirty word.
 

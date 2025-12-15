@@ -7,6 +7,7 @@ praise (but I intend to damn some more later)
 :status: published
 :save_as: 2010/02/09/praise-but-i-intend-to-damn-some-more-later/index.html
 :url: 2010/02/09/praise-but-i-intend-to-damn-some-more-later/
+:private: true
 
 Normally, the nicest thing you can say about any given GOP attempt to produce an internet meme is "I don't think they *meant* for it to be racist." But hey! `Some of these valentine cards are actually pretty funny <http://gopvalentine.com/>`__. Of course I don't find the political content very appealing, but the jokes are well-constructed and not mean-spirited.
 

@@ -7,6 +7,7 @@ descent
 :status: published
 :save_as: 2008/01/11/descent/index.html
 :url: 2008/01/11/descent/
+:private: true
 
 The new television has arrived, and it's pretty cool. I'll try not to dwell on this piece of especially conspicuous consumption, since even my gadget-addled brain is still dimly aware that doing so is kind of tacky.
 

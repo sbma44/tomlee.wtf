@@ -7,6 +7,7 @@ Hodgmania!
 :status: published
 :save_as: 2006/10/18/hodgmania/index.html
 :url: 2006/10/18/hodgmania/
+:private: true
 
 Wow. Thanks to `Matt <http://ficke.blogspot.com/2006/10/oh-sweet-sweetness.html>`__ for alerting me to the lineup of `the next F.W. Thomas <http://fwthomas.blogspot.com/2006/10/fifth-episode-hodgman-coulton-rees.html>`__. `Someone's <http://cruelsommer.blogspot.com>`__ been holding out on me (or perhaps she's just been too preoccupied with her campaign to spread bronchial disease throughout the city).
 

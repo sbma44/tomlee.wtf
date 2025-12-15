@@ -7,6 +7,7 @@ book review: Blindsight
 :status: published
 :save_as: 2013/05/14/book-review-blindsigh/index.html
 :url: 2013/05/14/book-review-blindsigh/
+:private: true
 
 I'm not sure what to think of this one. Watts rattles off a ton of counterintuitive facts about human cognition, and they're facts that I love and am fascinated by -- this is what I spent my college years studying -- but I can't help but be irritated by his recitation of them.
 

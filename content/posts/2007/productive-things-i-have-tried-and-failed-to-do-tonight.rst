@@ -7,6 +7,7 @@ productive things I have tried and failed to do tonight
 :status: published
 :save_as: 2007/10/10/productive-things-i-have-tried-and-failed-to-do-tonight/index.html
 :url: 2007/10/10/productive-things-i-have-tried-and-failed-to-do-tonight/
+:private: true
 
 #. **Fix my mom's plane problems**
    She forgot her passport and missed her flight to Amsterdam. After many calls to Orbitz, the next available flight toward which her fare can be applied appears to be on Saturday. And costs $4000.

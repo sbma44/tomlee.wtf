@@ -7,6 +7,7 @@ post-rock
 :status: published
 :save_as: 2007/04/12/post-rock/index.html
 :url: 2007/04/12/post-rock/
+:private: true
 
 |the city veins performing|
 

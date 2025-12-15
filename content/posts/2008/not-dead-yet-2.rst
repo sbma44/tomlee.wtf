@@ -7,6 +7,7 @@ not dead yet
 :status: published
 :save_as: 2008/12/11/not-dead-yet-2/index.html
 :url: 2008/12/11/not-dead-yet-2/
+:private: true
 
 Well, past assurances to the contrary, it turns out that I haven't really been blogging here. I will! Soon! But it's my first week on the new job, and I've been busy. Also, I've been tired: I've never been very good at waking up in the morning. At EchoDitto I'd come into work at 10 and leave around 6 or 7 or 8 if I needed to get something done. Sunlight operates on a more normal schedule, and while I've been managing to wake up without major difficulties, I haven't yet gotten this "go home/to bed slightly earlier" thing down yet. So I'm a little exhausted.
 

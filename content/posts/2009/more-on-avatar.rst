@@ -7,6 +7,7 @@ more on Avatar
 :status: published
 :save_as: 2009/12/21/more-on-avatar/index.html
 :url: 2009/12/21/more-on-avatar/
+:private: true
 
 Via Yglesias and Spencer, io9 makes the race-based case against the movie: `When Will White People Stop Making Movies Like "Avatar"? <http://io9.com/5422666/when-will-white-people-stop-making-movies-like-avatar>`__ It's a good piece, and worth reading.
 

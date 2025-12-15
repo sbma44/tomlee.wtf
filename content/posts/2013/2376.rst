@@ -5,6 +5,7 @@ Homeland
 :category: books
 :slug: 2376
 :status: draft
+:private: true
 
 | 3 stars
 | At first I refused to believe this book was a YA novel, and consequently disliked it. I cracked this open as part of a book club assignment -- I hadn't read any of Doctorow's other fiction. I knew that the first book in this series, *Little Brother*, had been billed as a YA novel. But isn't that just something people say these days when they're vaguely embarrassed by their novel's enthusiasm for chase scenes or wizards?

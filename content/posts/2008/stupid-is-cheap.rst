@@ -7,6 +7,7 @@ stupid is cheap
 :status: published
 :save_as: 2008/04/09/stupid-is-cheap/index.html
 :url: 2008/04/09/stupid-is-cheap/
+:private: true
 
 So I guess that Glenn Greenwald and Megan are having a fight over what stories the media covers. This seems a little odd, but I guess she yelled at him, so now his commenters are yelling at her. And while I don't want to align myself with the people who comment on her site, who tend to be (for one reason if not another) some of the worst people on the planet, it's worth remembering just how lousy the metrics data Megan `refers to <http://meganmcardle.theatlantic.com/archives/2008/04/a_great_business_opportunity.php>`__ can be.
 

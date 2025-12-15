@@ -7,6 +7,7 @@ rebel without a pause
 :status: published
 :save_as: 2007/03/28/rebel-without-a-pause/index.html
 :url: 2007/03/28/rebel-without-a-pause/
+:private: true
 
 Yesterday Kriston `linked <http://grammarpolice.net/archives/001250.php>`__ to `an interesting post <http://volokh.com/archives/archive_2007_03_25-2007_03_31.shtml#1174960427>`__ by Ilya Somin over at The Volokh Conspiracy that wondered what the next changes in our cultural morals will be. Nobody thinks that slavery is okay or that women are inferior to men; similarly, it now seems inevitable that homosexuality will eventually be accepted by society. But what will come after that?
 

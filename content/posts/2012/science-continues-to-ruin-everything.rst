@@ -7,6 +7,7 @@ science continues to ruin everything
 :status: published
 :save_as: 2012/07/22/science-continues-to-ruin-everything/index.html
 :url: 2012/07/22/science-continues-to-ruin-everything/
+:private: true
 
 I've been meaning to write about the Breaking Bad season premiere all week; now with the next episode about to air, my window for having anyone care about the viability of last week's (spoiler alert!) magnet caper is rapidly closing. Nevertheless!
 

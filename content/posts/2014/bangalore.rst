@@ -7,6 +7,7 @@ Bangalore
 :status: published
 :save_as: 2014/01/13/bangalore/index.html
 :url: 2014/01/13/bangalore/
+:private: true
 
 The guidebooks try to be polite about it, but they don't have many compliments for Bangalore. They have to admit it's not great for temples or monuments or palaces. But they hasten to note that it's clean! And wealthy! If Lonely Planet were about Victorian ladies instead of cities, Bangalore's fluency in French and skill at the pianoforte would be discussed extensively.
 

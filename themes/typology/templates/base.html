@@ -10,6 +10,14 @@
     {% elif page %}
     <meta name="description" content="{{ page.summary|striptags|truncate(150) if page.summary else '' }}">
     {% endif %}
+    {% set private_literals = ['true','1','yes'] %}
+    {% set article_metadata = article.metadata if article else {} %}
+    {% set page_metadata = page.metadata if page else {} %}
+    {% set article_is_private = article_metadata.get('private', '')|string|lower in private_literals %}
+    {% set page_is_private = page_metadata.get('private', '')|string|lower in private_literals %}
+    {% if article_is_private or page_is_private %}
+    <meta name="robots" content="noindex, nofollow">
+    {% endif %}
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

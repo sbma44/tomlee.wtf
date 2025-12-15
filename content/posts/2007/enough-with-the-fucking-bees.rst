@@ -7,6 +7,7 @@ enough with the fucking bees
 :status: published
 :save_as: 2007/04/23/enough-with-the-fucking-bees/index.html
 :url: 2007/04/23/enough-with-the-fucking-bees/
+:private: true
 
 Look, I know that everybody's `very concerned <http://news.independent.co.uk/environment/wildlife/article2449968.ece>`__ about the disappearing honeybees. For the record, I am pro-bee: I enjoy consuming their sugary vomit both on toast and in tea. And out of all the invertebrates I think they run the `best alternate reality games <http://www.ilovebees.com/>`__.
 

@@ -7,6 +7,7 @@ exhausting
 :status: published
 :save_as: 2010/02/24/exhausting/index.html
 :url: 2010/02/24/exhausting/
+:private: true
 
 |image1|
 

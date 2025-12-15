@@ -7,6 +7,7 @@ fighting movable type comment spam - part 2
 :status: published
 :save_as: 2007/01/27/fighting-movable-type-comment-spam-part-2/index.html
 :url: 2007/01/27/fighting-movable-type-comment-spam-part-2/
+:private: true
 
 `Kyle <http://www.informationleafblower.com>`__ and `Jeff <http://www.jeffnye.org>`__ rightly pointed out that yesterday's bout of MT-theorizing (aka `part 1 </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__) — however marginally interesting it might have been — wasn't all that helpful. They're right. I didn't write it in a practically-minded sort of way. So here's a shot at explaining how you'd use the stuff I discussed. And, happily enough, some of these steps are necessary for you to use the upcoming method that I alluded to at the end of the last post — so I would've had to write a large part of this anyway.
 

@@ -7,6 +7,7 @@ The Pains of Being Pure at Heart
 :status: published
 :save_as: 2009/10/01/the-pains-of-being-pure-at-heart/index.html
 :url: 2009/10/01/the-pains-of-being-pure-at-heart/
+:private: true
 
 I just got back from seeing Pains of Being Pure at Heart at the Black Cat. It was pretty good! Honestly, they offered just about everything that you could ask of a twee-pop band. They were fresh-faced and well behaved. They were *so excited* to be in DC ("we love Teenbeat!"). One of them had bangs! They were exactly what you would expect, and to say that is not to diminish their charm one bit.
 

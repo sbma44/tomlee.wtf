@@ -7,6 +7,7 @@ The Dark Knight
 :status: published
 :save_as: 2008/07/28/the-dark-knight/index.html
 :url: 2008/07/28/the-dark-knight/
+:private: true
 
 I realize that our national conversation about Batman is already more or less over, but the weighty responsibilities of internet citizenship can't be shirked so easily. So: Emily and I went to see the new Batman movie on Friday, with `Jason <http://doombot.com>`__, Gen, Sarah and two nice folks who disappeared so quickly that I'm not sure they were ever there at all. Mr. and Ms. Soze, we'll call them (now and then not again).
 

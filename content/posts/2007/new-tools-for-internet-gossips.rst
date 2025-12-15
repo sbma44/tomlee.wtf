@@ -7,6 +7,7 @@ new tools for internet gossips
 :status: published
 :save_as: 2007/01/25/new-tools-for-internet-gossips/index.html
 :url: 2007/01/25/new-tools-for-internet-gossips/
+:private: true
 
 I've begun screwing around with my attempt at a larger-buffer Hype Machine player, and became aware of HTTP dereferers in the process. Want to provide a link to a site, but not have the site's owner track it back to you? Then use one of these things.
 

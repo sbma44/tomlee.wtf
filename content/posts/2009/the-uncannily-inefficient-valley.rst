@@ -7,6 +7,7 @@ the uncannily inefficient Valley
 :status: published
 :save_as: 2009/06/14/the-uncannily-inefficient-valley/index.html
 :url: 2009/06/14/the-uncannily-inefficient-valley/
+:private: true
 
 Yglesias is fond of `suggesting <http://yglesias.thinkprogress.org/archives/2009/06/how-to-fix-bank-compensation.php>`__ Silicon Valley's compensation model as a good alternative to the one that led the finance industry into distaster. The idea is that by using stock options to connect compensation to the long-term performance of a company rather than to its quarterly or yearly performance, we can make short-term risk-taking less lucrative than intelligent stewardship of a firm.
 

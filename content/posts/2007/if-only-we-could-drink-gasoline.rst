@@ -7,6 +7,7 @@ if only we could drink gasoline
 :status: published
 :save_as: 2007/10/15/if-only-we-could-drink-gasoline/index.html
 :url: 2007/10/15/if-only-we-could-drink-gasoline/
+:private: true
 
 Megan is pondering `an interesting question <http://meganmcardle.theatlantic.com/archives/2007/10/the_perils_of_buy_local.php>`__. Apparently some contrarians have begun trying to convince her that the carbon cost of transporting non-local food is so high that the metabolic energy she expends by biking to work may come at a larger carbon cost than just taking a cab. That is, a distantly-grown apple takes so much energy to grow, produce and deliver that we'd be better off burning fossil fuels rather than expending human effort.
 

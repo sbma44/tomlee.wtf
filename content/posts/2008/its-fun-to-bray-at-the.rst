@@ -7,6 +7,7 @@ it's fun to bray at the...
 :status: published
 :save_as: 2008/12/11/its-fun-to-bray-at-the/index.html
 :url: 2008/12/11/its-fun-to-bray-at-the/
+:private: true
 
 Alright, enough of this "saying nice things about employers" nonsense. That's not what the internet is about! It's about complaining, goddammit. So let's do some of that.
 

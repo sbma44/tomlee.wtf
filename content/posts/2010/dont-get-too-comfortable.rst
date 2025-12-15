@@ -7,6 +7,7 @@ don't get too comfortable
 :status: published
 :save_as: 2010/12/31/dont-get-too-comfortable/index.html
 :url: 2010/12/31/dont-get-too-comfortable/
+:private: true
 
 It was good to `read this <http://www.wired.com/magazine/2010/12/ff_angrynerd_geekculture/>`__ (via the great `Justin Miller <http://twitter.com/#!/incanus77>`__). In it, Patton Oswalt laments the cooption of geek culture by the masses. He lovingly describes his youth as a Northern Virginian Otaku, and laments that culture’s adoption by the mainstream.
 

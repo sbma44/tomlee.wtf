@@ -7,6 +7,7 @@ christmas music!
 :status: published
 :save_as: 2008/12/23/christmas-music/index.html
 :url: 2008/12/23/christmas-music/
+:private: true
 
 Prompted by `Stanley <http://www.unfogged.com/archives/week_2008_12_21.html#009485>`__, it's suddenly occurred to me that this is the last day that many of you will spend at your desks, staring at your computer screens. That means it's also the last good opportunity to capture your attention with Christmas MP3s. I haven't got anything original to offer, but it never hurts to re-share some personal favorites:
 

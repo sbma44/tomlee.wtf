@@ -7,6 +7,7 @@ between the click of the light and the start of the dream
 :status: published
 :save_as: 2008/11/05/between-the-click-of-the-light-and-the-start-of-the-dream/index.html
 :url: 2008/11/05/between-the-click-of-the-light-and-the-start-of-the-dream/
+:private: true
 
 I feel like I'm waking up. That probably sounds grandiose — that's not what I mean. Yes, I'm excited about last night's win and what it means for the country. I'm very ready to be rid of the stomach-sinking thought that my government is torturing people on my behalf. But the election's primary effect on my state of mind has just been to make me feel embarrassingly maudlin every quarter-hour. It doesn't really account for my present disorientation.
 

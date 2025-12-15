@@ -7,6 +7,7 @@ this is a seriously big deal
 :status: published
 :save_as: 2007/02/08/this-is-a-seriously-big-deal/index.html
 :url: 2007/02/08/this-is-a-seriously-big-deal/
+:private: true
 
 I know that most of my tech posts are completely inscrutable to normal humans. But do me a favor and go read `this <http://feeds.feedburner.com/~r/oreilly/radar/atom/~3/87934065/pipes_and_filte.html>`__ O'Reilly Radar post. I frequently disagree with the level of import that O'Reilly assigns to various web developments, but I actually think he's sort of on the money when he says that "Yahoo!'s new Pipes service is a milestone in the history of the internet." And I haven't even been drinking! Much!
 

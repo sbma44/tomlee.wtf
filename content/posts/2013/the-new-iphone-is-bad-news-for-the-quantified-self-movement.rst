@@ -7,6 +7,7 @@ the new iphone is bad news for the quantified self movement
 :status: published
 :save_as: 2013/09/10/the-new-iphone-is-bad-news-for-the-quantified-self-movement/index.html
 :url: 2013/09/10/the-new-iphone-is-bad-news-for-the-quantified-self-movement/
+:private: true
 
 Ashkan tweeted that the new iPhone will have a Fitbit-style accelerometer, enabling (presumably) Fitbit-style applications:
 

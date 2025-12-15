@@ -7,6 +7,7 @@ Freetech & modchips
 :status: published
 :save_as: 2008/10/02/freetech-modchips/index.html
 :url: 2008/10/02/freetech-modchips/
+:private: true
 
 Be sure to check out `Julian's article over at Ars <http://arstechnica.com/news.ars/post/20081001-court-echostar-cant-use-dmca-to-get-coolsat-customer-data.html>`__ on the fight between DISH Network and Freetech, makers of a satellite receiver box that, with a custom firmware, can be made to receive DISH Network's satellite programming without a subscription.
 

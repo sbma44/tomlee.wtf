@@ -7,6 +7,7 @@ liner notes by H. Turtledove
 :status: published
 :save_as: 2012/05/10/liner-notes-by-h-turtledove/index.html
 :url: 2012/05/10/liner-notes-by-h-turtledove/
+:private: true
 
 I've recently rediscovered this album, and have really been enjoying it:
 

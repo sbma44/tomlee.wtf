@@ -7,6 +7,7 @@ scavenging
 :status: published
 :save_as: 2006/11/01/scavenging/index.html
 :url: 2006/11/01/scavenging/
+:private: true
 
 | Tonight was tapedeck disassembly night:
 | |disassembled tape deck|

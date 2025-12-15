@@ -7,6 +7,7 @@ Flappy Bird and the case for fads
 :status: published
 :save_as: 2014/02/14/flappy-bird-and-the-case-for-fads/index.html
 :url: 2014/02/14/flappy-bird-and-the-case-for-fads/
+:private: true
 
 |flappy_space_small|\ In a tab not far from this one, a small bird orbits an 8-bit Earth on a ceaseless elliptical. I put him there, and feel a certain pride about it. `You should launch some birds, too <http://corpsmoderne.itch.io/flappy-space-program>`__, if only to remind yourself that physics is pretty weird.
 

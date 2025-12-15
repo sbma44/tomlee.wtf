@@ -7,6 +7,7 @@ local media!
 :status: published
 :save_as: 2007/06/11/local-media/index.html
 :url: 2007/06/11/local-media/
+:private: true
 
 Two things I enjoyed reading over the weekend:
 

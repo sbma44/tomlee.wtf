@@ -7,6 +7,7 @@ in which my ignorance of finance is revealed
 :status: published
 :save_as: 2010/01/12/in-which-my-ignorance-of-finance-is-revealed/index.html
 :url: 2010/01/12/in-which-my-ignorance-of-finance-is-revealed/
+:private: true
 
 Not to me, anyway.  But I think that perhaps I could just use some further explanation from people smarter than myself about how the financial system works.  So consider this a plea for help -- one that I would've issued over Twitter, if Twitter's character limit was 2300% larger.
 

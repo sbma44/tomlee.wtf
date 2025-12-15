@@ -5,5 +5,6 @@ Wool Omnibus (Silo, #1)
 :category: books
 :slug: 2739
 :status: draft
+:private: true
 
 Tom wants to read 'Wool Omnibus (Silo, #1)'

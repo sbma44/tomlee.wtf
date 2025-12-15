@@ -7,6 +7,7 @@ that looks familiar
 :status: published
 :save_as: 2007/01/06/that-looks-familiar/index.html
 :url: 2007/01/06/that-looks-familiar/
+:private: true
 
 `Slotcars that you control by yelling into your phone <http://speeddial.cell-ular.com/>`__, thanks to `Asterisk <http://ww.asterisk.org>`__ and an `Arduino <http://www.arduino.cc>`__. Pretty neat, and somewhat similar to a project that I finished not too long ago for our office's lobby (more on that soon). I wonder how he pulls apart the SIP VoIP stream...
 

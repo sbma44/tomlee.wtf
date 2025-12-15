@@ -5,6 +5,7 @@ clocks
 :category: science
 :slug: 760
 :status: draft
+:private: true
 
 For an article about clocks, `this is a hell of a lot more interesting than you might expect <http://www.newscientist.com/article/mg20126941.900-super-clocks-more-accurate-than-time-itself.html?full=true>`__. Apparently there's a new generation of atomic clocks on the way!
 

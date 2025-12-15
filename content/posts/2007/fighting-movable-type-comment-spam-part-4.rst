@@ -7,6 +7,7 @@ fighting movable type comment spam - part 4
 :status: published
 :save_as: 2007/01/29/fighting-movable-type-comment-spam-part-4/index.html
 :url: 2007/01/29/fighting-movable-type-comment-spam-part-4/
+:private: true
 
 Okay. Last one, I promise. Now that you've gone through all of these steps, here are the things that you probably should have tried before listening to me:
 

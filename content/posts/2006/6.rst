@@ -5,6 +5,7 @@ here's another entry!
 :category: Uncategorized
 :slug: 6
 :status: draft
+:private: true
 
 Just for testing purposes, though...
 

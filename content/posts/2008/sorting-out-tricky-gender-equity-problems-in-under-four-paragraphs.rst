@@ -7,6 +7,7 @@ sorting out tricky gender equity problems in under four paragraphs
 :status: published
 :save_as: 2008/06/18/sorting-out-tricky-gender-equity-problems-in-under-four-paragraphs/index.html
 :url: 2008/06/18/sorting-out-tricky-gender-equity-problems-in-under-four-paragraphs/
+:private: true
 
 `Marriage-induced name changes <http://kaysteiger.blogspot.com/2008/06/name-changes.html>`__! Everyone's blogging about it, so allow me to briefly chime in with my brilliant, completely foolproof solution to the problem. First, everyone keeps their name when they get married. That seems kind of obvious. Second, male children take the father's last name and female children take the mother's last name.
 

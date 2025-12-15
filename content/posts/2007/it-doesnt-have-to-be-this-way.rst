@@ -7,6 +7,7 @@ it doesn't have to be this way
 :status: published
 :save_as: 2007/03/20/it-doesnt-have-to-be-this-way/index.html
 :url: 2007/03/20/it-doesnt-have-to-be-this-way/
+:private: true
 
 As I've mentioned before, I really like the `Technology Liberation Front <http://www.techliberation.com>`__. My own ability to maintain righteous indignation over the DMCA waxes and wanes, and it's good to know that someone's holding down the fort.
 

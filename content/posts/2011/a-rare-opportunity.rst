@@ -7,6 +7,7 @@ a rare opportunity
 :status: published
 :save_as: 2011/09/19/a-rare-opportunity/index.html
 :url: 2011/09/19/a-rare-opportunity/
+:private: true
 
 It's not often that I disagree with Tim Lee, so let me relish this.  I think Netflix is being smart!  Or at least not-that-unwise. `Tim casts his argument <http://www.forbes.com/sites/timothylee/2011/09/19/netflix-is-not-facing-the-innovators-dilemma/>`__ in terms of movie availability, and from that perspective he's probably right: the DVD-only Qwikster (or however you spell it) might have a bit less leverage in amassing movie libraries than the currently-unified Netflix (then again, it might not; as far as I know Netflix has only committed to splitting its brand and customer base; the two entities might still sit together at the bargaining table).
 

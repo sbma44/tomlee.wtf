@@ -7,6 +7,7 @@ the discerning aesthete's guide to media designed for teenage boys
 :status: published
 :save_as: 2008/11/19/the-discerning-aesthetes-guide-to-media-designed-for-teenage-boys/index.html
 :url: 2008/11/19/the-discerning-aesthetes-guide-to-media-designed-for-teenage-boys/
+:private: true
 
 The new Bond movie: I liked it! The only film in the series that it seems worthwhile to compare it to is *Casino Royale*, and on that score it's a mixed bag. On the one hand, *Quantum of Solace*'s best parts are not as good as those of *Casino Royale*, if only because they don't involve awesome footchases built around parkour. On the other hand, *QoS*'s worst parts manage to avoid the inclusion of high-stakes poker tournaments run by the villain, by which point in the movie it has been established that the local police force is in Bond's pocket so why don't they just arrest this guy anyway?
 

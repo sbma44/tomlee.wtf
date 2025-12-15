@@ -7,6 +7,7 @@ missed opportunities
 :status: published
 :save_as: 2008/08/07/missed-opportunities/index.html
 :url: 2008/08/07/missed-opportunities/
+:private: true
 
 |image1|
 

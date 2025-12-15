@@ -7,6 +7,7 @@ PHB
 :status: published
 :save_as: 2009/04/27/phb/index.html
 :url: 2009/04/27/phb/
+:private: true
 
 With apologies to my MBA-possessing friends: `the case against MBAs <http://www.abc.net.au/rn/backgroundbriefing/stories/2009/2526727.htm>`__.
 

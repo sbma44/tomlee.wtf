@@ -7,6 +7,7 @@ beat me to it
 :status: published
 :save_as: 2007/06/15/beat-me-to-it/index.html
 :url: 2007/06/15/beat-me-to-it/
+:private: true
 
 |a 555 timer chip|\ Ever since `reading <http://www.wired.com/news/technology/0,71087-0.html?tw=rss.index>`__ about the body-modification folks who've implanted magnets in their fingers I've been `kind of fixated <http://www.zunta.org/blog/archives/2006/06/07/oh_dear/>`__ on the idea. Being able to sense magnetic fields seems like it'd be awfully cool. But even if the unavailability of anesthesia for the operation wasn't enough to scare me off, the apparently-guaranteed infection that follows would be.
 

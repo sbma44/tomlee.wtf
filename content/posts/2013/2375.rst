@@ -5,5 +5,6 @@ Ventus
 :category: books
 :slug: 2375
 :status: draft
+:private: true
 
 | Shelves: scifi-candidates, to-read

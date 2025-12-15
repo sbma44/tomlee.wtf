@@ -7,6 +7,7 @@ wealth but no wages
 :status: published
 :save_as: 2007/10/10/wealth-but-no-wages/index.html
 :url: 2007/10/10/wealth-but-no-wages/
+:private: true
 
 Matt `weighs in on DIY fruit harvesting <http://matthewyglesias.theatlantic.com/archives/2007/10/the_blog_of_knowledge.php>`__:
 

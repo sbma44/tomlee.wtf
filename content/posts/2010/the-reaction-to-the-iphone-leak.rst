@@ -7,6 +7,7 @@ the reaction to the iPhone leak
 :status: published
 :save_as: 2010/05/04/the-reaction-to-the-iphone-leak/index.html
 :url: 2010/05/04/the-reaction-to-the-iphone-leak/
+:private: true
 
 `This is entirely correct <http://abcnews.go.com/print?id=10523213>`__.
 

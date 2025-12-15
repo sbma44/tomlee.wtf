@@ -7,6 +7,7 @@ is everyone still sick of photomosaics?
 :status: published
 :save_as: 2007/04/30/is-everyone-still-sick-of-photomosaics/index.html
 :url: 2007/04/30/is-everyone-still-sick-of-photomosaics/
+:private: true
 
 No? Good:
 

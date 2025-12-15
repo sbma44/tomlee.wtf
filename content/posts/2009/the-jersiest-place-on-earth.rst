@@ -7,6 +7,7 @@ the Jersiest place on Earth
 :status: published
 :save_as: 2009/08/07/the-jersiest-place-on-earth/index.html
 :url: 2009/08/07/the-jersiest-place-on-earth/
+:private: true
 
 |weregladyourhere|\ I was surprisingly surprised to lose money in Atlantic City. Yes, this is self-evidently dumb. But I thought I had prepared myself. I'm no card counter, but I had logged a decent number of hours practicing on my phone, learning the charts while trying to absorb the statistical futility of the undertaking. I was still a little fuzzy at the edges -- what to do with a 12, how many fractions of a percentage point favored the house -- but these were marginal bits of knowledge. I was confident that I was ready for the tables.
 

@@ -7,6 +7,7 @@ at the mercy of the autobots
 :status: published
 :save_as: 2008/10/14/at-the-mercy-of-the-autobots/index.html
 :url: 2008/10/14/at-the-mercy-of-the-autobots/
+:private: true
 
 Tim's `article about the social changes that self-driving cars might make possible <http://arstechnica.com/articles/culture/future-of-driving-part-2.ars>`__ is fascinating reading (so is his `earlier installment of the series <http://arstechnica.com/articles/culture/future-of-driving-part-1.ars>`__, in which Tim discusses the history and present state of robotic car technology). But I wonder about `the conclusion that Ryan draws from it <http://www.ryanavent.com/blog/?p=1508>`__:
 

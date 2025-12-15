@@ -7,6 +7,7 @@ I am not crazy
 :status: published
 :save_as: 2008/09/29/i-am-not-crazy/index.html
 :url: 2008/09/29/i-am-not-crazy/
+:private: true
 
 Last night, after watching *Vampire Show by Alan Ball*, some of us got to talking about haircuts. Like "which candy is best?" and "[now-beloved cynical marketing campaign from childhood TV]", I find this to invariably be a good conversation topic. Pretty much everyone has developed their own dearly-held system of hair maintenance, and they are almost always anxious to explain it in detail. Plus most people will have some self-deprecating anecdotes to share regarding ill-advised haircuts of yore.
 

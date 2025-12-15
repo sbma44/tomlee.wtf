@@ -7,6 +7,7 @@ pity preempted
 :status: published
 :save_as: 2007/06/05/pity-preempted/index.html
 :url: 2007/06/05/pity-preempted/
+:private: true
 
 Via `Unfogged <http://www.unfogged.com/archives/week_2007_06_03.html#006919>`__ via `Jim Henley <http://highclearing.com/index.php/archives/2007/06/04/6562>`__ comes an extremely interesting feature in New York Magazine about `how NYC businesses make their money <http://nymag.com/news/features/2007/profit/>`__. You can see the markup on fish at Nobu, how dollar stores stay in business and how to get into the fast-paced and exciting crystal meth industry.
 

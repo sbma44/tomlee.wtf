@@ -7,6 +7,7 @@ nice dream
 :status: published
 :save_as: 2006/10/16/nice-dream/index.html
 :url: 2006/10/16/nice-dream/
+:private: true
 
 Once you publicly identify yourself as a geek, you start to hear a lot of ideas for internet projects from acquaintances. Anybody who's spent much time on the internet has at one time or another had an apparently monumentally great idea for a website that convinced them, for about half of an afternoon, that they were about to be rich. I'll refrain from reciting some of the more embarrassing ones I've heard, but they're frequently pretty bad.
 

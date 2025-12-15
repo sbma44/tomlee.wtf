@@ -7,6 +7,7 @@ yuppie PSA
 :status: published
 :save_as: 2010/02/23/psa/index.html
 :url: 2010/02/23/psa/
+:private: true
 
 I just changed the filters on my Etymotic headphones for the first time.  It's been years since I got them, and I'm an idiot for not doing it sooner.  I had honestly forgotten that these things -- anything, really -- could sound this good. I thought I was just getting hopelessly old.
 

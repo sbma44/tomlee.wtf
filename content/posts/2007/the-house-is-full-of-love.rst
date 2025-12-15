@@ -7,6 +7,7 @@ the house is full of love
 :status: published
 :save_as: 2007/09/10/the-house-is-full-of-love/index.html
 :url: 2007/09/10/the-house-is-full-of-love/
+:private: true
 
 ...now that Charles is gone. He's spending the week celebrating `Darren <http://www.darrenhiggins.com/>`__ and Emilie's love over in Belgium, a country about which I know disappointingly few hilarious stereotypes. The happy couple is getting married in a castle, and apparently Charles has been drafted into the ceremony. I believe he'll be operating the portcullis.
 

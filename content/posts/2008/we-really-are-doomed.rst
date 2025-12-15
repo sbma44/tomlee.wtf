@@ -7,6 +7,7 @@ we really are doomed
 :status: published
 :save_as: 2008/09/12/we-really-are-doomed/index.html
 :url: 2008/09/12/we-really-are-doomed/
+:private: true
 
 `Alex Balk <http://radaronline.com/exclusives/2008/09/john-mccain-lies.php>`__:
 

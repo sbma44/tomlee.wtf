@@ -7,6 +7,7 @@ sticking up for mad science
 :status: published
 :save_as: 2009/10/19/sticking-up-for-mad-science/index.html
 :url: 2009/10/19/sticking-up-for-mad-science/
+:private: true
 
 Not to undercut `Ryan's point <http://www.ryanavent.com/blog/?p=2239>`__, which seems to me to be correct — geoengineering probably *is* much harder than its boosters currently think, and anyone who ignores the experts calling for first taking a crack at emission reduction is a dope — but I think his point's getting a bit lost in all the me-too-ery. `Here's Kevin Drum <http://www.motherjones.com/kevin-drum/2009/10/geoengineering-freakiness>`__:
 

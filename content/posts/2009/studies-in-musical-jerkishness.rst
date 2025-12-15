@@ -7,6 +7,7 @@ studies in musical jerkishness
 :status: published
 :save_as: 2009/12/03/studies-in-musical-jerkishness/index.html
 :url: 2009/12/03/studies-in-musical-jerkishness/
+:private: true
 
 I still have a whopping seventeen minutes to go until I need to head to the morning's first meeting (I am told there will be pastry), but Twitter means that I *already* have compelling internet content to share. To wit!
 

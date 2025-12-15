@@ -7,6 +7,7 @@ progress!
 :status: published
 :save_as: 2007/05/08/progress/index.html
 :url: 2007/05/08/progress/
+:private: true
 
 As you may recall, I have something of an ongoing quest to amass as many unpleasantly geeky traits as possible, in order to get a head start on horrifying any teenage offspring that my distant future may hold. A selection from the current list of accomplishments:
 

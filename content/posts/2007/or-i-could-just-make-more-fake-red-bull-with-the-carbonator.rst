@@ -7,6 +7,7 @@ or I could just make more fake Red Bull with the carbonator
 :status: published
 :save_as: 2007/08/11/or-i-could-just-make-more-fake-red-bull-with-the-carbonator/index.html
 :url: 2007/08/11/or-i-could-just-make-more-fake-red-bull-with-the-carbonator/
+:private: true
 
 .. container::
 

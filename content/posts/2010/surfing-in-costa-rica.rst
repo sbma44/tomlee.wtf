@@ -7,6 +7,7 @@ surfing in Costa Rica
 :status: published
 :save_as: 2010/04/06/surfing-in-costa-rica/index.html
 :url: 2010/04/06/surfing-in-costa-rica/
+:private: true
 
 If you ask me, there are two excellent reasons for learning how to surf. When you're young, it seems to be a great way to achieve a lifestyle focused on taking drugs and having sex. And when you're older, the sport is a surefire wellspring for pretentious mystical ruminations, as memorably/disastrously demonstrated by *John From Cincinnati*\ \*.
 

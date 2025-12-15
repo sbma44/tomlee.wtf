@@ -7,6 +7,7 @@ Delta Dental's delta is zero
 :status: published
 :save_as: 2009/01/12/delta-dentals-delta-is-zero/index.html
 :url: 2009/01/12/delta-dentals-delta-is-zero/
+:private: true
 
 Non-surprise!: dental insurance remains a complete and utter scam. I'm still waiting on the follow-up phone call, but some mail I got over the weekend has made me think that, for the second time in six months, my dental insurer has decided they aren't responsible for paying for more than a thousand dollars' worth of work that, before the procedure, my dentist assured me they would.
 

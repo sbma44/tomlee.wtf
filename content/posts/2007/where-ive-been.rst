@@ -7,6 +7,7 @@ where I've been
 :status: published
 :save_as: 2007/04/16/where-ive-been/index.html
 :url: 2007/04/16/where-ive-been/
+:private: true
 
 I've been holed up, building `this <http://labs.echoditto.com/projects/sunlight>`__ for the `Sunlight Foundation Mashup Contest <http://www.sunlightfoundation.com/mashup>`__. My academically-minded friends will no doubt be horrified by the imprecision of the visualization — I'm really supposed to have done this by building a proper similarity tree, in which joined nodes become collapsed into their average. Those joined pieces are then treated as single nodes and everything is recomputed relative to them; repeat until every node has been added.
 

@@ -7,6 +7,7 @@ rebranding already?
 :status: published
 :save_as: 2009/04/04/rebranding-already/index.html
 :url: 2009/04/04/rebranding-already/
+:private: true
 
 |image1|
 

@@ -7,6 +7,7 @@ delicious, delicious bailout
 :status: published
 :save_as: 2009/01/31/delicious-delicious-bailout/index.html
 :url: 2009/01/31/delicious-delicious-bailout/
+:private: true
 
 |Gelt!|\ The one thing that the warring experts agree on is that the proposed stimulus is extraordinary. One side shouts: "It's outrageous! It's unprecedented! In terms of economic and political theory, it's odious!" The other replies that yes, you're right about all of that, but if we do nothing the alternative will probably be worse. We've already tried all of the less objectionable things that we normally do, but now we're out of alternatives and so the only options we have left are nationalizing banks or giving handouts to financiers or, god forbid, cleaning up the National Mall so that our great American commons isn't a disgusting barren mudpit.
 

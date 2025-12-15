@@ -7,6 +7,7 @@ toward a more enlightened vitriol
 :status: published
 :save_as: 2008/05/21/toward-a-more-enlightened-vitriol/index.html
 :url: 2008/05/21/toward-a-more-enlightened-vitriol/
+:private: true
 
 Yglesias `links <http://matthewyglesias.theatlantic.com/archives/2008/05/thick_moral_concepts.php>`__ to a `Feministing post <http://feeds.feedburner.com/~r/Feministing/~3/295051381/009237.html>`__ about a GOP consultantdefense of the word "bitch", then discusses the difficulty of untangling the high-minded, purely pejorative nature of the insult from its sexist connotations.
 

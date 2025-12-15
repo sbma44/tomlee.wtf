@@ -7,6 +7,7 @@ harlem shakes us
 :status: published
 :save_as: 2009/04/07/harlem-shakes-us/index.html
 :url: 2009/04/07/harlem-shakes-us/
+:private: true
 
 Like `Amanda said <http://blogstretch.blogspot.com/2009/04/well.html>`__, the Harlem Shakes show is unfortunately cancelled. That's too bad; I sent the band an email saying I hoped to have a chance to see them soon, and a note to DC9 saying I hoped to see my money again, ever. To date, both remain unanswered.
 

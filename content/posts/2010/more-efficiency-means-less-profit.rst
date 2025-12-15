@@ -7,6 +7,7 @@ more efficiency means less profit
 :status: published
 :save_as: 2010/12/05/more-efficiency-means-less-profit/index.html
 :url: 2010/12/05/more-efficiency-means-less-profit/
+:private: true
 
 I’ve been following the “Do Not Track” discussion with interest. I’m not sure I have any particularly strong feelings about the proposed implementations, but I’m curious to see what happens. And of course it’s been hilarious, as always, to see some of the knee-jerk pro-corporate responses that the policy proposal has prompted.
 

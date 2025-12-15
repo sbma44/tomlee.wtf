@@ -7,6 +7,7 @@ WMATA data!
 :status: published
 :save_as: 2009/03/23/wmata-data/index.html
 :url: 2009/03/23/wmata-data/
+:private: true
 
 Hey! `WMATA has finally released it schedule data in a usable format <http://www.wmata.com/rider_tools/developer_resources.cfm>`__! Except also, `it hasn't <http://www.flickr.com/photos/sbma44/3378830315/>`__.
 

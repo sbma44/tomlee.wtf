@@ -7,6 +7,7 @@ being back at my desk is weird
 :status: published
 :save_as: 2010/01/04/being-back-at-my-desk-is-weird/index.html
 :url: 2010/01/04/being-back-at-my-desk-is-weird/
+:private: true
 
 Well, the holiday break wasn't quite the triumphant return to blogging/exercise/filial-website-development that I'd hoped.  It was plenty enjoyable, though, with an awfully nice stretch of time spent in Cazenovia and what has to be considered a successful New Year's -- certainly it was an improvement over last year's edition, if only because the bodily fluids spilled at this party were merely couch-threatening rather than life-threatening.  Honestly, though, even the Mystery Puker acquitted himself well: that semi-comatose young man and his Brother With The Enigmatic Accent left sheepishly and cooperatively, but not before handing Charles $60 for "cleaning costs"/hungover New Year's Day dinner.  Well done! If you asked Emily Post about the best way to go about regurgitating in a stranger's house, that is exactly what she'd tell you to do.
 

@@ -7,6 +7,7 @@ give-a give-a give-a Garmin
 :status: published
 :save_as: 2007/11/25/give-a-give-a-give-a-garmin/index.html
 :url: 2007/11/25/give-a-give-a-give-a-garmin/
+:private: true
 
 I woke up about fifteen minutes ago and turned the Redskins game on. Since then the following entities have used "The Carol of the Bells" to try to sell me things:
 

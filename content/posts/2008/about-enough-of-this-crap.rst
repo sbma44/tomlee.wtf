@@ -7,6 +7,7 @@ about enough of this crap
 :status: published
 :save_as: 2008/06/24/about-enough-of-this-crap/index.html
 :url: 2008/06/24/about-enough-of-this-crap/
+:private: true
 
 Christ: `another one <http://www.washingtoncitypaper.com/blogs/citydesk/2008/06/24/cyclist-rights-cyclist-wrongs/>`__. Why is it that any time someone points out that despite bicycling being a clean and cheap mode of transportation our cities make it much more dangerous and difficult than it ought to be, the first reaction is always, ALWAYS for people to exclaim: "But sometimes bicyclists run stop signs or ride on sidewalks!"
 

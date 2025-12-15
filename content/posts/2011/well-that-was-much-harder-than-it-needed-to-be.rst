@@ -7,6 +7,7 @@ well, that was much harder than it needed to be
 :status: published
 :save_as: 2011/12/21/well-that-was-much-harder-than-it-needed-to-be/index.html
 :url: 2011/12/21/well-that-was-much-harder-than-it-needed-to-be/
+:private: true
 
 I just spent some time banging my head against this problem; let me save people wandering in from Google similar trouble.
 

@@ -7,6 +7,7 @@ like having a disease named after you
 :status: published
 :save_as: 2007/09/17/like-having-a-disease-named-after-you/index.html
 :url: 2007/09/17/like-having-a-disease-named-after-you/
+:private: true
 
 `Drupal <http://www.drupal.org>`__ is excellent software, PHP-based though it may be. So there's a little thrill of excitement that occurs when you find what appears to be a genuine bug in a high-profile part of it. But that thrill is tempered when you realize that a) your clients don't care about the exotic nature of the problem, as they have already launched their website against your recommendation and b) all of the people who could help you appear to currently be on `planes to Barcelona <http://barcelona2007.drupalcon.org/>`__.
 

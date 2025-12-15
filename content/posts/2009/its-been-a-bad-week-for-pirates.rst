@@ -7,6 +7,7 @@ it's been a bad week for pirates
 :status: published
 :save_as: 2009/04/17/its-been-a-bad-week-for-pirates/index.html
 :url: 2009/04/17/its-been-a-bad-week-for-pirates/
+:private: true
 
 It looks like `some of the folks behind The Pirate Bay are heading to jail <http://news.bbc.co.uk/2/hi/technology/8003799.stm>`__. I'm only a little surprised, and certainly not outraged. The people running TPB have always seemed imprudently defiant, and even though I was glad to see them take technical and political steps to hasten the inevitable (let's get on with it already!), their tendency to argue from positions of transparently bad faith never sat well with me. In the past I'd always shrugged and said that things sure were different in Sweden. Well, not that different, I guess.
 

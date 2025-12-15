@@ -7,6 +7,7 @@ we've still only set the apartment on fire once
 :status: published
 :save_as: 2008/01/03/weve-still-only-set-the-apartment-on-fire-once/index.html
 :url: 2008/01/03/weve-still-only-set-the-apartment-on-fire-once/
+:private: true
 
 I whined about not fulfilling my technical aspirations over the holiday, but the truth is that I did get a few things done — just not the ones I had intended. I wasted a solid couple of days trying to get Boot Camp installed, for one thing (it turns out not to be so easy when you have a heavily fragmented disk and aren't willing to reformat it). And I constructed this monstrosity:
 

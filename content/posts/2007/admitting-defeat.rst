@@ -7,6 +7,7 @@ admitting defeat
 :status: published
 :save_as: 2007/08/20/admitting-defeat/index.html
 :url: 2007/08/20/admitting-defeat/
+:private: true
 
 |the American Quarterhorse Association?|\ I had a dream, and a beautiful one at that: I wanted to stop opening my mail.
 

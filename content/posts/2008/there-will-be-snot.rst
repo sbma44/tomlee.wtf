@@ -7,6 +7,7 @@ there will be snot
 :status: published
 :save_as: 2008/01/07/there-will-be-snot/index.html
 :url: 2008/01/07/there-will-be-snot/
+:private: true
 
 It's now safe to say: I'm sick. This is no surprise, of course — it happens to me every winter, and with enough severity that I'm told I'm commonly described as "sickly". But I had high hopes for this year! I've started taking vitamin D, The Supernutrient They Don't Want You To Know About (except via features in Reader's Digest). I'm adopting an optimistic interpretation of the vitamin's powers and assuming that without it my body would presently be undergoing incineration at the hands of concerned NIH workers in contamination suits.
 

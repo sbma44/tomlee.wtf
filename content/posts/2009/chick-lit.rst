@@ -7,6 +7,7 @@ Chick lit
 :status: published
 :save_as: 2009/01/06/chick-lit/index.html
 :url: 2009/01/06/chick-lit/
+:private: true
 
 We live in a pretty Jehovah's-Witness-heavy neighborhood, but I mostly don't mind. Sure, it means the occasional well-meaning pair of Sunday visitors will find me groggily staring at them, potentially shirtless. But that's mostly their problem — I'm perfectly happy to see them. Besides, you never know when you'll find yourself wishing you had a few dozen copies of *The Watchtower* on hand.
 

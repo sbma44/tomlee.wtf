@@ -7,6 +7,7 @@ the least of their problems
 :status: published
 :save_as: 2008/04/08/the-least-of-their-problems/index.html
 :url: 2008/04/08/the-least-of-their-problems/
+:private: true
 
 `This is what happens when Florida makes a determined effort to avoid looking unsophisticated <http://www.orlandosentinel.com/sports/orl-maxwell2808mar28,0,6392637.column?page=1>`__.
 

@@ -7,6 +7,7 @@ tech things!
 :status: published
 :save_as: 2007/09/05/tech-things/index.html
 :url: 2007/09/05/tech-things/
+:private: true
 
 My apologies, internet. I was being a pretty good blogger for a while there, but this week's looking rough. I'd desperately like to write a convoluted apologia on behalf of Bear Grylls, or explain how a pigeon almost killed me, or emphatically agree that `dragons are awesome <http://pygmalioninablanket.blogspot.com/2007/08/finally-real-summer-movie.html>`__. But for now all that will have to wait. Instead, please accept some bulleted items of a technical nature.
 

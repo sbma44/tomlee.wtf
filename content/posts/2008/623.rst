@@ -5,6 +5,7 @@ admittedly, they usually run these tests on undergrads
 :category: science
 :slug: 623
 :status: draft
+:private: true
 
 `Megan <http://meganmcardle.theatlantic.com/archives/2008/07/the_meat_of_the_issue.php>`__ links to `a post <http://scienceblogs.com/cortex/2008/07/good_news_for_vegans.php>`__ highlighting a study in which subjects' rating of various types of sausages was strongly influenced by whether they were told the sausage was vegan or not (regardless of whether it actually contained meat).
 

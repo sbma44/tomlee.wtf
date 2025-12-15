@@ -7,6 +7,7 @@ the battle for the iron(y) throne
 :status: published
 :save_as: 2012/07/05/the-battle-for-the-irony-throne/index.html
 :url: 2012/07/05/the-battle-for-the-irony-throne/
+:private: true
 
 Kash has guest-blogger Elie Mystal talking about the relative toothlessness of the recently-released Declaration of Internet Freedom; `it's worth a read <http://www.forbes.com/sites/kashmirhill/2012/07/03/declaration-of-internet-freedom-contemplates-no-rights-or-freedoms-worth-declaring/>`__. She's speaking about `this document <http://www.internetdeclaration.org/freedom>`__, hosted at internetdeclaration.org and signed by a bunch of lefty net organizations like Free Press and CDT. Almost infinitely unhelpfully, a bunch of libertarian/right-leaning net organizations released a response document that was *also* called the Declaration of Internet Freedom -- you can find it at `declarationofinternetfreedom.org <http://declarationofinternetfreedom.org/>`__.
 

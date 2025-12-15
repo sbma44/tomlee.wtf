@@ -7,5 +7,6 @@ Fort Reno!
 :status: published
 :save_as: 2007/08/09/fort-reno/index.html
 :url: 2007/08/09/fort-reno/
+:private: true
 
 True to form, I've been really bad about making it out to the wilds of Tenleytown this summer. But I intend to make amends this evening. Anyone else planning on going?

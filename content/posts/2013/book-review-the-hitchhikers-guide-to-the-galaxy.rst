@@ -7,6 +7,7 @@ book review: The Hitchhiker's Guide to the Galaxy
 :status: published
 :save_as: 2013/05/04/book-review-the-hitchhikers-guide-to-the-galaxy/index.html
 :url: 2013/05/04/book-review-the-hitchhikers-guide-to-the-galaxy/
+:private: true
 
 I just reread this thing for the who-knows-how-many-th time. It's still quite funny! But it's interesting to read it as an adult:
 

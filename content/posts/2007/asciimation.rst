@@ -7,6 +7,7 @@ asciimation
 :status: published
 :save_as: 2007/01/17/asciimation/index.html
 :url: 2007/01/17/asciimation/
+:private: true
 
 Well, that was kind of a waste of time. But it was fun, and I suppose I learned a few new things.
 

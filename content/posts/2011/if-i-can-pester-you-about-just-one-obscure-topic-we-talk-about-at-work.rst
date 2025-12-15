@@ -7,6 +7,7 @@ if I can pester you about just one obscure topic we talk about at work...
 :status: published
 :save_as: 2011/11/02/if-i-can-pester-you-about-just-one-obscure-topic-we-talk-about-at-work/index.html
 :url: 2011/11/02/if-i-can-pester-you-about-just-one-obscure-topic-we-talk-about-at-work/
+:private: true
 
 Let it be `this one <http://sunlightfoundation.com/sixdegrees/>`__.
 

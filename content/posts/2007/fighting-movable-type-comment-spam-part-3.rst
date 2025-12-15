@@ -7,6 +7,7 @@ fighting movable type comment spam - part 3
 :status: published
 :save_as: 2007/01/29/fighting-movable-type-comment-spam-part-3/index.html
 :url: 2007/01/29/fighting-movable-type-comment-spam-part-3/
+:private: true
 
 We've made some good progress. In `part one </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__ I talked about how comment spammers operate and some theoretical ways to stop them. In `part two </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__ I offered a little more practical advice, providing a walkthrough on how to convert an MT site from static HTML pages to PHP and offering more specific instructions on how to hide where your comment script lives. I know that at least one person has seen a reduction in comment spam as a result, which makes me pretty pleased.
 

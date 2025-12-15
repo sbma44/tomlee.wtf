@@ -7,6 +7,7 @@ superhero miscellanea
 :status: published
 :save_as: 2008/05/06/superhero-miscellanea/index.html
 :url: 2008/05/06/superhero-miscellanea/
+:private: true
 
 Peter Suderman `comes to the rescue <http://theamericanscene.com/2008/05/05/you-dont-have-to-sit-through-the-whole-thing>`__ of people like me who left the theater before *Iron Man*'s credits had stopped rolling:
 

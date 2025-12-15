@@ -7,6 +7,7 @@ The Project for an Organo-American Century
 :status: published
 :save_as: 2008/03/27/the-project-for-an-organo-american-century/index.html
 :url: 2008/03/27/the-project-for-an-organo-american-century/
+:private: true
 
 Matthew Yglesias says that `our nation is blind to the looming robot threat <http://matthewyglesias.theatlantic.com/archives/2008/03/the_real_threat.php>`__. But then, he *would* say that, wouldn't he? After all, his corporate paymasters are quite keen on the idea of an outbreak of hostilities between the U.S. and a nationless mechanized fighting force. I'm sure in some labyrinthine GE facility they're working on robots at one end of the hall and the weapons to destroy them at the other, with representatives from the accounting department gleefully shuffling between the two. Think it sounds far-fetched? You do know who owns `Consolidated Robotics <http://en.wikipedia.org/wiki/Consolidated_Robotics>`__, don't you?
 

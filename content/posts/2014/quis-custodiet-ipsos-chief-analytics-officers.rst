@@ -7,6 +7,7 @@ quis custodiet ipsos chief analytics officers?
 :status: published
 :save_as: 2014/03/18/quis-custodiet-ipsos-chief-analytics-officers/index.html
 :url: 2014/03/18/quis-custodiet-ipsos-chief-analytics-officers/
+:private: true
 
 |Cocoa Krispies will make your child invincible|\ Via my former colleague `Luigi Montanez <http://twitter.com/1uigi>`__, now of Upworthy, here's `an interesting look at how the media industry is reexamining its use of analytics <http://ajr.org/2014/03/18/pageview-passe-new-metrics-emerge-measure-audiences/>`__. The search for more meaningful measures of media efficacy is interesting in its own right. But I think the structural incentives that surround it deserve some attention, too.
 

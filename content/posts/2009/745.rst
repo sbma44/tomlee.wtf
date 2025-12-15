@@ -5,6 +5,7 @@ maybe this is how COBOL programmers feel
 :category: tech
 :slug: 745
 :status: draft
+:private: true
 
 Here's to minor technical victories. Last night I set up a recently-purchased Windows machine, in order to give Emily a workstation in DC (some of her academic software requires Windows, unfortunately, and isn't speedy enough in a virtualized environment). Tasks included: installing XP; cracking WGA; flashing an OpenWRT router to DD-WRT to provide a client bridge; finding display and network drivers for a geriatric Gateway machine (support for which has been subcontracted since Gateway's collapse); and installing some software via Daemon Tools. This was my first serious excursion into Windows-land in, oh, four years? And it went pretty well. "Still got it!" I proclaim, and straighten my tie, Lionel Hutz-style.
 

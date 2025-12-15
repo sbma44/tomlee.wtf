@@ -7,6 +7,7 @@ ants!
 :status: published
 :save_as: 2007/06/25/ants/index.html
 :url: 2007/06/25/ants/
+:private: true
 
 They're all over the goddamn place. I'd like to flatter myself by thinking that this is due to the collection of healthy fruits and vegetables that I keep near my desk, making it the workstation in the office that could most easily be confused for a picnic. In truth, it probably has more to do with the heaps of disordered crap and abundant coffee stains that adorn it (FACT: ants are apparently attracted to Charlottesville property tax forms for cars you no longer own).
 

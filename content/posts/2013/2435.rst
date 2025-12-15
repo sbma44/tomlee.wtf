@@ -5,6 +5,7 @@ The Idea Factory: Bell Labs and the Great Age of American Innovation
 :category: books
 :slug: 2435
 :status: draft
+:private: true
 
 | 5 stars
 | A really lovely history of Bell Labs and its incredible impact on the world. Gertner does a fantastic job of synthesizing existing historical accounts, while also unearthing his own wholly original findings through interviews and dives into the AT&T archives.

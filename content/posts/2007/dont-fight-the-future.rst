@@ -7,6 +7,7 @@ don't fight the future
 :status: published
 :save_as: 2007/01/10/dont-fight-the-future/index.html
 :url: 2007/01/10/dont-fight-the-future/
+:private: true
 
 `Kyle <http://www.informationleafblower.com>`__ was at the Post blogger summit last night, too, but he came away with some `different impressions <http://www.informationleafblower.com/blog/archives/2007/01/to_the_summitan.html>`__:
 

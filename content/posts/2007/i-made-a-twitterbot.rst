@@ -7,6 +7,7 @@ I made a Twitterbot
 :status: published
 :save_as: 2007/10/12/i-made-a-twitterbot/index.html
 :url: 2007/10/12/i-made-a-twitterbot/
+:private: true
 
 `There are many like it <http://twitter.pbwiki.com/Direct+Message+Bots>`__, but `this one is mine <http://labs.echoditto.com/twitterbot>`__. More to come.
 

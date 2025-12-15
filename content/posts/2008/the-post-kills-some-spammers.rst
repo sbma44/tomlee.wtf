@@ -7,6 +7,7 @@ the Post kills some spammers
 :status: published
 :save_as: 2008/11/12/the-post-kills-some-spammers/index.html
 :url: 2008/11/12/the-post-kills-some-spammers/
+:private: true
 
 It's no secret that `the newspaper industry is in trouble <http://twitter.com/cshirky/status/998786410>`__. Still, give our hometown paper credit for trying new business models. Last week we saw the Post `move strongly into the "collectible knick-knack" market <http://dcist.com/2008/11/05/special_edition_washington_post_to.php>`__. This week? `They're trying their hand at becoming a network security firm / law enforcement agency <http://www.washingtonpost.com/wp-dyn/content/article/2008/11/12/AR2008111200658_pf.html>`__ (this via `Tom Bridge <http://twitter.com/tbridge/status/1002184031>`__.
 

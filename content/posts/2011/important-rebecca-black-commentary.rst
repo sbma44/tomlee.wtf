@@ -7,6 +7,7 @@ important Rebecca Black commentary
 :status: published
 :save_as: 2011/03/18/important-rebecca-black-commentary/index.html
 :url: 2011/03/18/important-rebecca-black-commentary/
+:private: true
 
 Yes, yes, the song is awful, and internet commenters are mean, and she's very `inspiring <http://www.npr.org/blogs/monkeysee/2011/03/18/134652534/ridiculed-youtube-singer-rebecca-black-grabs-a-mountain-of-bull-by-the-horns?ft=1&f=93568166>`__, etc.  But what about the *technology*?
 

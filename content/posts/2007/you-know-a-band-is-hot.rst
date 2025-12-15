@@ -7,6 +7,7 @@ you know a band is hot
 :status: published
 :save_as: 2007/02/14/you-know-a-band-is-hot/index.html
 :url: 2007/02/14/you-know-a-band-is-hot/
+:private: true
 
 ...when it's making its way into email spam. Forget `Google <http://www.google.com/press/zeitgeist.html>`__ — this is the real measure of the online zeitgeist.
 

@@ -7,6 +7,7 @@ new and better ways to make air travel worse
 :status: published
 :save_as: 2008/06/04/new-and-better-ways-to-make-air-travel-worse/index.html
 :url: 2008/06/04/new-and-better-ways-to-make-air-travel-worse/
+:private: true
 
 Well, I'm sitting in Dulles airport. Rain fell for about ten minutes during the drive out here, and the consequences have been dire: not only is my flight delayed, but the jetway has somehow been damaged and a power surge left the display board frozen in a cruel "ON TIME" rictus.
 

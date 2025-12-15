@@ -7,6 +7,7 @@ CISPA
 :status: published
 :save_as: 2012/04/16/cispa/index.html
 :url: 2012/04/16/cispa/
+:private: true
 
 A `campaign opposing the legislation <https://cyberspying.eff.org/>`__ launched about three minutes ago -- Sunlight is among the signatories.  It's going to be interesting to see how this works out:
 

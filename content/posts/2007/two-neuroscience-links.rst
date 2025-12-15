@@ -7,6 +7,7 @@ two neuroscience links
 :status: published
 :save_as: 2007/04/18/two-neuroscience-links/index.html
 :url: 2007/04/18/two-neuroscience-links/
+:private: true
 
 First, a discussion of `Dostoyevsky's epilepsy <http://neurophilosophy.wordpress.com/2007/04/16/diagnosing-dostoyevskys-epilepsy/>`__. I haven't got much to add; it's interesting stuff, though.
 

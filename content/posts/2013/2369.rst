@@ -5,6 +5,7 @@ Tenth of December: Stories
 :category: books
 :slug: 2369
 :status: draft
+:private: true
 
 | New comment on `Raul <http://www.goodreads.com/user/show/2865927>`__'s review of
 | `Tenth of December: Stories <http://www.goodreads.com/book/show/13641208-tenth-of-december>`__

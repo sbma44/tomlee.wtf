@@ -7,6 +7,7 @@ nonstandard dot net
 :status: published
 :save_as: 2007/01/23/nonstandard-dot-net/index.html
 :url: 2007/01/23/nonstandard-dot-net/
+:private: true
 
 It's slightly ridiculous, but I have to confess that I've only recently discovered `Hype Machine <http://hype.non-standard.net>`__. I've been aware of its existence for a while, but my previous attempts to use it always met with failure. The flash player didn't work right on my old laptop, and the HM iTunes link never has and still doesn't work properly for me. With those functions unavailable, I didn't see a compelling-enough reason to use the site.
 

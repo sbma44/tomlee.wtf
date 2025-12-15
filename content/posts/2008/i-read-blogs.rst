@@ -7,6 +7,7 @@ I read blogs
 :status: published
 :save_as: 2008/01/28/i-read-blogs/index.html
 :url: 2008/01/28/i-read-blogs/
+:private: true
 
 Alright. I am, admittedly, not an economist or health care expert. But I've spent an above-average amount of time drinking with people of both persuasions. And I read `the same Derek Lowe post <http://pipeline.corante.com/archives/2008/01/28/laissezfaire.php>`__ as Megan. But I was struck with a pretty different thought as I read it, which I will now bore you with.
 

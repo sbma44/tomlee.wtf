@@ -7,6 +7,7 @@ boo
 :status: published
 :save_as: 2007/02/26/boo/index.html
 :url: 2007/02/26/boo/
+:private: true
 
 `Sue signs off <http://sueandnotu.blogspot.com/2007/02/blog-post.html>`__. This is entirely unacceptable. I can deal with blogospheric neglect, but not its formalization. But if this is the way it's going to be, I'll at least console myself by indulging in a blogubituary.
 

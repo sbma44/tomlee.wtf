@@ -7,6 +7,7 @@ I assert my moral right to deliciousness
 :status: published
 :save_as: 2007/10/12/i-assert-my-moral-right-to-deliciousness/index.html
 :url: 2007/10/12/i-assert-my-moral-right-to-deliciousness/
+:private: true
 
 `Matt <http://matthewyglesias.theatlantic.com/archives/2007/10/dreams_of_alexander_hamilton.php>`__ and `Ezra <http://ezraklein.typepad.com/blog/2007/10/the-why-is-not-.html>`__ are discussing pragmatic justifications for progressive taxation, aka WEALTH TRANSFER OMG. Will Wilkinson breaks things down `here <http://www.cato-at-liberty.org/2007/10/12/why-the-mechanisms-of-inequality-matter/>`__, and his reading seems about right to me: Matt and Ezra are gunning for maximizing well-being rather than cosmic justice. Will's probably also right about it not being a very good idea to make this argument to the public.
 

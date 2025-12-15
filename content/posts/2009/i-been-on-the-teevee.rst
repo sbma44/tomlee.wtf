@@ -7,6 +7,7 @@ I been on the teevee
 :status: published
 :save_as: 2009/05/05/i-been-on-the-teevee/index.html
 :url: 2009/05/05/i-been-on-the-teevee/
+:private: true
 
 Want to hear me say "UHHH" several hundred times? Here, this should scratch that itch:
 

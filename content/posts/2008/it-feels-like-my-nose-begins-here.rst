@@ -7,6 +7,7 @@ it feels like my nose begins here
 :status: published
 :save_as: 2008/06/26/it-feels-like-my-nose-begins-here/index.html
 :url: 2008/06/26/it-feels-like-my-nose-begins-here/
+:private: true
 
 |20080626_greengun.jpg|
 

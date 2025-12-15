@@ -7,6 +7,7 @@ buy now, pay later
 :status: published
 :save_as: 2011/03/13/buy-now-pay-later/index.html
 :url: 2011/03/13/buy-now-pay-later/
+:private: true
 
 I guess it's serendipity that `this post <http://yglesias.thinkprogress.org/2011/03/huckabee-romney-and-the-beast/>`__ showed up over at Yglesias's blog this morning.  It discusses a paper that argues that deficits actually lead to more demand for government, as shifting costs to the future lowers the public's sense of the cost of government services, prompting them to consume more.  This doesn't seem very controversial to me (or at least I'm not qualified to say anything interesting about it).
 

@@ -7,6 +7,7 @@ time for a mystery
 :status: published
 :save_as: 2008/07/23/time-for-a-mystery/index.html
 :url: 2008/07/23/time-for-a-mystery/
+:private: true
 
 Alright internet, I need theories. We have a problem at work: it's our dishwasher. It's a relatively recent acquisition — one of those miniature units that feel dainty and ridiculous, but which are quite useful for taming the tower of coffee mugs and soiled tupperware that would otherwise teeter over the sink. For that, it's great.
 

@@ -7,6 +7,7 @@ iPhone presence detection
 :status: published
 :save_as: 2008/01/24/iphone-presence-detection/index.html
 :url: 2008/01/24/iphone-presence-detection/
+:private: true
 
 I have `a post up over at EchoDitto Labs <http://labs.echoditto.com/iphone-presence-detection>`__ talking about detecting the presence of an iPhone over a wifi network.
 

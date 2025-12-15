@@ -7,6 +7,7 @@ oh, MT
 :status: published
 :save_as: 2008/08/13/oh-mt/index.html
 :url: 2008/08/13/oh-mt/
+:private: true
 
 Around work I'm known as something of a Movable Type apologist. I can't help it — it's how I was raised. MT was the first thing I tried to install `six years ago <http://www.zunta.org/blog/archives/2002/08/28/narcissism_what/>`__ when I decided to check out the burgeoning blogging phenomenon, back when the media was merely interested in, rather than terrified of, the whole business.
 

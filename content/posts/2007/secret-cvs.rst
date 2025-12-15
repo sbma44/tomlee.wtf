@@ -7,6 +7,7 @@ secret CVS
 :status: published
 :save_as: 2007/04/02/secret-cvs/index.html
 :url: 2007/04/02/secret-cvs/
+:private: true
 
 I was at Cafe Cozy Corner yesterday morning, which is part of a Brigadoon-like complex of businesses that seems to have erupted at 10th and L over the weekend. Most notable among them is an almost completely deserted CVS — I'm pretty excited at the prospect of having a drug store a mere four blocks from my house. It's true that it won't stock anything that Giant doesn't, but it's also true that checking out at Giant always involves at least twenty minutes of standing in line.
 

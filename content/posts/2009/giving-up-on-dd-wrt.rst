@@ -7,8 +7,9 @@ giving up on DD-WRT
 :status: published
 :save_as: 2009/05/11/giving-up-on-dd-wrt/index.html
 :url: 2009/05/11/giving-up-on-dd-wrt/
+:private: true
 
-My `DD-WRT adventures <http://www.manifestdensity.net/2009/05/05/python_on_the_fonera/>`__ have come to an end. I spent a long time finding the perfect firmware, cramming Python into it, massaging libraries and... found an immovable roadblock.
+My `DD-WRT adventures </2009/05/05/artomatic-update-python-on-the-fonera/>`__ have come to an end. I spent a long time finding the perfect firmware, cramming Python into it, massaging libraries and... found an immovable roadblock.
 
 Here's the thing: in DD-WRT the serial port — which I intend to use for communication between the Arduino and Fonera — is connected to the Linux console. This makes sense: that port is there as an interface of last resort, but it'w only useful if it's actually connected to something like the shell. Unfortunately, a side effect of this is that all incoming communication triggers system commands — regardless of whether it's from an administrator who's just accidentally screwed up his ethernet port or from a microcontroller trying to politely say hello. Worse, the console hogs the serial port, preventing my Python script from reading from it at all.
 

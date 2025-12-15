@@ -7,6 +7,7 @@ full size images in Flickr RSS feeds
 :status: published
 :save_as: 2007/04/02/full-size-images-in-flickr-rss-feeds/index.html
 :url: 2007/04/02/full-size-images-in-flickr-rss-feeds/
+:private: true
 
 Something that JP and I just figured out at work: how to change a Flickr RSS feed so that it returns images larger than the default, using Yahoo Pipes. `Here's <http://pipes.yahoo.com/pipes/pipe.run?_id=8je0aFnh2xG9imFFJxOy0Q&_render=rss>`__ a feed of my photos demonstrating the functionality. `Here's <http://pipes.yahoo.com/pipes/pipe.info?_id=8je0aFnh2xG9imFFJxOy0Q>`__ the pipe in question, so that you can adapt it to your own feeds. And `here's <http://www.flickr.com/services/api/misc.urls.html>`__ Flickr's documentation on its URL formats — if the 1024 pixel size is too large for you (or you want a smaller-than-normal image for some reason) consult that link and replace the "\_b" in the first regex block with the appropriate underscore + letter combination (or remove it entirely for the default size of 500 pixels on the longest side).
 

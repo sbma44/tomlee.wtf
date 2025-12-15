@@ -7,6 +7,7 @@ the fruits of our labors
 :status: published
 :save_as: 2007/02/27/the-fruits-of-our-labors/index.html
 :url: 2007/02/27/the-fruits-of-our-labors/
+:private: true
 
 |title graphic from the fifth episode of Defenders of Stan|\ The episode of *Defenders of Stan* in which I, `Emily <http://www.movering.com>`__, Hemal and two mysterious strangers `got to be extras </2007/02/19/superheroics/>`__ is `now online <http://www.channel102.net/view.php?epid=206>`__.
 

@@ -5,6 +5,7 @@ oh right, that dumb thing
 :category: Uncategorized
 :slug: 2909
 :status: draft
+:private: true
 
 UPDATE: DO NOT PUBLISH, THIS HAS ALL BEEN DONE
 

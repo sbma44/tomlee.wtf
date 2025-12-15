@@ -7,6 +7,7 @@ CVS sociology
 :status: published
 :save_as: 2007/04/02/cvs-sociology/index.html
 :url: 2007/04/02/cvs-sociology/
+:private: true
 
 So, as you might imagine, this new CVS will be the point around which my mental landscape revolves for the next few days. On that note, I've already begun to make cutting new observations about my new drugstore-based lifestyle.
 

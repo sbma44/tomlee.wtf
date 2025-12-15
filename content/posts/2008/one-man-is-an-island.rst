@@ -7,6 +7,7 @@ one man is an island
 :status: published
 :save_as: 2008/04/15/one-man-is-an-island/index.html
 :url: 2008/04/15/one-man-is-an-island/
+:private: true
 
 If you know anything about my musical tastes at all, you know that I'm a fan of the Unicorns. God but I loved that band. This was a group whose first press photo was of `their brutal murder </static/2008/04/15/unicorns_murdered.jpg>`__, who wrote pop songs about ghosts and dying and getting famous and then some more ghosts, and who couldn't be bothered with verses and choruses because there was just too much great stuff to cram into each song. The first time I saw them they wore matching pink tuxedos and swung from the rafters.
 

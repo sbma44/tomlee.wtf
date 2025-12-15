@@ -7,6 +7,7 @@ Andy and Lee Ann done got married
 :status: published
 :save_as: 2007/07/08/andy-and-lee-ann-done-got-married/index.html
 :url: 2007/07/08/andy-and-lee-ann-done-got-married/
+:private: true
 
 Ladies and gentlemen, the Porters. We're freshly back from Andy and Lee Ann's wedding in lovely Winchester, Va. The bride was radiant, the groom was handsome, and no fights broke out. Well, `almost <http://www.flickr.com/photos/sbma44/757216202/>`__ no fights.
 

@@ -7,6 +7,7 @@ counterpoint: you are all a bunch of whiney babies
 :status: published
 :save_as: 2010/02/10/counterpoint-you-are-all-a-bunch-of-whiney-babies/index.html
 :url: 2010/02/10/counterpoint-you-are-all-a-bunch-of-whiney-babies/
+:private: true
 
 Snow is great! `Amanda is crazy <http://blogstretch.blogspot.com/2010/02/it-is-still-snowing.html>`__! Working from home is nice! And yes, I'm kind of sick of reading, and okay, I ate sardine tacos for lunch, and no, I have no idea what I would do if my power went out (but it's okay because THAT WILL NEVER HAPPEN).
 

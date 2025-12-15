@@ -7,6 +7,7 @@ h street
 :status: published
 :save_as: 2007/05/24/h-street/index.html
 :url: 2007/05/24/h-street/
+:private: true
 
 `Tonight <http://upcoming.yahoo.com/event/172623/>`__! Charles, Aaron, Adam and Spencer! The Red and the Black! With `The Daybreak Line <http://www.myspace.com/thedaybreakline>`__! Quickly now — agree to come before my tolerance for exclamation points falters!
 

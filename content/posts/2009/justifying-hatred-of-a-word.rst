@@ -7,6 +7,7 @@ justifying hatred of a word
 :status: published
 :save_as: 2009/12/18/justifying-hatred-of-a-word/index.html
 :url: 2009/12/18/justifying-hatred-of-a-word/
+:private: true
 
 Yglesias `responds <http://yglesias.thinkprogress.org/archives/2009/12/memo-to-michael-wolff-bitch-is-a-sexist-term.php>`__ to Michael Wolff's ruminations on Chuck Schumer calling a flight attendant a bitch:
 

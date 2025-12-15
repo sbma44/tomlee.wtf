@@ -7,6 +7,7 @@ said it once before but it bears repeating
 :status: published
 :save_as: 2008/05/15/said-it-once-before-but-it-bears-repeating/index.html
 :url: 2008/05/15/said-it-once-before-but-it-bears-repeating/
+:private: true
 
 It's hard to maintain a sense of what counts as novel. I run into this all the time when trying to come up with posts for `TechDirt <http://techdirt.com>`__: the struggle to construct an interesting perspective rather than a bland restatement of what should be obvious to any casual observer. Yet, often as not when I fail and post something that seems like a vanilla rehashing of well-trodden ground, the comments fill up with people who are confused or shocked or in violent disagreement over what I thought were settled issues.
 

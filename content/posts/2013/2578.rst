@@ -5,5 +5,6 @@ In Sunlight and in Shadow
 :category: books
 :slug: 2578
 :status: draft
+:private: true
 
 | Shelves: to-read

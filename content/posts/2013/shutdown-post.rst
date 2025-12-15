@@ -5,6 +5,7 @@ shutdown post
 :category: Uncategorized
 :slug: shutdown-post
 :status: draft
+:private: true
 
 ..
 

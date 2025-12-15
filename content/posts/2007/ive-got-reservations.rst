@@ -7,6 +7,7 @@ I've got reservations
 :status: published
 :save_as: 2007/09/27/ive-got-reservations/index.html
 :url: 2007/09/27/ive-got-reservations/
+:private: true
 
 |Jones' candy corn soda|\ Thanks to the generosity of my coworker `Matt <http://mstem.wordpress.com>`__, I enjoyed/tolerated a can of Jones' Candy Corn Soda at lunch today. My report: it tastes like candy corn. Sort of. Also like root beer, sort of. And honey-sort-of. But mostly, it tastes like [CLOYINGLY SWEET INDUSTRIAL BYPRODUCT].
 

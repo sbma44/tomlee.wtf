@@ -7,6 +7,7 @@ Christmas Eve in the drunk tank
 :status: published
 :save_as: 2008/12/25/christmas-eve-in-the-drunk-tank-2/index.html
 :url: 2008/12/25/christmas-eve-in-the-drunk-tank-2/
+:private: true
 
 It has to be said: Black Cat Christmas Eve has fallen off in a pretty serious way. I just got back from it, and yeah, I had a nice time. My friends were there, and beer was there, and unexpected friendly acquaintances were there, and it was pretty good. But the atmosphere was terrible. This was, `I think <http://www.zunta.org/blog/archives/2006/01/02/personal_failur/>`__, the fourth installment of this tradition, but right now I'm worried that we may have to find a new venue for the fifth.
 

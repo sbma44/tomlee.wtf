@@ -5,6 +5,7 @@ we have a winner
 :category: personal
 :slug: 128
 :status: draft
+:private: true
 
 Remember when my `checkcard number was stolen </2007/01/21/more-crime/>`__? Well, today I got an email that explains how it probably happened:
 

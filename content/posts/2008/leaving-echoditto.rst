@@ -7,6 +7,7 @@ leaving EchoDitto
 :status: published
 :save_as: 2008/12/05/leaving-echoditto/index.html
 :url: 2008/12/05/leaving-echoditto/
+:private: true
 
 I haven't written anything here all week, and didn't write much for a while beforehand. That's because I've been putting off writing this post.
 

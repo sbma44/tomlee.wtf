@@ -7,6 +7,7 @@ surprisingly, I don't consider myself a jerk
 :status: published
 :save_as: 2008/03/28/surprisingly-i-dont-consider-myself-a-jerk/index.html
 :url: 2008/03/28/surprisingly-i-dont-consider-myself-a-jerk/
+:private: true
 
 Some people really don't like it when I talk about the tech behind mp3-sharing/discovery websites like `Muxtape <http://muxtape.com>`__ or the `Hype Machine <http://hypem.com>`__. I can't say I'm incredibly surprised that Anthony from the HM feels this way. He's built a successful and useful website which I assume makes him at least a little money, and naturally he's going to feel a little put-upon by those who assert, as I do, that the present moral and legal norms (to say nothing of the laws) that help form his site's unique niche are incoherent and probably untenable. I do sincerely appreciate Anthony's willingness to engage with me via the thoughtful comments he's left.
 

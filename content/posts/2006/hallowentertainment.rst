@@ -7,6 +7,7 @@ hallowentertainment
 :status: published
 :save_as: 2006/10/24/hallowentertainment/index.html
 :url: 2006/10/24/hallowentertainment/
+:private: true
 
 | I really, really love Halloween. It's clearly the best holiday ever, as Kriston ably explains `here <http://grammarpolice.net/archives/000376.php>`__. But my track record of displaying my love for the occasion is mixed, and this year I'm being particularly lame. I haven't acquired any pumpkins, I haven't decided on a costume, and I certainly haven't summoned any unspeakable creatures of ancient evil from beyond the bounds of sane men's dreams. I'm dropping the ball.
 | I've made my peace with this, though. I've more or less resigned myself to dealing with middle age by being the creepy guy who puts way too much effort into decorating his house each year, so it's okay if I run up a Halloween-related karmic debt right now. Besides, by the time next year's celebration rolls around I anticipate having learned how to make animatronic monsters (leaving only genuine necromancy remaining on my lifetime h'ween syllabus).

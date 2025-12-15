@@ -7,6 +7,7 @@ die mail die
 :status: published
 :save_as: 2009/08/06/die-mail-die/index.html
 :url: 2009/08/06/die-mail-die/
+:private: true
 
 ` <http://yglesias.thinkprogress.org/archives/2009/08/people-like-the-postal-service.php>`__\ |a_SMASHBOX|\ The Postal Service is dying, and I guess that's sort of sad except for how much `I despise everything about mail </2007/08/20/admitting-defeat/>`__.
 

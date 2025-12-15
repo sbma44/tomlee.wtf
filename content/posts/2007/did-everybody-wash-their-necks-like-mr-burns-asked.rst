@@ -7,6 +7,7 @@ did everybody wash their necks like Mr. Burns asked?
 :status: published
 :save_as: 2007/02/13/did-everybody-wash-their-necks-like-mr-burns-asked/index.html
 :url: 2007/02/13/did-everybody-wash-their-necks-like-mr-burns-asked/
+:private: true
 
 On the way into work this morning I saw a large, gaily-decorated RV with nurses inside of it. It was, of course, a blood donation van — a bloodmobile. More specifically, it was the Children's Bloodmobile:
 

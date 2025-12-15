@@ -7,6 +7,7 @@ news you can lose
 :status: published
 :save_as: 2008/12/23/news-you-can-lose/index.html
 :url: 2008/12/23/news-you-can-lose/
+:private: true
 
 For the last week or so, I've had `this post of Matt's <http://feeds.feedburner.com/~r/matthewyglesias/~3/485937058/news_without_the_paper.php>`__ flagged in my RSS reader, waiting for a response. In it, he castigates the advertising market for failing to competently embrace the web. Today the conversation continues: `Ezra responds <http://www.prospect.org/csnc/blogs/ezraklein_archive?month=12&year=2008&base_name=there_is_nothing_anyone_can_do>`__ to `Clay Shirky <http://www.boingboing.net/2008/12/08/the-newspaper-indust.html>`__, and says that, contrary to what Shirky implies, the newspaper's death became inevitable the instant digital technology was invented. Matt `responds <http://yglesias.thinkprogress.org/archives/2008/12/what_might_have_been_6.php>`__, noting, among other things, that newspaper brands will survive (which seems right — if `Nuprin can do it <http://www.nytimes.com/2008/05/18/magazine/18rebranding-t.html?ref=magazine>`__, so can the New York Times), and that the papers' failure to hang on to their classifieds business was a major mistake. I think that brings us up to date (whew!).
 

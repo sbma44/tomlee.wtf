@@ -7,6 +7,7 @@ the impression of competence is easier to attain and nearly as good
 :status: published
 :save_as: 2009/04/22/the-impression-of-competence-is-easier-to-attain-and-nearly-as-good/index.html
 :url: 2009/04/22/the-impression-of-competence-is-easier-to-attain-and-nearly-as-good/
+:private: true
 
 I have not been having good bicycle luck. Since Friday I've ruptured five innertubes and had two tire levers snap. The flats have forced me to walk through the cold, then the rain, then the cold again; I've had to skip appointments and be late to work and walk in bad shoes until my feet ache. My fingers are suffused with brake dust; my hands look like they belong to a Pompeiian mummy.
 

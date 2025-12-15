@@ -7,6 +7,7 @@ Fleischer on copyright
 :status: published
 :save_as: 2008/06/10/fleischer-on-copyright/index.html
 :url: 2008/06/10/fleischer-on-copyright/
+:private: true
 
 `Rasmus Fleischer's essay over at Cato Unbound <http://www.cato-unbound.org/2008/06/09/rasmus-fleischer/the-future-of-copyright/>`__ on copyright is a little muddled by virtue of its ambitious scope, but it's good and you should read it. My favorite part:
 

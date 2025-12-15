@@ -5,6 +5,7 @@ there can be no peace
 :category: Uncategorized
 :slug: 585
 :status: draft
+:private: true
 
 | Adrienne offers an olive branch in the form of a `thoughtful, fair-minded post <http://dredgereport.wordpress.com/2008/06/25/trafficking-in-stereotypes/>`__ that acknowledges the failures of pedestrians, cyclists and drivers, and suggests a way forward, toward comity. I believe the plan involves having our children go to pacifist summer camps together.
 | To which I can only say: no! Never! Bicycling is the one true mode of transportation, and `Sheldon Brown <http://www.sheldonbrown.com/repair/index.html>`__ is its prophet! Unbelievers will burn like dried chaff before the ravenous fire of our spoked righteousness!

@@ -7,6 +7,7 @@ the SoapBlox soap opera
 :status: published
 :save_as: 2009/01/08/the-soapblox-soap-opera/index.html
 :url: 2009/01/08/the-soapblox-soap-opera/
+:private: true
 
 I've been watching the SoapBlox saga, and its coverage, with morbid fascination — my interest and the vehemence of my reaction to it all are probably a sign of the increasingly provincial nature of my expertise, I suppose, and that's a little depressing. But still, I feel compelled to point out that most of the reaction to it is idiotic.
 

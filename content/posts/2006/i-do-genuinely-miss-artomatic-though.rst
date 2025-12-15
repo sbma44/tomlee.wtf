@@ -7,6 +7,7 @@ I do genuinely miss Artomatic, though
 :status: published
 :save_as: 2006/11/01/i-do-genuinely-miss-artomatic-though/index.html
 :url: 2006/11/01/i-do-genuinely-miss-artomatic-though/
+:private: true
 
 | I'm not sure why, but tech-heavy art seems to drive me insane. I've got an `irrational hatred <http://grammarpolice.net/archives/001105.php#comments>`__ of Cory Arcangel, and stuff like `this <http://www.t11s.com/erase.html>`__ infuriates me (I mean, `c'mon <http://andrewhitchcock.org/index.pl?page=binladen>`__). Watch the video on `this page <http://www.t11s.com/fishpain.html>`__ and see if you don't feel the same sense of baffling disorientation that I do.
 | I'll happily admit that my knowledge of art is confined to the few scraps of ARTH 101 & 102 that haven't yet been pushed from my brain by subsequently-acquired knowledge about Tivo operation, professional wrestling and other pursuits important to the 21st century male lifestyle. But as a geek, I still have a visceral reaction against rebadging tech projects as art.

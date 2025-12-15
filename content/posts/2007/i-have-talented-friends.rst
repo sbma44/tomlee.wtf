@@ -7,6 +7,7 @@ I have talented friends
 :status: published
 :save_as: 2007/03/16/i-have-talented-friends/index.html
 :url: 2007/03/16/i-have-talented-friends/
+:private: true
 
 You're probably pretty sick of reading posts from me that start off by complaining about how far behind on everything I am. So am I, for what it's worth. But a lot happened over the course of the ten days when I was gone, and I feel like I need to sift through it if I'm ever going to return to the state of continuous partial attention that I left.
 

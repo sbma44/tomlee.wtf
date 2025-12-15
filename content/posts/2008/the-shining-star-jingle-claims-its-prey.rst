@@ -7,6 +7,7 @@ the "shining star" jingle claims its prey
 :status: published
 :save_as: 2008/03/17/the-shining-star-jingle-claims-its-prey/index.html
 :url: 2008/03/17/the-shining-star-jingle-claims-its-prey/
+:private: true
 
 Hey there. I'm no longer in Puerto Rico! Oh, right, I should've mentioned: Emily and I are going to Puerto Rico. Were going. Sorry. You know what I mean.
 

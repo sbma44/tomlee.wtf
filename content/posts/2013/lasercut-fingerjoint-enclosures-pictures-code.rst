@@ -7,6 +7,7 @@ lasercut fingerjoint enclosures; pictures & code
 :status: published
 :save_as: 2013/05/31/lasercut-fingerjoint-enclosures-pictures-code/index.html
 :url: 2013/05/31/lasercut-fingerjoint-enclosures-pictures-code/
+:private: true
 
 My `last <http://www.flickr.com/photos/sbma44/5748853361/in/photostream/>`__ laser-cut finger-joint project (and the `electronics inside <http://www.flickr.com/photos/sbma44/5726518448/in/photostream/>`__) was meant to be a time machine, an emergency device, a way to bend reality. Also, it was octagonal. These aims proved to be unrealistic. I did pull off the octagonal bit, but even that was a struggle.
 

@@ -7,6 +7,7 @@ my ignorance revealed: spending freeze edition
 :status: published
 :save_as: 2010/01/26/my-ignorance-revealed-spending-freeze-edition/index.html
 :url: 2010/01/26/my-ignorance-revealed-spending-freeze-edition/
+:private: true
 
 I asked this on Twitter last night, then quickly backed off, deferring to smarter friends to explain their outrage over the spending freeze that the President is proposing. I mean, in general I get it: we're liberals, we believe the government needs to expand in various ways, and we'd like to have some freedom to spend on our policy priorities while we're in power. It seems stupid for the president to tie his hands behind his back without even extracting concessions for doing so.
 

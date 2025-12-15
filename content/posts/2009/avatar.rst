@@ -7,6 +7,7 @@ Avatar!
 :status: published
 :save_as: 2009/12/20/avatar/index.html
 :url: 2009/12/20/avatar/
+:private: true
 
 So, look: the conservatives have a point: this movie does not present an even-handed consideration of the case for rapacious, imperial, homicidal, psychotic resource extraction. Probably there are some really cool consumer electronics that were made possible by burning down the ancestral homeland of that indigenous population!  Not once does James Cameron's script discuss the boost in Na'vi GDP made possible by the incineration of their psychic soul tree thing.  For shame.
 

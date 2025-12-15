@@ -7,6 +7,7 @@ don't let's start
 :status: published
 :save_as: 2006/10/10/dont-lets-start/index.html
 :url: 2006/10/10/dont-lets-start/
+:private: true
 
 I've been `pretty excited <http://www.zunta.org/blog/archives/2005/01/13/not_to_put_too/>`__ about `this record <http://www.amazon.com/Hello-Radio-Songs-Might-Giants/dp/B000FQVYF4/sr=8-1/qid=1160534460/ref=pd_bbs_1/002-0432362-5412058?ie=UTF8>`__ for a pretty long time. An album of covers of They Might Be Giants songs? With The Wrens handling "Birdhouse In Your Soul"? That's something that both present- and 14-year-old-me would stand in line for (which would be fun in its own right: I'd have so much comic- and videogame-based wisdom to impart...).
 

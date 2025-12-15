@@ -7,6 +7,7 @@ a foreign service wife
 :status: published
 :save_as: 2011/02/21/a-foreign-service-wife/index.html
 :url: 2011/02/21/a-foreign-service-wife/
+:private: true
 
 My grandfather was no slouch: he was a Rhodes Scholar and had successful careers in the foreign service and pharmaceutical industry.  But that's not what I remember him for.  Instead I think about his absent-minded professorial air; his tendency to try to repair everything with epoxy; his fondness for hollering out `Aura Lee <http://en.wikipedia.org/wiki/Aura_Lea>`__ after too many sherries; his kindness, which was so profound that it -- and it alone -- could bridge the bitterness of his kids' divorces.  Part of the reason these traits took the foreground was that he was by nature a humble guy.  But a big part was that he happily shared a stage with my grandmother.
 

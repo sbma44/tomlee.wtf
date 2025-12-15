@@ -7,6 +7,7 @@ when to be pissed off at an airline
 :status: published
 :save_as: 2010/12/23/when-to-be-pissed-off-at-an-airline/index.html
 :url: 2010/12/23/when-to-be-pissed-off-at-an-airline/
+:private: true
 
 I had some interesting Twitter conversations this morning about `American Airlines' departure from Orbitz <http://travel.usatoday.com/flights/post/2010/12/american-airlines-orbitz/135972/1?csp=34travel&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+TP-TodayInTheSky+(Travel+-+Today+In+the+Sky)>`__. `Various sites <http://consumerist.com/2010/12/american-airlines-yanks-fares-from-orbitz.html>`__ seem to be pissed off at AA for this, presumably because they interpret any additional consumer inconvenience as the likely result of a greedy corporate cash grab. That's not a terrible rule of thumb, but in this case the situation is a little more complicated.
 

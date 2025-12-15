@@ -7,6 +7,7 @@ I went to UVA
 :status: published
 :save_as: 2014/12/06/i-went-to-uva/index.html
 :url: 2014/12/06/i-went-to-uva/
+:private: true
 
 It was the best school that I could afford, and I think it gave me a good education. But it was never a great fit for me. I met some people there that I really liked and many more that I didn't. I identified with `these kids <http://www.imdb.com/title/tt1504300/>`__, not the ones in ties at football games. I seemed to be the only person thrilled that Stephen Malkmus had gone to UVA (including Mr. Malkmus).
 

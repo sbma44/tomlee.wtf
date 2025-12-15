@@ -7,6 +7,7 @@ another triumphant return
 :status: published
 :save_as: 2007/02/25/another-triumphant-return/index.html
 :url: 2007/02/25/another-triumphant-return/
+:private: true
 
 So look, cut me some slack. It's been a rough week: between work trauma and being sick enough to miss a full day of work for the first time in I don't know how long, this wasn't very bloggy week for me. Well, not here, anyway; I was happy to pursue titillating inquiries into American Idol contestants over at `DCist <http://www.dcist.com/archives/2007/02/23/the_districts_i.php>`__.
 

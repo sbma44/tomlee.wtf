@@ -7,6 +7,7 @@ oldies but goodies
 :status: published
 :save_as: 2007/03/17/oldies-but-goodies/index.html
 :url: 2007/03/17/oldies-but-goodies/
+:private: true
 
 I'm sitting on the couch, watching Tivoed episodes of `Tony Bourdain's fantastic travel show <http://travel.discovery.com/fansites/bourdain/bourdain-season3.html>`__, sipping coffee and settling in for a day of `coding-for-fun </2007/03/14/similarity-matrix-2/>`__ and `basketball-watching <http://asap.washingtonpost.com/tourneytracker/bracket.html?FxeL>`__ (I got off to an okay start, but I know I'm doomed). It's so, so nice.
 

@@ -7,6 +7,7 @@ actual institute may not match photo
 :status: published
 :save_as: 2007/11/10/actual-institute-may-not-match-photo/index.html
 :url: 2007/11/10/actual-institute-may-not-match-photo/
+:private: true
 
 Last night I went to go see `Ray's <http://wryandstanley.blogspot.com>`__ band, `Truman Sparks <http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendID=15265814>`__. They were supposed to play at `Millcreek <http://www.millcreektavernphilly.com/>`__, a West Philly venue that Emily and I had been to before. We'd gone to see the final show by `Bear Attack <http://www.myspace.com/thebearattack>`__, a now-defunct punk band known for dressing up as an `owl, bear <http://www.flickr.com/photos/sbma44/1955350060/>`__ and `hunter <http://www.flickr.com/photos/sbma44/1954526831/>`__ and performing a catalog of songs solely concerned with bears and their sundry activities. Sadly, the band wasn't in costume for their final show (I'm told that costume-related disputes are the reason they broke up), and it soon became apparent that their foremost and perhaps only non-ursine distinguishing characteristic was volume.
 

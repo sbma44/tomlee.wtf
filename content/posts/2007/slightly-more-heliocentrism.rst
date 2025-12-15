@@ -7,6 +7,7 @@ slightly more Heliocentrism
 :status: published
 :save_as: 2007/08/21/slightly-more-heliocentrism/index.html
 :url: 2007/08/21/slightly-more-heliocentrism/
+:private: true
 
 I might have to reconsider the Ocean: `Matt <http://mstem.wordpress.com/>`__ tipped me off to the fact that some intrepid Helio users have `figured out a way to load J2ME apps on the phone <http://www.heliocity.net/2007/opera-mini-for-everybody-custom-apps-yay/>`__. The first big success is Opera Mini, an excellent web browser that can now supplant the Ocean's neutered default browser.
 

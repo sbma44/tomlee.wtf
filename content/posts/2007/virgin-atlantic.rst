@@ -7,6 +7,7 @@ Virgin Atlantic
 :status: published
 :save_as: 2007/08/09/virgin-atlantic/index.html
 :url: 2007/08/09/virgin-atlantic/
+:private: true
 
 Boi/ngBoi/ng took an `ride <http://feeds.feedburner.com/~r/boingboing/iBag/~3/142187317/getting_high_with_ri.html>`__ on Richard Branson's new airline and had a great time. Suddenly I wish I had a reason to fly somewhere — I suppose `living vicariously through Jeff <http://www.jeffnye.org/adventures/2007/07/the_gift_of_flight_1.php>`__ will have to do.
 

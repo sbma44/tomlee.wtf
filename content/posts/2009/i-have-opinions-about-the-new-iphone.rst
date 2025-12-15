@@ -7,6 +7,7 @@ I HAVE OPINIONS ABOUT THE NEW IPHONE!!!!
 :status: published
 :save_as: 2009/06/09/i-have-opinions-about-the-new-iphone/index.html
 :url: 2009/06/09/i-have-opinions-about-the-new-iphone/
+:private: true
 
 Yesterday Apple announced a shiny new version of its signature mobile device. This prompted considerable acclaim. However, within hours of the announcement, new revelations emerged. It became known that — presumably due to the malign influence of AT&T (a company that, unlike Apple, is capable of wrongdoing) — the new iPhone would be sold under a nefarious scheme specifically constructed to line the pockets of those peddling it at a rate brazenly designed to cover the cost of each unit's production — `and even more <http://www.crunchgear.com/2009/06/08/want-an-iphone-3g-s-already-have-an-iphone-3g-be-prepared-to-pay-700-to-upgrade/>`__, if you can believe it!
 

@@ -5,5 +5,6 @@ Against Top Chef
 :category: Uncategorized
 :slug: 996
 :status: draft
+:private: true
 
 I guess that I don't really understand Top Chef. Not all of it, anyway. I coMprehend parts: the clashing personalities entertain, like a Hell's Kitchen (but with enough nuance to make things tolerable). The culinary tourism is fun, if less exotic and compelling than what Iron Chef can offer. And Tom Colicchio is charismatic, I suppose, albeit in a way that can be pretty well reduced to the phrase "Fuck 'em".

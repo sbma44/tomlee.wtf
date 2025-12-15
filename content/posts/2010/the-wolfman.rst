@@ -7,6 +7,7 @@ The Wolfman
 :status: published
 :save_as: 2010/02/15/the-wolfman/index.html
 :url: 2010/02/15/the-wolfman/
+:private: true
 
 (Spoilers ahead)
 

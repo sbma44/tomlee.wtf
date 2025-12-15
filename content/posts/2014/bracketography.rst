@@ -7,6 +7,7 @@ bracketography
 :status: published
 :save_as: 2014/03/20/bracketography/index.html
 :url: 2014/03/20/bracketography/
+:private: true
 
 Reentering an NCAA bracket across multiple sites drives me nuts -- it's an obvious data format problem that could be solved very simply.
 

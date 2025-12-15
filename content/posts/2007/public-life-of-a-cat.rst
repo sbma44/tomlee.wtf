@@ -7,6 +7,7 @@ public life of a cat
 :status: published
 :save_as: 2007/06/06/public-life-of-a-cat/index.html
 :url: 2007/06/06/public-life-of-a-cat/
+:private: true
 
 Remember that ridiculously sunny, poppy band I `linked to </2007/03/22/its-sunny-and-beautiful-outside/>`__ a while ago? The Lovekevins? Sure you do. Well, they're going to be playing at Natalya and Melissa's `Scandi-pop DJ night <http://www.myspace.com/hejhejdc>`__ at DC9 on `July 10 <http://www.flickr.com/photos/22137978@N00/532276021/>`__. Sounds like fun.
 

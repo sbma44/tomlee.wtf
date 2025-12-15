@@ -7,6 +7,7 @@ superheroics
 :status: published
 :save_as: 2007/02/19/superheroics/index.html
 :url: 2007/02/19/superheroics/
+:private: true
 
 Saturday night was astoundingly great. Earlier in the week Josh asked me if I might like to dress up like a superhero and stand around an Arlington TV studio for a few hours. Clearly the answer was yes.
 

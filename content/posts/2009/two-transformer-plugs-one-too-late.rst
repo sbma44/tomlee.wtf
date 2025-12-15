@@ -7,6 +7,7 @@ two transformer plugs, one too late
 :status: published
 :save_as: 2009/02/27/two-transformer-plugs-one-too-late/index.html
 :url: 2009/02/27/two-transformer-plugs-one-too-late/
+:private: true
 
 It's too late for you now, you poor suckers, but you should be sorry if you missed `Spencer <http://attackerman.firedoglake.com>`__'s virtuoso performance at Transformer last night. *Iron Man vs. the Imperialists* expanded on his `Prospect essay of the same name <http://www.prospect.org/cs/articles?article=iron_man_vs_the_imperialists>`__, and managed to not only make me feel self-conscious about my pathetic knowledge of 20th century American history — which is perfectly normal, and something that happens pretty much any time someone mentions a historical event not explicitly depicted in a *Simpsons* episode — but also made me feel self-conscious about my limited knowledge of comic books, which is not something that usually happens in places that aren't the internet.
 

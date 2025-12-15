@@ -7,6 +7,7 @@
 :status: published
 :save_as: 2009/07/24/idiotic-and-sympathetic-are-mutually-exclusive/index.html
 :url: 2009/07/24/idiotic-and-sympathetic-are-mutually-exclusive/
+:private: true
 
 Via `Tim <http://www.cs.princeton.edu/~tblee/>`__, `here's the AP's new plan <http://www.nytimes.com/2009/07/24/business/media/24content.html>`__ for protecting its content from the depredations of those who would seek to promote it. Apparently they'll be adding a "digital wrapper" to each story, which will contain some sort of invisible watermark, or something, and will be able to communicate with the AP's servers in order to track unauthorized use -- including, astoundingly, use that is nothing more than a linked headline. A few points:
 

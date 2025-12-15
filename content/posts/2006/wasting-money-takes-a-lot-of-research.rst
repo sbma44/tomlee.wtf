@@ -7,6 +7,7 @@ wasting money takes a lot of research
 :status: published
 :save_as: 2006/10/09/wasting-money-takes-a-lot-of-research/index.html
 :url: 2006/10/09/wasting-money-takes-a-lot-of-research/
+:private: true
 
 A while back I did `a post on DCist <http://www.dcist.com/archives/2005/12/14/dissecting_the.php>`__ about pulling apart our subway system's SmarTrip card. I've been meaning to follow up, but wasn't quite sure what to do. The obvious next step is to try to get some data off of WMATA media. I actually took a stab at this with the old magnetic farecards, ordering the `necessary parts <http://stripesnoop.sourceforge.net/faq.html#a17>`__ and never receiving them from DigiKey.
 

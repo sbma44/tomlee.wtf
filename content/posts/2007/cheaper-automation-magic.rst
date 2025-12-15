@@ -7,6 +7,7 @@ cheaper automation magic
 :status: published
 :save_as: 2007/06/04/cheaper-automation-magic/index.html
 :url: 2007/06/04/cheaper-automation-magic/
+:private: true
 
 `Via uC Hobby <http://www.uchobby.com/index.php/2007/06/04/free-arduino-microcontroller-kits/>`__ I see that `Modern Device <http://www.moderndevice.com/>`__ is offering cheap Arduinos, a microcontroller platform that makes building tiny embedded computers easy and affordable.
 

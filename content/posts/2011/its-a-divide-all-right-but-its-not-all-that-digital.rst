@@ -7,6 +7,7 @@ it's a divide all right, but it's not all that digital
 :status: published
 :save_as: 2011/12/18/its-a-divide-all-right-but-its-not-all-that-digital/index.html
 :url: 2011/12/18/its-a-divide-all-right-but-its-not-all-that-digital/
+:private: true
 
 `This <http://www.slate.com/blogs/moneybox/2011/12/18/rich_people_are_politically_active.html>`__ is more or less why I don't spend a ton of time at work worrying about the digital divide.  It's tempting to tell yourself that the reason politically marginalized populations don't avail themselves of their representatives' attention is that they lack access to the necessary technologies.  If only you could write your senator through an SMS interface instead of needing an expensive, Javascript-capable smartphone!
 

@@ -7,6 +7,7 @@ halloween 2013
 :status: published
 :save_as: 2013/10/27/halloween-2013/index.html
 :url: 2013/10/27/halloween-2013/
+:private: true
 
 Well, that was great. It's been a few years since I'd been able to throw a proper Halloween party -- the `Fickeweens of yore <http://www.flickr.com/photos/sbma44/sets/72157602811270206/>`__ formed the start of a proud tradition, but without a venue my various skeletons', giant spiders' and fog machines' annual appearance was relegated to a fun-but-sadly-professional office open house.
 

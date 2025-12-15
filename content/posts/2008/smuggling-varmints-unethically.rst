@@ -7,6 +7,7 @@ Smuggling Varmints Unethically
 :status: published
 :save_as: 2008/11/19/smuggling-varmints-unethically/index.html
 :url: 2008/11/19/smuggling-varmints-unethically/
+:private: true
 
 I didn't see `this episode <http://pygmalioninablanket.blogspot.com/2007/11/thanksgiving-came-early-to-our-house.html>`__ so I can't say for sure, but the Law & Order: SVU that I just watched with Charles seems like a strong contender for greatest of all time. That's not saying much, of course, since Law & Order is a terrible, terrible franchise. Still, check out the plot summary as I related it to `Emily <http://movering.com>`__:
 

@@ -7,6 +7,7 @@ raise your hand if you learned the word "cloture" in school
 :status: published
 :save_as: 2007/07/17/raise-your-hand-if-you-learned-the-word-cloture-in-school/index.html
 :url: 2007/07/17/raise-your-hand-if-you-learned-the-word-cloture-in-school/
+:private: true
 
 I sure didn't. Actually, my AP Government class mostly spent its time listening to the teacher rhapsodize about Teddy Roosevelt and watching tapes of Bill Press and Bob Novak facing off on an early incarnation of *Crossfire*.
 

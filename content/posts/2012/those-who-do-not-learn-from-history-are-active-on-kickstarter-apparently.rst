@@ -7,6 +7,7 @@ those who do not learn from history are active on Kickstarter, apparently
 :status: published
 :save_as: 2012/08/16/those-who-do-not-learn-from-history-are-active-on-kickstarter-apparently/index.html
 :url: 2012/08/16/those-who-do-not-learn-from-history-are-active-on-kickstarter-apparently/
+:private: true
 
 I haven't quite figured out what to make of App.net. On the one hand, `I've been worried about the corporate nature of Twitter for a while <http://prospect.org/article/cost-hashtag-revolution>`__ -- the service is an important utility, and `I dread the rents that are going to be slowly, irritatingly and indirectly extracted from all of us as the company gets serious about making money </2011/03/13/buy-now-pay-later/>`__. App.net wants to be distributed, open and transparently funded; those are exactly the qualities I'd like to see in a Twitter replacement.
 

@@ -7,6 +7,7 @@ more of one thing doesn't mean less of another
 :status: published
 :save_as: 2008/08/19/more-of-one-thing-doesnt-mean-less-of-another/index.html
 :url: 2008/08/19/more-of-one-thing-doesnt-mean-less-of-another/
+:private: true
 
 Emily Gould, whose name I continue to be unable to read without thinking of `evil alien parasites <http://en.wikipedia.org/wiki/Goa%27uld>`__, has an article in `Technology Review <http://www.technologyreview.com/Infotech/21251/page1/>`__, of all places, in which she continues her new career as a professional haver of mixed feelings about the internet.
 

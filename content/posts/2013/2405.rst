@@ -5,6 +5,7 @@ Tom is now friends with Steph
 :category: books
 :slug: 2405
 :status: draft
+:private: true
 
 | `Tom Lee <http://www.goodreads.com/user/show/4989865-tom-lee>`__ is now friends with
 | `Steph Tatham <http://www.goodreads.com/user/show/7547024-steph>`__

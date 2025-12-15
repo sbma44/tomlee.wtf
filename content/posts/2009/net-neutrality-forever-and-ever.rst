@@ -7,6 +7,7 @@ net neutrality, forever and ever
 :status: published
 :save_as: 2009/09/21/net-neutrality-forever-and-ever/index.html
 :url: 2009/09/21/net-neutrality-forever-and-ever/
+:private: true
 
 Well, the FCC has announced its net neutrality guidelines, which means it's time for those with institutional or philosophical obligations to oppose net neutrality to express some disappointment and/or outrage.  This process will reach its apotheosis in a day or two, when the sysadmin familiars are summoned to spin some exotic technical fables about neutrality regulation sending the internet and Western civilization spiraling toward jitter-mediated destruction.  Then they will be rebutted, then they will respond, then they will be re-rebutted -- at this point we'll be talking about something entirely different than what we meant to discuss -- and they'll proceed to cudgel their interlocutors with references to network RFCs that can only be viewed if you have a key to the CERN sub-basement.  At that point we'll all drop it until the next time the FCC holds forth.
 

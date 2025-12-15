@@ -5,5 +5,6 @@ Writing on the Wall: Social Media - The First 2,000 Years
 :category: books
 :slug: 2672
 :status: draft
+:private: true
 
 Tom wants to read 'Writing on the Wall: Social Media - The First 2,000 Years'

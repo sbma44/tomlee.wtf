@@ -7,6 +7,7 @@ dress your company in corduroy and denim
 :status: published
 :save_as: 2006/12/15/dress-your-company-in-corduroy-and-denim/index.html
 :url: 2006/12/15/dress-your-company-in-corduroy-and-denim/
+:private: true
 
 `Complaining about bad company Christmas parties <http://pygmalioninablanket.blogspot.com/2006/12/cram-it-yolanda.html>`__? I'd like to get in on that.
 

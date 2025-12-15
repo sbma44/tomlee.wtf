@@ -7,6 +7,7 @@ memristors
 :status: published
 :save_as: 2008/05/05/memristors/index.html
 :url: 2008/05/05/memristors/
+:private: true
 
 Can I tell you what they are? No. Can I tell you what they do? Not really. But they appear to be a `pretty incredibly big deal <http://www.informationweek.com/news/hardware/processors/showArticle.jhtml?articleID=207403582&pgno=1&queryText=&isPrev=>`__ for the world of electronics. When something exists theoretically for decades before it becomes possible to fabricate; when it has implications for the fundamental ways a discipline explains its workings; and when, so shortly after its announced discovery, it's already been integrated into functioning systems: these are all reasons to be excited. It'll be a while before we come up with metaphors that can describe what the hell these things do in a way that makes intuitive sense to you and me, but it's not too early to recognize that, if the claims associated with memristors are true, their discovery is of immense importance.
 

@@ -7,6 +7,7 @@ my LED monstrosity
 :status: published
 :save_as: 2008/05/07/my-led-monstrosity/index.html
 :url: 2008/05/07/my-led-monstrosity/
+:private: true
 
 So! Let's talk about what I've been working on. I wasn't very good about documenting my WMATA picture frame build. This time I'm aspiring to do a better job.
 

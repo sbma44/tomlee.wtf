@@ -7,8 +7,9 @@ the problem with automating forgetfulness
 :status: published
 :save_as: 2007/05/16/the-problem-with-automating-forgetfulness/index.html
 :url: 2007/05/16/the-problem-with-automating-forgetfulness/
+:private: true
 
-Last week I used Viktor Mayer-SchÃ¶nberger's `"Useful Void" proposal <http://www.vmsweb.net/attachments/pdf/Useful_Void.pdf>`__ (PDF) as a jumping-off point to ruminate about Facebook, the work/personal divide and darknets over `here <http://www.manifestdensity.net/2007/05/10/the_internet_is_like_an_electr/>`__. Along the way I casually dismissed Mayer-SchÃ¶nberger's proposal:
+Last week I used Viktor Mayer-SchÃ¶nberger's `"Useful Void" proposal <http://www.vmsweb.net/attachments/pdf/Useful_Void.pdf>`__ (PDF) as a jumping-off point to ruminate about Facebook, the work/personal divide and darknets over `here </2007/05/10/the-internet-like-an-electronic-elephant/>`__. Along the way I casually dismissed Mayer-SchÃ¶nberger's proposal:
 
    I'm sure his heart is in the right place, but this is dumb for all the same reasons that DRM is dumb. You really, really can't control the spread or persistence of publicly available digital information. Efforts to do so are a waste of everyone's time.
 

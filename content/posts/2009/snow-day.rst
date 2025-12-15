@@ -7,6 +7,7 @@ snow day
 :status: published
 :save_as: 2009/01/27/snow-day/index.html
 :url: 2009/01/27/snow-day/
+:private: true
 
 I was pretty happy to wake up and see snowflakes falling. I'd already decided to take the day off — a tight deadline had forced me to work an extra week's worth of evenings, plus Saturday and Sunday — so I was committed to sloth irrespective of the weather. Having snow on the ground somehow made the experience of playing hooky seem more legitimate, though, and consequently more restful.
 

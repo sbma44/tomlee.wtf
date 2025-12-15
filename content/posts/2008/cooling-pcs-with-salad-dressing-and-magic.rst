@@ -7,6 +7,7 @@ cooling PCs with salad dressing and magic
 :status: published
 :save_as: 2008/07/11/cooling-pcs-with-salad-dressing-and-magic/index.html
 :url: 2008/07/11/cooling-pcs-with-salad-dressing-and-magic/
+:private: true
 
 `Kriston <http://grammarpolice.net>`__ sent me `this link <http://www.economist.com/displayStory.cfm?source=hptextfeature&story_id=11699909>`__ earlier this week, which discusses using water to cool our ever-hotter computer processors. It's an interesting read, particularly the part about using waste heat from datacenters for cogenerative heating.
 

@@ -7,6 +7,7 @@ the market selects for hype
 :status: published
 :save_as: 2013/03/21/the-market-selects-for-hype/index.html
 :url: 2013/03/21/the-market-selects-for-hype/
+:private: true
 
 The folks at the Sk/oll W/orld Forum were nice enough to let me write `some rambling thoughts about "Big Data" <http://skollworldforum.org/debate-post/big-data-as-societys-watchdog/>`__ for publication in, I'm guessing, a glossy brochure that will be flipped through if any of their event's panels prove to be particularly tedious. I am grateful for the opportunity, and congratulate myself for not making any of the childish chewing tobacco jokes that were ripping through my mind during the process.
 

@@ -7,6 +7,7 @@ it's mostly architectural controversies, but I hear they lend books, too
 :status: published
 :save_as: 2008/08/14/its-mostly-architectural-controversies-but-i-hear-they-lend-books-too/index.html
 :url: 2008/08/14/its-mostly-architectural-controversies-but-i-hear-they-lend-books-too/
+:private: true
 
 Interesting developments on the Logan Circle listserv! Apparently the new Shaw library has been going through a design process since January, at which time residents were shown this design:
 

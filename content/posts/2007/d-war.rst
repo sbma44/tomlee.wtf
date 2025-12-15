@@ -7,6 +7,7 @@ D-War
 :status: published
 :save_as: 2007/09/24/d-war/index.html
 :url: 2007/09/24/d-war/
+:private: true
 
 From the bizarre opening `production company logo <http://www.showbox.co.kr/>`__ to the moment in the climactic battle when the dragon goes through puberty, that was just about everything that one could ask for from a Korean dragon-versus-dragon movie. Along with awesome CGI and memorable catchphrases ("What are you talking about?"; "That doesn't make any sense"), it boasted the most convoluted plot in a movie of Asian provenance that I've witnessed since my third viewing of *Ninja Scroll* revealed that the elite team of ninja monsters who poisoned the village's well did so in order to manipulate gold prices in a bid to destabilize the Tokugawa Shogunate. The fiends!
 

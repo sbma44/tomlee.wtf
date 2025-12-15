@@ -7,6 +7,7 @@ despite the following, I assure you that I am an adult man
 :status: published
 :save_as: 2009/08/23/despite-the-following-i-assure-you-that-i-am-an-adult-man/index.html
 :url: 2009/08/23/despite-the-following-i-assure-you-that-i-am-an-adult-man/
+:private: true
 
 |image1|\ The `internet <http://www.theawl.com/2009/08/avatar-promo-is-the-greatest-promo-ever-will-change-the-way-you-watch-promos-etc>`__ has been assuring me that there's a new movie called *Avatar* that's coming out, and it's going to be amazing. I agree! Prior to this weekend I'd consumed the source material furtively, typically while sitting in hotel rooms waiting to fall asleep, or for someone to get out of the shower, or for the goddamn downstairs buffet to open already. That changed this weekend: Emily and I caught the end of a marathon on TV and were hooked. The first season can be streamed from Netflix, and we're already about halfway through it.
 

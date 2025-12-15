@@ -7,6 +7,7 @@ making Redskins Radio usably portable
 :status: published
 :save_as: 2009/09/10/making-redskins-radio-usably-portable/index.html
 :url: 2009/09/10/making-redskins-radio-usably-portable/
+:private: true
 
 Surely any Redskins fan will agree that foremost among Dan Snyder's sins is his selection of a broadcast outlet that only provides its audio stream in Flash.
 

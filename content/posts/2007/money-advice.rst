@@ -7,6 +7,7 @@ money advice
 :status: published
 :save_as: 2007/05/01/money-advice/index.html
 :url: 2007/05/01/money-advice/
+:private: true
 
 It's been a few weeks since tax day, and that means my time is short. In a very little while my knowledge of and attention to my finances will transform back into a pumpkin, returning to its default state: quarterly comparisons of my checking balance and bar tabs to determine whether I should be drinking less, more, or much more (there are some discontinuities in the function).
 

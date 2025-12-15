@@ -5,6 +5,7 @@ grumping about the real-time web
 :category: Uncategorized
 :slug: 1006
 :status: draft
+:private: true
 
 Alright: it's not augmented reality.  I'll give it that.
 

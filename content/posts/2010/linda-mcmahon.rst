@@ -7,6 +7,7 @@ Linda McMahon
 :status: published
 :save_as: 2010/01/07/linda-mcmahon/index.html
 :url: 2010/01/07/linda-mcmahon/
+:private: true
 
 `A thousand times yes <http://www.theawl.com/2010/01/the-current-climate>`__.  Linda McMahon *needs* to be the Republican nominee in Connecticut. So. Badly.  Can you imagine how Ambinder would cover this?
 

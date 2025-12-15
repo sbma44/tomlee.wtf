@@ -7,6 +7,7 @@ the operation was a complete success
 :status: published
 :save_as: 2012/07/07/the-operation-was-a-complete-success/index.html
 :url: 2012/07/07/the-operation-was-a-complete-success/
+:private: true
 
 I've been working on an electronics project for \*forever\*, trying to get past some nasty linux wifi bugs and on to the exciting lasercutting/3D printing/web scraping stuff that actually attracted me to the idea (the hope is to make it a repeatable but customizable gift I can give). But to be honest, my willpower has been fading -- a body can only spend so much time in a given IRC channel, asking the same obscure and tricky questions, hoping someone will deign to answer them correctly.
 

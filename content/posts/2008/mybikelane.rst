@@ -7,6 +7,7 @@ MyBikeLane
 :status: published
 :save_as: 2008/06/18/mybikelane/index.html
 :url: 2008/06/18/mybikelane/
+:private: true
 
 Via `Catherine <http://outtamindouttasite.typepad.com>`__ comes `MyBikeLane <http://dc.mybikelane.com/>`__, an effort to document (with license plate annotation!) drivers' lack of respect for bicycle lanes. This is a subject dear to my heart as, during my twice-daily commute through `Thomas Circle <http://maps.google.com/?ie=UTF8&ll=38.905428,-77.031112&spn=0.004266,0.009538&z=17>`__, I often keep myself bitter/amused by pondering how unimaginable it would be for a driver to be ticketed for violating the space defined by the bike lane.
 

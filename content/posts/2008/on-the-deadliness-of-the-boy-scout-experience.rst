@@ -7,6 +7,7 @@ on the deadliness of the boy scout experience
 :status: published
 :save_as: 2008/08/07/on-the-deadliness-of-the-boy-scout-experience/index.html
 :url: 2008/08/07/on-the-deadliness-of-the-boy-scout-experience/
+:private: true
 
 |image1|\ `The Post writeup of this summer's Goshen Scout Camp food poisoning incident <http://www.washingtonpost.com/wp-dyn/content/article/2008/08/06/AR2008080602866.html>`__ brings back a lot of memories, as I'm sure it does for `Mike <http://duetorre.blogspot.com/>`__ and `Ficke <http://ficke.typepad.com/>`__.
 

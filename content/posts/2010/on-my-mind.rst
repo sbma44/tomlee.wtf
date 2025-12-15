@@ -7,6 +7,7 @@ on my mind
 :status: published
 :save_as: 2010/03/23/on-my-mind/index.html
 :url: 2010/03/23/on-my-mind/
+:private: true
 
 |image1|\ In four and a half short hours I should be on a plane, winging my way to Tbilisi, `finally </2009/11/16/the-domestication-of-the-dog-continues-unabated/>`__, to give `TI Georgia <http://transparency.ge>`__ a hand with their website, mobile strategy, and whatever else they have on hand that takes electricity.
 

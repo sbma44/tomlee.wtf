@@ -5,6 +5,7 @@ leaving Sunlight
 :category: Uncategorized
 :slug: 2839
 :status: draft
+:private: true
 
 I remember when I first heard about the Sunlight Foundation, back in the days when the earth was young and I was still a Drupal programmer. Slashdot (Slashdot!) made it sound like an exciting new thing that was going to use technology to make our country work better. I was working at Echoditto, building websites for big nonprofits and surrounded by rightly-celebrated veterans of the Dean campaign's web operation. No one had any idea what parts of democracy would be changed by technology, but popular opinion leaned toward "all of them." Sunlight was going to be in the middle of that upheaval.
 

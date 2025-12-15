@@ -7,6 +7,7 @@ more like JERKsmith! (see, *I* know comedy)
 :status: published
 :save_as: 2007/09/12/more-like-jerksmith-see-i-know-comedy/index.html
 :url: 2007/09/12/more-like-jerksmith-see-i-know-comedy/
+:private: true
 
 The Post's got `a story <http://www.washingtonpost.com/wp-dyn/content/article/2007/09/11/AR2007091102087.html>`__ that might be of interest to my fellow UVA alums: apparently one of the school paper's idiot cartoonists has gotten himself fired over an offensive cartoon. It took some hunting, but I managed to find the cartoon in question, which comes from a comic strip called *Quirksmith*:
 

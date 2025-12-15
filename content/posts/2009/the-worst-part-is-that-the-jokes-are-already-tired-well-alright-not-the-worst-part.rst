@@ -7,6 +7,7 @@ the worst part is that the jokes are already tired. well alright, not the WORST 
 :status: published
 :save_as: 2009/04/29/the-worst-part-is-that-the-jokes-are-already-tired-well-alright-not-the-worst-part/index.html
 :url: 2009/04/29/the-worst-part-is-that-the-jokes-are-already-tired-well-alright-not-the-worst-part/
+:private: true
 
 `CNN <http://www.cnn.com/2009/HEALTH/04/29/swine.flu/index.html>`__:
 

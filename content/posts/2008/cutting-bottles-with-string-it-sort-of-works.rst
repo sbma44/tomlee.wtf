@@ -7,6 +7,7 @@ cutting bottles with string: it sort of works
 :status: published
 :save_as: 2008/10/10/cutting-bottles-with-string-it-sort-of-works/index.html
 :url: 2008/10/10/cutting-bottles-with-string-it-sort-of-works/
+:private: true
 
 Yesterday I tweeted this video, in which a bottle is neatly divided by tying a string around it, igniting the string, and plunging the bottle into cold water. The thermal shock causes the heated portion to fracture, producing a surprisingly clean break.
 

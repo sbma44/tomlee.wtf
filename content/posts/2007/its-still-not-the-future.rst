@@ -7,6 +7,7 @@ it's still not the future
 :status: published
 :save_as: 2007/07/10/its-still-not-the-future/index.html
 :url: 2007/07/10/its-still-not-the-future/
+:private: true
 
 I've pretty much completed my survey of phone options, and the news is not good. The `Ocean <http://www.helio.com/#devices_ocean>`__'s keyboard isn't very good, its browser is hopelessly neutered and it crashed twice while I was using it. The `Wing <http://t-mobile.com/shop/phones/Detail.aspx?device=acc8102d-4506-4eaa-bc2f-9c7b8ec1b1e0>`__ is junky and also crashed while I was using it — Windows Mobile seems pretty awful. The `Dash <http://t-mobile.com/shop/phones/Detail.aspx?device=f164419f-eee9-4cf6-a1bd-070dbe4b5023>`__ has some style and an okay keyboard, but the store clerks were wary of it. And although it's clear that it's probably underpowered (despite its custom edition of Windows Mobile seeming pretty snappy), it's hard to say exactly how that limitation would manifest itself. "Inconveniently" is my guess.
 

@@ -5,6 +5,7 @@ stupid birds I have known
 :category: Uncategorized
 :slug: 1456
 :status: draft
+:private: true
 
 Another thing about Costa Rica: they've got a lot of birds, and many of them are quite dumb-looking. Dumb-sounding, too!  Emily and I captured audio for a number of them.
 

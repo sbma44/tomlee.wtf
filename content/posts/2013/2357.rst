@@ -5,6 +5,7 @@ Tom is on page 27 of 272 of Tenth of December
 :category: books
 :slug: 2357
 :status: draft
+:private: true
 
 | |Tenth of December by George Saunders|
 | `Tom Lee <http://www.goodreads.com/user/show/4989865-tom-lee>`__

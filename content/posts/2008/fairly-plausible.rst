@@ -7,5 +7,6 @@ fairly plausible
 :status: published
 :save_as: 2008/06/19/fairly-plausible/index.html
 :url: 2008/06/19/fairly-plausible/
+:private: true
 
 `John Allison reviews Chinese Democracy <http://sgrblog.blogspot.com/2008/06/chinese-democracy-first-review.html>`__.

@@ -7,6 +7,7 @@ membership has its privileges (they're just all kind of lame)
 :status: published
 :save_as: 2007/07/17/membership-has-its-privileges-theyre-just-all-kind-of-lame/index.html
 :url: 2007/07/17/membership-has-its-privileges-theyre-just-all-kind-of-lame/
+:private: true
 
 Oh christ. Charles has just `pointed <http://dccharles.blogspot.com/2007/07/first-i-would-like-to-thank-everyone.html>`__ me to "`The Space <http://www.thespace-dc.com/membership.htm>`__", a members-only club that seems to be sinking its roots into the neighborhood. Be sure to check out their `services <http://www.thespace-dc.com/membership.htm>`__ and `application <http://www.thespace-dc.com/membershipapplication.pdf>`__, which asks for a credit card number and signed agreement to abide by the club rules without actually listing what the fees or rules (or even address) are.
 

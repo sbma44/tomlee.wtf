@@ -7,6 +7,7 @@ at war with the vegans
 :status: published
 :save_as: 2007/04/25/at-war-with-the-vegans/index.html
 :url: 2007/04/25/at-war-with-the-vegans/
+:private: true
 
 Vegetate: surprisingly popular. I headed over this evening to wish `Rob <http://www.goodspeedupdate.com>`__ a happy 25th birthday and was amazed to see to see how packed the all-veggie restaurant became before I left. I'd just sort of assumed that this was another well-meaning progressive initiative that my superficial support would be unable to save from inevitable failure. You know, like Air America. Or affirmative action.
 

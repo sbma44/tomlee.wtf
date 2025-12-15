@@ -7,6 +7,7 @@ universal seething hatred is a good sign that something's wrong
 :status: published
 :save_as: 2007/07/19/universal-seething-hatred-is-a-good-sign-that-somethings-wrong/index.html
 :url: 2007/07/19/universal-seething-hatred-is-a-good-sign-that-somethings-wrong/
+:private: true
 
 I think Tim's being just a bit disingenuous `here <http://feeds.feedburner.com/~r/techliberation/~3/135144554/042577.php>`__ when he discusses the relative competitiveness of the cell phone market:
 

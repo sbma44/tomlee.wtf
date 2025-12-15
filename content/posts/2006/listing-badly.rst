@@ -7,6 +7,7 @@ listing badly
 :status: published
 :save_as: 2006/12/20/listing-badly/index.html
 :url: 2006/12/20/listing-badly/
+:private: true
 
 This time `has come <http://dceiver.blogspot.com/2006/12/our-top-fifty-reactions-to-pitchforks.html>`__ to complain about `Pitchfork's year end list <http://pitchforkmedia.com/article/feature/40007/Staff_List_Top_50_Albums_of_2006>`__. Allow me to join the terrifying din. Like `Ryan <http://www.ryanavent.com/blog/?p=195>`__, I've never heard of The Knife. In fact, there's a ton of stuff on the list that I haven't listened to. I suppose I probably should, although the rankings of the stuff I recognize do not inspire confidence (nor does the seeming overrepresentation of hiphop, electronica and hard rock — three genres that I only enjoy in intermittent doses, and almost never when recommended by Pitchfork).
 

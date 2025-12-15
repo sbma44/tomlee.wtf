@@ -5,6 +5,7 @@ brigade
 :category: Uncategorized
 :slug: 2842
 :status: draft
+:private: true
 
 `Alex Howard has an interview with Brigade's president, James Windon, in which the civic startup's plans are finally made clear <http://techpresident.com/news/25363/how-brigade-taking-shape-interview-james-windon>`__.
 

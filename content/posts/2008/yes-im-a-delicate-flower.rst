@@ -7,6 +7,7 @@ yes, I'm a delicate flower
 :status: published
 :save_as: 2008/08/12/yes-im-a-delicate-flower/index.html
 :url: 2008/08/12/yes-im-a-delicate-flower/
+:private: true
 
 Not a deep thought by any means, but jesus is it embarrassing the extent to which two cups of coffee act to alter my mood. I don't just mean providing pep and vigor; I mean lifting the veil from my eyes, restoring my hope for the future and engagement with the present, and generally making me into what I flatter myself to say is at least a semi-tolerable human being.
 

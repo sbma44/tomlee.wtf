@@ -7,6 +7,7 @@ Halloween 2010
 :status: published
 :save_as: 2010/10/31/halloween-2010/index.html
 :url: 2010/10/31/halloween-2010/
+:private: true
 
 .. raw:: html
 

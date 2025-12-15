@@ -7,6 +7,7 @@ biting the hand that downloads you
 :status: published
 :save_as: 2007/12/23/biting-the-hand-that-downloads-you/index.html
 :url: 2007/12/23/biting-the-hand-that-downloads-you/
+:private: true
 
 Last night I stumbled across HBO's half-hour promo for season 5 of The Wire. Previous seasons have addressed the police, local politics, unions and schools. This season is supposed to take a characteristically blunt look at the media. The preview was, uh, surprising — for a couple of reasons:
 

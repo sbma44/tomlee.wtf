@@ -7,6 +7,7 @@ google immortality
 :status: published
 :save_as: 2007/06/07/google-immortality/index.html
 :url: 2007/06/07/google-immortality/
+:private: true
 
 I've got `a post <http://www.dcist.com/2007/06/07/gmaps_street_vi.php>`__ up over at DCist sharing the news that Google may be recording their Street View data for D.C. over the weekend. Someone left the following comments on it (both with the same info):
 

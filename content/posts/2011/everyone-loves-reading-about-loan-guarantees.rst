@@ -7,6 +7,7 @@ everyone loves reading about loan guarantees
 :status: published
 :save_as: 2011/10/02/everyone-loves-reading-about-loan-guarantees/index.html
 :url: 2011/10/02/everyone-loves-reading-about-loan-guarantees/
+:private: true
 
 I had a little bit of back and forth with Tim on Twitter about Solyndra and loan guarantees. When I first came to Sunlight I worked on `Subsidyscope <http://subsidyscope.org>`__, and while I wouldn't want to claim deep expertise on the subject, it's certainly the case that I used the phrase "loan guarantee" several thousand times more frequently than the average pre-Solyndra American. I have no interest in defending Solyndra or the specific decision to subsidize their work, but I think at least *some* of the interest in this issue is driven by genuine confusion about this subsidy type and not cynical partisan scandal-seeking.
 

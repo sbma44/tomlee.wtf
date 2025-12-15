@@ -7,6 +7,7 @@ terror from the skies
 :status: published
 :save_as: 2014/12/26/terror-from-the-skies/index.html
 :url: 2014/12/26/terror-from-the-skies/
+:private: true
 
 Steph got me a quadcopter and it's awesome.
 

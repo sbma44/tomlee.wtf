@@ -7,6 +7,7 @@ DIE! DIE!!!
 :status: published
 :save_as: 2007/07/20/die-die/index.html
 :url: 2007/07/20/die-die/
+:private: true
 
 The exterminator's aerosol poison arrived a day before my mail-ordered Terro, but it didn't last. I consider this a very promising start:
 

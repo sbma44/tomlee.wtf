@@ -7,6 +7,7 @@ my opinions about HBO programming continue to be important
 :status: published
 :save_as: 2007/06/18/my-opinions-about-hbo-programming-continue-to-be-important/index.html
 :url: 2007/06/18/my-opinions-about-hbo-programming-continue-to-be-important/
+:private: true
 
 *John From Cincinnati*: still terrible, but now somewhat easier to spell. It's remarkable how little interaction the characters engage in. The show is mostly composed of aimless soliloquies. Admittedly, there will sometimes be some yelling about how one person is a disappointing son/mother/father/husband/wife, and the other is a disappointing opposite-of-that. But these fights quickly devolve into the characters speaking past one another, and then it's back to spouting disconnected profundities as if I was paying $10 a month to watch ponderous student films with strangely high production values.
 

@@ -7,6 +7,7 @@ I made a movie
 :status: published
 :save_as: 2008/05/22/i-made-a-movie/index.html
 :url: 2008/05/22/i-made-a-movie/
+:private: true
 
 Inspired by `Robert Hodgin <http://www.flight404.com/blog>`__'s `impressive work <http://www.flight404.com/blog/?p=121>`__, I decided I wanted to take a crack at making animations in Processing. Inspired by `Rob Goodspeed <http://goodspeedupdate.com/>`__'s thoughtful experiments, I figured I might as well try to make it about something interesting.
 

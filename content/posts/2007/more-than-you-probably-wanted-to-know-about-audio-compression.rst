@@ -7,6 +7,7 @@ more than you probably wanted to know about audio compression
 :status: published
 :save_as: 2007/08/23/more-than-you-probably-wanted-to-know-about-audio-compression/index.html
 :url: 2007/08/23/more-than-you-probably-wanted-to-know-about-audio-compression/
+:private: true
 
 A somewhat dense but `really good article <http://spectrum.ieee.org/aug07/5429>`__ from IEEE Spectrum (found via Slashdot). It comes complete with a somewhat-irritating but still very informative `Flash demonstration <http://spectrum.ieee.org/aug07/5480>`__ of the topic it discusses: how recorded music has become louder and more fatiguing as a result of an arms race between music producers that trades upon our pathetically easily-fooled nervous systems. It's like the omnipresence of corn syrup in processed foods: everyone says they don't like it, but it's hard to argue with figures showing that sweetness = sales.
 

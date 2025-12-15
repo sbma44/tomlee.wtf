@@ -7,6 +7,7 @@ advertising seems hard
 :status: published
 :save_as: 2014/12/27/advertising-seems-hard/index.html
 :url: 2014/12/27/advertising-seems-hard/
+:private: true
 
 I was saying something dumb on Twitter and stumbled across `an old post about the constricting array of tools available to advertisers as consumers become ever more attuned to manipulation </2008/12/31/ads-intents-and-obsolescence/>`__. I'm now less sure that this idea isn't just a product of my own limited imagination. Still, an observation in its favor:
 

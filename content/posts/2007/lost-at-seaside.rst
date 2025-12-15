@@ -7,6 +7,7 @@ lost at seaside
 :status: published
 :save_as: 2007/05/29/lost-at-seaside/index.html
 :url: 2007/05/29/lost-at-seaside/
+:private: true
 
 Alright, so there haven't been any *particularly* noteworthy hijinks so far. That's okay. I feel relaxed, loaded up on vitamin D, and as if creativity is beginning to seep back into my brain. Or perhaps that's just the sensation of the juniper deposits left by all the gin.
 

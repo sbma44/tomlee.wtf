@@ -7,6 +7,7 @@ building artificial minds is going to be the most important thing our species ev
 :status: published
 :save_as: 2014/08/22/building-artificial-minds-is-going-to-be-the-most-important-thing-our-species-ever-does/index.html
 :url: 2014/08/22/building-artificial-minds-is-going-to-be-the-most-important-thing-our-species-ever-does/
+:private: true
 
 And you shouldn't let anyone tell you otherwise!
 

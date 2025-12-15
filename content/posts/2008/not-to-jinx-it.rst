@@ -7,6 +7,7 @@ not to jinx it
 :status: published
 :save_as: 2008/08/13/not-to-jinx-it/index.html
 :url: 2008/08/13/not-to-jinx-it/
+:private: true
 
 But I am in possession of not one but **six** chances at winning an *entire pig* thanks to the good people at the Montgomery County Fair 4-H Raffle. If I seem overly excited, I apologize. But I feel this is the rare sort of thing that justifies using multiple forms of textual emphasis in a single sentence.
 

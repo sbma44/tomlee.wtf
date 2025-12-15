@@ -7,6 +7,7 @@ checking in on Twitter and Iran
 :status: published
 :save_as: 2010/06/10/checking-in-on-twitter-and-iran/index.html
 :url: 2010/06/10/checking-in-on-twitter-and-iran/
+:private: true
 
 - Interesting article from `Foreign Policy <http://www.foreignpolicy.com/articles/2010/06/07/the_twitter_revolution_that_wasnt>`__.
 - `Haystack <http://www.haystacknetwork.com/faq/>`__ still hasn't released any code or binaries.

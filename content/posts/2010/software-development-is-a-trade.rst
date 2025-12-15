@@ -7,6 +7,7 @@ software development is a trade
 :status: published
 :save_as: 2010/11/27/software-development-is-a-trade/index.html
 :url: 2010/11/27/software-development-is-a-trade/
+:private: true
 
 Earlier tonight I tweeted something snide about "Big Data."  Some people actually replied!  This was a useful reminder that Twitter is not just a black hole into which bile can be thrown.  It also made me realize that I should probably explain my thinking a bit more.
 

@@ -7,6 +7,7 @@ this is not going to work
 :status: published
 :save_as: 2010/01/20/this-is-not-going-to-work/index.html
 :url: 2010/01/20/this-is-not-going-to-work/
+:private: true
 
 It's official: the New York Times is erecting a `partial paywall <http://www.nytimes.com/2010/01/21/business/media/21times.html>`__.
 

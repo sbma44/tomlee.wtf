@@ -5,6 +5,7 @@ Childhood's End
 :category: books
 :slug: 2681
 :status: draft
+:private: true
 
 | 5 stars
 | I'm sorry not to have given Clarke the chance he deserved before now. I had read `Rendezvous With Rama <https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama>`__, which struck me as an impressive but tiresome way of proving the author's physics bona fides. And I knew enough about Arthur Clarke's entanglement with the engineers who created the information age to be intrigued. But I had written him off as an autistic hard sci-fi novelist savante (who happens to have invented the idea of satellites).

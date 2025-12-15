@@ -7,6 +7,7 @@ pr0m
 :status: published
 :save_as: 2007/04/18/pr0m/index.html
 :url: 2007/04/18/pr0m/
+:private: true
 
 I've always maintained that Fountains of Wayne's `"Prom Theme" <http://www.last.fm/music/Fountains+of+Wayne/_/Prom+Theme>`__ is the best possible music for 18 year-olds to slow dance to before just-barely-not-impregnating one another. But Cristen's mounting a strong challenge for prom theme supremacy, as proven by the whiteboard full of geek-related promisms that's sitting in our office (she's planning a party). My favorites so far:
 

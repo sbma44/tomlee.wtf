@@ -7,6 +7,7 @@ the year in whining (also, music)
 :status: published
 :save_as: 2007/12/17/the-year-in-whining-also-music/index.html
 :url: 2007/12/17/the-year-in-whining-also-music/
+:private: true
 
 Jeff has `commanded <http://www.jeffnye.org/adventures/2007/12/that_time_of_year.php>`__ that year-end lists be produced; let it be so.
 

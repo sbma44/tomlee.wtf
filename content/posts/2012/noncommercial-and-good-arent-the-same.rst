@@ -7,6 +7,7 @@
 :status: published
 :save_as: 2012/05/08/noncommercial-and-good-arent-the-same/index.html
 :url: 2012/05/08/noncommercial-and-good-arent-the-same/
+:private: true
 
 Matt `makes a point <http://www.slate.com/blogs/moneybox/2012/05/08/paul_boutique_sampling_and_the_law.html>`__ that more people in the free software space should learn to appreciate:
 

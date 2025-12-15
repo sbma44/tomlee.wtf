@@ -5,6 +5,7 @@ Tom is on page 34 of 359 of The Windup Girl
 :category: books
 :slug: 2393
 :status: draft
+:private: true
 
 | |The Windup Girl by Paolo Bacigalupi|
 | `Tom Lee <http://www.goodreads.com/user/show/4989865-tom-lee>`__

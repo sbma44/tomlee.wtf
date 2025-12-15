@@ -7,6 +7,7 @@ making Rumsfeld look like a techie by comparison
 :status: published
 :save_as: 2010/04/07/making-rumsfeld-look-like-a-techie-by-comparison/index.html
 :url: 2010/04/07/making-rumsfeld-look-like-a-techie-by-comparison/
+:private: true
 
 If there's one flavor of reporting I find more irritating than innumerate science "journalism", it's got to be the cybersecurity beat. `This morning NPR was the offender <http://www.npr.org/templates/story/story.php?storyId=125598665>`__.
 

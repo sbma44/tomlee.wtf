@@ -7,6 +7,7 @@ more NextBussery
 :status: published
 :save_as: 2009/07/06/more-nextbussery/index.html
 :url: 2009/07/06/more-nextbussery/
+:private: true
 
 `GGW points me <http://greatergreaterwashington.org/post.cgi?id=2807>`__ toward some `pretty discouraging news about how NextBus has treated other transit app developers <http://sfappeal.com/news/2009/06/who-owns-sfmta-arrival-data.php>`__. They assert their copyright on arrival times; they demand licensing agreements, yet refuse to do so on a small scale; and, perhaps most astoundingly, they say that free iPhone apps count as commercial use of the data because apple sells the iPhone on the strength of the app store's offerings. Ugh.
 

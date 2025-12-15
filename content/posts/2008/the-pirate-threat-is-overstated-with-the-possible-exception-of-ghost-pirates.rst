@@ -7,6 +7,7 @@ the pirate threat is overstated (with the possible exception of ghost pirates)
 :status: published
 :save_as: 2008/10/08/the-pirate-threat-is-overstated-with-the-possible-exception-of-ghost-pirates/index.html
 :url: 2008/10/08/the-pirate-threat-is-overstated-with-the-possible-exception-of-ghost-pirates/
+:private: true
 
 Julian is `killin' it over at Ars <http://arstechnica.com/articles/culture/dodgy-digits-behind-the-war-on-piracy.ars>`__ — be sure to check out his latest. It's not exactly surprising that the content industry would lie about the economic impact of piracy, but it's fascinating to read Julian's account of how the numbers they quote were born. He's done a real service to us all by hunting this story down.
 

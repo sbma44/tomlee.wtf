@@ -7,6 +7,7 @@ Drupalcon
 :status: published
 :save_as: 2009/01/16/drupalcon/index.html
 :url: 2009/01/16/drupalcon/
+:private: true
 
 I've added a badge for `Drupalcon <http://dc2009.drupalcon.org/?ref=default>`__ over there on the right sidebar, in an utterly shameless effort to `get a free ticket <http://dc2009.drupalcon.org/swag>`__. It's pretty pathetic; I should really just buy one. Thing is, when they first went on sale I thought I'd be going on the strength of EchoDitto's allotment of sponsor tickets. These days I don't use Drupal on a day to day basis, and it would be hard for me to justify attending the convention for more than a panel or two — not when I could be working. Given that, even though the organizers (`hi guys <http://developmentseed.org/>`__!) have done a great job of keeping the price down, $250 is a bit steep for a couple of hours' instruction in technologies that aren't immediately useful to me.
 

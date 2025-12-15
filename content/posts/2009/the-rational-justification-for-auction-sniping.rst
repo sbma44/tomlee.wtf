@@ -7,6 +7,7 @@ the rational justification for auction sniping
 :status: published
 :save_as: 2009/12/04/the-rational-justification-for-auction-sniping/index.html
 :url: 2009/12/04/the-rational-justification-for-auction-sniping/
+:private: true
 
 There's `an interesting conversation taking place on the HacDC email list right now <http://www.hacdc.org/pipermail/blabber/2009-December/thread.html#3470>`__ about the use of auction sniping tools -- software that places your bid at the absolute last minute.  It's most game theory, but there are some psychological aspects to this as well (your evaluation of this ratio will likely vary with your own prejudices\*).
 

@@ -7,6 +7,7 @@ notes for myself
 :status: published
 :save_as: 2007/11/14/notes-for-myself/index.html
 :url: 2007/11/14/notes-for-myself/
+:private: true
 
 NBC Direct's DRM may be a tougher nut to crack, not least of all because of its insistence on using IE on XP. I don't have an XP machine, and IE precludes the reliable mix of Firefox plugins that makes pulling apart website behavior a breeze. You can accomplish the same thing with other tools, but it's a much bigger pain in the ass.
 

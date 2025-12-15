@@ -7,6 +7,7 @@ an embarrassment of riches
 :status: published
 :save_as: 2007/03/01/an-embarrassment-of-riches/index.html
 :url: 2007/03/01/an-embarrassment-of-riches/
+:private: true
 
 |photo of my hand with tonight's show's stamp on it|\ Well, that was unexpected. I was all set to lapse into ArcadeFirecentricity, with only an occasional `Swimmers <http://www.movering.com/node/329>`__ song breaking the monotony of my non-ticket-having despair. But then all of a sudden `my sister <http://unitedhates.blogspot.com/>`__ appeared with AF tickets, and I unexpectedly found a bunch of other music to be excited about. And the Dismemberment Plan are `playing a reunion show <http://www.dcist.com/archives/2007/03/01/you_are_invited.php>`__! Everything's great!
 

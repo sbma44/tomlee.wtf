@@ -7,6 +7,7 @@ Georgie James / Middle Distance Runner
 :status: published
 :save_as: 2007/07/10/georgie-james-middle-distance-runner/index.html
 :url: 2007/07/10/georgie-james-middle-distance-runner/
+:private: true
 
 I suppose `this writeup <http://www.huffingtonpost.com/2007/07/09/scene-dc-bloggy-types-ro_n_55432.html>`__ is making Friday's show still relevant, so I may as well put up the post that the demands of wedding-attendance preempted.
 

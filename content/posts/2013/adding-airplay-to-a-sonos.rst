@@ -7,6 +7,7 @@ adding Airplay to a Sonos with Raspberry Pi
 :status: published
 :save_as: 2013/06/22/adding-airplay-to-a-sonos/index.html
 :url: 2013/06/22/adding-airplay-to-a-sonos/
+:private: true
 
 I mostly like my Sonos system. The downsides: I had a controller die on me out of warranty; it's a bit pricey; and it doesn't have Airplay support. This last one, at least, turns out to be fixable, thanks to a few open source projects and the Raspberry Pi.
 

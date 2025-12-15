@@ -7,6 +7,7 @@ technology!
 :status: published
 :save_as: 2010/01/27/technology/index.html
 :url: 2010/01/27/technology/
+:private: true
 
 I didn't watch the iPad announcement. Having read `this <http://createdigitalmusic.com/2010/01/27/how-a-great-product-can-be-bad-news-apple-ipad-and-the-closed-mac/>`__ and `this <http://timothyblee.com/?p=2169>`__ -- which I think you should read, too! -- it sounds like it was incredibly disappointing.  Between my laptop, netbook and iPhone, the thing that I wish I could do but can't is read digital content while I'm sitting outside in the sun.  To me the only thing that's interesting about this device is the `psychotic <http://twitter.com/choitotheworld/status/8288754455>`__ level of interest in its announcement that was on display, even by people from whom I wouldn't normally expect it.  I'm increasingly convinced that the enthusiasms that make up geek culture (to the extent that such a thing exists) are part of a larger, communicable pathology that an ever-growing segment of the population is becoming susceptible to -- and not just because it's fashionable.
 

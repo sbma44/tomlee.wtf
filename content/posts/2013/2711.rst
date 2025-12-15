@@ -5,5 +5,6 @@ Neptune's Brood
 :category: books
 :slug: 2711
 :status: draft
+:private: true
 
 Tom wants to read 'Neptune's Brood'

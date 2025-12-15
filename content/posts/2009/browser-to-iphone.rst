@@ -7,6 +7,7 @@ making it easier to move from the browser to the iPhone
 :status: published
 :save_as: 2009/07/24/browser-to-iphone/index.html
 :url: 2009/07/24/browser-to-iphone/
+:private: true
 
 Although it is arguably as much a business innovation as a technological one, there's no doubt that the iPhone has radically altered the mobile device landscape, and, in the process, profoundly changed the way that Americans think about sitting on the toilet.
 

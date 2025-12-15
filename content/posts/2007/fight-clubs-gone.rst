@@ -7,6 +7,7 @@ fight club's gone
 :status: published
 :save_as: 2007/04/07/fight-clubs-gone/index.html
 :url: 2007/04/07/fight-clubs-gone/
+:private: true
 
 `Bummer <http://washingtoncitypaper.com/display.php?id=1141>`__. It was only two blocks from my house, but I only went there once, for an incredibly awesome Halloween party in 2005. I didn't really know anyone there beside the folks I came with, and there were beer-related difficulties — we didn't stick around very long. But it was still extremely cool, and one of the most un-DC parties I've ever been to in this town.
 

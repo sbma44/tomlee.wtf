@@ -5,6 +5,7 @@ Tom is now friends with Matt
 :category: books
 :slug: 2418
 :status: draft
+:private: true
 
 | `Tom Lee <http://www.goodreads.com/user/show/4989865-tom-lee>`__ is now friends with
 | `Matt Stempeck <http://www.goodreads.com/user/show/18826637-matt-stempeck>`__

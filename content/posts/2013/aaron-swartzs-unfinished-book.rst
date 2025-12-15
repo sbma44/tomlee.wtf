@@ -7,6 +7,7 @@ Aaron Swartz's unfinished book
 :status: published
 :save_as: 2013/03/11/aaron-swartzs-unfinished-book/index.html
 :url: 2013/03/11/aaron-swartzs-unfinished-book/
+:private: true
 
 ...or one of them, anyway, was released today. `You can find it here <http://www.morganclaypool.com/doi/abs/10.2200/S00481ED1V01Y201302WBE005>`__; `or use this, a direct link to the PDF <http://www.morganclaypool.com/doi/pdf/10.2200/S00481ED1V01Y201302WBE005>`__.
 

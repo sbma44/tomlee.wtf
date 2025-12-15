@@ -7,6 +7,7 @@ Twitter and DMCA notices
 :status: published
 :save_as: 2010/04/23/twitter-and-dmca-notices/index.html
 :url: 2010/04/23/twitter-and-dmca-notices/
+:private: true
 
 Here, `read this <http://jpsblog.net/2010/04/22/twitter-is-now-giving-out-dmca-take-down-notices/>`__.  The author got his tweet removed via a DMCA takedown notice that read like this:
 

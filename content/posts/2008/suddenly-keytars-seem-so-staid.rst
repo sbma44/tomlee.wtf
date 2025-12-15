@@ -7,6 +7,7 @@ suddenly keytars seem so staid
 :status: published
 :save_as: 2008/03/06/suddenly-keytars-seem-so-staid/index.html
 :url: 2008/03/06/suddenly-keytars-seem-so-staid/
+:private: true
 
 |animal keyboard|
 

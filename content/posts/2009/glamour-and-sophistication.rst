@@ -7,6 +7,7 @@ glamour and sophistication!
 :status: published
 :save_as: 2009/07/31/glamour-and-sophistication/index.html
 :url: 2009/07/31/glamour-and-sophistication/
+:private: true
 
 I'm taking the day off work to go to Atlantic City.  Yes, yes, I know.  I feel a little sheepish about all this.  But listen, if you and your friends were inexplicably offered a junket to a gambling mecca on the strength of your sparsely-written `food blog <http://www.internetfoodassociation.com>`__, you'd take it, too. Particularly if it came with a free limo ride up I-95.
 

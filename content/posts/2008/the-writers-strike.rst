@@ -7,6 +7,7 @@ the writer's strike
 :status: published
 :save_as: 2008/01/16/the-writers-strike/index.html
 :url: 2008/01/16/the-writers-strike/
+:private: true
 
 We're now ten weeks in, and I have to say that I don't think things look very good for the writer's strike. The late night shows are back on the air and beardier than ever. The country is contemplating a canceled Oscar season, and is not happy about it. We had an understanding: citizens will be subjected to Billy Crystal, Whoopi Goldberg and jokes written by Bruce Vilanch for one (1) six hour period per annum. It's like tossing a virgin into the volcano — a nasty business to be sure, but better than the alternative. With the telecast canceled, who knows where that banality will erupt? We're living in fear, and all because of those greedy writers and their obsession with receiving "fair" "compensation" for their "work".
 

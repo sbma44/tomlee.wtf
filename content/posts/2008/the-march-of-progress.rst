@@ -7,6 +7,7 @@ the march of progress
 :status: published
 :save_as: 2008/03/10/the-march-of-progress/index.html
 :url: 2008/03/10/the-march-of-progress/
+:private: true
 
 `Looks like <http://tinyurl.com/yt7ynq>`__ someone took `my work <http://tinyurl.com/24k82j>`__ as a starting point and make a `hy/pe m Greasemonkey script <http://userscripts.org/scripts/show/23612>`__. It's nice! I wrote an equivalent bookmarklet right after I wrote that post but didn't distribute it. It wasn't as nice as this Greasemonkey script, either — check out the fancy data-URI-encoded icons on this guy! Anyway, get (and use) it now before they rotate encryption keys and break both of em.
 

@@ -7,6 +7,7 @@ I consider my incorrect semicolon usage a political act
 :status: published
 :save_as: 2009/10/22/i-consider-my-incorrect-semicolon-usage-a-political-act/index.html
 :url: 2009/10/22/i-consider-my-incorrect-semicolon-usage-a-political-act/
+:private: true
 
 I probably don't need to tell you this, since it's spreading through Twitter at a furious pace, but `FakeAPStylebook <http://twitter.com/FakeAPStylebook>`__ is excellent; you should be following it now, when it's free, rather than paying $15 for a less funny version of it when you spot it by the register at Border's.
 

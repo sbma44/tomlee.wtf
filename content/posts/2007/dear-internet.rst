@@ -7,6 +7,7 @@ dear internet
 :status: published
 :save_as: 2007/11/15/dear-internet/index.html
 :url: 2007/11/15/dear-internet/
+:private: true
 
 I've got a technical question for you. The demise of Oink and my rapidly-depleting server disk space have put me in the market for a new Bittorrent solution. I'm not up to administering a properly RAIDed box (getting it to email me when a disk fails is just too much of a pain, given the difficulty of sending mail out from a consumer ISP connection). And having a constantly-running PC fan in the living room is kind of annoying.
 

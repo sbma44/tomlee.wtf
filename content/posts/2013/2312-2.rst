@@ -7,6 +7,7 @@ book review: 2312
 :status: published
 :save_as: 2013/01/08/2312-2/index.html
 :url: 2013/01/08/2312-2/
+:private: true
 
 *I'm still working on automating this process -- all of the RSS → Wordpress plugins seem to be designed for producing SEO spam; Goodreads doesn't offer reviews-only feeds; and so I think I'm gonna have to submit a patch -- so for now I'll just post 'em manually.*
 

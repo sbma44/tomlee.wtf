@@ -7,6 +7,7 @@ ok, I'll bite
 :status: published
 :save_as: 2009/02/18/ok-ill-bite/index.html
 :url: 2009/02/18/ok-ill-bite/
+:private: true
 
 `The G asks for music recommendations <http://pygmalioninablanket.blogspot.com/2009/02/halp.html>`__. I can oblige! Remember how I `bitched about 2008's crop of music </2008/12/16/music-in-the-year-of-the-rat/>`__? And how I closed by saying "but there are a bunch of things I haven't listened to; maybe they'll be better"? Well, I listened to a few of them, and they've all been fantastic. Here are some albums I should've paid attention to earlier, and a few that I've been paying attention to recently:
 

@@ -7,6 +7,7 @@ after Twitter
 :status: published
 :save_as: 2009/07/02/after-twitter/index.html
 :url: 2009/07/02/after-twitter/
+:private: true
 
 `Tim <http://www.google.com/search?q=site%3Atechliberation.com%20%22tim%20lee%22>`__ was nice enough to write `a tweet <http://twitter.com/binarybits/status/2393230558>`__ endorsing `my article about the potential downside of Twitter's emerging political importance <http://www.prospect.org/cs/articles?article=the_cost_of_hashtag_revolution>`__. But he noted that I didn't say much about what the alternatives are — fair enough! As I said to him in response, I was only too happy to have word limits save me from having to propose a solution. Even though I think the situation is unfortunate, at this point I suspect that there isn't much to be done about Twitter's rising political relevance.
 

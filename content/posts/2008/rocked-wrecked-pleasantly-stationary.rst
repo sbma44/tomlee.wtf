@@ -7,6 +7,7 @@ rocked, wrecked, pleasantly stationary
 :status: published
 :save_as: 2008/06/08/rocked-wrecked-pleasantly-stationary/index.html
 :url: 2008/06/08/rocked-wrecked-pleasantly-stationary/
+:private: true
 
 First things first: the City Veins were really, really great on Friday, and if you missed them I'm sorry. Their set seemed a little short and was definitely early, but man was it great. Special guest stars Kriston, Tim-who-I-don't-know, and Tom from These United States (henceforth: Tom\ :sub:`TUS`) added a new dimension to songs that by now I know pretty well. Having heard this band start as a four-piece then refactor their sound and songs when Adam left, it was interesting to hear them return to a surplus of manpower. Interesting and nice!
 

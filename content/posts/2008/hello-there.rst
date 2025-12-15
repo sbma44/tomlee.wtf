@@ -7,6 +7,7 @@ hello there!
 :status: published
 :save_as: 2008/10/20/hello-there/index.html
 :url: 2008/10/20/hello-there/
+:private: true
 
 I've been remiss. I apologize. It's just that I've been busy: with work and meetings, but also with getting sick. It's not, I'm pleased to report, one of my signature cardiovascular ailments — no, this seems to be a Cosi-born illness, and so far has just made me tired and in need of a more manly alternative to the phrase "my tummy hurts". Also, Charles and I have been having something of a Halo 3 renaissance, and that's taken up a fair amount of time.
 

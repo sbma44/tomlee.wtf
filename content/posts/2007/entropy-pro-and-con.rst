@@ -7,6 +7,7 @@ entropy: pro and con
 :status: published
 :save_as: 2007/11/15/entropy-pro-and-con/index.html
 :url: 2007/11/15/entropy-pro-and-con/
+:private: true
 
 - **PRO:** Towels are self-drying.
 - **CON:** Dust accumulates on surfaces regardless of the moral culpability of the surface's owner. This is typically the first thing that comes to mind when I hear the phrase "cosmic injustice".

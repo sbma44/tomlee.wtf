@@ -7,6 +7,7 @@ mission 300 accomplished
 :status: published
 :save_as: 2007/05/14/mission-300-accomplished/index.html
 :url: 2007/05/14/mission-300-accomplished/
+:private: true
 
 Wow. Friday night was incredibly impressive. `Josh <http://www.badmintonstamps.com/>`__, `Emily <http://www.movering.com>`__ and Lee decided to throw a party at a bowling alley in the basement of a church community center. They acquired large amounts of beer, pretzels and DJs, were written up on some Philly blogs, and had a ton of people show up to bowl, drink and have a great time. There's a less-biased writeup `here <http://ohmurderinc.blogspot.com/2007/05/ok-here-i-go.html>`__ (some photos, too).
 

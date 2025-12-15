@@ -7,6 +7,7 @@ book review: Foucault's Pendulum
 :status: published
 :save_as: 2013/07/13/book-review-foucaults-pendulum/index.html
 :url: 2013/07/13/book-review-foucaults-pendulum/
+:private: true
 
 Eh. It's clever, writing a book like this one as a follow-up to his own debut. Diving headlong into mystic Christian conspiracy theories, Eco cleverly parodies himself while leveling a broader critique against the human temptation toward gnosis and syncretism. The action surrounding our main characters is also pretty fun.
 

@@ -7,6 +7,7 @@ advice for an aspiring programmer
 :status: published
 :save_as: 2014/06/02/advice-for-an-aspiring-programmer/index.html
 :url: 2014/06/02/advice-for-an-aspiring-programmer/
+:private: true
 
 Last week we interviewed a candidate who we really liked but who was much too green. He asked for some advice, so here's what I wrote -- might as well put it online. Hopefully it's a little more specific and opinionated than these things tend to be.
 

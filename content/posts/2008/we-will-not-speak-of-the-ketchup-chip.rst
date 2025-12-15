@@ -7,6 +7,7 @@ we will not speak of the ketchup chip
 :status: published
 :save_as: 2008/08/14/we-will-not-speak-of-the-ketchup-chip/index.html
 :url: 2008/08/14/we-will-not-speak-of-the-ketchup-chip/
+:private: true
 
 |these are the chips|
 

@@ -7,6 +7,7 @@ iron pour!
 :status: published
 :save_as: 2008/12/23/iron-pour/index.html
 :url: 2008/12/23/iron-pour/
+:private: true
 
 Hey! `I went there <http://dcist.com/2008/12/21/post_8.php>`__!
 

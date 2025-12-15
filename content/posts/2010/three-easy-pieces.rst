@@ -5,6 +5,7 @@ three easy pieces
 :category: Uncategorized
 :slug: three-easy-pieces
 :status: draft
+:private: true
 
 Bettween my affection for the Fang Island and Ratatat albums I've been feeling a little abashed about my recent enthusiasm for lyric-free albums.  Is it over for me?  Am I entering my (perhaps overdue) indie rock senescence?
 

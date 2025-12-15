@@ -7,6 +7,7 @@ and in other Halloween news...
 :status: published
 :save_as: 2008/10/27/and-in-other-halloween-news/index.html
 :url: 2008/10/27/and-in-other-halloween-news/
+:private: true
 
 As I mentioned, work has begun — last night Becks, Ficke, Emily and I found ourselves standing in my garage, drinking beer, discussing the best way to make realistic bloody handprints (given aqueous paint and a hydrophobic surface), and finishing the process of `corpsing a skeleton <http://www.spookyblue.com/halloween/corpsing/>`__.
 

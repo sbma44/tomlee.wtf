@@ -7,6 +7,7 @@ the Washington Post talks to bloggers
 :status: published
 :save_as: 2007/01/09/the-washington-post-talks-to-bloggers/index.html
 :url: 2007/01/09/the-washington-post-talks-to-bloggers/
+:private: true
 
 I just got back from `the Post's blogger summit thingy <http://www.dcist.com/archives/2007/01/02/washington_post.php>`__. How was it? Well, there wasn't any booze. But it was pretty interesting. The Washington Post has plans for you, little blogger.
 

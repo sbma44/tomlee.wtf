@@ -7,6 +7,7 @@ they call it Wien, which I am still immature enough to find hilarious
 :status: published
 :save_as: 2010/03/24/they-call-it-wien-which-i-am-still-immature-enough-to-find-hilarious/index.html
 :url: 2010/03/24/they-call-it-wien-which-i-am-still-immature-enough-to-find-hilarious/
+:private: true
 
 |Vienna!|\ I didn't realize exactly what I was getting myself into before this trip. It's not that anything's been a surprise, exactly (in fact, everything has gone almost miraculously well: I've caught every train, made every flight and even took the exact right number of euros out of the ATM for my layover). I wasn't mentally prepared, but I *knew* I wasn't prepared. It's been something like eight years since I spent a night in Stansted. I'm pretty sure that's the only trip during which I've spent more time in airports.
 

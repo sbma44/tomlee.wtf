@@ -7,6 +7,7 @@ beeronomics
 :status: published
 :save_as: 2009/10/21/beeronomics/index.html
 :url: 2009/10/21/beeronomics/
+:private: true
 
 Matt has taken `my offhanded complaint about DC beer prices <http://feedproxy.google.com/~r/manifestdensitynet/~3/G5TwQ8E8AtU/>`__ and `placed it within the context of social justice <http://yglesias.thinkprogress.org/archives/2009/10/the-wages-of-high-wages.php>`__, noting that DC's high wages account for its high beer prices (our average drink prices are comparable to New York's; our median annual wage, at $57.1k, is somewhat higher than New York's, at $52.8k; both are significantly above the national median of $42.3k). His basic project is all to the good: thus is the charge of any thoughtful person concerned with the common weal and/or our ability to drink away worries about the state it's in.
 

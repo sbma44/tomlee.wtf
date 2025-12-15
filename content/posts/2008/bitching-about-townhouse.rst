@@ -7,6 +7,7 @@ bitching about townhouse
 :status: published
 :save_as: 2008/08/05/bitching-about-townhouse/index.html
 :url: 2008/08/05/bitching-about-townhouse/
+:private: true
 
 Lord knows we need all the tolerable bars in DC we can get, but last night's experience is making me want to write off Townhouse Tavern. We ended up there with a larger-than-expected and somewhat unwieldy group, but arrived early and had secured chairs for everybody outside. After an hour or so one of our party went a few feet up the street to take a call. When the bartender came to clear empties he pushed the guy's chair a bit out of the way, making it look like it belonged to a different, unoccupied table.
 

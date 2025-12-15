@@ -7,6 +7,7 @@ back!
 :status: published
 :save_as: 2006/12/31/back/index.html
 :url: 2006/12/31/back/
+:private: true
 
 Hi everybody. Well, the New Year's party is only a few hours away, and vacation is winding down. Going into this time off I had grand, bloggy plans, nearly all of which went completely ignored and unfulfilled. Among my intended projects:
 

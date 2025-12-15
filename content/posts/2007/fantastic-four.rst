@@ -7,6 +7,7 @@ fantastic four
 :status: published
 :save_as: 2007/06/17/fantastic-four/index.html
 :url: 2007/06/17/fantastic-four/
+:private: true
 
 Although it boasted the state of the art in product placement, collagen injection and tiresome Stan Lee cameos, I'm still going to have to give the new Fantastic Four movie a thumbs down. Emily says that it's silly to carp about the movie failing in ways that any reasonable person would expect it to fail. So while I was taken aback to find the writing well below even the "doomed TNT original sitcom" level of quality and closer to "decent fanfic", maybe it's not fair to complain about the ways this expected-to-be-bad movie resembled... a bad movie. I paid for a bad movie, and that's what I got.
 

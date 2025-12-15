@@ -4,6 +4,7 @@ amusement park lines
 :author: admin
 :slug: 1507
 :status: draft
+:private: true
 
 Yesterday `Ryan posted <http://www.economist.com/blogs/freeexchange/2010/04/queueing>`__ about the dread he feels at the prospect of one day having to take his daughter to an amusement park.
 

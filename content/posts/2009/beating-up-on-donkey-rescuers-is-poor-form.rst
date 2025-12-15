@@ -7,6 +7,7 @@ beating up on donkey rescuers is poor form
 :status: published
 :save_as: 2009/12/06/beating-up-on-donkey-rescuers-is-poor-form/index.html
 :url: 2009/12/06/beating-up-on-donkey-rescuers-is-poor-form/
+:private: true
 
 If you ask me, `this New York Times article <http://www.nytimes.com/2009/12/06/us/06charity.html?_r=1&sudsredirect=true>`__ is fairly asinine.  Is our collective decision to exempt the nonprofit sector from taxation a good idea? Well, I don't know.  I think you can make a pretty good case that it isn't -- that the sorts of problems that charities try to solve would be more constructively handled with coordinated state action, and that there's not much of a reason at all for exempting various types of membership organizations from taxation.
 

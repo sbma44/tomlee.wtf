@@ -7,6 +7,7 @@ the 2012 Man Booker novels (some of them, anyway)
 :status: published
 :save_as: 2012/10/08/the-2012-man-booker-novels-some-of-them-anyway/index.html
 :url: 2012/10/08/the-2012-man-booker-novels-some-of-them-anyway/
+:private: true
 
 Well, I think that about does it for my Man Booker season. The winner is set to be announced on October 16th, and while I might be able to get one more short list entry read before then, my heart's not in it. There are a few reasons for this. Perhaps most importantly, my guesses about what would make it through from the long list have been much less lucky than `the ones I made last year </2011/10/04/the-man-booker-prize-novels/>`__, which means I'd have to read a lot more to cover the short list, and I'm feeling burned out on this kind of book. Plus a lot of what I've read from the short list has been surprisingly sucky.
 

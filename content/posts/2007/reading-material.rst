@@ -7,6 +7,7 @@ reading material
 :status: published
 :save_as: 2007/07/08/reading-material/index.html
 :url: 2007/07/08/reading-material/
+:private: true
 
 - Emily sent me this link: `Kottke compares Facebook and AOL <http://www.kottke.org/07/07/facebook-vs-aol-redux>`__. It sums up a lot of why I'm an FB skeptic. Open, diffuse standards and services are good. Putting your eggs in one basket is bad.
 - Slate has `an article <http://www.slate.com/id/2169863/nav/tap1/>`__ with a bunch of good links to other stories explaining why we should be dubious of carbon offset traders. I guess I'm probably behind on all of this, but I found it interesting and, as someone who's at least had offsets purchased on their behalf, personally relevant. The upshot seems to be that you can't just buy $1 worth of carbon non-release. Your money's actually pushing the margins of where it makes sense for companies to implement clean technologies — projects that they were considering doing for reasons unrelated to climate change. It's not clear whether traders are doing a good job of actually getting the money where it can best tip those scales, though, or whether it's just a case of a smattering of environmentally beneficial projects having their profit margins inflated at random. It's also unclear how much of the transaction the brokers are pocketing.

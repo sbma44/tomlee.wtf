@@ -7,6 +7,7 @@ Avatar's 3D
 :status: published
 :save_as: 2010/01/04/avatars-3d/index.html
 :url: 2010/01/04/avatars-3d/
+:private: true
 
 It's a little silly to be writing a third post about *Avatar*, particularly after seeing *Up in the Air* over the holiday and regaining some perspective on what movies can actually do.  But this is about technology!
 

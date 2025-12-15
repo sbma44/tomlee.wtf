@@ -7,6 +7,7 @@ jury duty
 :status: published
 :save_as: 2009/02/19/jury-duty/index.html
 :url: 2009/02/19/jury-duty/
+:private: true
 
 I'm at the `Moultrie Courthouse <http://www.dccourts.gov/dccourts/about/general.jsp>`__ today, fulfilling my civic duty. It's not too bad. So far I'd say the experience is somewhat more entertaining than `Jury Duty <http://www.imdb.com/title/tt0113500/>`__ (starring Pauly Shore), but probably somewhat less entertaining than `"Jury Duty" <http://www.imdb.com/title/tt0993818/fullcredits#cast>`__, an apparently still-running series in which luminaries liek Bruce Vilanch, Kevin Sorbo and Vanessa from *The Cosby Show* sit in judgment of ordinary Americans.
 

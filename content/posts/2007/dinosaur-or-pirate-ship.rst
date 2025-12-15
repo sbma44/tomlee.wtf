@@ -7,6 +7,7 @@ dinosaur or pirate ship
 :status: published
 :save_as: 2007/05/31/dinosaur-or-pirate-ship/index.html
 :url: 2007/05/31/dinosaur-or-pirate-ship/
+:private: true
 
 Tonight we play miniature golf. This has been on the beach-agenda every year, but this year's staying-the-whole-week innovation makes it look like it's finally going to happen. I'm pretty excited; I consider mini-golf to be an important part of the beach experience.
 

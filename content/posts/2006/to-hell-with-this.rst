@@ -7,6 +7,7 @@ to hell with this
 :status: published
 :save_as: 2006/10/11/to-hell-with-this/index.html
 :url: 2006/10/11/to-hell-with-this/
+:private: true
 
 DCR/TV RSS:
 

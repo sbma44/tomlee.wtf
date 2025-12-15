@@ -7,6 +7,7 @@ bonus additional whining
 :status: published
 :save_as: 2007/07/30/bonus-additional-whining/index.html
 :url: 2007/07/30/bonus-additional-whining/
+:private: true
 
 [STRIKEOUT:I'm not sure how to blame the Fenty administration for this (yet), so it gets its own post — a pathetic attempt to attract, via Google Alerts, the attention that my email to support@ hasn't.]
 

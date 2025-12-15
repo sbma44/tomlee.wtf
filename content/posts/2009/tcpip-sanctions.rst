@@ -7,6 +7,7 @@ TCP/IP sanctions
 :status: published
 :save_as: 2009/07/08/tcpip-sanctions/index.html
 :url: 2009/07/08/tcpip-sanctions/
+:private: true
 
 It seems like the Iranian cyberactivist movement has marked the entrance of the term DDoS into our culture's shared vocabulary. There's a big DDoS attack going on right now, in fact: the Post `has coverage <http://voices.washingtonpost.com/securityfix/2009/07/washington_post_white_house_fa.html?hpid=topnews>`__ (they're among the targets), and I heard a piece about it this morning on NPR. Governments are among the victims. People are starting to notice that the agencies responsible for dealing with this stuff don't have the power to do much more than write whitepapers. Governments are going to start doing things about it.
 

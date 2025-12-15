@@ -7,6 +7,7 @@ I love these real Saturdays
 :status: published
 :save_as: 2009/02/16/i-love-these-real-saturdays/index.html
 :url: 2009/02/16/i-love-these-real-saturdays/
+:private: true
 
 Well, as of yesterday I'm twenty-nine. It's terrible! Or in theory it is, anyway. I actually had an extremely nice weekend: Emily came down from Philly; we ate at Corduroy; cooked a delicious Valentine's Day meal with Matt and Sara; saw *The Wrestler*; had Szechuan hot pot with Ezra, Annie, Ethan, Kay, Ben and Amanda, and then went out for drinks with folks on Sunday. Aside from a minor fiasco involving finding a bar that wasn't so packed as to be unusable — seriously, space in DC drinking establishments is now at such a premium that booking a band has to be considered a hostile act perpetrated against the patrontariat — it was a great way to spend a birthday. Oh! And along the way I got an `exciting new electronic fitness <https://buy.garmin.com/shop/shop.do?pID=349>`__ gizmo, a book about werewolves and some custom-made oatmeal. Not too shabby.
 

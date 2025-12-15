@@ -7,6 +7,7 @@ today in BLOGS
 :status: published
 :save_as: 2008/07/14/today-in-blogs/index.html
 :url: 2008/07/14/today-in-blogs/
+:private: true
 
 I guess the `apparently <http://www.prospect.org/csnc/blogs/ezraklein_archive?month=07&year=2008&base_name=meet_the_meats>`__ `counterintuitive <http://matthewyglesias.theatlantic.com/archives/2008/07/the_case_for_pork.php>`__ idea that pork is among the most efficient meats to produce doesn't strike me as all that strange. Obviously larger animals take more time to reach full size, wasting more energy on metabolic upkeep. But equally obviously there's a certain amount of overhead associated with being a mammal that may not scale constantly with the total amount of food that the animal provides. Consider the relationship between volume and surface area — same idea.
 

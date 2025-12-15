@@ -7,6 +7,7 @@ giant nazi robots!
 :status: published
 :save_as: 2007/04/20/giant-nazi-robots/index.html
 :url: 2007/04/20/giant-nazi-robots/
+:private: true
 
 .. raw:: html
 

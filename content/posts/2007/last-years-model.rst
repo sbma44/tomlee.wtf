@@ -7,6 +7,7 @@ last year's model
 :status: published
 :save_as: 2007/07/24/last-years-model/index.html
 :url: 2007/07/24/last-years-model/
+:private: true
 
 There are too many folks competing in this year's MediaBistro beauty pageant for me to take sides. But I'm always eager to convince my friends to learn some scripting mojo (seriously, it'll make your life better). So here's the code that worked last year. How to configure it, modify it, and run it is left as an exercise for the reader.
 

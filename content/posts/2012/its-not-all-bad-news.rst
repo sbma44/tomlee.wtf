@@ -7,6 +7,7 @@ it's not all bad news
 :status: published
 :save_as: 2012/04/22/its-not-all-bad-news/index.html
 :url: 2012/04/22/its-not-all-bad-news/
+:private: true
 
 Since I have some visitors, let me note that, despite my default position of skepticism, I don't think technology's done reshaping our world -- not by any means.
 

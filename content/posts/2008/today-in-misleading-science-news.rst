@@ -7,6 +7,7 @@ today in misleading science news
 :status: published
 :save_as: 2008/09/17/today-in-misleading-science-news/index.html
 :url: 2008/09/17/today-in-misleading-science-news/
+:private: true
 
 Hey, look! `An exciting article <http://www.sciencedaily.com/releases/2008/09/080916143910.htm>`__ about energy storage technology! Graphene ultracapacitors, son! As the piece notes, these new doodads offer "double the capacity of existing ultracapacitors", and "higher power capability" than batteries!
 

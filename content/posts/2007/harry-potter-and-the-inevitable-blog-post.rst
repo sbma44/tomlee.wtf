@@ -7,6 +7,7 @@ Harry Potter and the inevitable blog post
 :status: published
 :save_as: 2007/07/23/harry-potter-and-the-inevitable-blog-post/index.html
 :url: 2007/07/23/harry-potter-and-the-inevitable-blog-post/
+:private: true
 
 I haven't started reading *Deathly Hallows* yet, although Emily and I did break down and sheepishly buy a copy from the customer service desk at Giant last night. She's most of the way through, but is currently taking a break. I've been rereading a borrowed copy of the sixth book (thanks `Matt <http://ficke.typepad.com>`__!), reminding myself of important contextual points like who the hell Romilda Vane is and how to pluralize "horcrux".
 

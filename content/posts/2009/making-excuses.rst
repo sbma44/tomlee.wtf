@@ -7,6 +7,7 @@ making excuses
 :status: published
 :save_as: 2009/03/22/making-excuses/index.html
 :url: 2009/03/22/making-excuses/
+:private: true
 
 `Kriston <http://www.grammarpolice.net>`__ asked `Ryan <http://www.ryanavent.com>`__ and me to write about `Larry Van Dyne's article on historic preservation <http://www.washingtonian.com/print/articles/6/174/11722.html>`__ for DCist. This was at least half of a good idea: Ryan always has interesting things to say about the business of running cities. And for my part, I imagine Kriston was counting on me to bring my own trademark brand of techno-philistinism ("Why preserve buildings when we can just make models of them in Second Life?").
 

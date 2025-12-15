@@ -7,6 +7,7 @@ childhood terror
 :status: published
 :save_as: 2008/10/08/childhood-terror/index.html
 :url: 2008/10/08/childhood-terror/
+:private: true
 
 Alright! The `Halloween story contest </2008/09/24/competitive-spookiness/>`__ continues, and so does my posting of sources of inspiration / incessant pestering.
 

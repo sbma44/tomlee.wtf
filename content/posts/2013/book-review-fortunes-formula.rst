@@ -7,6 +7,7 @@ book review: Fortune's Formula
 :status: published
 :save_as: 2013/05/20/book-review-fortunes-formula/index.html
 :url: 2013/05/20/book-review-fortunes-formula/
+:private: true
 
 As I began this book, I was disappointed. I had picked it up after reading `The Idea Factory </2013/05/04/book-review-the-idea-factory/>`__, the fascinating history of Bell Labs: `Fortune's Formula <http://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos/dp/0809045990/ref=sr_sp-atf_title_1_1?ie=UTF8&qid=1369066573&sr=8-1&keywords=fortune%27s+formula>`__ was mentioned glowingly in the acknowledgements. Bell Labs employees -- including my favorite, Claude Shannon -- taking a road trip to Vegas to use their reality-bending powers of analysis to defeat the casinos? Sign me up.
 

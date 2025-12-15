@@ -7,6 +7,7 @@ Mates of State
 :status: published
 :save_as: 2008/11/12/mates-of-state/index.html
 :url: 2008/11/12/mates-of-state/
+:private: true
 
 Go read `Dave's review <http://dcist.com/2008/11/12/mates_of_state_black_cat.php>`__, which is both smarter and more measured that I ever could have managed — I'm just so goddamn in the tank for this band.
 

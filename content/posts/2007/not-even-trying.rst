@@ -7,6 +7,7 @@ not even trying
 :status: published
 :save_as: 2007/04/18/not-even-trying/index.html
 :url: 2007/04/18/not-even-trying/
+:private: true
 
 `This <http://www.technewsworld.com/story/NLZ7YiFNEIV7mm/Get-Real---The-Net-Is-Not-Neutral.xhtml>`__ is an unusually bad article on net neutrality. The author seems to think that Comcast dumping consumers who use a very large amount of bandwidth is an example of the non-neutral net in action, and then argues that neutrality == piracy OMG!!!
 

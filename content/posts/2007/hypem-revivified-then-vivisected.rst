@@ -7,6 +7,7 @@ hype/m: revivified, then vivisected
 :status: published
 :save_as: 2007/10/16/hypem-revivified-then-vivisected/index.html
 :url: 2007/10/16/hypem-revivified-then-vivisected/
+:private: true
 
 There's a new version of the Hy/pe Mac/hine! Cool. The mp3 blog aggregator's gotten a new coat of paint and a different flash player. It looks pretty nice, although I'm not entirely sure what substantive changes have been made. Nevertheless, it's at least much more t-shirt-compatible.
 

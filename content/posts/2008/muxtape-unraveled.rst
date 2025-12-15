@@ -7,6 +7,7 @@ Muxtape unraveled
 :status: published
 :save_as: 2008/03/27/muxtape-unraveled/index.html
 :url: 2008/03/27/muxtape-unraveled/
+:private: true
 
 I've seen a lot of attention paid to `Muxtape <http://www.muxtape.com>`__ over the past few days, and I agree: it's nice! I think a lot of the romanticism that people attach to the mixtape format is silly, and that removing portability from the equation makes it a lot less useful. But Muxtape is clean and built around an attractively simple idea.
 

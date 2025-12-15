@@ -7,6 +7,7 @@ City Veins @ Black Cat
 :status: published
 :save_as: 2008/07/16/city-veins-black-cat/index.html
 :url: 2008/07/16/city-veins-black-cat/
+:private: true
 
 I've been friends with Charles for a long time now. There's no use trying to fool anyone, so I'll fess up: I'd support his musical endeavors even if they were terrible.
 

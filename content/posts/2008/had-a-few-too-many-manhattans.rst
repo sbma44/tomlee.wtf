@@ -7,6 +7,7 @@ had a few too many manhattans
 :status: published
 :save_as: 2008/11/12/had-a-few-too-many-manhattans/index.html
 :url: 2008/11/12/had-a-few-too-many-manhattans/
+:private: true
 
 `This post of Megan's <http://meganmcardle.theatlantic.com/archives/2008/11/manhattan_no_more.php>`__, which details why calls for "another Manhattan Project" are dumb, is quite good. I'll go ahead and suggest that calls for "another Apollo Program" are generally even dumber — they're the same thing, except the speaker doesn't have enough guts to be willing to bring the A-bomb to mind.
 

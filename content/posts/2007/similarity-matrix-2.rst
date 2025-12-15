@@ -7,6 +7,7 @@ similarity matrix 2
 :status: published
 :save_as: 2007/03/14/similarity-matrix-2/index.html
 :url: 2007/03/14/similarity-matrix-2/
+:private: true
 
 A promise is a promise, even if no one particularly cares. Here's that DHTML similarity matrix `I promised </2007/03/02/keeping-promises/>`__. I haven't done much cross-browser testing, but in Firefox at least you should now be able to see which state delegation are the most homogenous\* and which are the most loyal to their party. The results won't shock you (Californians are better Democrats than Kansans!?!!), but it's nice to see that my math seems to be correct.
 

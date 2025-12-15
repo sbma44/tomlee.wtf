@@ -7,6 +7,7 @@ cablemodem bleg
 :status: published
 :save_as: 2008/01/24/cablemodem-bleg/index.html
 :url: 2008/01/24/cablemodem-bleg/
+:private: true
 
 The Comcast installation guys came by yesterday, and I said a sad goodbye to our beloved DirecTivo. The Comcast DVR seems pretty lame, but it's indisputably hi-def. I can see the marks on Michael Chiarello's cutting board! I can see the mottled horror of Fox 5 special correspondent `Logan 3 <http://en.wikipedia.org/wiki/Logan%27s_run>`__! It looks great, even if the software doesn't have a very consistent idea of what the "back" button is supposed to do (you might think the answer would be "go back", but that just betrays your lack of imagination).
 

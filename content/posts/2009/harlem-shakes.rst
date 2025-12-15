@@ -7,6 +7,7 @@ Harlem Shakes
 :status: published
 :save_as: 2009/04/03/harlem-shakes/index.html
 :url: 2009/04/03/harlem-shakes/
+:private: true
 
 As long as I'm going on about music, I may as well recommend the new Harlem Shakes record. I agree with everyone about the new Yeah Yeah Yeahs, and *Bromst* will certainly be one of the records I remember from 2009, but right now *Technicolor Health* is dominating my playlist.
 

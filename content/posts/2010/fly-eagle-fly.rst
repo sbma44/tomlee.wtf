@@ -7,6 +7,7 @@ fly, EAGLE, fly
 :status: published
 :save_as: 2010/02/23/fly-eagle-fly/index.html
 :url: 2010/02/23/fly-eagle-fly/
+:private: true
 
 I made my first EAGLE schematic!  I'm sure it's horribly broken, but I'm still feeling pretty good about it.
 

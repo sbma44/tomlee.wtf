@@ -5,6 +5,7 @@ move along, nothing to see here
 :category: Uncategorized
 :slug: 5
 :status: draft
+:private: true
 
 | Alright! The initial PSA phase of this blog is hereby concluded. Additional traffic is coming into Catherine's site, and since we both agree that hashing this nonsense out in public is a bad idea, we're pulling down our respective appeals.
 | This post isn't long for this world, either. Expect an actual blog to start living here very shortly. Maybe — *maybe!* — as soon as tonight.

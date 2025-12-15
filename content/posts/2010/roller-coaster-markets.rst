@@ -7,6 +7,7 @@ roller coaster markets
 :status: published
 :save_as: 2010/04/30/roller-coaster-markets/index.html
 :url: 2010/04/30/roller-coaster-markets/
+:private: true
 
 Yesterday `Ryan posted <http://www.economist.com/blogs/freeexchange/2010/04/queueing>`__ about the dread he feels at the prospect of one day having to take his daughter to an amusement park.
 

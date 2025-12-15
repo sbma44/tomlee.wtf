@@ -7,6 +7,7 @@ magnets!
 :status: published
 :save_as: 2008/06/17/magnets/index.html
 :url: 2008/06/17/magnets/
+:private: true
 
 This is pretty neat:
 

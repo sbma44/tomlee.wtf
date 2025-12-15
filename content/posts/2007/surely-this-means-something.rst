@@ -7,6 +7,7 @@ surely this means something
 :status: published
 :save_as: 2007/04/13/surely-this-means-something/index.html
 :url: 2007/04/13/surely-this-means-something/
+:private: true
 
 Potbelly, 2:30ish. I'm standing in line, having just ordered a delicious turkey-on-wheat, when I spotted an older gentleman in line behind me. He was wearing a pinstripe suit, a blue shirt with a white collar, and a yellow tie. His gray hair was gelled into a short, relatively tasteful euromullet. And he was carrying *not only* a copy of "Who's Who In Real Estate" — surely one of the most vacuous possible incarnations of a shamelessly vacuous line of scam-books — but also what I can only call a scepter. I guess it could've served as a cane, but the black shaft looked a little insubstantial. And the brass head was spherical in a distinctly uncanelike way. Also, he wasn't using it to walk — it was just tucked into the crook of his arm along with the book.
 

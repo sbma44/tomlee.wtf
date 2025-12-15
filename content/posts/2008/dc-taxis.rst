@@ -7,6 +7,7 @@ DC taxis
 :status: published
 :save_as: 2008/01/18/dc-taxis/index.html
 :url: 2008/01/18/dc-taxis/
+:private: true
 
 Matt's `concerned <http://matthewyglesias.theatlantic.com/archives/2008/01/taxi_fares.php>`__ that Mayor Fenty's reduction of proposed metered fares for D.C. taxis will make it harder to hail a cab. I'm not so worried. Have a look at the comments in `this DCist thread <http://dcist.com/2008/01/16/fenty_lowers_ta.php#comments>`__. It's full of stories of cabbies refusing to take fares because of the requested destination or because a surcharge wouldn't apply to the trip.
 

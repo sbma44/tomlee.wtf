@@ -7,6 +7,7 @@ Blago, you know
 :status: published
 :save_as: 2008/12/12/blago-you-know/index.html
 :url: 2008/12/12/blago-you-know/
+:private: true
 
 It looks bad on paper. A rap song about the Blagojevich scandal filled with wonky in-jokes? Sure, points for adopting a timely form. But `Mark Russell <http://www.markrussell.net/>`__ could set up a MySpace page, and that wouldn't make it okay. Actually, it'd just underscore the outrages that he continues to perpetrate.
 

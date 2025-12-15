@@ -7,6 +7,7 @@ did you have that same backwards-talking dream with flaming cards?
 :status: published
 :save_as: 2009/10/01/did-you-have-that-same-backwards-talking-dream-with-flaming-cards/index.html
 :url: 2009/10/01/did-you-have-that-same-backwards-talking-dream-with-flaming-cards/
+:private: true
 
 Emily sent me this new video from the Swimmers, and this *Everlong*-loving kid thinks it's pretty great:
 

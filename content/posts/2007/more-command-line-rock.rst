@@ -7,6 +7,7 @@ more command line rock
 :status: published
 :save_as: 2007/12/13/more-command-line-rock/index.html
 :url: 2007/12/13/more-command-line-rock/
+:private: true
 
 Recording for posterity, because recreating Perl one-liners is a pain in the ass. If you're on a \*nix like system (including OS X), this will download all the MP3s linked from a given URL:
 

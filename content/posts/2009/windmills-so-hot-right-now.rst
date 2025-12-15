@@ -7,6 +7,7 @@ windmills: so hot right now
 :status: published
 :save_as: 2009/02/09/windmills-so-hot-right-now/index.html
 :url: 2009/02/09/windmills-so-hot-right-now/
+:private: true
 
 While the wort was boiling I put together a couple more Boarduino kits that I had hanging around, and tonight I messed around with them a bit more. I already had the breadboard set up with the shift registers and LEDs — not that you can see them, of course (thanks YouTube!).
 

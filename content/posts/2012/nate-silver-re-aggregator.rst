@@ -7,6 +7,7 @@ Nate Silver, re-aggregator
 :status: published
 :save_as: 2012/11/07/nate-silver-re-aggregator/index.html
 :url: 2012/11/07/nate-silver-re-aggregator/
+:private: true
 
 A quick observation. To me, the most interesting subtext of the pundit/quant pissing match that erupted in the late days of the campaign is the similarity it bears to the hoary aggregator/reporter handwringing we're all so used to.
 

@@ -7,6 +7,7 @@ more than you probably care to know about my dental woes
 :status: published
 :save_as: 2008/11/29/more-than-you-probably-care-to-know-about-my-dental-woes/index.html
 :url: 2008/11/29/more-than-you-probably-care-to-know-about-my-dental-woes/
+:private: true
 
 I really can't recommend root canals highly enough. I had my first one on Wednesday; now I think everyone should get one.
 

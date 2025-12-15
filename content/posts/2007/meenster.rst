@@ -7,6 +7,7 @@ meenster
 :status: published
 :save_as: 2007/07/24/meenster/index.html
 :url: 2007/07/24/meenster/
+:private: true
 
 Anyone know who's responsible for `this <http://www.meenster.com>`__? I'd like to know where they get their data.
 

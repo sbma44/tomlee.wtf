@@ -7,6 +7,7 @@ late night
 :status: published
 :save_as: 2006/11/08/late-night/index.html
 :url: 2006/11/08/late-night/
+:private: true
 
 | Well, things are winding down. The candidates have gone to bed, nobody's releasing new election results, and all that's really left is for someone to unplug the Chris Matthewsbot and drape him with his protective dust cover. I'm pretty optimistic about my home state's chances of banishing George Allen and his pathetically small lizardbrain to the wilds of the Commonwealth (or California — it's time to reconnect with your roots, George). But the senate is just barely, tantalizingly, within reach. I won't jinx it. I'm not optimistic. But I'm hopeful.
 | I'm just catching up with all of the election-watching now, I'm afraid. I went to go see Broken Social Scene with Catherine, so most of my election updates came via text message and anxious web browsing on my sidekick (good job on mobile accessibility, CNN.com!).

@@ -5,6 +5,7 @@ The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)
 :category: books
 :slug: 2452
 :status: draft
+:private: true
 
 | New comment on `Ben <http://www.goodreads.com/user/show/980285>`__'s review of
 | `The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1) <http://www.goodreads.com/book/show/8706.The_Hitchhiker_s_Guide_to_the_Galaxy>`__

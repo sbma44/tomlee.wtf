@@ -7,6 +7,7 @@
 :status: published
 :save_as: 2008/08/06/sumwrongs-20-right-er-lets-say-moral-ambiguity/index.html
 :url: 2008/08/06/sumwrongs-20-right-er-lets-say-moral-ambiguity/
+:private: true
 
 It's that time of year again: the FishbowlDC Hottest Media Types contest is upon us. And frankly, I'm a bit disappointed: due to last year's... `irregularities <http://machinist.salon.com/feature/2007/08/22/fishbowl_bots/>`__, Patrick Gavin promised new and improved technology. And I was ready! I checked `Crowbar <http://simile.mit.edu/wiki/Crowbar>`__ out of SVN and into a virtualized environment; I created a custom screen-scraper script for it, and got it working with XulRunner in such a way that it could be called by Ruby. I started looking into firing up a farm of Amazon EC2 instances to run the operation in parallel. I hit a snag when trying to find a decent RDF parsing gem for examining Crowbar's output, but then the poll went up and I saw it didn't matter.
 

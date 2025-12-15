@@ -7,6 +7,7 @@ Sleigh Bells
 :status: published
 :save_as: 2010/05/14/sleigh-bells/index.html
 :url: 2010/05/14/sleigh-bells/
+:private: true
 
 Alright, a quick poll for those of you who love this album: what have you been listening to it on?  The last time I really checked these guys out was when they were being tweeted about endlessly during SXSW.  I headed to the Hype Machine and listened to what had been released or leaked.
 

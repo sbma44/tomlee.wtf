@@ -7,6 +7,7 @@ miracle financial and verizon wireless are scumbags
 :status: published
 :save_as: 2007/03/27/miracle-financial-and-verizon-wireless-are-scumbags/index.html
 :url: 2007/03/27/miracle-financial-and-verizon-wireless-are-scumbags/
+:private: true
 
 I got an EVDO card for a long weekend from Verizon, then returned it. "You'll be prorated," I was assured. I wasn't, and instead got charged a full month's fees for 4 days' worth of use.
 

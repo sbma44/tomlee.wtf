@@ -7,6 +7,7 @@ bike lawyers
 :status: published
 :save_as: 2009/06/25/bike-lawyers/index.html
 :url: 2009/06/25/bike-lawyers/
+:private: true
 
 |do you think he wears a cape?|\ It's great that `this guy <http://www.tucsonbikelawyer.com/>`__ is specializing in cases from cyclists who've been in accidents. But it isn't really necessary. Believe me: if you get a police report filed about your accident (and of course you should — nothing makes an insurance agent happier), personal injury scumbags will wriggle out of the woodwork and plop themselves onto your voicemail almost immediately. When it happened to me I found it pretty annoying, but I suppose it's nice to know that cyclists' rights will be protected.
 

@@ -7,6 +7,7 @@ City Veins @ Ft. Reno
 :status: published
 :save_as: 2008/07/07/city-veins-ft-reno/index.html
 :url: 2008/07/07/city-veins-ft-reno/
+:private: true
 
 Charles `says <http://thecityveins.com/blog/2008/07/07/fort-reno-tonight/>`__ they're slated to go on second, around 7:50. Looking at the sky right now makes my weather widget's dire predictions look unfounded. We seem poised to rock.
 

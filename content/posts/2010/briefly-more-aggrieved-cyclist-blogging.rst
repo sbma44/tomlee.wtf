@@ -7,6 +7,7 @@ briefly, more aggrieved cyclist blogging
 :status: published
 :save_as: 2010/04/14/briefly-more-aggrieved-cyclist-blogging/index.html
 :url: 2010/04/14/briefly-more-aggrieved-cyclist-blogging/
+:private: true
 
 Sorry, I can't help it. I'll be quick:
 

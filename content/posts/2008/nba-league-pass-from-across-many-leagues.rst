@@ -7,6 +7,7 @@ NBA League Pass, from across many leagues
 :status: published
 :save_as: 2008/01/23/nba-league-pass-from-across-many-leagues/index.html
 :url: 2008/01/23/nba-league-pass-from-across-many-leagues/
+:private: true
 
 A couple of days ago `Kriston <http://grammarpolice.net>`__ hit me up with a question on behalf of `Matt <http://www.mattwrightphotography.blogspot.com/>`__, who's in Germany and found himself stymied by NBA League Pass Broadband's insistence that he be in America in order to watch the games he'd paid for. I suggested he give `Tor <http://tor.eff.org>`__ a try and hey! Somewhat to my surprise, it actually worked. For those of you facing similar problems, here's Matt's advice:
 

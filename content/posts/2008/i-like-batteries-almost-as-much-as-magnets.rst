@@ -7,6 +7,7 @@ I like batteries almost as much as magnets
 :status: published
 :save_as: 2008/06/24/i-like-batteries-almost-as-much-as-magnets/index.html
 :url: 2008/06/24/i-like-batteries-almost-as-much-as-magnets/
+:private: true
 
 Kevin Drum `writes a bit <http://www.washingtonmonthly.com/archives/individual/2008_06/013966.php>`__ about John McCain's proposal of a $300 million prize for developing a new battery technology for electric cars. What this makes me really wish is that Marie had a blog, because, as a chemical engineer who just received her PhD working on fuel cell catalysts, this is right up her alley. I hope that she or `Jeff <http://jeffnye.org>`__ will pop up in comments and say smart things. And be kind if I say anything dumb.
 

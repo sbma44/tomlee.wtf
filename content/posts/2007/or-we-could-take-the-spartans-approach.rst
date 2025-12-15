@@ -7,6 +7,7 @@ or we could take the Spartans' approach
 :status: published
 :save_as: 2007/04/05/or-we-could-take-the-spartans-approach/index.html
 :url: 2007/04/05/or-we-could-take-the-spartans-approach/
+:private: true
 
 As you've probably seen over at Yglesias's place, `Sara <http://www.quickanded.com/>`__'s got a new `paper <http://www.educationsector.org/analysis/analysis_show.htm?doc_id=469729>`__ out arguing that we're placing too much important on education in the first three years of life. It's an interesting read, and short enough that you've got no excuse for not grabbing the PDF. By the end, I was inclined to agree that our current efforts in the 0-3 range are wasted, and that we'd probably be better off paying more attention to education for slightly older kids.
 

@@ -7,6 +7,7 @@ smoke machine electronics bleg
 :status: published
 :save_as: 2008/10/08/smoke-machine-electronics-bleg/index.html
 :url: 2008/10/08/smoke-machine-electronics-bleg/
+:private: true
 
 Say... does anyone have a spare cord that looks like this?
 

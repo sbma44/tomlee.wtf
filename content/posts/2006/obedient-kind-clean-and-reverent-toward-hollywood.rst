@@ -7,6 +7,7 @@
 :status: published
 :save_as: 2006/10/23/obedient-kind-clean-and-reverent-toward-hollywood/index.html
 :url: 2006/10/23/obedient-kind-clean-and-reverent-toward-hollywood/
+:private: true
 
 Yeah, okay, Kriston's pretty well `got my number <http://grammarpolice.net/archives/001097.php>`__. I can't say that I'm too upset, though. I'm so used to getting grief over the Boy Scouts' admittedly inexcusable policies on homosexuality that having gentle fun poked at their new "Respect Copyrights Activity Patch" feels like a relief. Also, Kriston was kind enough not to excerpt this part of the `original article <http://www.latimes.com/news/local/la-me-scouts21oct21,0,6146565.story?coll=la-home-headlines>`__:
 

@@ -7,6 +7,7 @@ the stack
 :status: published
 :save_as: 2010/01/29/the-stack/index.html
 :url: 2010/01/29/the-stack/
+:private: true
 
 A couple of weeks ago, `Bunnie Huang wrote this in response to a piece on NPR <http://www.bunniestudios.com/blog/?p=826>`__:
 

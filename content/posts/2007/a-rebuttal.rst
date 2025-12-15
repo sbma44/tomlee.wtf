@@ -7,6 +7,7 @@ a rebuttal
 :status: published
 :save_as: 2007/10/09/a-rebuttal/index.html
 :url: 2007/10/09/a-rebuttal/
+:private: true
 
 Ryan, in a manner deeply unbecoming an economist, is `questioning <http://www.ryanavent.com/blog/?p=525>`__ the need for continued human progress:
 

@@ -7,6 +7,7 @@ drink the change you want to see in the world
 :status: published
 :save_as: 2007/03/28/drink-the-change-you-want-to-see-in-the-world/index.html
 :url: 2007/03/28/drink-the-change-you-want-to-see-in-the-world/
+:private: true
 
 |picture of an empty beer glass with foam in the shape of the dc flag|\ `DCist/DC Vote Voting Rights Happy Hour <http://www.dcist.com/archives/2007/03/28/voting_rights_h.php>`__. Tonight, Eighteenth Street Lounge, 6 pm. See you there, right?
 

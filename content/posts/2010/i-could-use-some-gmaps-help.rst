@@ -7,6 +7,7 @@ I could use some GMaps help
 :status: published
 :save_as: 2010/06/06/i-could-use-some-gmaps-help/index.html
 :url: 2010/06/06/i-could-use-some-gmaps-help/
+:private: true
 
 Way back when, I wrote a `Google Maps application <http://dcist.com/map/>`__ for `DCist <http://www.dcist.com>`__ that overlaid the DC Metro system on the usual GMaps tiles. People found it useful -- me especially, since I think it helped me land a job at `EchoDitto <http://www.echoditto.com>`__.  Its only real innovation was some simple, hacked-up geometry that would horrify a cartographer, but which allowed me to make an attractive map that recalled `the more stylized WMATA map <http://wmata.com/rail/maps/map.cfm>`__.  It wasn't rocket science, but I still occasionally get emails from developers asking me how I did it (which is slightly bizarre, given that the code is right there for them to see).
 

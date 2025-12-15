@@ -7,6 +7,7 @@ the quality of mercy these days
 :status: published
 :save_as: 2009/09/30/the-quality-of-mercy-these-days/index.html
 :url: 2009/09/30/the-quality-of-mercy-these-days/
+:private: true
 
 This Roman Polanski business is bothering me. Not that he's been arrested — I meant `what I said in the morning roundup <http://dcist.com/2009/09/morning_roundup_selective_enforceme.php>`__: arresting him was the right thing to do, and I'm glad it happened.
 

@@ -7,6 +7,7 @@ welcome, brother!
 :status: published
 :save_as: 2008/04/23/welcome-brother/index.html
 :url: 2008/04/23/welcome-brother/
+:private: true
 
 `Matt got a bike <http://matthewyglesias.theatlantic.com/archives/2008/04/prepare_for_bikeblogging.php>`__! This is wonderful news. I'm a big cycling proponent, of course, and am very glad to see a friend take up this healthy and convenient hobby. The benefits are myriad: why, just this week I received a check compensating me for the repair bill incurred the last time I was hit by a car (true!). More to the point, though, I think neither Matt nor I are particularly patient people. Hopefully he will enjoy being freed from the torpor of his pathetic human limbs as much as I have.
 

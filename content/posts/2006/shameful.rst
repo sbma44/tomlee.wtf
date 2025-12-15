@@ -7,6 +7,7 @@ shameful
 :status: published
 :save_as: 2006/11/16/shameful/index.html
 :url: 2006/11/16/shameful/
+:private: true
 
 | First, my blogging performance. Work is taking nearly every waking moment, and will continue to do so through Monday. It stinks.
 | Second: Glenn Beck, as noted by Mike Boyer via `Cyrus <http://cyrusfarivar.com/blog/?p=1185>`__. I happened to catch Beck's exchange with representative-elect Keith Ellison while I was at the gym the other day, and it was pretty disgusting. As quoted by Boyer, here's how Beck started off the interview with Ellison, who is our country's first Muslim congressman:

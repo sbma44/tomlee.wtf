@@ -7,6 +7,7 @@ so this was Christmas
 :status: published
 :save_as: 2008/12/30/so-this-was-christmas/index.html
 :url: 2008/12/30/so-this-was-christmas/
+:private: true
 
 Hi there! Christmas obligations have ceased, and we're on to the "lying around" phase of the holidays (my favorite part). The Christmas celebrations themselves... well, they went pretty well. I got a tent! Also a Nintendo DS, and a ton of candy, and *who knows* what delights from Emily (we're still slowly exchanging presents, but I've already gotten a copy of *Dune* from her, which is pretty awesome).
 

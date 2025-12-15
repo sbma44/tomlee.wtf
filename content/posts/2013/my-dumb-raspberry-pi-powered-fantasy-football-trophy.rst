@@ -7,6 +7,7 @@ My Dumb Raspberry Pi-powered Fantasy Football Trophy
 :status: published
 :save_as: 2013/12/28/my-dumb-raspberry-pi-powered-fantasy-football-trophy/index.html
 :url: 2013/12/28/my-dumb-raspberry-pi-powered-fantasy-football-trophy/
+:private: true
 
 Well, another fantasy football season is behind us. I entered the season as the reigning champion and left it as the... not champion. It would be churlish to try to make excuses for my poor showing. So instead I'll simply note that there is an ongoing, pressing need for organ donors in this country, and many of my fantasy players' families are proud to have done their part. My heartfelt congratulations to Ben on his apparent championship and the masterfully subtle campaign of cheating that must surely lie at its foundation.
 

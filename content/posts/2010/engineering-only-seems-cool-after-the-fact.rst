@@ -7,6 +7,7 @@ engineering only seems cool after the fact
 :status: published
 :save_as: 2010/03/16/engineering-only-seems-cool-after-the-fact/index.html
 :url: 2010/03/16/engineering-only-seems-cool-after-the-fact/
+:private: true
 
 `The American Prospect <http://www.prospect.org/cs/articles?article=the_curated_web>`__ on `Trivium <http://chneukirchen.org/trivium/2010-03-16>`__!  Worlds colliding!  It's great!
 

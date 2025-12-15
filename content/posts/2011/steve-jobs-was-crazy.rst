@@ -7,6 +7,7 @@ Steve Jobs was crazy
 :status: published
 :save_as: 2011/10/05/steve-jobs-was-crazy/index.html
 :url: 2011/10/05/steve-jobs-was-crazy/
+:private: true
 
 *I originally posted this the night Steve Jobs died, then pulled it down the next morning: I hadn't changed my mind about its contents, but had thought better of speaking ill of the dead. A number of people saw it in their RSS readers anyway, and enough of them have sent me notes encouraging me to repost it that I decided I would.*
 

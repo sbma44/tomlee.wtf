@@ -7,6 +7,7 @@ Jason Schwartzman can write catchy songs about California
 :status: published
 :save_as: 2007/08/14/jason-schwartzman-can-write-catchy-songs-about-california/index.html
 :url: 2007/08/14/jason-schwartzman-can-write-catchy-songs-about-california/
+:private: true
 
 And `that's about it <http://hypem.com/search/phantom%20planet%20california/1/>`__, apparently.
 

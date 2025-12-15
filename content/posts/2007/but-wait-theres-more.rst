@@ -7,6 +7,7 @@ but wait! there's more!
 :status: published
 :save_as: 2007/08/09/but-wait-theres-more/index.html
 :url: 2007/08/09/but-wait-theres-more/
+:private: true
 
 Matt `notes <http://matthewyglesias.theatlantic.com/archives/2007/08/bad_idea_of_the_day.php>`__ that applying copyright to fashion is a bad idea, and of course he's right. But look! That's not even the most reprehensible intellectual property news of the day: `via Slashdot <http://yro.slashdot.org/yro/07/08/09/125203.shtml>`__ I see that `Johnson & Johnson is suing the Red Cross <http://www.iht.com/articles/ap/2007/08/09/america/NA-GEN-US-Red-Cross-Lawsuit.php>`__ for using... the red cross symbol. But it sounds like the Red Cross has *also* been misbehaving, licensing the symbol to businesses in a way that's disallowed by an old agreement between the RC and J&J.
 

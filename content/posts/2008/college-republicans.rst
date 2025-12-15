@@ -7,6 +7,7 @@ College Republicans
 :status: published
 :save_as: 2008/10/24/college-republicans/index.html
 :url: 2008/10/24/college-republicans/
+:private: true
 
 My professional journalist friends are professionally obligated to, well, be professional. Although this precept serves them and their readers well nearly all of the time, I think it will prevent them from analyzing the `Ashley Todd affair <http://kdka.com/local/attack.McCain.Bloomfield.2.847628.html>`__ with the thoroughness it deserves. So, unencumbered as I am by such considerations, let me try to clarify the lesson that should be drawn from all this: College Republicans are the fucking scum of the earth.
 

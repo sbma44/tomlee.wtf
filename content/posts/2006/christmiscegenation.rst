@@ -7,6 +7,7 @@ christmiscegenation
 :status: published
 :save_as: 2006/12/12/christmiscegenation/index.html
 :url: 2006/12/12/christmiscegenation/
+:private: true
 
 Just to clarify:
 

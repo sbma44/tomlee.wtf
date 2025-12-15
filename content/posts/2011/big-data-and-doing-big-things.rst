@@ -7,6 +7,7 @@ big data and doing big things
 :status: published
 :save_as: 2011/07/22/big-data-and-doing-big-things/index.html
 :url: 2011/07/22/big-data-and-doing-big-things/
+:private: true
 
 Spencer is `right <http://spencerackerman.typepad.com/attackerman/2011/07/nexus-7.html>`__: `this Wired piece about DARPA's Nexus 7 initiative is very good <http://www.wired.com/dangerroom/2011/07/darpas-secret-spy-machine/all/1>`__. Nexus 7 is an ambitious data processing effort meant to synthesize both traditional signals (e.g. vehicle tracking data) and unorthodox signals (market fruit prices seem to be their favorite example) into useful intelligence through sophisticated analytic techniques taken from the social sciences.
 

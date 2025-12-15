@@ -7,6 +7,7 @@ paragliding has been tentatively ruled out
 :status: published
 :save_as: 2008/06/10/paragliding-has-been-tentatively-ruled-out/index.html
 :url: 2008/06/10/paragliding-has-been-tentatively-ruled-out/
+:private: true
 
 I'm in the market for a sport.
 

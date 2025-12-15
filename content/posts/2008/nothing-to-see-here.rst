@@ -7,6 +7,7 @@ nothing to see here
 :status: published
 :save_as: 2008/09/04/nothing-to-see-here/index.html
 :url: 2008/09/04/nothing-to-see-here/
+:private: true
 
 My internet energies remain committed elsewhere, but I would like to at least register a couple of cranky complaints about the commentary surrounding Palin:
 

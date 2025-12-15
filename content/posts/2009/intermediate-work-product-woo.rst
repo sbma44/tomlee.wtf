@@ -7,6 +7,7 @@ intermediate work product! woo!
 :status: published
 :save_as: 2009/04/19/intermediate-work-product-woo/index.html
 :url: 2009/04/19/intermediate-work-product-woo/
+:private: true
 
 I've committed myself to getting something ready in time for `Artomatic <http://www.artomatic.org>`__, and that probably means that my GTFS explorations will be delayed for a bit. It's probably for the best, given the timing of the iPhone 3 SDK.
 

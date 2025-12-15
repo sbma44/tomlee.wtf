@@ -7,6 +7,7 @@ it's probably a good thing, but it's at least a little scary
 :status: published
 :save_as: 2012/01/18/its-probably-a-good-thing-but-its-at-least-a-little-scary/index.html
 :url: 2012/01/18/its-probably-a-good-thing-but-its-at-least-a-little-scary/
+:private: true
 
 Today's coordinated action in opposition to SOPA/PIPA by the internet community is something that's both heartening and inspiring.  Its volume--despite a lack of coverage that should deeply embarrass the traditional media--and the speed with which it's prompting legislators to reverse position are both impressive.  It could easily turn out to be remembered as the moment when "the internet" emerged not just as a political force but as a political constituency.
 

@@ -7,6 +7,7 @@ to clarify
 :status: published
 :save_as: 2010/02/16/to-clarify/index.html
 :url: 2010/02/16/to-clarify/
+:private: true
 
 Matt has `graciously responded <http://yglesias.thinkprogress.org/archives/2010/02/is-the-universe-a-hologram-should-we-care.php>`__, pointing me toward a `David Chalmers essay <http://consc.net/papers/matrix.html>`__ that I think I've skimmed in the past. Revisiting it, I think I didn't express the question I'm wondering about clearly enough.  Chalmers (and Matt) seem to basically be saying that it's not worth letting Cartesian hypotheticals keep you up at night, no matter how irrefutably plausible they may be.  I agree!
 

@@ -7,6 +7,7 @@ re-up as in upload
 :status: published
 :save_as: 2008/02/04/re-up-as-in-upload/index.html
 :url: 2008/02/04/re-up-as-in-upload/
+:private: true
 
 I won't pretend to be a devoted Clipse fan, but `Spencer <http://toohotfortnr.blogspot.com/2008/02/lift-every-voice-and-sing.html>`__ and `Matt's <http://matthewyglesias.theatlantic.com/archives/2008/02/volume_three.php>`__ excitement over *We Got It For Cheap Vol. 3* has got me intrigued. But I didn't really want to keep my browser open for an hour while I listen to it.
 

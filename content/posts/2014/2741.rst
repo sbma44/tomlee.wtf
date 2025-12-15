@@ -5,5 +5,6 @@ Jeff in Venice, Death in Varanasi
 :category: books
 :slug: 2741
 :status: draft
+:private: true
 
 Tom wants to read 'Jeff in Venice, Death in Varanasi'

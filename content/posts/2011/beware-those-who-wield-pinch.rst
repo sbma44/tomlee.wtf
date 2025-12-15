@@ -7,6 +7,7 @@ beware those who wield "pinch"
 :status: published
 :save_as: 2011/08/09/beware-those-who-wield-pinch/index.html
 :url: 2011/08/09/beware-those-who-wield-pinch/
+:private: true
 
 `This post is making the rounds <http://www.bogost.com/blog/gamification_is_bullshit.shtml>`__. I'm not sure how good it is -- it's less of an argument than a heartfelt and anguished cry from someone horrified by the commodification of something they love.  I'm sympathetic.  And the author is right, certainly, that many firms will half-heartedly pursue gamification projects, produce lackluster results, and fail, giving the trend a bad name.
 

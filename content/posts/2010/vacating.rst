@@ -7,6 +7,7 @@ vacating
 :status: published
 :save_as: 2010/03/05/vacating/index.html
 :url: 2010/03/05/vacating/
+:private: true
 
 Tomorrow Emily and I leave for Costa Rica, where we'll be for a week.  Plans include a visit to some hot springs, sightseeing at a volcano, lazing on the beach, a sure-to-be-disastrous surfing lesson, and I don't even know what else.  Also they have baby sloths:
 

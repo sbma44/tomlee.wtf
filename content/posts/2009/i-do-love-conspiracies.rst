@@ -7,6 +7,7 @@ I do love conspiracies
 :status: published
 :save_as: 2009/03/17/i-do-love-conspiracies/index.html
 :url: 2009/03/17/i-do-love-conspiracies/
+:private: true
 
 |image1|\ Now that Ezra's `terrible secret has been revealed <http://www.prospect.org/csnc/blogs/ezraklein_archive?month=03&year=2009&base_name=obligatory_journolist_post&49>`__, it seems safe to say that the `Politico article <http://www.politico.com/news/stories/0309/20086.html>`__ does a pretty piss-poor job of making JournoList sound like a dire liberal conspiracy. It did leave me wondering about another point, though: whether the availability of this sort of back channel is one of the factors that's led to the blogosphere's diminished vibrancy.
 

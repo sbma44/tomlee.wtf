@@ -7,6 +7,7 @@ SXSW: gloom
 :status: published
 :save_as: 2012/03/10/sxsw-gloom/index.html
 :url: 2012/03/10/sxsw-gloom/
+:private: true
 
 I'm at SXSW, and rather than tweeting about it incessantly, I think maybe I'll just post some things here.
 

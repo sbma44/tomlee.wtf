@@ -7,6 +7,7 @@ it's beginning to feel a lot like thanksgiving
 :status: published
 :save_as: 2006/11/20/its-beginning-to-feel-a-lot-like-thanksgiving/index.html
 :url: 2006/11/20/its-beginning-to-feel-a-lot-like-thanksgiving/
+:private: true
 
 | Here's what I found when I walked into the office this morning:
 | 

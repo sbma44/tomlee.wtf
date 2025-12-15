@@ -7,6 +7,7 @@ Twitter evangelism, take two
 :status: published
 :save_as: 2007/08/03/twitter-evangelism-take-two/index.html
 :url: 2007/08/03/twitter-evangelism-take-two/
+:private: true
 
 I gave Twitter a try back around SXSWi. I liked it, but it posed a couple of problems. First, I ended up getting so many SMSes that it made my phone significantly less useful. Second, the messages were typically from acquaintances on the west coast — nobody in DC used it.
 

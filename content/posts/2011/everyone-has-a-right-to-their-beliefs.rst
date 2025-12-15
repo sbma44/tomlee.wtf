@@ -7,6 +7,7 @@ everyone has a right to their beliefs
 :status: published
 :save_as: 2011/01/14/everyone-has-a-right-to-their-beliefs/index.html
 :url: 2011/01/14/everyone-has-a-right-to-their-beliefs/
+:private: true
 
 |image1|
 

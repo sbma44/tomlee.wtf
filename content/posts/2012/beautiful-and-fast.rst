@@ -7,6 +7,7 @@ beautiful and fast
 :status: published
 :save_as: 2012/09/29/beautiful-and-fast/index.html
 :url: 2012/09/29/beautiful-and-fast/
+:private: true
 
 |POV|
 

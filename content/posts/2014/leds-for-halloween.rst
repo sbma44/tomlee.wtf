@@ -7,6 +7,7 @@ LEDs for halloween
 :status: published
 :save_as: 2014/11/30/leds-for-halloween/index.html
 :url: 2014/11/30/leds-for-halloween/
+:private: true
 
 I've continued to drift away from my commitment to dressing as villains. In my defense, Cyclops is kind of a jerk.
 

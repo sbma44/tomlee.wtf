@@ -7,6 +7,7 @@ rock show!
 :status: published
 :save_as: 2007/02/15/rock-show/index.html
 :url: 2007/02/15/rock-show/
+:private: true
 
 Well, I'm 27. 26 was a fairly traumatic year, but I'm sorry to leave it behind — it seemed like a pretty good age to be. But I've still got over a thousand days until the crystal in my left palm turns black, so I'm not *really* upset at marking this year off the calendar.
 

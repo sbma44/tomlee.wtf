@@ -7,6 +7,7 @@ intense
 :status: published
 :save_as: 2008/07/11/intense/index.html
 :url: 2008/07/11/intense/
+:private: true
 
 A Flickr user gets struck by lightning while taking video:
 

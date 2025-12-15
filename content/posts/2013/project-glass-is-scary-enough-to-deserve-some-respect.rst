@@ -7,6 +7,7 @@ Project Glass is scary enough to deserve some respect
 :status: published
 :save_as: 2013/05/02/project-glass-is-scary-enough-to-deserve-some-respect/index.html
 :url: 2013/05/02/project-glass-is-scary-enough-to-deserve-some-respect/
+:private: true
 
 People seem ready to hate Google Glass!
 

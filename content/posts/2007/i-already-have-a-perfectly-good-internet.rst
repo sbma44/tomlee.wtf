@@ -7,6 +7,7 @@ I already have a perfectly good internet
 :status: published
 :save_as: 2007/03/22/i-already-have-a-perfectly-good-internet/index.html
 :url: 2007/03/22/i-already-have-a-perfectly-good-internet/
+:private: true
 
 `God <http://outtamindouttasite.typepad.com/outtasite/2007/03/why_facebook_is.html>`__ `dammit <http://blogstretch.blogspot.com/2007/03/i-caved.html>`__, I don't *want* to join Facebook. I mean, yes, I have `a profile <http://www.facebook.com/profile.php?id=706410178>`__. But as you may be able to tell from the listed interests, it's not much of a serious effort. I've been mildly horrified to see friend requests begin to roll in from people I know.
 

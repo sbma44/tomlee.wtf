@@ -7,6 +7,7 @@ nucular proliferation
 :status: published
 :save_as: 2008/10/03/nucular-proliferation/index.html
 :url: 2008/10/03/nucular-proliferation/
+:private: true
 
 Once again, I pretty much lost track of the debate by its end — I was typing furiously and drinking too fast. But I guess I agree that Palin seemed to be merely a bit dim, rather than so cartoonishly stupid that you'd hesitate to trust her with solid food.
 

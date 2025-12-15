@@ -7,6 +7,7 @@ take your medicine
 :status: published
 :save_as: 2007/10/31/take-your-medicine/index.html
 :url: 2007/10/31/take-your-medicine/
+:private: true
 
 Mom's surgery went well. The radial nerves in her arm had to be moved, which is a bit worrisome and resulted in more post-surgical weakness than the doctors would have liked. But she's not in too much pain, and she says she can already feel that her arm is better-aligned than it was. Everyone's optimistic that with work, patience and perhaps another procedure she'll recover her full dexterity.
 

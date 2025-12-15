@@ -7,6 +7,7 @@ free fall
 :status: published
 :save_as: 2012/08/19/free-fall/index.html
 :url: 2012/08/19/free-fall/
+:private: true
 
 |Go time|\ I went skydiving with coworkers yesterday. This is the third year that `Eric <http://konklone.com/>`__ has arranged such an outing (though a last-minute injury kept him from going this year), and the first time that I've joined the proceedings. It was fun! The staff at `Skydive Orange <http://www.skydiveorange.com/>`__ were friendly and professional, and the whole process went very smoothly. And, though I `sort of joked about it <http://instagram.com/p/OeM0n0PECT/>`__, the atmosphere really *did* remind me of *Drop Zone*, the great(?) Wesley Snipes *Point Break* knockoff.
 

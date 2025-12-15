@@ -7,6 +7,7 @@ iNcredulousness
 :status: published
 :save_as: 2008/10/02/incredulousness/index.html
 :url: 2008/10/02/incredulousness/
+:private: true
 
 Via `Peter <http://www.theamericanscene.com/>`__, I see that `Apple is rumored to be introducing aluminum Macbooks <http://www.appleinsider.com/articles/08/04/07/apple_notebook_lines_to_see_major_design_changes_sources_say.html>`__. Great! I think aluminum looks cooler, and it may even dissipate heat better (although, somewhat counterintuitively, it seems to make for less durable computers).
 

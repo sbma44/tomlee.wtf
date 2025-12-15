@@ -7,6 +7,7 @@ money for nothing, bits for free
 :status: published
 :save_as: 2006/11/26/money-for-nothing-bits-for-free/index.html
 :url: 2006/11/26/money-for-nothing-bits-for-free/
+:private: true
 
 I'm embarrassed to admit that I initially clicked through to `this story <http://hardware.slashdot.org/article.pl?sid=06/11/26/140240&from=rss>`__ with interest rather than incredulity. In short: some guy claimed he had come up with a means of storing 450 gigabytes of data on a single sheet of paper through a special encoding system involving colored geometric shapes. Some of the tech press ran with it.
 

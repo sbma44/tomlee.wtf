@@ -7,6 +7,7 @@ GE Color Effects Lights logic in Python
 :status: published
 :save_as: 2011/12/22/ge-color-effects-lights-logic-in-python/index.html
 :url: 2011/12/22/ge-color-effects-lights-logic-in-python/
+:private: true
 
 I've been playing with `these holiday lights <http://www.amazon.com/Color-Effects-Changing-Remote-Control/dp/B004A354B8>`__ recently. They're very neat: each bulb has RGB LEDs embedded in it and is individually addressable (albeit with only 4 bits of resolution per color channel). Some wonderfully talented folks have `reverse-engineered <http://www.deepdarc.com/2010/11/27/hacking-christmas-lights/>`__ the protocol that the light controller uses; `others have written Arduino code <http://scottrharris.blogspot.com/2010/12/controlling-ge-color-effects-lights.html>`__ making it possible to snip the light's control line, connect it to an Arduino, and begin programming your own animations. Still others are doing various `neat and unusual things <http://blog.jgc.org/2011/11/turning-ge-color-effects-g-35-christmas.html>`__ with the result. Personally, I just want to have some interesting light displays for New Year's.
 

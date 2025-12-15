@@ -7,6 +7,7 @@ pop quiz hotshot
 :status: published
 :save_as: 2008/07/01/pop-quiz-hotshot/index.html
 :url: 2008/07/01/pop-quiz-hotshot/
+:private: true
 
 Having been reminded to do so by `this <http://www.unfogged.com/archives/week_2008_06_29.html#008959>`__, I've got a question:
 

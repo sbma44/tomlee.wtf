@@ -7,6 +7,7 @@ Sommer's star turn
 :status: published
 :save_as: 2007/02/02/sommers-star-turn/index.html
 :url: 2007/02/02/sommers-star-turn/
+:private: true
 
 Internet veterans may remember the heady days of December of two-thousand and aught-six. In those days an inter-meme spread through the web, cutting down many a blogger in a flurry of third-party-prompted self-absorption. The theme? List five things that people don't know about you.
 

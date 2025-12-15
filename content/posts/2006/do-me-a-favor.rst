@@ -7,6 +7,7 @@ do me a favor
 :status: published
 :save_as: 2006/12/19/do-me-a-favor/index.html
 :url: 2006/12/19/do-me-a-favor/
+:private: true
 
 And help me test out a project I'm working on. The number of excerpt-only RSS feeds in my reader has finally hit the point where it began gnawing away at me. So I've taken a stab at writing a utility to automatically turn partial RSS feeds into full-text ones. If you've got any partial-text feeds that have been bugging you, I'd appreciate your giving it a try. If you run into problems, leave them in comments.
 

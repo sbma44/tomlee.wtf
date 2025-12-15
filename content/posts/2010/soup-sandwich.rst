@@ -7,6 +7,7 @@ soup sandwich
 :status: published
 :save_as: 2010/03/01/soup-sandwich/index.html
 :url: 2010/03/01/soup-sandwich/
+:private: true
 
 A few weeks back Emily and I were out at Bob & Barbara's having some drinks with our friends Sarah, John Carlos and Tara. We got to talking about art and technology and sculpture, and with the help of my phone John Carlos found a video of some work he'd done.  The bar wasn't the best place for watching it, so I emailed it to myself and forgot about it until just now:
 

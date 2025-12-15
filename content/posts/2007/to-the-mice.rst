@@ -7,6 +7,7 @@ to the mice
 :status: published
 :save_as: 2007/04/24/to-the-mice/index.html
 :url: 2007/04/24/to-the-mice/
+:private: true
 
 Let me preface this by saying that I am sorry to be writing it. There is nothing I wish for more than our people to live in mutual prosperity and comity. However, I feel that I can no longer remain silent.
 

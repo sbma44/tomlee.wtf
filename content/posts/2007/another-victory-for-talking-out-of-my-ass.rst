@@ -7,6 +7,7 @@ another victory for talking out of my ass
 :status: published
 :save_as: 2007/04/27/another-victory-for-talking-out-of-my-ass/index.html
 :url: 2007/04/27/another-victory-for-talking-out-of-my-ass/
+:private: true
 
 Scientists `say <http://www.latimes.com/news/la-sci-bees26apr26,0,7437491.story?track=mostviewed-storylevel>`__ the bees are probably dying from a fungus, possibly in combination with a virus. They're also optimistic about it being treatable with antibiotics:
 

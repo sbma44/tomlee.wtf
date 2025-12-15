@@ -7,6 +7,7 @@ a poor use of my time
 :status: published
 :save_as: 2012/12/08/a-poor-use-of-my-time/index.html
 :url: 2012/12/08/a-poor-use-of-my-time/
+:private: true
 
 Still, the lingering shreds of my 14 year-old self couldn't help wasting a few hours writing a convenience utility for extracting snippets from the Simpsons for throwaway-gag social media use. I did this despite realizing that, yes, quotation is a low and basically irritating form of humor -- it's basically the same as the bully with the audio-playing jacket in *Back to the Future II* . Still, if you've got a library of video you want to pull snippets from, `perhaps you'll find it useful <https://github.com/sbma44/simpclip>`__.
 

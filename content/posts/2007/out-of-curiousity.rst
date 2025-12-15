@@ -7,6 +7,7 @@ out of curiousity
 :status: published
 :save_as: 2007/10/01/out-of-curiousity/index.html
 :url: 2007/10/01/out-of-curiousity/
+:private: true
 
 Has anyone written up the l33t hax0r implications of the Petraeus Report? I've been patiently waiting for someone take up the gauntlet ever since the general included this line in his prepared statement before congress:
 

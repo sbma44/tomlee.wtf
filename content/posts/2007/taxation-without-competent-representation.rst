@@ -7,6 +7,7 @@ taxation without competent representation
 :status: published
 :save_as: 2007/04/05/taxation-without-competent-representation/index.html
 :url: 2007/04/05/taxation-without-competent-representation/
+:private: true
 
 Off Seventh's got `video <http://www.offseventh.org/blog/2007/04/doris_cancellin.html>`__ of the farce that went down at the latest Shaw ANC meeting — prohibitions on recording, rule-breaking, and finally the cancellation of the meeting by fiat. It's not the most rigorous application of Robert's Rules of Order that I've ever seen.
 

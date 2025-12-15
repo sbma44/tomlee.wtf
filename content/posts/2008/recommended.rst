@@ -7,6 +7,7 @@ recommended
 :status: published
 :save_as: 2008/05/12/recommended/index.html
 :url: 2008/05/12/recommended/
+:private: true
 
 `Envelopes <http://hypem.com/search/envelopes/1/>`__. Courtesy of Sweden, no doubt via an English-speaking-band promotional program from whatever they call their ministry of culture and/or tourism (see also: Figurines, Hives, ongoing Canadian musical dominance). Three cheers for socialized indie rock!
 

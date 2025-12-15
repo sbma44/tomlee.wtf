@@ -7,6 +7,7 @@ book review: Alif the Unseen
 :status: published
 :save_as: 2013/07/13/book-review-alif-the-unseen/index.html
 :url: 2013/07/13/book-review-alif-the-unseen/
+:private: true
 
 Though not totally meritless, it's safe to say this was not a favorite of mine. I had two primary objections.
 

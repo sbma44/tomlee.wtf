@@ -7,6 +7,7 @@ a late debut in the field of Sopranos blogging
 :status: published
 :save_as: 2007/06/10/a-late-debut-in-the-field-of-sopranos-blogging/index.html
 :url: 2007/06/10/a-late-debut-in-the-field-of-sopranos-blogging/
+:private: true
 
 Like everyone else I just finished watching the Sopranos finale. Judging by the reaction among the folks I was watching with, opinions vary on exactly what the ending meant. I feel pretty strongly that Tony got popped. The cut to black occurred in the instant when Tony died.
 

@@ -5,5 +5,6 @@ Dhalgren
 :category: books
 :slug: 2616
 :status: draft
+:private: true
 
 Tom wants to read 'Dhalgren'

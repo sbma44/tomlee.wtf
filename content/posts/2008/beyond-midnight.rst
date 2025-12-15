@@ -7,6 +7,7 @@ Beyond Midnight
 :status: published
 :save_as: 2008/10/21/beyond-midnight/index.html
 :url: 2008/10/21/beyond-midnight/
+:private: true
 
 Halloween! Words! Contest! Okay, inspiration.
 

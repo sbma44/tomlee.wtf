@@ -7,6 +7,7 @@ better Google Maps/Metro integration
 :status: published
 :save_as: 2007/07/12/better-google-mapsmetro-integration/index.html
 :url: 2007/07/12/better-google-mapsmetro-integration/
+:private: true
 
 Tech project the first!: I've revisited my venerable `DCist Map <http://www.dcist.com/map>`__ project and ported it over to Google Mapplets — a `just-launched <http://www.techcrunch.com/2007/07/11/google-to-launch-my-maps/>`__ feature that lets you add user-contributed mashups to your Google Map display in a wholly integrated way. This lets you do all kinds of neat stuff. For example, you can turn on a crime overlay by checking the "crime overlay" box. Then you could compare area muggings to gas prices by clicking the "gas price" checkbox. You'll be revolutionizing sociology in no time!
 

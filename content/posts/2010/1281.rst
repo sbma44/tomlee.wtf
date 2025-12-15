@@ -5,6 +5,7 @@ New York
 :category: Uncategorized
 :slug: 1281
 :status: draft
+:private: true
 
 This weekend was stressful: I had to rent a car and drive, with my mother, up to Brewster, NY for my grandfather's memorial service.  He was a complicated man who left behind a complicated family, and I can't say that I'm always at ease when I'm around them.  Not that I don't enjoy each of my maternal relatives on an individual basis -- I do -- but being in that place inevitably calls forth dynamics that are, frankly, pretty poisonous.  And I don't just mean how my uncle had to get rabies shots after being bitten by one of the many racoons that he's taken to feeding on the porch of my grandfather's condo.  Getting everyone in a room -- *those* rooms -- is like bringing softly humming tuning forks together, producing a horrible mounting resonance that shakes the plaster from the walls and leaves me clutching my head.  Still, it was good that I went, and maybe the weekend's exercise in hagiography will serve to exorcise as well.
 

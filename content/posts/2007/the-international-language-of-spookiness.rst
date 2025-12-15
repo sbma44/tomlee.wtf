@@ -7,6 +7,7 @@ the international language of spookiness
 :status: published
 :save_as: 2007/10/31/the-international-language-of-spookiness/index.html
 :url: 2007/10/31/the-international-language-of-spookiness/
+:private: true
 
 |image1|
 

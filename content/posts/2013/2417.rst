@@ -5,6 +5,7 @@ Tom is now friends with Becks
 :category: books
 :slug: 2417
 :status: draft
+:private: true
 
 | `Tom Lee <http://www.goodreads.com/user/show/4989865-tom-lee>`__ is now friends with
 | `Becks <http://www.goodreads.com/user/show/18757816-becks>`__

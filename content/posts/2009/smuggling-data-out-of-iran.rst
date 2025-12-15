@@ -7,6 +7,7 @@ smuggling data out of Iran
 :status: published
 :save_as: 2009/06/27/smuggling-data-out-of-iran/index.html
 :url: 2009/06/27/smuggling-data-out-of-iran/
+:private: true
 
 `Via Spencer <http://attackerman.firedoglake.com/2009/06/26/what-a-week/>`__, `an interesting article <http://washingtontimes.com/news/2009/jun/26/protesters-use-navy-technology-to-avoid-censorship/?feat=home_headlines&>`__ about the Iranian protesters' use of `Tor <http://www.torproject.org/>`__, The Onion Router. I'm a `big </2007/07/24/last-years-model/>`__ `fan <http://www.zunta.org/blog/archives/2005/03/23/said_it_once_be/>`__ of Tor, and have seen it successfully used to evade dictatorial regimes in the past (specifically the people running `NBA League Pass </2008/01/23/nba-league-pass-from-across-many-leagues/>`__). But it's probably worth pointing out Tor's limits as they pertain to the situation in Iran.
 

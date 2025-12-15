@@ -7,6 +7,7 @@ I'm going to blow this thing wide open
 :status: published
 :save_as: 2007/10/19/im-going-to-blow-this-thing-wide-open/index.html
 :url: 2007/10/19/im-going-to-blow-this-thing-wide-open/
+:private: true
 
 `Yglesias <http://matthewyglesias.theatlantic.com/archives/2007/10/brooks_on_huckabee.php>`__ prompted me to read `David Brooks' column on Mike Huckabee <http://www.nytimes.com/2007/10/19/opinion/19brooks.html?_r=1&hp&oref=slogin>`__. America America aw shucks apparently-not-diabolical. Fine. But what's this?
 

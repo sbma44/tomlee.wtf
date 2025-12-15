@@ -7,6 +7,7 @@ this is going to end badly
 :status: published
 :save_as: 2006/10/24/this-is-going-to-end-badly/index.html
 :url: 2006/10/24/this-is-going-to-end-badly/
+:private: true
 
 | ...although it's starting off pretty well. Just got back from seeing John Hodgman, David Rees and Jonathan Coulton at the Warehouse Theater with `Sommer <http://cruelsommer.blogspot.com>`__, `Matt <http://ficke.blogspot.com>`__, `Catherine <http://outtamindouttasite.typepad.com>`__, `Julian <http://juliansanchez.com/notes/>`__, `Will <http://willwilkinson.net/flybottle/>`__ and probably several other hyperlinked Americans. Look, blurry proof:
 | |John Hodgman|

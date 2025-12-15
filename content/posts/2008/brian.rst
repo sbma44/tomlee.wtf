@@ -7,6 +7,7 @@ Brian
 :status: published
 :save_as: 2008/07/03/brian/index.html
 :url: 2008/07/03/brian/
+:private: true
 
 Wow. Well, yesterday was `kind of terrifying <http://www.prospect.org/csnc/blogs/ezraklein_archive?month=07&year=2008&base_name=brian#107421>`__, huh? I haven't got anything original to say but of course like everyone else I'm extremely glad that Brian is okay and seems poised to have an improbably, miraculously complete recovery. I suppose I shouldn't be surprised: he's pretty much the most unflappable guy I know. That his body is greeting three bullets with what amounts to an unimpressed shrug seems perfectly in character.
 

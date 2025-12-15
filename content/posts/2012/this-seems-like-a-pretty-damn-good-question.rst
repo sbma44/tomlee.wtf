@@ -7,6 +7,7 @@ this seems like a pretty damn good question
 :status: published
 :save_as: 2012/12/26/this-seems-like-a-pretty-damn-good-question/index.html
 :url: 2012/12/26/this-seems-like-a-pretty-damn-good-question/
+:private: true
 
 ..
 

@@ -7,6 +7,7 @@ do as the man says, Nintendo
 :status: published
 :save_as: 2007/12/21/do-as-the-man-says-nintendo/index.html
 :url: 2007/12/21/do-as-the-man-says-nintendo/
+:private: true
 
 This is very, very neat, and I'm desperate to see it show up in, say, a new version of Time Crisis. Be sure to watch until at least 2:45.
 

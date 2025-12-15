@@ -7,6 +7,7 @@ more importantly
 :status: published
 :save_as: 2007/03/31/more-importantly/index.html
 :url: 2007/03/31/more-importantly/
+:private: true
 
 `Holy crap <http://www.jeffnye.org/adventures/2007/03/big_news.php>`__! Congratulations, you crazy kids!
 

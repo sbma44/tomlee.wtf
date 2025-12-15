@@ -7,6 +7,7 @@ everything's terrible
 :status: published
 :save_as: 2007/02/14/everythings-terrible/index.html
 :url: 2007/02/14/everythings-terrible/
+:private: true
 
 Man, what a lousy start to the morning. To be fair, any morning that starts at 2:30 is probably going to be fairly crappy, but this one has some real staying power. I was awakened by a tap-tap-tapping on my chamber door. The last time this happened it was a cop who wanted to explain that he'd chased a suspect into my garage. Based on that experience it seemed like it was worth getting up. This time it was just my neighbor, who swept into the apartment and started fiddling with our thermostat. Apparently something in the building was vibrating annoyingly, and, as irresponsible young renters, Charles and I seemed like the sort of people who might ignore a problem until it involved shrapnel and scalding.
 

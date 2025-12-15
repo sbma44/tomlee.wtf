@@ -5,6 +5,7 @@ Harvest
 :category: books
 :slug: 2598
 :status: draft
+:private: true
 
 | 4 stars
 | Shelves: currently-reading

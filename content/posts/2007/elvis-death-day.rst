@@ -7,6 +7,7 @@ Elvis Death Day
 :status: published
 :save_as: 2007/08/16/elvis-death-day/index.html
 :url: 2007/08/16/elvis-death-day/
+:private: true
 
 Thanks to the Governess for `reminding me <http://pygmalioninablanket.blogspot.com/2007/08/music-writersfamily-values.html>`__ that today is Elvis Death Day. Don't forget the accompanying Washington tradition: the `Don and Mike <http://www.donandmikewebsite.com/main.shtml>`__ Elvis Death Day Show.
 

@@ -7,6 +7,7 @@ prescience
 :status: published
 :save_as: 2008/12/30/prescience/index.html
 :url: 2008/12/30/prescience/
+:private: true
 
 I think `Charles <http://dccharles.blogspot.com>`__ has this just about right:
 

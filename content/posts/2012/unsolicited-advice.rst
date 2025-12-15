@@ -7,6 +7,7 @@ unsolicited advice
 :status: published
 :save_as: 2012/05/15/unsolicited-advice/index.html
 :url: 2012/05/15/unsolicited-advice/
+:private: true
 
 Will Wilkinson is `too kind to me <http://www.economist.com/blogs/democracyinamerica/2012/04/technology-politics-and-hope>`__, but too cruel in general:
 

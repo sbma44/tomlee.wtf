@@ -7,6 +7,7 @@ more homebrew
 :status: published
 :save_as: 2009/05/05/more-homebrew/index.html
 :url: 2009/05/05/more-homebrew/
+:private: true
 
 I've been a little worn down all day. Yesterday `Kriston <http://www.grammarpolice.net>`__ and I set out to begin a batch of homebrewed wheat beer. But we did a bad job of estimating times and got a late start, and the result was a brewing operation that lasted until 3AM.
 

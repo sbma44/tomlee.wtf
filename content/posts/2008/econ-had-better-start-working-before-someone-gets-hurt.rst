@@ -7,6 +7,7 @@ econ had better start working before someone gets hurt
 :status: published
 :save_as: 2008/07/28/econ-had-better-start-working-before-someone-gets-hurt/index.html
 :url: 2008/07/28/econ-had-better-start-working-before-someone-gets-hurt/
+:private: true
 
 Getting back from Philadelphia yesterday was not fun. I imagine it won't surprise anyone to hear that the Chinatown bus has been getting more and more crowded as people respond to higher gas prices. What *is* surprising is how badly the bus industry is dealing with it. Are they running more buses? No. Raising ticket prices? No. They seem not to have noticed that anything's different, in fact, despite everyone else managing to — yesterday there was even a young guy shooting footage and doing interviews for what I presume to be a short documentary about the situation.
 

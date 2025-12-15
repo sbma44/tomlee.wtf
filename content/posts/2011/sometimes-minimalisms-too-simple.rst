@@ -7,6 +7,7 @@ sometimes minimalism's too simple
 :status: published
 :save_as: 2011/02/01/sometimes-minimalisms-too-simple/index.html
 :url: 2011/02/01/sometimes-minimalisms-too-simple/
+:private: true
 
 Like `Ezra <http://voices.washingtonpost.com/ezra-klein/2011/02/that_is_what_it_does.html>`__, I find `this explanation <http://delong.typepad.com/sdj/2011/01/dropbox-on-quora.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+BradDelongsSemi-dailyJournal+(Brad+DeLong's+Semi-Daily+Journal)>`__ for Dropbox's success intellectually attractive.  Minimalism!  Of course!  It's so simple!  It's exactly the kind of thing that software developers get off on. For one thing, it legitimizes our lust for Apple products -- despite the fact that Apple UI betrays the idea more often than we admit -- because most of us can't or don't want to distinguish between *good aesthetics* and *simplicity*.  It's sort of zen.  It makes us feel wise.  But in this case I don't buy it.
 

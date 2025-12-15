@@ -7,6 +7,7 @@ how a resurrection really looks
 :status: published
 :save_as: 2006/11/27/how-a-resurrection-really-looks/index.html
 :url: 2006/11/27/how-a-resurrection-really-looks/
+:private: true
 
 | |20061127_boysngirls.jpg|
 | Well, I hate to be a downer. But I `have <http://www.andysullivan.com/blog/?p=236>`__ to `disagree <http://www.dcist.com/archives/2006/11/27/what_did_you_th_1.php#comments>`__: I thought the Hold Steady were merely Pretty Good on Saturday. As great as the new album is, as raucous as the guitars sounded, as joyous as the band was, there were some problems.

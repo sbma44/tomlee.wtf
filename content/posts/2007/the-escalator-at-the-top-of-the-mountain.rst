@@ -7,6 +7,7 @@ the escalator at the top of the mountain
 :status: published
 :save_as: 2007/06/07/the-escalator-at-the-top-of-the-mountain/index.html
 :url: 2007/06/07/the-escalator-at-the-top-of-the-mountain/
+:private: true
 
 My software output has dropped off over the last few months. There are a couple of reasons for that: I've had a few private projects to work on for friends, I've been traveling a lot, the winter blues hit me — all kinds of minor things. But a bigger factor is that I've been a little bored with it. The technologies I use most are losing their sheen: PHP isn't glamorous; neither is Perl. I've made some half-hearted stabs at learning Ruby, but I'm a pretty application-oriented guy when it comes to technology (believe it or not) — if a technology doesn't let me do something new and cool, I'm not incredibly interested. Ruby's beautiful, but I'm not ready to spend time on Rails. And as a standalone scripting language, its packages are inferior to Perl. You can do less cool stuff with it (although when you do something you tend to do it in a satisfyingly elegant manner).
 

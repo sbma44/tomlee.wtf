@@ -5,5 +5,6 @@ Fortune's Formula: The Untold Story of the Scientific Betting System That Beat t
 :category: books
 :slug: 2434
 :status: draft
+:private: true
 
 | Shelves: to-read

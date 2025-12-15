@@ -7,6 +7,7 @@ there's an inauguration going on or something
 :status: published
 :save_as: 2009/01/20/theres-an-inauguration-going-on-or-something/index.html
 :url: 2009/01/20/theres-an-inauguration-going-on-or-something/
+:private: true
 
 I didn't go downtown this morning. Getting anywhere even potentially worth being seemed to require a very early start, and although `Becks <http://www.unfogged.com>`__' promise of a delicious pre-inaugural spread was tempting, I opted out. I'd gotten up before dawn the day before in order to catch a flight, making me even less inclined than normal to wake up early. Instead I woke up around 10, made some coffee and french toast, then plopped down in front of the TV. Honestly, I think this was the way to go.
 

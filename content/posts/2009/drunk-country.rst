@@ -7,6 +7,7 @@ Drunk Country
 :status: published
 :save_as: 2009/08/10/drunk-country/index.html
 :url: 2009/08/10/drunk-country/
+:private: true
 
 ...is a great handle, and as it turns out he (and his partner) run a pretty great podcast/show.  I caught it on WOXY yesterday afternoon, and not only did I like almost everything I heard played, but I had heard of virtually none of the bands.  This may be fertile musical ground, in other words.
 

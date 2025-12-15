@@ -7,6 +7,7 @@ whine, whine, whine
 :status: published
 :save_as: 2007/02/20/whine-whine-whine/index.html
 :url: 2007/02/20/whine-whine-whine/
+:private: true
 
 Sick days: not as bad as they could be. It's true that I still sort of feel like I'm breathing through a tiny, phlegmy drinking straw. But there's a lot to be said for spending a day in your pajamas a scant few feet from a chocolate cake. Plus I got kind of a lot of work done. It's really made me miss the heady days of telecommuting to my considerably stupider but also more hygiene-optional last job.
 

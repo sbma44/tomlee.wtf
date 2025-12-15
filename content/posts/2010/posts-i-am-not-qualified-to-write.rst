@@ -7,6 +7,7 @@ posts I am not qualified to write
 :status: published
 :save_as: 2010/02/16/posts-i-am-not-qualified-to-write/index.html
 :url: 2010/02/16/posts-i-am-not-qualified-to-write/
+:private: true
 
 Or rather, posts I am *so* unqualified to write that even *I* am not comfortable writing them (but I wish Julian or Yglesias or Dylan Matthews or Matt Zeitlin or anyone else who's done some of the relevant reading would):
 

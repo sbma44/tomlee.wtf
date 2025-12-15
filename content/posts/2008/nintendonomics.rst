@@ -7,6 +7,7 @@ nintendonomics
 :status: published
 :save_as: 2008/06/30/nintendonomics/index.html
 :url: 2008/06/30/nintendonomics/
+:private: true
 
 Megan `asks a question <http://meganmcardle.theatlantic.com/archives/2008/06/fit.php>`__ that I can actually answer!
 

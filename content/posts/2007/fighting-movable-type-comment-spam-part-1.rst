@@ -7,6 +7,7 @@ fighting movable type comment spam - part 1
 :status: published
 :save_as: 2007/01/26/fighting-movable-type-comment-spam-part-1/index.html
 :url: 2007/01/26/fighting-movable-type-comment-spam-part-1/
+:private: true
 
 There's recently been a lot of discussion on the Gothamist tech list about fighting comment spam, and it's prompted me to revisit and further develop some thoughts I had about the problem. Since I regularly get approached by friends who are hoping to eliminate their comment spam woes, I thought I'd write up my thoughts.
 

@@ -7,6 +7,7 @@ defiant orthodoxy
 :status: published
 :save_as: 2007/12/20/defiant-orthodoxy/index.html
 :url: 2007/12/20/defiant-orthodoxy/
+:private: true
 
 Ryan `disagrees <http://www.ryanavent.com/blog/?p=662>`__ with my Christmas rock boosterism. I'll just go ahead and quote the whole post:
 

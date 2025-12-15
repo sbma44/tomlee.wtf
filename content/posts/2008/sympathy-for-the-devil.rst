@@ -7,6 +7,7 @@ sympathy for the devil
 :status: published
 :save_as: 2008/07/23/sympathy-for-the-devil/index.html
 :url: 2008/07/23/sympathy-for-the-devil/
+:private: true
 
 |image1|
 

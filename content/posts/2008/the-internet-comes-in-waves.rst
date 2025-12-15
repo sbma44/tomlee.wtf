@@ -7,6 +7,7 @@ the internet comes in waves
 :status: published
 :save_as: 2008/06/13/the-internet-comes-in-waves/index.html
 :url: 2008/06/13/the-internet-comes-in-waves/
+:private: true
 
 Matt `links <http://matthewyglesias.theatlantic.com/archives/2008/06/the_internet_destroyed_my_mind.php>`__ to `Nicholas Carr <http://www.theatlantic.com/doc/200807/google>`__ expressing concern over the diminishing length of the texts he consumes. Is the internet killing our collective attention span? C'mon, sing along if you know the words.
 

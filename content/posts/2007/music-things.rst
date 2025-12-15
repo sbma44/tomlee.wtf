@@ -7,6 +7,7 @@ music things
 :status: published
 :save_as: 2007/02/12/music-things/index.html
 :url: 2007/02/12/music-things/
+:private: true
 
 I watched some of the Grammies last night, but I think I repressed everything that happened after the Eagles tribute. So it comes as an unpleasant shock to hear `from Amanda <http://blogstretch.blogspot.com/2007/02/beginning-and-end.html>`__ that "My Humps" won an award last night. I can't say that I ever expected to feel indignant sympathy for the Pussycast Dolls, but `there it is <http://en.wikipedia.org/wiki/Nominees_for_Grammy_Awards_of_2007#Best_Pop_Performance_by_a_Duo_or_Group_with_Vocal>`__.
 

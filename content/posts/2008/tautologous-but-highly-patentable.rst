@@ -7,6 +7,7 @@ tautologous, but highly patentable
 :status: published
 :save_as: 2008/02/28/tautologous-but-highly-patentable/index.html
 :url: 2008/02/28/tautologous-but-highly-patentable/
+:private: true
 
 From `Derek Lowe's blog <http://pipeline.corante.com/archives/2008/02/27/antidepressants_depressing_news_or_not.php>`__:
 

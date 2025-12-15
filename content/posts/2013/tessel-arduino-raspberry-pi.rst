@@ -7,6 +7,7 @@ Tessel, Arduino, Raspberry Pi
 :status: published
 :save_as: 2013/08/14/tessel-arduino-raspberry-pi/index.html
 :url: 2013/08/14/tessel-arduino-raspberry-pi/
+:private: true
 
 `Eric asked me what I think of the Tessel <https://twitter.com/konklone/status/367787595427622912>`__! Well, sort of. Anyway I find myself delighted to have semi-informed thoughts about hobbyist microcontroller-y solutions. It's a pleasant byproduct of all the time I've spent on silly electronics projects over the last decade, and makes me feel better about my own perpetually-dawning software senescence.
 

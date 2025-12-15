@@ -7,6 +7,7 @@ let's get specific
 :status: published
 :save_as: 2009/10/29/lets-get-specific/index.html
 :url: 2009/10/29/lets-get-specific/
+:private: true
 
 Tim `points out <http://timothyblee.com/?p=1476>`__ that Vint Cerf's advocacy for network neutrality doesn't mean that every venerable internet expert agrees with it.  True!  Google for "Dave Farber" or "Bob Kahn" and "net neutrality" and you'll find plenty of articles... from 2007.
 

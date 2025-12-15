@@ -7,6 +7,7 @@ the denials get weaker
 :status: published
 :save_as: 2008/01/08/the-denials-get-weaker/index.html
 :url: 2008/01/08/the-denials-get-weaker/
+:private: true
 
 `Julian's <http://juliansanchez.com/notes/archives/2008/01/the_music_today_is_nuthin_but.php>`__ just linked to a `pretty good article about audio compression <http://www.rollingstone.com/news/story/17777619/the_death_of_high_fidelity/print>`__ from Rolling Stone. I'd also recommend `this IEEE Spectrum article <http://spectrum.ieee.org/aug07/5429>`__ on the subject. I suggest you choose according to who you consider more culpable: the geeks who engineer the offending waveform compressors, or the sold-out music journalists who help create a market for them.
 

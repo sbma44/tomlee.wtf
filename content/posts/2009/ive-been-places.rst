@@ -7,6 +7,7 @@ I've been places!
 :status: published
 :save_as: 2009/03/22/ive-been-places/index.html
 :url: 2009/03/22/ive-been-places/
+:private: true
 
 Hello! I didn't spend last night in a hotel. This has become a sufficiently unusual occurrence that I thought I should mention it.
 

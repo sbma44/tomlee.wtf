@@ -7,6 +7,7 @@ smysteries revealed
 :status: published
 :save_as: 2007/02/07/smysteries-revealed/index.html
 :url: 2007/02/07/smysteries-revealed/
+:private: true
 
 Somebody emailed me for help setting up an SMS service, and I ended up spewing out enough words that I thought I might as well commit them to the web. If you want to do something cool and techy with SMS, here are the options that I know of:
 

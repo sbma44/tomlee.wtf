@@ -5,6 +5,7 @@ The Coldest Winter: America and the Korean War
 :category: books
 :slug: 2385
 :status: draft
+:private: true
 
 | New comment on `Ben <http://www.goodreads.com/user/show/980285>`__'s review of
 | `The Coldest Winter: America and the Korean War <http://www.goodreads.com/book/show/448135.The_Coldest_Winter>`__

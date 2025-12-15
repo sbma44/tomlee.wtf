@@ -7,12 +7,13 @@ Artomatic Update: Python on the Fonera
 :status: published
 :save_as: 2009/05/05/artomatic-update-python-on-the-fonera/index.html
 :url: 2009/05/05/artomatic-update-python-on-the-fonera/
+:private: true
 
 **UPDATE:** Scratch that. I've hit a roadblock related to serial communication in DD-WRT. If you're only interested in using Python for socket communication and simple stuff, the below text is still useful. But I've concluded that if you want serial, DD-WRT is not the way to go. I've moved on to OpenWRT — you can see the first step in this process `here </2009/05/11/giving-up-on-dd-wrt/>`__.
 
 --------------
 
-You might remember that I've done a `bunch of work <http://www.manifestdensity.net/2008/03/26/dorkbot_arduino_and_fonera/>`__ on integrating the Fonera and the Arduino. It's a handy setup for microcontroller hobbyists: a reflashed router provides a wireless network interface that's much cheaper than the purpose-built alternatives available for the Arduino, and one which, by virtue of its Linux firmware, is also considerably more powerful. The downsides are its size and power requirements, but for most applications those aren't big concerns.
+You might remember that I've done a `bunch of work </2008/03/26/dorkbot-dc-arduino-meet-fonera/>`__ on integrating the Fonera and the Arduino. It's a handy setup for microcontroller hobbyists: a reflashed router provides a wireless network interface that's much cheaper than the purpose-built alternatives available for the Arduino, and one which, by virtue of its Linux firmware, is also considerably more powerful. The downsides are its size and power requirements, but for most applications those aren't big concerns.
 
 Last time around I just ran a cron job on the router that periodically fetched data from a web server and shoved it to the Arduino using the `busybox <http://busybox.net>`__-based command line tools that come with the DD-WRT firmware (wget, bash, stty). For my next project, those tools aren't going to cut it. I need two way communication between the Arduino and the Fonera, and I need less latency and more flexibility than those command line tools can offer. I need a proper scripting language.
 
@@ -30,7 +31,7 @@ Firing other programs runs into problems. Try to import the os module and you'll
 
 Finally, there's the question of serial communication. This is actually harder than is may sound: there's a hardware issue we need to work out before we worry about pySerial at all.
 
-The `comments <http://www.manifestdensity.net/2008/03/26/dorkbot_arduino_and_fonera/>`__ on my Dorkbot post revealed a problem I didn't know I had: the serial voltage of the Arduino is different from the serial voltage of the Fonera. The former uses 5v, the latter uses 3.3v. This is a pretty common situation, actually, and it's generally solved through the use of a chip like the MAX232. Fortunately, we can get away with even less. The Arduino's designers anticipated this problem and made the device able to recognize 3.3v serial input, so signals from the Fonera to the Arduino should work fine. This is why my Dorkbot project worked even though I hadn't accounted for the voltage mismatch.
+The `comments </2008/03/26/dorkbot-dc-arduino-meet-fonera/>`__ on my Dorkbot post revealed a problem I didn't know I had: the serial voltage of the Arduino is different from the serial voltage of the Fonera. The former uses 5v, the latter uses 3.3v. This is a pretty common situation, actually, and it's generally solved through the use of a chip like the MAX232. Fortunately, we can get away with even less. The Arduino's designers anticipated this problem and made the device able to recognize 3.3v serial input, so signals from the Fonera to the Arduino should work fine. This is why my Dorkbot project worked even though I hadn't accounted for the voltage mismatch.
 
 But the voltage differential of signals sent from the Arduino to the Fonera needs to be explicitly dealt with — we can't rely on the Fonera to handle the higher voltage as gracefully as the Arduino does. Fortunately, shedding DC voltage is a lot easier than boosting it, so this is also a pretty easy problem to solve. We just need to make a `voltage divider <http://www.raltron.com/cust/tools/voltage_divider.asp>`__ circuit that goes from 5v to 3.3v. It's basically two resistors, simply arranged. Easy! Alternately, you might be able to step the voltage down using the magic voltage-dropping properties of diodes, but I haven't bothered to try.
 

@@ -5,6 +5,7 @@ The Art of Fielding
 :category: books
 :slug: 2326
 :status: draft
+:private: true
 
 | 4 stars
 | As a general rule I'm not a huge fan of baseball-as-philosophy. Bull Durham makes me roll my eyes, and George Will can go to hell. Thankfully, the Art of Fielding does not stoop to that kind of indulgence. Instead it's a fine, enjoyable book, although not a very subtle one.

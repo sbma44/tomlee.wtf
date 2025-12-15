@@ -4,5 +4,6 @@ more Avatar
 :author: admin
 :slug: 1152
 :status: draft
+:private: true
 
 

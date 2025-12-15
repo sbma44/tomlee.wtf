@@ -7,6 +7,7 @@ Artomatic update
 :status: published
 :save_as: 2009/04/28/artomatic-update/index.html
 :url: 2009/04/28/artomatic-update/
+:private: true
 
 I stayed up way too late last night working on my piece for Artomatic. Playing with electronics can frequently be frustrating — everything goes wrong, then keeps going wrong, and at the end of the night you're left with nothing besides a pile of wasted components and a vague worry about how much lead you've just ingested. Other times, though, everything seems to go right, and that's how it went last night. There's still much more work to be done, but I'm making definite progress.
 

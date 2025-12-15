@@ -7,6 +7,7 @@ GTFS and NextBus don't match up
 :status: published
 :save_as: 2009/07/01/gtfs-and-nextbus-dont-match-up/index.html
 :url: 2009/07/01/gtfs-and-nextbus-dont-match-up/
+:private: true
 
 NextBus launched! It's exciting. I and a lot of other area developers are looking at how to take advantage of the realtime GPS data that NextBus collects to make the DC transit system easier to use. I haven't gotten too far with it — I'm just poking around — but the early word is that NextBus isn't going to make this easy.
 

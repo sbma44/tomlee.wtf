@@ -7,6 +7,7 @@ kickstarterism
 :status: published
 :save_as: 2012/09/08/kickstarterism/index.html
 :url: 2012/09/08/kickstarterism/
+:private: true
 
 I've mostly observed this phenomenon through the lens of forward-looking nonprofits in my professional space (`Public Lab <http://www.kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit>`__, `Homicide Watch <http://www.kickstarter.com/projects/1368665357/a-one-year-student-reporting-lab-within-homicide-w>`__, `Open Plans <http://www.kickstarter.com/projects/228865951/transit-app-for-ios-6-and-beyond>`__); the early wave of developing world microfinance efforts exemplified by `Kiva <http://kiva.org>`__; and the many game-related Kickstarter efforts that `Penny Arcade <http://penny-arcade.com>`__ writes about.
 

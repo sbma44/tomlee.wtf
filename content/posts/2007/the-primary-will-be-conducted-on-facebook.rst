@@ -7,6 +7,7 @@ the primary will be conducted on Facebook
 :status: published
 :save_as: 2007/07/24/the-primary-will-be-conducted-on-facebook/index.html
 :url: 2007/07/24/the-primary-will-be-conducted-on-facebook/
+:private: true
 
 The YouTube debate was more entertaining than a usual debate, I'd say, but `Yglesias is right <http://commentisfree.guardian.co.uk/matthew_yglesias/2007/07/the_youtube_debate.html>`__ that it basically amounts to a fresh coat of paint on the same tired format presided over by the same anonymous media potentates. Except now, apparently, a percentage of all questions will be posed as irritating songs. Thanks, unknown CNN producer who still thinks JibJab is funny!
 

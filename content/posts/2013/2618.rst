@@ -5,6 +5,7 @@ The Luminaries
 :category: books
 :slug: 2618
 :status: draft
+:private: true
 
 | 3 stars
 | Stories about gold rush towns are a weirdly masculine thing. Or they are to me, anyway. Even apart from the brutality that characterizes life at any sort of frontier, the cliche of the prospector recalls exaggerated psychic dimensions that seem strangely understandable: obsessiveness, hermeticism, lustfulness and drunkenness and despair. Little boys, caked in filth and sporting awesome beards. There aren't a ton of well-adjusted family men in gold towns.

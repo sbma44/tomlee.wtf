@@ -7,6 +7,7 @@ an embarrassment of pretzels
 :status: published
 :save_as: 2007/05/11/an-embarrassment-of-pretzels/index.html
 :url: 2007/05/11/an-embarrassment-of-pretzels/
+:private: true
 
 |let's face it: that's a lot of pretzels|
 

@@ -7,6 +7,7 @@ but I *am* super into the internet!
 :status: published
 :save_as: 2012/05/11/but-i-am-super-into-the-internet/index.html
 :url: 2012/05/11/but-i-am-super-into-the-internet/
+:private: true
 
 `Yglesias is right to point out that not everyone is like us <http://www.slate.com/blogs/moneybox/2012/05/11/people_just_aren_t_that_into_the_internet.html>`__: specifically, most people are not technologically-literate yuppies with motivations for avoiding cable TV subscription (e.g. self-betterment; vague anti-corporate resentment) that go beyond a simple cost/benefit calculation.
 

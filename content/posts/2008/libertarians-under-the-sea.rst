@@ -7,6 +7,7 @@ libertarians under the sea
 :status: published
 :save_as: 2008/01/18/libertarians-under-the-sea/index.html
 :url: 2008/01/18/libertarians-under-the-sea/
+:private: true
 
 `Emily <http://www.movering.com>`__, continuing an impossibly long streak of being great, sent Charles and me some Xbox games as a thank-you for the use of his car when getting her moved back to Philly for the new semester. One is "The Darkness", which I haven't yet played but apparently revolves around a demonically-possessed mob hitman who uses his supernatural powers to exact brutal revenge upon his enemies, including eating their hearts to increase his occult abilities (or, as summed up by `Game Informer's review <http://en.wikipedia.org/wiki/The_Darkness_%28video_game%29#_note-0>`__: "Players are immersed in an adventure that brings out the best of humanity").
 

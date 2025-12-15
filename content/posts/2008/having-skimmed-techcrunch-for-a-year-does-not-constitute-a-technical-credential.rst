@@ -7,6 +7,7 @@ having skimmed TechCrunch for a year does not constitute a technical credential
 :status: published
 :save_as: 2008/10/03/having-skimmed-techcrunch-for-a-year-does-not-constitute-a-technical-credential/index.html
 :url: 2008/10/03/having-skimmed-techcrunch-for-a-year-does-not-constitute-a-technical-credential/
+:private: true
 
 One of the least appealing conventions of our internet culture is the whitepaper. The idea that the addition of a .pdf extension somehow adds authority to the ramblings of every self-described "SEO expert\*" and "social media evangelist" is an idea that's as pernicious as it is ridiculous.
 

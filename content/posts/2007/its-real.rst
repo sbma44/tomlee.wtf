@@ -7,6 +7,7 @@ it's real
 :status: published
 :save_as: 2007/01/16/its-real/index.html
 :url: 2007/01/16/its-real/
+:private: true
 
 Ars Technica `reports <http://arstechnica.com/news.ars/post/20070115-8622.html>`__ that the first HD-DVD movie rip has shown up on the Bittorrent networks. It's *Serenity*, the same disc used in the AACS-cracking proof of concept that I discussed at length last week. There's a very small chance that *Serenity's* key was obtained through non-technical means, and that the breach is therefore confined to that disc. But I wouldn't bet on it.
 

@@ -5,5 +5,6 @@ Hard-Boiled Wonderland and the End of the World
 :category: books
 :slug: 2669
 :status: draft
+:private: true
 
 Tom is currently reading 'Hard-Boiled Wonderland and the End of the World'

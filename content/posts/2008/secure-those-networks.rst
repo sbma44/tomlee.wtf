@@ -7,6 +7,7 @@ secure those networks!
 :status: published
 :save_as: 2008/07/09/secure-those-networks/index.html
 :url: 2008/07/09/secure-those-networks/
+:private: true
 
 This is a few months old, but I've just now discovered it. And it's impossibly cool: `controlling your Tivo from your iPhone <http://code.google.com/p/tivoremote/>`__.
 

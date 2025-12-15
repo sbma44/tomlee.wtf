@@ -7,6 +7,7 @@ muxtape mutates
 :status: published
 :save_as: 2008/09/26/muxtape-mutates/index.html
 :url: 2008/09/26/muxtape-mutates/
+:private: true
 
 Looks like `the labels went after Muxtape <http://www.muxtape.com/>`__ faster than `I'd expected </2008/03/27/muxtape-unraveled/>`__. Relaunching as a direct competitor to MySpace's music player functionality strikes me as a smart move — the fidelity offered by MySpace is pretty terrible, and bands are willing to spend a few bucks, I think, for better promotional tools. There are plenty other services out there that scratch this itch, but most haven't got the brand cachet or design sense of Muxtape. I think this could turn into a nice little business for Justin, the site's creator.
 

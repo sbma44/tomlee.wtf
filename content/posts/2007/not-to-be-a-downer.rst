@@ -7,6 +7,7 @@ not to be a downer
 :status: published
 :save_as: 2007/05/07/not-to-be-a-downer/index.html
 :url: 2007/05/07/not-to-be-a-downer/
+:private: true
 
 But `Catherine's right <http://outtamindouttasite.typepad.com/outtasite/2007/05/oh_yeah_i_have_.html#more>`__ — Friday's Arcade Fire show wasn't a particularly great one. Don't get me wrong: it was very good — amazingly so, given the terrible venue. But it wasn't up to the standard they had set during their shows at the Black Cat and 9:30 club. There wasn't much improvisation; the three-song encore was short; Regine *really* can't sing while drumming; and they generally seemed less-committed to the performance than they have in the past.
 

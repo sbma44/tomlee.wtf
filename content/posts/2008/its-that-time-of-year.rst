@@ -7,6 +7,7 @@ it's that time of year...
 :status: published
 :save_as: 2008/07/30/its-that-time-of-year/index.html
 :url: 2008/07/30/its-that-time-of-year/
+:private: true
 
 Don't miss `Jason's annual commentary <http://dceiver.blogspot.com/2008/07/highlights-from-hill-hotties-2008.html>`__ on the `Hill Hotties list <http://hill6.thehill.com/cover-stories/50-most-beautiful-people-on-capitol-hill-2008---top-10-2008-07-29.html>`__. My favorite line:
 

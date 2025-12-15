@@ -7,6 +7,7 @@ crack: rocks
 :status: published
 :save_as: 2007/01/02/crack-rocks/index.html
 :url: 2007/01/02/crack-rocks/
+:private: true
 
 One nice thing about last week's vacation from the plugged-in lifestyle was that there was a bunch of interesting tech news waiting for me upon my return. The most exciting bits:
 

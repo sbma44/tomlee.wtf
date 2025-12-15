@@ -7,6 +7,7 @@ let's pause and promote something else (Open States!!!)
 :status: published
 :save_as: 2012/03/12/lets-pause-and-promote-something-else-open-states/index.html
 :url: 2012/03/12/lets-pause-and-promote-something-else-open-states/
+:private: true
 
 Since I might have your renewed attention, briefly ("but I thought this RSS feed was broken"), and since I'm already frantically promoting it on Twitter, let me draw your attention to `this morning's announcement from Sunlight's Open States team <http://sunlightlabs.com/blog/2012/open-states-50/>`__.  In short: we've got a new mobile app, and our services now support all fifty states (plus DC and Puerto Rico).
 

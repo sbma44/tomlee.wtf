@@ -7,6 +7,7 @@ Wakemate
 :status: published
 :save_as: 2011/01/22/wakemate/index.html
 :url: 2011/01/22/wakemate/
+:private: true
 
 About three weeks ago I finally received my `Wakemate <http://wakemate.com>`__. A part of the burgeoning `quantified self movement <http://quantifiedself.com/about/>`__ and yet another example of a `product <http://www.apple.com/ipod/nike/>`__ `made <http://wii.com>`__ `possible <http://www.youtube.com/watch?v=Wtcys_XFnRA>`__ by the last half-decade's debut of cheap silicon accelerometers, it's exactly the kind of thing you'd expect me to buy.
 

@@ -7,6 +7,7 @@ ha ha holy crap that's horrible
 :status: published
 :save_as: 2008/07/25/ha-ha-holy-crap-thats-horrible/index.html
 :url: 2008/07/25/ha-ha-holy-crap-thats-horrible/
+:private: true
 
 Iraq has `been banned from the Olympics <http://www.bloomberg.com/apps/news?pid=20601116&sid=aoXMTsEyDRG0&refer=africa>`__. But take heart!
 

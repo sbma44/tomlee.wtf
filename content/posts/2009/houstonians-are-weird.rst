@@ -7,6 +7,7 @@ Houstonians are weird
 :status: published
 :save_as: 2009/06/02/houstonians-are-weird/index.html
 :url: 2009/06/02/houstonians-are-weird/
+:private: true
 
 I'm back from the beach, and already rapidly spending down the sleep surplus I accrued there. It's a little bit strange being back. I find it comforting to have a plan on the horizon — something out of the usual routine to look forward to. There are plenty of events looming, but aside from Emily's birthday none of them yet have definite dates attached. I crave structure! Otherwise it's too easy for summer to start looking like an air-conditioned march through sunshine and into autumn.
 

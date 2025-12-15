@@ -7,6 +7,7 @@ let the dream die!
 :status: published
 :save_as: 2007/11/01/let-the-dream-die/index.html
 :url: 2007/11/01/let-the-dream-die/
+:private: true
 
 I was making my usual rounds of anti-telco, pro-neutrality, red-meat-servin' blogs the other day when I came across this `proposal from TechDirt's Mike Masnick <http://techdirt.com/articles/20071030/100621.shtml>`__:
 

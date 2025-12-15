@@ -7,6 +7,7 @@ new header
 :status: published
 :save_as: 2007/04/23/new-header-2/index.html
 :url: 2007/04/23/new-header-2/
+:private: true
 
 Courtesy of a Saturday visit to the National Arboretum (or Arbotreeum, as one cellphone-using patron near us called it). It's pretty nice out there, and easy to get to on the weekend thanks to the X6 bus. In fact, it's so pleasant that you can easily forget how close you are to the Washington Times building.
 

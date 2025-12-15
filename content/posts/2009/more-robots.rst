@@ -7,6 +7,7 @@ more robots
 :status: published
 :save_as: 2009/08/19/more-robots/index.html
 :url: 2009/08/19/more-robots/
+:private: true
 
 Tim `wades in <http://timothyblee.com/?p=452>`__ to the debate about robots replacing low-skilled workers. I don't think I `made my case </2009/08/09/will-machines-render-low-skilled-workers-useless/>`__ as strongly as I could have, and consequently I can't resist responding, if only briefly.
 

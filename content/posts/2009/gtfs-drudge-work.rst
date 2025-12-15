@@ -7,6 +7,7 @@ GTFS drudge work
 :status: published
 :save_as: 2009/04/02/gtfs-drudge-work/index.html
 :url: 2009/04/02/gtfs-drudge-work/
+:private: true
 
 Last night I finally found a moment to begin playing around with the WMATA GTFS data. Well, that's not quite right: I tried to use the Django ORM to load the dataset when it was first released, but a memory leak killed the process when I left it to run overnight — something that doesn't bode particularly well for our use of the ORM `at work <http://www.subsidyscope.com>`__.
 

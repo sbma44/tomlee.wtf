@@ -7,6 +7,7 @@ book review: The Windup Girl
 :status: published
 :save_as: 2013/05/04/book-review-the-windup-girl/index.html
 :url: 2013/05/04/book-review-the-windup-girl/
+:private: true
 
 Really interesting, and wins points for bothering with characterizations. I'm not sure how much sense it makes, though. In this world both food calories and fossil fuels have become massively more expensive (due to engineered plagues and depletion/climate change, respectively). But this leads to *more* of the energy economy being driven by food calories? Mastodons are not an efficient energy storage mechanism! Where are the solar panels and nukes and wind turbines and tidal power?
 

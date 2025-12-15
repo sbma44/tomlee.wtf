@@ -7,6 +7,7 @@ another tedious bike post
 :status: published
 :save_as: 2010/12/27/another-tedious-bike-post/index.html
 :url: 2010/12/27/another-tedious-bike-post/
+:private: true
 
 I'm a bit late to this, but for the record: it's extremely disappointing to see the most important cyclist advocacy organization in the city `concern trolling its own members <http://waba.org/blog/2010/12/resolve-to-set-the-stage-for-even-stronger-advocacy-in-2011/>`__.  As others have noted at length, the proposed pledge to more lawful behavior is both insulting and potentially unwise: complete and mechanical obedience to the rules of the road can be dangerous in its own right.  I'd say I'm pretty scrupulous about following the law -- dorky hand signals and everything! -- but if you think I'm going to hang out in a left turn lane facing a red light but no oncoming traffic, waiting for someone to plow into me from behind, you're nuts.
 

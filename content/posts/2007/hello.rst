@@ -7,6 +7,7 @@ hello!
 :status: published
 :save_as: 2007/07/06/hello/index.html
 :url: 2007/07/06/hello/
+:private: true
 
 I'm not dead, although I am working from home today after some stomach weirdness brought my attendance at my buddy Andy's bachelor party last night to an abrupt conclusion. This is only the second bachelor party I've attended, and although I had to go home before I got a chance to have unpleasantly oily ladies cavort in front of me, it was still more debauched than the first: we continued the trend of eating pizza and playing video games, but the beverage of choice this time was BEER. The first such party just featured Dr. Pepper (the groom was Mormon, though, so this was pretty transgressive at the time).
 

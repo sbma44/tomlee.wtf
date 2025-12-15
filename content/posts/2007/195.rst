@@ -5,6 +5,7 @@ in defense of shock jocks
 :category: pop culture
 :slug: 195
 :status: draft
+:private: true
 
 I've gotta say, I'm pretty surprised that this Don Imus story is sticking around for this long. What he said was deplorable, but he's a *goddamn talk radio host*. It's his job to vamp for hours on end every single day. You'd find yourself saying some remarkably stupid things, too, if you were put in that situation. Odds are that you'd have a crass, mean sense of humor, too (the market selects for that kind of host), so those stupid things you'd be spouting would probably be despicable, too.
 

@@ -7,6 +7,7 @@ people who understand rock and roll
 :status: published
 :save_as: 2008/06/25/people-who-understand-rock-and-roll/index.html
 :url: 2008/06/25/people-who-understand-rock-and-roll/
+:private: true
 
 |stay_positive.png|\ The only thing I feel like writing about at the moment is how much it stinks to be sick and how much I'd rather be on my couch `assassinating people in the virtual Holy Land <http://en.wikipedia.org/wiki/Assassin%27s_creed>`__. So instead, two brief pieces of internet advice as you seek worthwhile content elsewhere:
 

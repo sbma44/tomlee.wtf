@@ -7,6 +7,7 @@ iron man justified
 :status: published
 :save_as: 2007/09/11/iron-man-justified/index.html
 :url: 2007/09/11/iron-man-justified/
+:private: true
 
 `Some </2007/09/10/asdfr111/#comment-12993>`__ `questions <http://pygmalioninablanket.blogspot.com/2007/09/131.html>`__ have been raised about my and `Amanda's <http://blogstretch.blogspot.com/2007/09/zomg.html>`__ recent *Iron Man* advocacy. Allow me to offer a slightly more nuanced case `than I did last night </2007/09/10/asdfr111/>`__:
 

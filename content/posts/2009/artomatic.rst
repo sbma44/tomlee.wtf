@@ -7,6 +7,7 @@ Artomatic!
 :status: published
 :save_as: 2009/05/20/artomatic/index.html
 :url: 2009/05/20/artomatic/
+:private: true
 
 I've accidentally run current backward through some delicate electronics, gone through a staggering number of voltage regulators and flat-out melted a solenoid, but my Artomatic project seems to be working! There is, of course, still a chance that some hardware aspect of the thing will fail. Or that there's a hidden software bug that will prevent it from rebooting on schedule. Or that I'll screw something up when I try to move the log files to a nonvolatile disk location. But for now I'm feeling pretty good about it! If you're by the Navy Yard Metro in the next month, you should drop by, see some art and ring some bells.
 

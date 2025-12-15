@@ -7,6 +7,7 @@ this year's model
 :status: published
 :save_as: 2011/10/30/this-years-model/index.html
 :url: 2011/10/30/this-years-model/
+:private: true
 
 |Omni Man|\ It came out pretty well, I think. The boots are `off-model <http://www.amazon.com/Invincible-Ultimate-Collection-Vol-1/dp/158240500X/ref=sr_1_3?ie=UTF8&qid=1320021787&sr=8-3>`__, but that was mostly because the paint on them needed some more time before I could put stuff on it. And parts are secured with magnets! Ah, magnets.
 

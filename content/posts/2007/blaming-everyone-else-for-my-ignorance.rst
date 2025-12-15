@@ -7,6 +7,7 @@ blaming everyone else for my ignorance
 :status: published
 :save_as: 2007/01/05/blaming-everyone-else-for-my-ignorance/index.html
 :url: 2007/01/05/blaming-everyone-else-for-my-ignorance/
+:private: true
 
 Lisa is about to start teaching high school English and is a `little surprised <http://bellowsbelle.typepad.com/the_bellows_belle/2007/01/teach_this.html>`__ at what's on the reading list: out with the old, in with the new, broadly speaking. It sounds more familiar to me, I'm afraid. She and I are the same age, but this trend had already hit Arlington County schools when I went through them — and Washington-Lee High School in particular.
 

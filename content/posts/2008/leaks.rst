@@ -7,6 +7,7 @@ leaks
 :status: published
 :save_as: 2008/05/13/leaks/index.html
 :url: 2008/05/13/leaks/
+:private: true
 
 On Saturday night Emily, Charles, Kriston, Becks and I staked out a table at Temperance Hall. And, while engaged in the larger project of noticing how much I like the bar's jukebox, I was reminded how `god-damned great <http://www.zunta.org/blog/archives/2006/04/13/wolf_parade_bla/>`__ Wolf Parade is.
 

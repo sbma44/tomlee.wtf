@@ -7,6 +7,7 @@ more make-believe
 :status: published
 :save_as: 2012/11/04/more-make-believe/index.html
 :url: 2012/11/04/more-make-believe/
+:private: true
 
 Notwithstanding last night's late-breaking pumpkin seed roasting and the Obama jack o'lantern rotting in my front yard (thanks, neighbor), it's probably time to let go of Halloween 2012. But it was a good year, marked, in some subtle ways, by more and more friends indicating that their crazed devotion to the holiday is just as deep as my own. I find this immensely encouraging.
 

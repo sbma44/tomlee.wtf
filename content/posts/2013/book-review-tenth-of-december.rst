@@ -7,6 +7,7 @@ book review: Tenth of December
 :status: published
 :save_as: 2013/01/15/book-review-tenth-of-december/index.html
 :url: 2013/01/15/book-review-tenth-of-december/
+:private: true
 
 Paul Ford `got it about right on George Saunders <https://twitter.com/ftrain/status/288336443489808384>`__, I think: his gift is his ability to inspire empathy. He is sardonic and funny, and this somehow gives him license to pursue huge emotional honesty without readers dismissing the proceedings as maudlin.
 

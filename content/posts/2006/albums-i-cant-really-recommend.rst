@@ -7,6 +7,7 @@ albums I can't really recommend
 :status: published
 :save_as: 2006/11/14/albums-i-cant-really-recommend/index.html
 :url: 2006/11/14/albums-i-cant-really-recommend/
+:private: true
 
 Well, I've been trying. My attempts to find new music usually come in fits and starts — Pitchfork's `best new music section <http://pitchforkmedia.com/page/best_new_music>`__ is generally pretty reliable, but sometimes they spend months and months in genres that I'm not interested in (or my RSS subscription to the section breaks which l, uh, just discovered it had). When that happens it's time to hit up the music blogs and take some shots in the dark.
 

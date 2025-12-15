@@ -7,6 +7,7 @@ wires are the best!
 :status: published
 :save_as: 2009/01/28/wires-are-the-best/index.html
 :url: 2009/01/28/wires-are-the-best/
+:private: true
 
 I'm now hopelessly late with this, so I'll try (and fail) to make it brief. On Friday `Ryan discussed D.C.'s ban on overhead "catenary" wires <http://www.ryanavent.com/blog/?p=1755>`__, which would be necessary for electric streetcars. Apparently you can't use an electrified sunken rail in cities that have to salt their roads — there are corrosion issues. Unfortunately, changing the law to allow overhead wires would require congressional involvement. Ryan mentions a company that's pushing a technology providing for the wireless transfer of power from the street to the streetcar, allowing the system to be sealed and immune to salt. It sounds like a pretty clever solution. But that doesn't make it a good one.
 

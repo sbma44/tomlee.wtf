@@ -7,6 +7,7 @@ driving and DRM
 :status: published
 :save_as: 2008/09/09/driving-and-drm/index.html
 :url: 2008/09/09/driving-and-drm/
+:private: true
 
 `Ryan <http://www.ryanavent.com/blog/?p=1410>`__ and `Ezra <http://www.prospect.org/csnc/blogs/ezraklein_archive?month=09&year=2008&base_name=cracking_down_on_speeding>`__ and `Matt <http://feeds.feedburner.com/%7Er/matthewyglesias/%7E3/386908192/why_so_fast.php>`__ are talking about cars that can't go faster than 75 miles per hour, the idea being that mandating such a change would save lives. I'm not sure what to think about that. I probably shouldn't bother thinking much — the idea is clearly politically impossible.
 

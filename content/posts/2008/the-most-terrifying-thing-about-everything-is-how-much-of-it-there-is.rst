@@ -7,6 +7,7 @@ the most terrifying thing about everything is how much of it there is
 :status: published
 :save_as: 2008/09/26/the-most-terrifying-thing-about-everything-is-how-much-of-it-there-is/index.html
 :url: 2008/09/26/the-most-terrifying-thing-about-everything-is-how-much-of-it-there-is/
+:private: true
 
 Although everyone's keeping a low profile so far, I'm encouraged by the interest expressed to me privately about the `Halloween story contest </2008/09/24/competitive-spookiness/>`__. I think this'll be fun.
 

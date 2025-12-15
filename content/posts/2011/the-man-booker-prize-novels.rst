@@ -7,6 +7,7 @@ the Man Booker Prize novels
 :status: published
 :save_as: 2011/10/04/the-man-booker-prize-novels/index.html
 :url: 2011/10/04/the-man-booker-prize-novels/
+:private: true
 
 In the past I've been vaguely aware that the Booker Prize list was a good source of reading suggestions, and also that `people gamble on it <http://www.guardian.co.uk/books/2010/oct/07/booker-prize-betting-suspended-tom-mccarthy>`__, which almost makes reading seem cool (obviously it's not, if any kids are reading this you should probably be off learning to smoke instead). But this year is the first time I've had an informed opinion about the books that are up for the prize. Well, the ones on the `short list <http://www.themanbookerprize.com/news/stories/1533>`__, anyway: I'm not a particularly fast reader, but I happened to make lucky guesses when I decided to read some things from the long list. When the short list came out, getting through it seemed surprisingly achievable, thanks in part to all the shows I've been watching on Netflix settling into storylines that I found unwatchably depressing.
 

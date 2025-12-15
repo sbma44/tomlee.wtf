@@ -7,6 +7,7 @@ not only elitist and shameless -- racist, too!
 :status: published
 :save_as: 2008/07/29/not-only-elitist-and-shameless-racist-too/index.html
 :url: 2008/07/29/not-only-elitist-and-shameless-racist-too/
+:private: true
 
 There's a new credit card for Redskins fans. Along with the substantial joy to be had by having a custom logo in your wallet, it'll give cardholders the ability to skip through clogged lines at Fedex Field... `and at airport security <http://wtop.com/?nid=25&sid=1450298>`__.
 

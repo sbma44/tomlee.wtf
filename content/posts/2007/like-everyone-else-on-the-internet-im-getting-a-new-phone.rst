@@ -7,6 +7,7 @@ like everyone else on the internet, I'm getting a new phone
 :status: published
 :save_as: 2007/07/08/like-everyone-else-on-the-internet-im-getting-a-new-phone/index.html
 :url: 2007/07/08/like-everyone-else-on-the-internet-im-getting-a-new-phone/
+:private: true
 
 |this is what I've been reduced to|\ Aside from Andy's bachelorhood and our hotel room floor, the weekend's most tragic casualty was my phone. The screen had been misbehaving for a while, occasionally displaying useless garbage instead of meaningful content like Twitter messages about what people in California had for dinner. Flipping the screen up and down usually solved the problem, but not anymore. First it was stuck as gibberish; now it just doesn't show anything. I'm stuck with the aged t39m (monochrome!) pictured on the right.
 

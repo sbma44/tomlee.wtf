@@ -7,6 +7,7 @@ something like an epiphenomenon
 :status: published
 :save_as: 2008/04/13/something-like-an-epiphenomenon/index.html
 :url: 2008/04/13/something-like-an-epiphenomenon/
+:private: true
 
 Friday night was the first time in a good long while that I got to expound angrily (/drunkenly) on the subject of free will. But here! Look! I come home and Slashdot is linking to `a writeup <http://www.wired.com/science/discoveries/news/2008/04/mind_decision>`__ of an experiment that reconfirms and extends my `all-time favorite neuroscience result (PDF) <http://l3d.cs.colorado.edu/~ctg/classes/lib/cogsci/haggard.pdf>`__. Apparently April is mechanism month.
 

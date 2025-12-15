@@ -7,6 +7,7 @@ speaking of pretentiously high fidelity
 :status: published
 :save_as: 2008/01/08/speaking-of-pretentiously-high-fidelity/index.html
 :url: 2008/01/08/speaking-of-pretentiously-high-fidelity/
+:private: true
 
 Now that comments are working, let me ask a question. Part of Irresponsible Holiday Spending Spree '07 was the purchase, by Charles and myself, of an HDTV. It's backordered from Fry's at the moment, but I'm assured by many Amazon commenters that it'll be great. When Sunday school classes ponder the question "Could God make a TV so big that He couldn't watch it?", this is the set they use to illustrate the point (Answer: "We can never know. But lo! Surely He would have delivered unto us these three HDMI inputs, for He is just and good.").
 

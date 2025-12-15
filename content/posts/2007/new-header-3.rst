@@ -7,6 +7,7 @@ new header!
 :status: published
 :save_as: 2007/05/27/new-header-3/index.html
 :url: 2007/05/27/new-header-3/
+:private: true
 
 Cause I'm at the beach, see. So it's, like, appropriate.
 

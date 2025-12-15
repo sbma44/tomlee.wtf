@@ -7,6 +7,7 @@ Gunsmoke!
 :status: published
 :save_as: 2009/09/27/gunsmoke/index.html
 :url: 2009/09/27/gunsmoke/
+:private: true
 
 Probably the greatest part of the intersection between the late Sunday Chinatown bus and iPhone ownership is the ability to listen to WAMU's weekly installment of *The Big Broadcast* without any distractions or even alternatives (thanks, non-functioning reading lights!).  Tonight's episode of *Gunsmoke* was particularly strong.  Not because of any particularly great plot twists or character work.  But **man**, that is how you write a death scene.  Also: Matt Dillon makes a compelling case for preventive detention!
 

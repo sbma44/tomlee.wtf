@@ -7,6 +7,7 @@ AoTS '08
 :status: published
 :save_as: 2008/05/01/aots-08/index.html
 :url: 2008/05/01/aots-08/
+:private: true
 
 It's May, the sun is out, and it seems likely that something, somewhere, is germinating. Clearly, the time has come for Album of the Summer deliberations to begin. Naturally, this will not be the *only* album of the summer. But, still, a decision must be reached. When you're in your twilight years, what album (delivered via networked cochlear implant) do you want to use to dredge up lost memories of summer '08 from beneath a river of amyloid plaque?
 

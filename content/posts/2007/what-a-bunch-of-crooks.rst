@@ -7,6 +7,7 @@ what a bunch of crooks
 :status: published
 :save_as: 2007/08/21/what-a-bunch-of-crooks/index.html
 :url: 2007/08/21/what-a-bunch-of-crooks/
+:private: true
 
 ..
 

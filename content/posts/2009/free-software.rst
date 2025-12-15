@@ -7,6 +7,7 @@ free software
 :status: published
 :save_as: 2009/10/22/free-software/index.html
 :url: 2009/10/22/free-software/
+:private: true
 
 Tim Lee has written `the best primer on the history and philosophical basis of free software that I've yet read <http://timothyblee.com/?p=1362>`__.  It's definitely worth a look, even for those who know the basic contours of this stuff.
 

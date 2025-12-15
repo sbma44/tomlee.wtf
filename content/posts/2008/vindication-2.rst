@@ -7,6 +7,7 @@ vindication!
 :status: published
 :save_as: 2008/10/09/vindication-2/index.html
 :url: 2008/10/09/vindication-2/
+:private: true
 
 `I told you I wasn't crazy </2008/09/29/i-am-not-crazy/>`__; now Kriston `grudgingly agrees <http://attackerman.firedoglake.com/2008/10/09/all-murder-all-guts-all-fun/>`__.
 

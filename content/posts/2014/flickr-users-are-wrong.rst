@@ -7,6 +7,7 @@ Flickr users are wrong
 :status: published
 :save_as: 2014/12/01/flickr-users-are-wrong/index.html
 :url: 2014/12/01/flickr-users-are-wrong/
+:private: true
 
 |creative-commons-flickr|\ A lot of people are `upset <http://www.zeldman.com/2014/11/29/flickr-is-about-to-sell-off-your-creative-commons-photos/>`__ about `Flickr's plans to begin selling prints of user photos that are available under Creative Commons By-Attribution licenses <http://www.dazeddigital.com/photography/article/22757/1/flickr-is-about-to-sell-off-your-creative-commons-photos>`__.
 

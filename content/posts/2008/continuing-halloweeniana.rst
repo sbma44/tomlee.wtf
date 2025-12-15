@@ -7,6 +7,7 @@ continuing Halloweeniana
 :status: published
 :save_as: 2008/10/06/continuing-halloweeniana/index.html
 :url: 2008/10/06/continuing-halloweeniana/
+:private: true
 
 |20081006-poe.jpg|\ Last week I was too busy being outraged at the internet to spend much time pestering people about the Halloween story contest. Despite this, a few more folks have expressed interest to me privately. The supernatural literary juggernaut presses onward! Remember: the deadline is October 27 — that's three weeks from today — and the democratically-determined winner gets a hundred bucks.
 

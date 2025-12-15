@@ -7,6 +7,7 @@ so here's something kind of fun
 :status: published
 :save_as: 2007/02/26/so-heres-something-kind-of-fun/index.html
 :url: 2007/02/26/so-heres-something-kind-of-fun/
+:private: true
 
 I've been screwing around with `Processing's <http://www.processing.org>`__ video capabilities ever since doing a demo on it during out tech meeting at work a few weeks ago. It's pretty neat, and getting all the neater with the sudden ubiquity of iSight cameras.
 

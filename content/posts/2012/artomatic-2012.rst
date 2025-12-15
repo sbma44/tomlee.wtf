@@ -7,6 +7,7 @@ Artomatic 2012
 :status: published
 :save_as: 2012/05/20/artomatic-2012/index.html
 :url: 2012/05/20/artomatic-2012/
+:private: true
 
 |image1|\ I participated in Artomatic in 2009, making a hurried tech piece that ill-advisedly involved audience interaction, and which consequently spent most of the show broken. But the experience was a good one! For one thing, my project never caught fire. And for another, I learned some lessons about what makes a viable piece.
 

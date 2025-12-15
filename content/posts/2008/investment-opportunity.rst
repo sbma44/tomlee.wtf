@@ -7,6 +7,7 @@ investment opportunity
 :status: published
 :save_as: 2008/02/26/investment-opportunity/index.html
 :url: 2008/02/26/investment-opportunity/
+:private: true
 
 From `this page <http://harlemglobetrotters.com/contact/staff/>`__:
 

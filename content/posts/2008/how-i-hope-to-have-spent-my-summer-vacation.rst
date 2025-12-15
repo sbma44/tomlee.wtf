@@ -7,6 +7,7 @@ how I (hope to have) spent my summer vacation
 :status: published
 :save_as: 2008/06/30/how-i-hope-to-have-spent-my-summer-vacation/index.html
 :url: 2008/06/30/how-i-hope-to-have-spent-my-summer-vacation/
+:private: true
 
 |20080630_homebrewing.jpg|\ Emily has already `chronicled <http://www.movering.com/node/546>`__ what was a pretty fantastic Philadelphia weekend. So I'll just second the `Philadelphia Brewing Company <http://philadelphiabrewing.com/>`__ tour: it's free and fascinating, and, as you might imagine, comes with beer. Their Kenzinger is so embarrassingly good that I'm thinking seriously about how to get a case down to DC.
 

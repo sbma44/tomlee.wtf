@@ -7,6 +7,7 @@ sitting down is unbelievably great
 :status: published
 :save_as: 2007/03/14/sitting-down-is-unbelievably-great/index.html
 :url: 2007/03/14/sitting-down-is-unbelievably-great/
+:private: true
 
 Visiting Austin and California was great, but it's a relief to be home. The last ten days have been busy ones, and I'm feeling the effects. I did manage to finally kick my traditional month-long spring cold, but my shoes `weren't up <http://www.flickr.com/photos/sbma44/421204130/>`__ to the amount of walking that a party-filled conference and unexplored city demanded: my legs ache and I feel pretty worn down.
 

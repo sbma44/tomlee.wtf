@@ -7,6 +7,7 @@ if she says we partied then I'm pretty sure we partied
 :status: published
 :save_as: 2008/08/15/if-she-says-we-partied-then-im-pretty-sure-we-partied/index.html
 :url: 2008/08/15/if-she-says-we-partied-then-im-pretty-sure-we-partied/
+:private: true
 
 |image1|
 

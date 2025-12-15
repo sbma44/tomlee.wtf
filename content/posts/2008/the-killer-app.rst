@@ -7,6 +7,7 @@ the killer app
 :status: published
 :save_as: 2008/10/23/the-killer-app/index.html
 :url: 2008/10/23/the-killer-app/
+:private: true
 
 |image1|\ For a while now I've been trying to convince Charles that he ought to jailbreak his iPhone. I'm not sure why I feel compelled to do so, exactly, and the reasons that might motivate Charles to take my advice have been even murkier. Getting a free terminal app is reason enough for me, and running Bittorrent off my phone has a certain novelty. But these days most users' needs are pretty well taken care of by the App Store.
 

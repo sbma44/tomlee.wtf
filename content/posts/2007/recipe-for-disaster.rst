@@ -7,6 +7,7 @@ recipe for disaster
 :status: published
 :save_as: 2007/03/23/recipe-for-disaster/index.html
 :url: 2007/03/23/recipe-for-disaster/
+:private: true
 
 - `one <http://developers.facebook.com/documentation.php?v=1.0&doc=fql>`__
 - `two <http://ferruh.mavituna.com/makale/sql-injection-cheatsheet/>`__

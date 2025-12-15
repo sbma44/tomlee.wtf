@@ -7,6 +7,7 @@ more on Twitter and Iran
 :status: published
 :save_as: 2009/06/16/more-on-twitter-and-iran/index.html
 :url: 2009/06/16/more-on-twitter-and-iran/
+:private: true
 
 `Yglesias <http://feedproxy.google.com/~r/matthewyglesias/~3/e8u1l1-DB80/technology-and-political-change.php>`__ links to `Farrell <http://www.themonkeycage.org/2009/06/what_if_we_twittered_the_revol.html>`__; both are worth reading.
 

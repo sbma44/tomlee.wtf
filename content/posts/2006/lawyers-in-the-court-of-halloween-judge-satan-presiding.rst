@@ -7,6 +7,7 @@ lawyers in the court of Halloween (Judge Satan presiding)
 :status: published
 :save_as: 2006/10/18/lawyers-in-the-court-of-halloween-judge-satan-presiding/index.html
 :url: 2006/10/18/lawyers-in-the-court-of-halloween-judge-satan-presiding/
+:private: true
 
 Some of you might've seen `my post on DCist <http://www.dcist.com/archives/2006/10/17/frightening_fil.php>`__ yesterday about Count Gore De Vol, DC's hometown horror host. I have to confess that I wasn't aware of his existence until recently. Now that I do I'm an instant fan.
 

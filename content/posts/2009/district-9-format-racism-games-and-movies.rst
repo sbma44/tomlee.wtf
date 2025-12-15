@@ -7,6 +7,7 @@ District 9 - format, racism, games and movies
 :status: published
 :save_as: 2009/08/18/district-9-format-racism-games-and-movies/index.html
 :url: 2009/08/18/district-9-format-racism-games-and-movies/
+:private: true
 
 |image1|\ There's an interesting discussion of *District 9* happening in `Spencer's comment section <http://attackerman.firedoglake.com/2009/08/17/what-secrets-lurk-within-district-9-white-anxiety/>`__. Rather than respond inline, I figured I'd blog it and see if the navel-gazing contagion can't be made to spread further.
 

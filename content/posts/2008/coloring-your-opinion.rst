@@ -7,6 +7,7 @@ coloring your opinion
 :status: published
 :save_as: 2008/11/08/coloring-your-opinion/index.html
 :url: 2008/11/08/coloring-your-opinion/
+:private: true
 
 Well, I guess it's time for that "purple America" map from Robert Vanderbei to start making the rounds again. Yglesias has the 2008 edition `posted over at his site <http://feeds.feedburner.com/~r/matthewyglesias/~3/446509415/the_more_things_change.php>`__. The basic idea here is that for all the talk of red and blue America, the political differences between regions are actually quite small, and we're really a united nation with a vigorous political discourse, tra la la la. Then we join hands and sing.
 

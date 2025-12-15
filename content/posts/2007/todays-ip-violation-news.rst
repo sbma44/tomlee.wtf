@@ -7,6 +7,7 @@ today's IP violation news
 :status: published
 :save_as: 2007/07/02/todays-ip-violation-news/index.html
 :url: 2007/07/02/todays-ip-violation-news/
+:private: true
 
 Suddenly there are all kinds of things going on in the world of filesharing:
 

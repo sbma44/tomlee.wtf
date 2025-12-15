@@ -7,6 +7,7 @@ lolnalyses
 :status: published
 :save_as: 2007/05/10/lolnalyses/index.html
 :url: 2007/05/10/lolnalyses/
+:private: true
 
 The `beginning <http://icanhascheezburger.com/2007/05/08/a-special-in-depth-analysis-by-david-mcraney-l337-katz0rz/>`__ of `the end <http://community.livejournal.com/lolbrarians/8155.html>`__.
 

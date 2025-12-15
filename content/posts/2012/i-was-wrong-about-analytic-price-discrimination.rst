@@ -7,6 +7,7 @@ I was wrong about analytic price discrimination
 :status: published
 :save_as: 2012/08/20/i-was-wrong-about-analytic-price-discrimination/index.html
 :url: 2012/08/20/i-was-wrong-about-analytic-price-discrimination/
+:private: true
 
 `This post from Kate <http://crawfordkate.tumblr.com/post/29843732871/this-piece-at-the-billfold-is-terrible-an>`__ reminds me: I realized over the weekend that `I was totally wrong about the evilness of automated price discrimination </2012/06/25/analytic-price-discrimination-is-becoming-a-real-pain-in-the-ass/>`__.
 

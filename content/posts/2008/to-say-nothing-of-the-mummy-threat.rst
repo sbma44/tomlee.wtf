@@ -7,6 +7,7 @@ to say nothing of the mummy threat
 :status: published
 :save_as: 2008/02/26/to-say-nothing-of-the-mummy-threat/index.html
 :url: 2008/02/26/to-say-nothing-of-the-mummy-threat/
+:private: true
 
 Sure, harvesting the organs of executed criminals `sounds <http://matthewyglesias.theatlantic.com/archives/2008/02/bitter_harvest.php>`__ like pleasant and morally unproblematic work. But Matt is ignoring the lessons of `John Carpenter Presents Body Bags <http://en.wikipedia.org/wiki/Body_Bags_%28TV_Movie%29>`__, *Treehouse of Horror IX*, and, in a somewhat broader sense, *Nightmare on Elm Street*, *Idle Hands*, Jessica Alba's upcoming movie *The Eye* and any number of other supernaturally-themed transplant films (some of them no doubt inspired by real events).
 

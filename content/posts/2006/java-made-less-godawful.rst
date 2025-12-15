@@ -7,6 +7,7 @@ java made less godawful
 :status: published
 :save_as: 2006/10/15/java-made-less-godawful/index.html
 :url: 2006/10/15/java-made-less-godawful/
+:private: true
 
 Remember `this thing <http://www.aharef.info/static/htmlgraph/>`__? Pretty neat, I know. It made the interrounds back in `May <http://del.icio.us/echoditto/dom>`__ or so. Most people completely misinterpreted it, wrongly assuming that it tells you something about your site's relation to others. In fact, it tells you about your webpage's HTML structure. Not quite as exciting, unless you're a huge dork who gets a thrill out of his wondrously-parsimonious XML code.
 

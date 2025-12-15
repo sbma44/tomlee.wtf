@@ -7,6 +7,7 @@ better full-text RSS
 :status: published
 :save_as: 2007/02/01/better-full-text-rss/index.html
 :url: 2007/02/01/better-full-text-rss/
+:private: true
 
 Remember `when I asked for help </2006/12/19/do-me-a-favor/>`__ testing a script I'd written that turns partial-text RSS feeds into full-text ones? And it sort of sucked, but not entirely?
 

@@ -7,6 +7,7 @@ part man. part machine. all disenfranchising.
 :status: published
 :save_as: 2006/11/07/part-man-part-machine-all-disenfranchising/index.html
 :url: 2006/11/07/part-man-part-machine-all-disenfranchising/
+:private: true
 
 | I'm about to head off to vote, but before I do, one additional thought on the election — and this one has almost nothing to do with helicopters.
 | This `robocalling <http://www.talkingpointsmemo.com/archives/010880.php>`__ `business <http://www.washingtonpost.com/wp-dyn/content/article/2006/11/06/AR2006110601103.html>`__? It's going to get much, much worse. Frankly, I'm a little bit surprised that the NRCC is so obviously to blame for these sleazy tactics. The technology necessary to make automated calls is now within the grasp of any hobbyist:

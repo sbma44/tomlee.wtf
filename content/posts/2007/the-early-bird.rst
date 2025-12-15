@@ -7,6 +7,7 @@ the early bird
 :status: published
 :save_as: 2007/03/17/the-early-bird/index.html
 :url: 2007/03/17/the-early-bird/
+:private: true
 
 Why aren't there more reviews of leaked albums? The delay between when blogospheric buzz leads me to hear a record and its actual release date seems to have increased in the last six months. These days I frequently find myself wondering what the press thinks about the albums I'm currently most excited about, only to realize that they're abiding by the laws of the labels, not the anarchy of the internet.
 

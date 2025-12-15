@@ -7,6 +7,7 @@ woooUnbuckledwoo!
 :status: published
 :save_as: 2007/07/12/wooounbuckledwoo/index.html
 :url: 2007/07/12/wooounbuckledwoo/
+:private: true
 
 Alright, it was a little crowded and hot, at least one channel could be counted on to be clipping until 2/3 of the way through each song, and somebody standing near me seemed to have had a big meal of chili and corn nuts immediately before coming to DC9 (my personal recommendation: `grasshopper tacos <http://www.oyamel.com/>`__ — the taste is just okay, but the horrifying-your-girlfriend potential is pretty solid).
 

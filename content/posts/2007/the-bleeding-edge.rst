@@ -7,6 +7,7 @@ the bleeding edge
 :status: published
 :save_as: 2007/10/04/the-bleeding-edge/index.html
 :url: 2007/10/04/the-bleeding-edge/
+:private: true
 
 I am pleased to announce that I've recently upgraded my shaving technology. Before this I was using a red Mach3 Turbo that my mother gave to me, which worked well enough. Prior to that I was using a Mach3, which was indistinguishable from its successor except for a lack of redness and failure to incorporate the word "turbo" into its name. Also, it seemed slower.
 

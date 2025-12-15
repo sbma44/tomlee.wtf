@@ -7,6 +7,7 @@ conspiracy theories
 :status: published
 :save_as: 2007/03/15/conspiracy-theories/index.html
 :url: 2007/03/15/conspiracy-theories/
+:private: true
 
 A little while ago I wrote a `series of posts </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__ outlining some steps that Movable Type admins can take to cut down on the comment spam they receive. I didn't promote it — I probably will later, in a different context — and it didn't receive a lot of traffic.
 

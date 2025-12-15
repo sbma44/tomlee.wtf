@@ -7,6 +7,7 @@ nothing sweet where you hold your gun
 :status: published
 :save_as: 2008/06/26/nothing-sweet-where-you-hold-your-gun/index.html
 :url: 2008/06/26/nothing-sweet-where-you-hold-your-gun/
+:private: true
 
 | |20080626_bronson.jpg|
 | Well, `the gun ban is over <http://dcist.com/2008/06/26/us_supreme_court.php>`__. Unlike a lot of my friends, I'm not particularly enthusiastic about this. Guns are amazing tools, fun to use recreationally and capable of instilling such an awesome sense of power that I don't think people are very good at rationally considering the questions surrounding them. Certainly that's been my experience whenever I shoot one — for about six hours immediately thereafter gun ownership seems like a really, really great idea. Woo guns!

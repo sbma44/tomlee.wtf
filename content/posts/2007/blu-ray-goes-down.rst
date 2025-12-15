@@ -7,6 +7,7 @@ blu-ray goes down
 :status: published
 :save_as: 2007/01/23/blu-ray-goes-down/index.html
 :url: 2007/01/23/blu-ray-goes-down/
+:private: true
 
 The Register `reports <http://www.theregister.co.uk/2007/01/23/blu-ray_drm_cracked/>`__ that the Blu-Ray format has been compromised by the same guy that `cracked HD-DVD's copy protection </2007/01/03/more-on-the-aacs-exploit/>`__.
 

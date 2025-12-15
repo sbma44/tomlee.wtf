@@ -7,6 +7,7 @@ how transparency works
 :status: published
 :save_as: 2013/01/18/how-transparency-works/index.html
 :url: 2013/01/18/how-transparency-works/
+:private: true
 
 It's no fun to argue with the dead, but sometimes it can't be helped. Or at least, I can't help myself.
 

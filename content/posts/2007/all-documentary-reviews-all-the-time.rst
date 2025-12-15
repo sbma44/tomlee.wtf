@@ -7,6 +7,7 @@ all documentary reviews, all the time
 :status: published
 :save_as: 2007/06/22/all-documentary-reviews-all-the-time/index.html
 :url: 2007/06/22/all-documentary-reviews-all-the-time/
+:private: true
 
 I have to be a little delicate about this: I just got back from a preview of an upcoming environmental documentary by a famous former *Growing Pains* star/iceberg collision non-survivor. I got to skip out on work to do so — I guess there's a chance we may have some sort of involvement with the project's promotion. I really hope we don't. Nevertheless, discretion is the watchword, lest googling reveal the privately-held opinion of this particular worker bee.
 

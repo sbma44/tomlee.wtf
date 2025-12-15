@@ -7,6 +7,7 @@ what?
 :status: published
 :save_as: 2008/10/08/what/index.html
 :url: 2008/10/08/what/
+:private: true
 
 I'm not a regular reader of the `Corner <http://corner.nationalreview.com/>`__, but I've found myself stopping by after each debate to enjoy a bit of schadenfreude. And, with apologies to `Brian <http://www.brianbeutler.com>`__ — this is `his gig <http://www.google.com/search?q=site%3Abrianbeutler.com%20corner%20bashing>`__ — it really just makes `no goddamn sense <http://corner.nationalreview.com/post/?q=MjQxM2YzM2U5YTk1YjE0ODQyNWI5NmIzMTA2ZjFkZjA=>`__:
 

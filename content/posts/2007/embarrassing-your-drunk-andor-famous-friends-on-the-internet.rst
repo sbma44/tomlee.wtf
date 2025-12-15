@@ -7,6 +7,7 @@ embarrassing your drunk and/or famous friends on the internet
 :status: published
 :save_as: 2007/06/05/embarrassing-your-drunk-andor-famous-friends-on-the-internet/index.html
 :url: 2007/06/05/embarrassing-your-drunk-andor-famous-friends-on-the-internet/
+:private: true
 
 Catherine needs some help getting her `Kristen Bell voicemail <http://outtamindouttasite.typepad.com/outtasite/2007/06/best_morning_ev.html>`__ off her phone and onto the internet. As it happens, `I have some experience in this area <http://www.zunta.org/blog/archives/2006/01/05/usc_thoroughly/>`__. It's pretty simple to do, but it still seems worthwhile to write it up in order to better preserve future generations' novel and/or hilarious voicemails.
 

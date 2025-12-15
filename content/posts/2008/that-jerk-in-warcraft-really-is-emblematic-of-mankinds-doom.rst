@@ -7,6 +7,7 @@ that jerk in Warcraft really IS emblematic of mankind's doom
 :status: published
 :save_as: 2008/08/04/that-jerk-in-warcraft-really-is-emblematic-of-mankinds-doom/index.html
 :url: 2008/08/04/that-jerk-in-warcraft-really-is-emblematic-of-mankinds-doom/
+:private: true
 
 I thought `this weekend's article on trolls <http://www.nytimes.com/2008/08/03/magazine/03trolls-t.html?ei=5124&en=b5085d50ee5c65e5&ex=1375329600&partner=permalink&exprod=permalink&pagewanted=all>`__ was pretty good, and that the author did a nice job balancing the need to treat his subjects respectfully against his obligation to point out that they're completely full of shit.
 

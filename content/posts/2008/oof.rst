@@ -7,6 +7,7 @@ oof
 :status: published
 :save_as: 2008/09/15/oof/index.html
 :url: 2008/09/15/oof/
+:private: true
 
 I haven't really followed the local sports media much over the past couple of years. The last time I regularly checked in, Wilbon was still handling quite a bit of the paper's Redskins columns, and it was clear that he was intensely bored by it. A professional disdain for home team jingoism and fatigue from the formulaic but necessary cycle of columns that a bad local franchise necessitates combined to produce columns that were mostly about how much he hated writing them.
 

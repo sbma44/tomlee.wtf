@@ -7,6 +7,7 @@ Apple didn't trick Google into making better iOS maps
 :status: published
 :save_as: 2012/12/13/apple-didnt-trick-google-into-making-better-ios-maps/index.html
 :url: 2012/12/13/apple-didnt-trick-google-into-making-better-ios-maps/
+:private: true
 
 Matt has a post up `arguing that today's debut of a seemingly-great Google Maps iOS app represents a strategic success for Apple <http://www.slate.com/blogs/moneybox/2012/12/13/ios_google_maps_if_it_s_great_thank_apple_s_strategy.html>`__. The basic idea is that Google used its head-start on mapping to artificially retard the iOS maps experience, in an attempt to give Android a competitive advantage. Now, with Apple competing, they've been forced to deliver a first-class, free maps experience to Apple customers.
 

@@ -7,6 +7,7 @@ still better full-text RSS
 :status: published
 :save_as: 2007/04/23/still-better-full-text-rss/index.html
 :url: 2007/04/23/still-better-full-text-rss/
+:private: true
 
 I've taken another crack at my full-text RSS script, polishing it up for a release over at `EchoDitto Labs <http://labs.echoditto.com>`__, and in the process I finally got around to adding a much-needed feature: letting users kill excess HTML with regular expressions. This isn't a feature for the non-geeky, but it only takes a single nerd a few minutes to work out the necessary expressions and share them with the class. The result is cleaner functionality: the algorithm used to leave some feeds with duplicate titles, comments, or other cruft. This allows you to strip them out automatically. As a side effect, your RSS reader stop thinking that old posts are new just because another dope added a comment calling for impeachment hearings.
 

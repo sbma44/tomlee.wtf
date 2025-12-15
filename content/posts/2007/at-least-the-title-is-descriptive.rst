@@ -7,6 +7,7 @@ at least the title is descriptive
 :status: published
 :save_as: 2007/12/16/at-least-the-title-is-descriptive/index.html
 :url: 2007/12/16/at-least-the-title-is-descriptive/
+:private: true
 
 Kind of funny: `reading Michael Arrington pissily explain to everyone how the unauthorized use of a photographer's photo in a satirical video is "fair use" and getting it all totally fucking wrong <http://www.techcrunch.com/2007/12/15/misunderstanding-copyright-law-and-ruining-everyones-fun/>`__.
 

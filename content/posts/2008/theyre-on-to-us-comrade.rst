@@ -7,6 +7,7 @@ they're on to us, comrade
 :status: published
 :save_as: 2008/08/13/theyre-on-to-us-comrade/index.html
 :url: 2008/08/13/theyre-on-to-us-comrade/
+:private: true
 
 A comment left on a `Raw Fisher post about the city's new bikesharing program <http://voices.washingtonpost.com/rawfisher/2008/08/you_can_ride_one_mayor_fentys.html>`__:
 

@@ -7,6 +7,7 @@ hey, have some Christmas music
 :status: published
 :save_as: 2007/12/20/hey-have-some-christmas-music/index.html
 :url: 2007/12/20/hey-have-some-christmas-music/
+:private: true
 
 When it comes to holiday music I am, let's face it, kind of an idiot. Thematic appropriateness can make me completely forget about how good a song actually is. All I can do is apologize to those who've been subjected to the resulting playlist atrocities.
 

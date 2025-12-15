@@ -7,6 +7,7 @@ the war is over
 :status: published
 :save_as: 2008/03/20/the-war-is-over/index.html
 :url: 2008/03/20/the-war-is-over/
+:private: true
 
 Ben Franklin is frequently quoted as having said "Beer is proof that God loves us and wants us to be happy." Let's extend a bit further the use of consumer goods as a tool for fathoming the inscrutable motives of the omnipotent: the cable company DVR is proof that Comcast hates you.
 

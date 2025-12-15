@@ -7,6 +7,7 @@ big I tell you, big!
 :status: published
 :save_as: 2007/06/27/big-i-tell-you-big/index.html
 :url: 2007/06/27/big-i-tell-you-big/
+:private: true
 
 Check out the `TechCrunch writeup <http://www.techcrunch.com/2007/06/27/kevin-roses-new-startup-pownce/>`__ of Kevin Rose's new venture, Pownce. I am, of course, insanely jealous of Kevin for his wild success with thebroken, AOTS and Digg. But despite my petty predisposition, this looks like a winner to me. Here's the comment I left at TechCrunch:
 

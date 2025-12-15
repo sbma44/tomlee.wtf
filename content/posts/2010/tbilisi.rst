@@ -7,6 +7,7 @@ Tbilisi
 :status: published
 :save_as: 2010/03/25/tbilisi/index.html
 :url: 2010/03/25/tbilisi/
+:private: true
 
 Aside from some dude spilling tomato juice all over me, my next flight was uneventful. I got into town at 6 this morning, slept for two hours, then put in a full day at the TI Georgia offices. To say I'm going to sleep soundly wouldn't even begin to describe what's about to happen. Past jetlag-sleep episodes have featured slumber so sound that kindly old ladies held mirrors under my nose to check if I was still breathing. But that was after only half as much travel as this time.
 

@@ -7,6 +7,7 @@ suggestions for learning electronics
 :status: published
 :save_as: 2009/03/22/suggestions-for-learning-electronics/index.html
 :url: 2009/03/22/suggestions-for-learning-electronics/
+:private: true
 
 My former coworker `Ben <http://benbuckman.net/>`__ wrote to me earlier today asking whether I had any particular recommendations for books about electronics and Arduino. I was in a voluble/caffeinated mood, and ended up producing enough text that I figured I might as well throw it on the ol' blog:
 

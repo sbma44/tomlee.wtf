@@ -7,6 +7,7 @@ there is no better battery
 :status: published
 :save_as: 2008/08/20/there-is-no-better-battery/index.html
 :url: 2008/08/20/there-is-no-better-battery/
+:private: true
 
 Ryan and I have been going back and forth `in his comments <http://www.ryanavent.com/blog/?p=1335#comment-92836>`__ about the likelihood of carsharing services going electric. I think it's unlikely because they'd have to spend too much time charging; he thinks they're a good candidate for early rollout of the charging infrastructure necessary for such a switch. Most recently he said:
 

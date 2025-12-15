@@ -7,6 +7,7 @@ suck it, markets
 :status: published
 :save_as: 2006/11/09/suck-it-markets/index.html
 :url: 2006/11/09/suck-it-markets/
+:private: true
 
 | Atrios `notes <http://feeds.feedburner.com/~r/blogspot/bRuz/~3/47154871/2006_11_05_atrios_archive.html>`__ that Tradesports completely failed to predict the outcome in the senate. In some ways, it's unfair to use control of the senate to criticize the idea of non-financial futures markets. In this case, we're talking about a very small range of possible outcomes and a situation that was genuinely hard to predict. All Tradesports said was that the Republicans were 70% likely to retain control. That probability has to collapse into reality at some point, and 30% is nothing to sneeze at. It just didn't work out this time.
 | But I'm glad to crow about this failure, because I've been seeing more and more references to Tradesports on sites I read, and they're almost always unilluminating — or they're at least frustrating, since I have no idea who and how many participate in these markets. Apologies to my journalist friends — I realize that graphs from online futures markets are one of the greatest labor-saving devices to hit your profession since the invention of Lexis Nexis or Larry Sabato. But they're still sort of boring-slash-infuriating.

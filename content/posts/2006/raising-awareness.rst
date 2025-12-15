@@ -7,6 +7,7 @@ raising awareness
 :status: published
 :save_as: 2006/11/09/raising-awareness/index.html
 :url: 2006/11/09/raising-awareness/
+:private: true
 
 | |the founder of LNS. seriously.|\ I somehow missed it on Monday, but this week's `Late Night Shots roundup <http://www.wonkette.com/politics/last-week%27s-shots/last-weeks-shots-ridiculous-generalizations-will-suffice-212755.php>`__ is just as good as I would've expected. Callow, mean and dumb: these are the worst people on earth that aren't eligible for trial at the Hague.
 | I'm a little worried, though — Rusty's resolve `seems to be faltering <http://whyihatedc.blogspot.com/2006/10/late-night-shots-party-crash.html>`__. Be strong, comrade! And realize that these people were probably expecting you, and almost *certainly* said nasty things about you after you left. The devil will be pleasing in his appearance (the picture to the right notwithstanding).

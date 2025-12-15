@@ -7,6 +7,7 @@ it's got it all
 :status: published
 :save_as: 2010/01/29/its-got-it-all/index.html
 :url: 2010/01/29/its-got-it-all/
+:private: true
 
 One thing you have to say for the iPad: it sits right in the middle of three classic consumer hardware debates: fat/thin client; walled garden/libre; and information appliance/general purpose device.  I have no idea whether this position makes it a better device, but it sure does generate a lot of passionate (though fundamentally boring-and-cliched-as-hell) blog posts.
 

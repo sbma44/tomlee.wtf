@@ -7,6 +7,7 @@ barely returned
 :status: published
 :save_as: 2007/09/17/barely-returned/index.html
 :url: 2007/09/17/barely-returned/
+:private: true
 
 Well, it was a beautiful weekend in Cazenovia — a fun wedding, a relaxing and productive couple of days after, and a nice time all around. Unfortunately, it seems that during the first twenty-some years of my life I was unknowingly using up my lifetime allotment of air travel karma. I can no longer set foot in an airport without some sort of travel apocalypse unfolding. If I checked bags I'd probably be dead by now.
 

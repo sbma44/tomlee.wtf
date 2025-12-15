@@ -5,6 +5,7 @@ besides, your navel is already exposed, ready for gazing
 :category: misc
 :slug: 255
 :status: draft
+:private: true
 
 There are a lot of things I like about the beach. Laying in the sun, drinking during the day, finding the time to read things not delivered by RSS — it's all great.
 

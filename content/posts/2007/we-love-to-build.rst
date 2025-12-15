@@ -7,6 +7,7 @@ we love to build
 :status: published
 :save_as: 2007/02/07/we-love-to-build/index.html
 :url: 2007/02/07/we-love-to-build/
+:private: true
 
 Holy crap. That Swimmers album is better than I'd expected — is it too early to start nominating candidates for Album of the Summer? The last few years' poor, belated crops of AoTSes makes me think that it'd best to get way out ahead of this thing. Anyway, you can listen to the whole album over at `their website <http://www.theswimmers.com/>`__. I particularly like "We Love To Build" and "St. Cecilia".
 

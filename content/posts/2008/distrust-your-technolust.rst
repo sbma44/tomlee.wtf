@@ -7,6 +7,7 @@ distrust your technolust
 :status: published
 :save_as: 2008/07/11/distrust-your-technolust/index.html
 :url: 2008/07/11/distrust-your-technolust/
+:private: true
 
 |image1|\ I can relate to Megan's instinct for early adoption, and I admire `her fortitude <http://meganmcardle.theatlantic.com/archives/2008/07/iphone_relief.php>`__. But the iPhone 2 experience is not for me. It's the price: I could be wrong, but my understanding is that, as a current iPhone owner who's already sold AT&T his soul, I'd be paying `$400 more <http://www.tuaw.com/2008/07/08/why-you-shouldnt-buy-the-iphone-3g-on-friday/>`__ than the advertised, subsidized price. That's too much for 3G and a GPS receiver that's apparently incapable of TomTom-style realtime tracking.
 

@@ -7,6 +7,7 @@ be your own Aronofsky
 :status: published
 :save_as: 2006/12/08/be-your-own-aronofsky/index.html
 :url: 2006/12/08/be-your-own-aronofsky/
+:private: true
 
 I've now got an iSight camera built into the lid of my laptop. Naturally, I've been unable to resist the urge to play with it, so I spent about a minute on Wednesday morning writing a Perl script designed to take a steady stream of images. Then I let it run throughout the day. The results are pretty creepy, like a drug-use montage. And, yeah, a little longer than I'd like — but there are special guest appearances beginning about halfway through.
 

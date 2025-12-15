@@ -7,6 +7,7 @@ teaching everyone to code is a fine idea
 :status: published
 :save_as: 2013/12/09/teaching-everyone-to-code-is-a-fine-idea/index.html
 :url: 2013/12/09/teaching-everyone-to-code-is-a-fine-idea/
+:private: true
 
 I often find myself defending Sam Biddle's brand of Silicon Valley nihilism to Matt, so I'm sort of surprised to see us switching sides: today `Matt joins Sam in deriding President Obama's calls to teach schoolkids to program <http://www.slate.com/blogs/moneybox/2013/12/09/everyone_should_code_but_reading_is_even_better.html>`__. `He's not alone <http://www.motherjones.com/kevin-drum/2013/12/no-everyone-does-not-need-learn-program-computer>`__! I think Matt's specific objection doesn't get us very far -- some students' failure to attain basic skills doesn't really tell us all that much about what should be included in a general curriculum, just as the continued existence of murder doesn't tell us much about the wisdom of enforcing speed limits.
 

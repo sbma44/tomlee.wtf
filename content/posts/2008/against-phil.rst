@@ -7,6 +7,7 @@ against Phil
 :status: published
 :save_as: 2008/07/30/against-phil/index.html
 :url: 2008/07/30/against-phil/
+:private: true
 
 I am on the record as being anti-Phil Collins. This puts me at odds with some good friends who have jumped wholeheartedly into the half-serious Collins renaissance that's been plaguing our great land as of late. Frankly, I'm surprised it's got legs given its likely provenance, which seems to me to clearly involve `Grand Theft Auto: Vice City <http://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City_soundtrack>`__, `This American Life <http://www.thisamericanlife.org/Radio_Episode.aspx?episode=339>`__ and/or a need to sidestep mainstream America's rededication to all things Journey. The `SWPL <http://stuffwhitepeoplelike.com/>`__\ ishness of the situation is so glaring as to be embarrassing.
 
