@@ -1,6 +1,7 @@
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
+    0. CSS VARIABLES
     1. CSS RESET/NORMALIZE
     2. TYPOGRAPHY
     3. LAYOUT
@@ -13,6 +14,26 @@
     7. ARCHIVE LISTS
     8. RESPONSIVE
 --------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+   0. CSS VARIABLES
+--------------------------------------------------------------*/
+:root {
+    /* Primary color: Royal Blue */
+    --color-primary: #4169E1;
+
+    /* Secondary color: Teal (limited use - hover states, small accents) */
+    --color-secondary: #00d2d2;
+
+    /* Neutral colors */
+    --color-text: #333;
+    --color-text-dark: #222;
+    --color-text-light: #666;
+    --color-text-muted: #999;
+    --color-bg: #f5f5f5;
+    --color-bg-light: #fff;
+    --color-bg-dark: #222;
+}
 
 /*--------------------------------------------------------------
    1. CSS RESET/NORMALIZE
@@ -52,8 +73,8 @@ body {
     font-family: 'Domine', serif;
     font-size: 1.8rem;
     line-height: 1.88;
-    color: #333;
-    background: #f5f5f5;
+    color: var(--color-text);
+    background: var(--color-bg);
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -62,7 +83,7 @@ h1, h2, h3, h4, h5, h6,
     font-weight: 600;
     margin-top: 0;
     margin-bottom: 2rem;
-    color: #222;
+    color: var(--color-text-dark);
     text-transform: uppercase;
 }
 
@@ -101,14 +122,14 @@ p {
 }
 
 a {
-    color: #333;
+    color: var(--color-primary);
     text-decoration: underline;
     transition: all 0.15s ease-in-out;
 }
 
 a:hover {
     text-decoration: none;
-    color: #666;
+    color: var(--color-secondary);
 }
 
 blockquote, q {
@@ -134,10 +155,10 @@ q:before {
     left: 50%;
     margin-left: -20px;
     top: -2rem;
-    color: #fff;
-    background: #333;
+    color: var(--color-bg-light);
+    background: var(--color-primary);
     border-radius: 50%;
-    box-shadow: 0 0 0 10px #fff;
+    box-shadow: 0 0 0 10px var(--color-bg-light);
     font-size: 3.6rem;
     font-weight: 600;
     padding: 12px;
@@ -182,14 +203,14 @@ q cite em {
 blockquote a.reference.external,
 q a.reference.external {
     text-decoration: underline;
-    color: #333;
+    color: var(--color-primary);
     transition: color 0.15s ease-in-out;
     font-size: 1.6rem;
 }
 
 blockquote a.reference.external:hover,
 q a.reference.external:hover {
-    color: #666;
+    color: var(--color-secondary);
     text-decoration: none;
 }
 
@@ -234,14 +255,14 @@ q .line-block .line:last-child {
 }
 
 code {
-    background: #f5f5f5;
+    background: var(--color-bg);
     padding: 0.2rem 0.5rem;
     font-size: 0.9em;
     border-radius: 3px;
 }
 
 pre {
-    background: #f5f5f5;
+    background: var(--color-bg);
     padding: 2rem;
     border-radius: 5px;
     overflow-x: auto;
@@ -266,7 +287,7 @@ pre code {
 .typology-fake-bg {
     position: relative;
     z-index: 10;
-    background: #f5f5f5;
+    background: var(--color-bg);
 }
 
 .typology-section {
@@ -274,7 +295,7 @@ pre code {
     max-width: 1170px;
     margin: 0 auto 10rem;
     width: 95%;
-    background: #fff;
+    background: var(--color-bg-light);
     padding: 16rem 0 15rem;
     position: relative;
     top: -10rem;
@@ -307,7 +328,7 @@ pre code {
     bottom: 0;
     left: 50%;
     margin-left: -25px;
-    background: #333;
+    background: var(--color-primary);
 }
 
 /*--------------------------------------------------------------
@@ -335,7 +356,7 @@ pre code {
     bottom: 0;
     left: 50%;
     margin-left: -25px;
-    background: #333;
+    background: var(--color-primary);
 }
 
 .typology-post:last-child:after {
@@ -360,12 +381,12 @@ pre code {
 
 .entry-title a {
     text-decoration: none;
-    color: #222;
+    color: var(--color-text-dark);
     display: block;
 }
 
 .entry-title a:hover {
-    color: #666;
+    color: var(--color-secondary);
 }
 
 .entry-content {
@@ -393,7 +414,7 @@ pre code {
     margin-top: 2.6rem;
     margin-bottom: 2.6rem;
     font-size: 1.4rem;
-    color: #999;
+    color: var(--color-text-muted);
 }
 
 .meta-item {
@@ -415,15 +436,15 @@ pre code {
 
 .meta-item a {
     text-decoration: none;
-    color: #999;
+    color: var(--color-text-muted);
     padding-bottom: 3px;
     border-bottom: 1px solid transparent;
     transition: border-bottom 0.1s ease-in-out;
 }
 
 .meta-item a:hover {
-    border-bottom: 1px solid #999;
-    color: #666;
+    border-bottom: 1px solid var(--color-secondary);
+    color: var(--color-secondary);
 }
 
 /*--------------------------------------------------------------
@@ -431,7 +452,7 @@ pre code {
 --------------------------------------------------------------*/
 .post-letter {
     line-height: 1.2;
-    color: rgba(0, 0, 0, 0.07);
+    color: rgb(from var(--color-primary) r g b / 0.12);
     z-index: 1;
     position: absolute;
     top: 45%;
@@ -449,8 +470,8 @@ pre code {
    5. HEADER
 --------------------------------------------------------------*/
 .typology-header {
-    background: #222;
-    color: #fff;
+    background: var(--color-primary);
+    color: var(--color-bg-light);
     padding: 3rem 0;
     position: relative;
     z-index: 1000;
@@ -470,12 +491,12 @@ pre code {
 }
 
 .site-title a {
-    color: #fff;
+    color: var(--color-bg-light);
     text-decoration: none;
 }
 
 .site-title a:hover {
-    color: #ddd;
+    color: var(--color-secondary);
 }
 
 .main-nav ul {
@@ -491,7 +512,7 @@ pre code {
 }
 
 .main-nav a {
-    color: #fff;
+    color: var(--color-bg-light);
     text-decoration: none;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 1.6rem;
@@ -502,8 +523,8 @@ pre code {
 }
 
 .main-nav a:hover {
-    border-bottom: 2px solid #fff;
-    color: #fff;
+    border-bottom: 2px solid var(--color-secondary);
+    color: var(--color-bg-light);
 }
 
 .main-nav .social-icon a {
@@ -528,8 +549,8 @@ pre code {
    6. FOOTER
 --------------------------------------------------------------*/
 .typology-footer {
-    background: #222;
-    color: #999;
+    background: var(--color-bg-dark);
+    color: var(--color-text-muted);
     padding: 5rem 0;
     margin-top: 8rem;
     text-align: center;
@@ -541,12 +562,12 @@ pre code {
 }
 
 .typology-footer a {
-    color: #ddd;
+    color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
 }
 
 .typology-footer a:hover {
-    color: #fff;
+    color: var(--color-secondary);
 }
 
 /*--------------------------------------------------------------
@@ -577,7 +598,7 @@ pre code {
     position: absolute;
     bottom: 0;
     left: 0;
-    background: #333;
+    background: var(--color-primary);
 }
 
 .archive-list {
@@ -594,19 +615,19 @@ pre code {
 .archive-list a {
     font-size: 1.8rem;
     text-decoration: none;
-    color: #333;
+    color: var(--color-text);
     border-bottom: 1px solid transparent;
     transition: all 0.15s ease-in-out;
 }
 
 .archive-list a:hover {
-    border-bottom: 1px solid #333;
-    color: #666;
+    border-bottom: 1px solid var(--color-secondary);
+    color: var(--color-secondary);
 }
 
 .archive-date {
     font-size: 1.4rem;
-    color: #999;
+    color: var(--color-text-muted);
     margin-left: 1rem;
     white-space: nowrap;
 }
@@ -625,14 +646,14 @@ pre code {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 600;
     text-decoration: none;
-    color: #333;
+    color: var(--color-text);
     border-bottom: 2px solid transparent;
     transition: all 0.15s ease-in-out;
 }
 
 .more-archives a:hover {
-    border-bottom: 2px solid #333;
-    color: #666;
+    border-bottom: 2px solid var(--color-secondary);
+    color: var(--color-secondary);
 }
 
 /*--------------------------------------------------------------
@@ -642,54 +663,54 @@ pre code {
     html {
         font-size: 55%;
     }
-    
+
     .typology-header .header-content {
         flex-direction: column;
         gap: 2rem;
     }
-    
+
     .main-nav ul {
         flex-wrap: wrap;
         justify-content: center;
         gap: 1.5rem;
     }
-    
+
     .typology-section {
         padding: 8rem 0 6rem;
         top: 0;
         box-shadow: none;
     }
-    
+
     .section-content {
         padding: 0 20px;
     }
-    
+
     .typology-post {
         margin-bottom: 5rem;
         padding-bottom: 6rem;
     }
-    
+
     .post-letter {
         display: none;
     }
-    
+
     h1, .h1 {
         font-size: 3.6rem;
     }
-    
+
     h2, .h2 {
         font-size: 2.8rem;
     }
-    
+
     h3, .h3 {
         font-size: 2.4rem;
     }
-    
+
     blockquote, q {
         padding: 5rem 3rem 4rem;
         font-size: 1.8rem;
     }
-    
+
     blockquote:before,
     q:before {
         font-size: 3rem;
@@ -705,18 +726,18 @@ pre code {
     html {
         font-size: 50%;
     }
-    
+
     .main-nav ul {
         gap: 1rem;
     }
-    
+
     blockquote, q {
         padding: 4rem 2rem 3rem;
         margin: 3rem 0;
         font-size: 1.6rem;
         line-height: 2.8rem;
     }
-    
+
     blockquote:before,
     q:before {
         font-size: 2.6rem;
