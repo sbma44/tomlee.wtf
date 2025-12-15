@@ -8,7 +8,7 @@ fighting movable type comment spam - part 2
 :save_as: 2007/01/27/fighting-movable-type-comment-spam-part-2/index.html
 :url: 2007/01/27/fighting-movable-type-comment-spam-part-2/
 
-`Kyle <http://www.informationleafblower.com>`__ and `Jeff <http://www.jeffnye.org>`__ rightly pointed out that yesterday's bout of MT-theorizing (aka `part 1 <http://www.manifestdensity.net/2007/01/26/fighting_movable_type_comment/>`__) — however marginally interesting it might have been — wasn't all that helpful. They're right. I didn't write it in a practically-minded sort of way. So here's a shot at explaining how you'd use the stuff I discussed. And, happily enough, some of these steps are necessary for you to use the upcoming method that I alluded to at the end of the last post — so I would've had to write a large part of this anyway.
+`Kyle <http://www.informationleafblower.com>`__ and `Jeff <http://www.jeffnye.org>`__ rightly pointed out that yesterday's bout of MT-theorizing (aka `part 1 </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__) — however marginally interesting it might have been — wasn't all that helpful. They're right. I didn't write it in a practically-minded sort of way. So here's a shot at explaining how you'd use the stuff I discussed. And, happily enough, some of these steps are necessary for you to use the upcoming method that I alluded to at the end of the last post — so I would've had to write a large part of this anyway.
 
 First things first. The Javascript obfuscator function that I wrote about is written in PHP. More importantly, the rotating comment script functionality I keep alluding to (and which will be a considerably more powerful anti-spam measure) will rely on PHP. But if your Movable Type site was installed with the default settings, its pages aren't PHP — they're just HTML (Jeff and Kyle: I checked, and this applies to both of you).
 
@@ -154,7 +154,7 @@ That's it! Well, okay, almost it: you'll have to make the same changes on any ot
 
 Next: a way to rename *mt-comments.cgi* on an hourly basis. That'll show 'em.
 
-**UPDATE:** Forget what I said about the comment preview template needing to be changed in a similar way. What you should actually do is **remove the action property entirely from the comment preview template's <form> tag**. I explain why in `part 3 <http://www.manifestdensity.net/2007/01/29/fighting_movable_type_comment_2/>`__ which — hey! — is now available. How about that.
+**UPDATE:** Forget what I said about the comment preview template needing to be changed in a similar way. What you should actually do is **remove the action property entirely from the comment preview template's <form> tag**. I explain why in `part 3 </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__ which — hey! — is now available. How about that.
 
 .. |changing a movable type template's output file extension| image:: http://farm1.static.flickr.com/162/370935695_7019159597.jpg
    :class: center

@@ -12,7 +12,7 @@ Hi there! Christmas obligations have ceased, and we're on to the "lying around" 
 
 Exchanging presents with my family was awfully pleasant, too, as was the Grays' Christmas party (now with heated tent!) and having a chance to see old friends. Really, there's only one constituency that inexplicably dropped the ball in its Christmas celebrations: the Jews.
 
-Well, alright, they didn't fall so far short. Black Cat Christmas Eve was `unacceptably cheerful <http://www.manifestdensity.net/2008/12/25/christmas_eve_in_the_drunk_tan_1/>`__, but that's hardly their fault. It was the Christmas movie-watching where the true outrage occurred. Yes, Spencer and Matt joined me to watch *The Spirit*. But was there subsequent Chinese food to be had? No! They were too full from their preceding visit *to a Christmas party* to get noodles. For shame, gentlemen. That is not what Jewish Christmas is all about.
+Well, alright, they didn't fall so far short. Black Cat Christmas Eve was `unacceptably cheerful </2006/12/25/christmas-eve-in-the-drunk-tank/>`__, but that's hardly their fault. It was the Christmas movie-watching where the true outrage occurred. Yes, Spencer and Matt joined me to watch *The Spirit*. But was there subsequent Chinese food to be had? No! They were too full from their preceding visit *to a Christmas party* to get noodles. For shame, gentlemen. That is not what Jewish Christmas is all about.
 
 Spencer made amends a few days later, though (Matt had left for New York), as we discussed *Valkyrie* and my flailing bok choy accidentally sent broth spattering all over the restaurant. So I don't think I'll have to report anybody to their childhood rabbi just yet.
 

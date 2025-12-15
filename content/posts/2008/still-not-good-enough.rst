@@ -10,7 +10,7 @@ still not good enough
 
 Another day, `another music-sharing flash widget that uses RC4 to encrypt its MP3 URLs but keeps the key in the SWF <http://www.playlist.com/>`__.
 
-I realize I've never made good on `my promise to explain how I would build a secure Flash music player <http://www.manifestdensity.net/2008/03/28/surprisingly_i_dont_consider_m/>`__. Partly I forgot; partly it's just that it's an impossible problem, and proposing incremental improvements to the situation isn't very satisfying.
+I realize I've never made good on `my promise to explain how I would build a secure Flash music player </2008/03/28/surprisingly-i-dont-consider-myself-a-jerk/>`__. Partly I forgot; partly it's just that it's an impossible problem, and proposing incremental improvements to the situation isn't very satisfying.
 
 But look, you can at least half-ass it. Right now if someone gets a hold of the MP3 URL the jig is up — they can repost it anywhere else and help themselves to your bandwidth. You can improve on this situation, at least, by serving a dynamic playlist filled with URLs that are only good for the current user. Either throw each URL away after one use (admittedly problematic for repeating a song without additional trips to the playlist server); or, better yet, find the song by hashing its unique identifier together with the user's IP and user agent (again, in the dynamic playlist generation script). You don't have to move any files around, you just have to write a script that looks up the requested hash in the database and then pipes out the MP3 from its secret location. There's no need for encryption, even. Season with additional querystring parameters and column indices to taste.
 

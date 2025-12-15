@@ -8,7 +8,7 @@ public life of a cat
 :save_as: 2007/06/06/public-life-of-a-cat/index.html
 :url: 2007/06/06/public-life-of-a-cat/
 
-Remember that ridiculously sunny, poppy band I `linked to <http://www.manifestdensity.net/2007/03/22/its_sunny_and_beautiful_out/>`__ a while ago? The Lovekevins? Sure you do. Well, they're going to be playing at Natalya and Melissa's `Scandi-pop DJ night <http://www.myspace.com/hejhejdc>`__ at DC9 on `July 10 <http://www.flickr.com/photos/22137978@N00/532276021/>`__. Sounds like fun.
+Remember that ridiculously sunny, poppy band I `linked to </2007/03/22/its-sunny-and-beautiful-outside/>`__ a while ago? The Lovekevins? Sure you do. Well, they're going to be playing at Natalya and Melissa's `Scandi-pop DJ night <http://www.myspace.com/hejhejdc>`__ at DC9 on `July 10 <http://www.flickr.com/photos/22137978@N00/532276021/>`__. Sounds like fun.
 
 More immediately: Charles is playing at Chief Ike's on Thursday. I guess that Aaron, Spencer and Bayes will be there too. You should still come, though.
 

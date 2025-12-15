@@ -115,4 +115,4 @@ I feel confident in saying that this can't be beaten with a mere regex (okay, `t
 
 And that might be a good place to leave this off. In the next part I'll describe a method for renaming your comment script on a recurring, automated basis. Will that be foolproof, either? Well, no. But I think it'll raise the bar to a level where a spammer would have to expend considerable effort to keep up with your site's constantly moving target — something that he's unlikely to do.
 
-**UPDATE:** Parts `2 <http://www.manifestdensity.net/2007/01/27/fighting_movable_type_comment_1/>`__ and `3 <http://www.manifestdensity.net/2007/01/29/fighting_movable_type_comment_2/>`__ are now available.
+**UPDATE:** Parts `2 </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__ and `3 </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__ are now available.

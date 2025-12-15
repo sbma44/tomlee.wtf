@@ -8,4 +8,4 @@ now with less broken
 :save_as: 2007/11/14/now-with-less-broken/index.html
 :url: 2007/11/14/now-with-less-broken/
 
-Comments were busted for a while there — my `epic antispam solution <http://www.manifestdensity.net/2007/01/26/fighting_movable_type_comment/>`__ didn't make the trip to the new server undamaged (I think the cron job fired in the middle of the transfer, leaving the files out of sync). It's all better now!
+Comments were busted for a while there — my `epic antispam solution </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__ didn't make the trip to the new server undamaged (I think the cron job fired in the middle of the transfer, leaving the files out of sync). It's all better now!

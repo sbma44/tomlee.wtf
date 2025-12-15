@@ -8,7 +8,7 @@ Artomatic Update: Python on the Fonera
 :save_as: 2009/05/05/artomatic-update-python-on-the-fonera/index.html
 :url: 2009/05/05/artomatic-update-python-on-the-fonera/
 
-**UPDATE:** Scratch that. I've hit a roadblock related to serial communication in DD-WRT. If you're only interested in using Python for socket communication and simple stuff, the below text is still useful. But I've concluded that if you want serial, DD-WRT is not the way to go. I've moved on to OpenWRT — you can see the first step in this process `here <http://www.manifestdensity.net/2009/05/11/giving_up_on_ddwrt/>`__.
+**UPDATE:** Scratch that. I've hit a roadblock related to serial communication in DD-WRT. If you're only interested in using Python for socket communication and simple stuff, the below text is still useful. But I've concluded that if you want serial, DD-WRT is not the way to go. I've moved on to OpenWRT — you can see the first step in this process `here </2009/05/11/giving-up-on-dd-wrt/>`__.
 
 --------------
 

@@ -8,7 +8,7 @@ fighting movable type comment spam - part 3
 :save_as: 2007/01/29/fighting-movable-type-comment-spam-part-3/index.html
 :url: 2007/01/29/fighting-movable-type-comment-spam-part-3/
 
-We've made some good progress. In `part one <http://www.manifestdensity.net/2007/01/26/fighting_movable_type_comment/>`__ I talked about how comment spammers operate and some theoretical ways to stop them. In `part two <http://www.manifestdensity.net/2007/01/27/fighting_movable_type_comment_1/>`__ I offered a little more practical advice, providing a walkthrough on how to convert an MT site from static HTML pages to PHP and offering more specific instructions on how to hide where your comment script lives. I know that at least one person has seen a reduction in comment spam as a result, which makes me pretty pleased.
+We've made some good progress. In `part one </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__ I talked about how comment spammers operate and some theoretical ways to stop them. In `part two </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__ I offered a little more practical advice, providing a walkthrough on how to convert an MT site from static HTML pages to PHP and offering more specific instructions on how to hide where your comment script lives. I know that at least one person has seen a reduction in comment spam as a result, which makes me pretty pleased.
 
 Sadly, what we've covered so far isn't enough. Spammers will find your renamed mt-comments.cgi no matter how much Javascript you bury it under. If users can use the form, so can spammers. They'll find the new location of mt-comments.cgi sooner or later, and then we'll be back at square one.
 
@@ -135,7 +135,7 @@ So we can now rotate our comment script's filename every time we call this parti
 
 In order to use mt-comments-location.php, we'll need to know where it resides. Unfortunately, that might be a problem. The $MT_DIRECTORY value may or may not match up with the full path to this file; it all depends on your webhost. I've put together a little script to make it easier to figure out. Download `this </static/2007/01/29/where-am-i.php.txt>`__, rename it to where-am-i.php (take the .txt off the end) and upload it to the MT directory on the server. Load it up in your web browser (http://www.yourserver.com/path/to/mt/where-am-i.php) and have a look at the output. It ought to tell you what the filesystem path to the MT directory is.
 
-So! You now have the information necessary to rewrite your comment form's *action* property on the fly. If you didn't add the Javascript obfuscation from `part two <http://www.manifestdensity.net/2007/01/27/fighting_movable_type_comment_1/>`__, your comment form tag should still look something like this:
+So! You now have the information necessary to rewrite your comment form's *action* property on the fly. If you didn't add the Javascript obfuscation from `part two </2007/01/26/fighting-movable-type-comment-spam-part-1/>`__, your comment form tag should still look something like this:
 
    ::
 
