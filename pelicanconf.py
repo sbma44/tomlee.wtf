@@ -38,9 +38,10 @@ ARTICLE_SAVE_AS = ''  # Disable default, rely on per-article save_as metadata
 ARTICLE_URL = ''      # Disable default, rely on per-article url metadata
 
 # Static files (images, etc.)
-STATIC_PATHS = ['static', 'extra/robots.txt']
+STATIC_PATHS = ['static', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
 DIRECT_TEMPLATES = ['index']
