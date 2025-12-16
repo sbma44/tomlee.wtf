@@ -5,7 +5,7 @@ author: admin
 category: Uncategorized
 slug: treelemetry
 status: published
-save_as: 2025/12/16/treelemetry.html
+save_as: 2025/12/16/treelemetry/index.html
 url: 2025/12/16/treelemetry/
 ---
 
