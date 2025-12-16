@@ -53,79 +53,6 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2008/05/07/hacking-your-canon-point-shoot/">hacking your Canon point &amp; shoot</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2008-05-07T13:22:00-04:00">Wednesday, 07 May 2008</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">H</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Slashdot <a class="reference external" href="http://hardware.slashdot.org/hardware/08/05/06/2032216.shtml">posted</a> something yesterday; today I gave it a try. Apparently the <a class="reference external" href="http://chdk.wikia.com/wiki/CHDK">CHDK project</a> allows you to supplement your Canon camera's firmware. The modified software allows you to override the rather constrained exposure times and ISO settings, and do other fun things like shoot in RAW, trigger exposures via USB, record longer movies and even set the camera up to take pictures whenever it detects motion. There are also a few less useful applications thrown in:</p>
-<p><a class="reference external image-reference" href="http://www.flickr.com/photos/sbma44/2473392789/"><img alt="playing reversi, compliments of CHDK" class="center" src="http://farm4.static.flickr.com/3248/2473392789_48512f6896.jpg" style="width: 500px; height: 375px;" /></a></p>
-<p>Reversi! Neat.</p>
-<p>Installation is pretty painless: after figuring out your camera's firmware revision, you download and copy two files to the root directory of your SD card. Then boot into picture-viewing mode and go to the &quot;update firmware&quot; menu option. Despite what this sounds like, it's all reversible: by default you'll have to repeat the operation every time you turn the camera on. And even if you set it to automatically boot, you can always revert to the stock firmware by deleting the files from the memory card.</p>
-<p>My geriatric SD400 is juuuust below the cutoff for official distributions, but a little searching turned up a <a class="reference external" href="http://chdk.wikia.com/wiki/SD400">beta release</a> that seems to work fine. If your camera isn't listed as being supported, use the wiki's search function.</p>
-<p>I'm afraid that my camera hasn't got enough life left in it to really make good use of this new photographic freedom — the focus hasn't been great ever since some sand got into it at the beach. But knowing that these capabilities exist makes me virtually certain to buy another Canon when I finally decide to replace it.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2008/05/07/my-led-monstrosity/">my LED monstrosity</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2008-05-07T11:12:00-04:00">Wednesday, 07 May 2008</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">M</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>So! Let's talk about what I've been working on. I wasn't very good about documenting my WMATA picture frame build. This time I'm aspiring to do a better job.</p>
-<p>At the moment I'm working on getting a 10x20 array of LEDs working. I haven't completely made up my mind about what I'm going to use it to display, but it'll be something that can be hung on the wall, I think. At the moment there are two parts to the project.</p>
-<p>First is the array of LEDs. I'm using a sheet of pegboard for spacing; last night I began soldering them together. As you can see, I still have a lot of work ahead of me. I installed 70 LEDs last night over the course of two or three hours (admittedly, with breaks for dinner and the expression of my very important opinions regarding American Idol). That's 35% of the total number.</p>
-<p><a class="reference external image-reference" href="http://www.flickr.com/photos/sbma44/2473114747/"><img alt="miles to go..." class="center" src="http://farm4.static.flickr.com/3276/2473114747_7ed146e1bb.jpg" style="width: 375px; height: 500px;" /></a></p>
-<p>Each hole in the board has an LED, to which a resistor is attached. The anodes of every LED in a row are electrically unified; the cathodes in every column will be, too. This lets me avoid having to use 200 individual on/off connections. Instead I'll rely on persistence of vision: each row will be powered up in sequence, and during that period each column will be switched on or off. One row — ten LEDs — will be illuminated at any given instant. By flipping through rows very quickly the display will appear to be continuously on. Our retinas are stupid that way.</p>
-<p><a class="reference external image-reference" href="http://www.flickr.com/photos/sbma44/2473934182/"><img alt="closeup of the assembly" class="center" src="http://farm3.static.flickr.com/2208/2473934182_d09f376304.jpg" style="width: 500px; height: 375px;" /></a></p>
-<p>The advantage gained by this is that I only need 30 connections instead of 200. That's an improvement — much less soldering! — but still more connections than the Arduino has to offer.</p>
-<p>So, to expand the available connections (which I should really be calling pins, and will be from here on out) I'll be using four daisy-chained five-bit shift registers. These are integrated circuits that require various connections — power, ground, and some others supporting optional functions that I'm not using — but the real action happens on the chips' input and clock pins. You set the input pin to a desired value; you then flip the clock pin on and off. The chip then remembers the value that was on the input pin, and begins displaying it on its first output pin. If you do the same thing, the originally-remembered value is moved to the second output pin, and the new input value takes the first position. In this way you can shift bits down the line — and by connecting one chip's final output to another's input, you can make the line arbitrarily long. Voila: as many output pins as you need, all at the cost of a mere two Arduino output pins.</p>
-<p>The video below is a proof-of-concept for this commonly-used idea — it's just my effort to make sure I know what I'm doing before I start making irreversible soldered connections. The Boarduino (the thing with the blinking red light) is connected to the first shift register (the chip closest to the Boarduino), and set to send four ON signals, then four OFF signals (distinguishing the divisions between each one by flipping the clock signal, which is indicated by the flashing red LED).</p>
-<p>In the actual device each shift register output will provide power to an entire row's anodes — there will only be one ON bit at a time, and it will travel down the twenty outputs in sequence. This is why there are transistors in the setup, too: the shift register could provide enough current for a single LED, but ten would be pushing it. The transistor allows a very small current from the shift register to switch on a much larger current.</p>
-<p>Electronically astute readers might be asking themselves why I'm going to the trouble of attaching 200 resistors (and for my electronically non-astute readers: the resistors are necessary to keep the LEDs from consuming too much current and burning out). After all, if only ten LEDs will actually be on at a time, why not just have ten resistors — one for each column?</p>
-<p>There are a couple of reasons, most of them related to a lack of confidence in my ability to keep just one row enabled, particularly during the debugging process. First, in general it's a bad idea to have LEDs sharing resistors. If one LED fails the other one may suddenly experience twice the current you had intended, and will also fail immediately. Second, the resistors are rated for a half-watt of power dissipation. Each LED consumes about 30 milliwatts; if an entire column is illuminated, that'd put me 20% over spec for the resistors. I probably could've gotten away with shared resistors in this case, but I'm still sufficiently unsure of what I'm doing that I didn't want to risk it. Besides, all that additional soldering will build character.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2008/05/07/herd-shift/">herd shift</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2008-05-07T09:06:00-04:00">Wednesday, 07 May 2008</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">H</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>So where can I sign up for more timely updates from the media conspiracy? I'm imagining an email list. Or maybe a dashboard widget with Growl notifications telling me when and how to unfairly marginalize the Ron Paul campaign.</p>
-<p>When I went to bed last night, MSNBC had begun expressing doubts about Senator Clinton's prospects. But that was it! By this morning the floodgates had opened and suddenly everyone is willing to acknowledge what has been true for weeks: that there's really no way for her to catch up that doesn't involve people taking to the streets. It really is striking, bizarre, and a bit frightening to see how suddenly, uniformly and arbitrarily this change occurred. The most generous interpretation is that after one or two people risked embarrassment by acknowledging the actual situation, everyone else felt free to adopt the new storyline.</p>
-<p>Without the fourth estate to help it play make-believe, I guess it's unlikely that the Clinton campaign is long for this world. That's fine by me. But I'm still a little bitter: I'd gotten pretty good at writing rote, despairing <a class="reference external" href="http://dcist.com/2008/05/07/morning_roundup_252.php">morning roundup</a> introductions about the primary campaign's interminability. When I woke up this morning and rescanned the headlines I had to throw away a rather clever paragraph. Sucks!</p>
-<p>So please: a little more warning next time the media conspiracy suddenly and arbitrarily shifts direction — those of us at the distant bottom of the org chart would really appreciate it. Maybe you guys could set up a Google Calendar or something.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2008/05/06/superhero-miscellanea/">superhero miscellanea</a>
                     </h2>
                     <div class="entry-meta">
@@ -539,6 +466,67 @@ I think in terms of the band, it's very solidified. I'm trying to think of the f
                     <p>I realize I've already blogged about my <a class="reference external" href="/2008/03/26/dorkbot-dc-arduino-meet-fonera/">Arduino/Fonera project</a> far too much. But I don't think I've actually explained <em>what it does</em> in simple terms. If you're interested, a brief explanation of what it is and how it works is included in today's <a class="reference external" href="http://dcist.com/2008/04/10/transit_on_thur_27.php">DCist transit post</a>. Special bonus: mean comments at my expense!</p>
 <p>Now I'll shut up about it. Up next: something filled with shift registers, LEDs and childhood nostalgia.</p>
 <p>(Although <a class="reference external" href="http://www.tearsoffire.org/twiki/bin/view/Projects/SolarPendulum">this</a> looks like a fun (and cheap) project, too.)</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2008/04/09/dear-people-on-facebook/">dear people on Facebook</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2008-04-09T11:19:00-04:00">Wednesday, 09 April 2008</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">D</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Please don't take it personally when I don't respond to your friend request. I never really used the site, but for a while I would at least accept incoming friend requests. Then, with a number of unattended-to requests already piled up, I got a request from someone who I decidedly did not want to be friends with. At that point I decided not to bother with it any more.</p>
+<p>So you won't be getting friended, which is no big deal since I don't do anything on the damn site. Please rest assured that I think you're lovely, and that the odds of you being the person who drove me entirely off Facebook are quite low — though non-zero! It's in my best interest to keep you guessing, working hard to earn my fondness. If nothing else I figure this calculated withholding of affection is good practice for one day being a parent.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2008/04/09/they-closed-purgatory-im-tempting-my-luck/">they closed purgatory; I'm tempting my luck</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2008-04-09T10:54:00-04:00">Wednesday, 09 April 2008</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">T</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>The Archdiocese of Washington is <a class="reference external" href="http://www.wjla.com/news/stories/0408/509914.html">making a stink</a> about a low-budget Metro commercial that featured a bobblehead version of the holy father, saying that area Catholics might find it offensive. I don't get it — it's not like Catholics have no experience with popes that are constantly shaking.</p>
+<p><em>BA-DUMP</em></p>
+<p>This hereby concludes this edition of &quot;Offensive Jokes That I Reluctantly Took Out of the Morning Roundup&quot;.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2008/04/09/stupid-is-cheap/">stupid is cheap</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2008-04-09T10:29:00-04:00">Wednesday, 09 April 2008</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">S</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>So I guess that Glenn Greenwald and Megan are having a fight over what stories the media covers. This seems a little odd, but I guess she yelled at him, so now his commenters are yelling at her. And while I don't want to align myself with the people who comment on her site, who tend to be (for one reason if not another) some of the worst people on the planet, it's worth remembering just how lousy the metrics data Megan <a class="reference external" href="http://meganmcardle.theatlantic.com/archives/2008/04/a_great_business_opportunity.php">refers to</a> can be.</p>
+<p><a class="reference external" href="http://idolator.com/tunes/corporate-rock-still-sells/who-arbitrates-arbitron-328449.php">Consider this admittedly irritatingly-formatted conversation about the Arbitron ratings</a>. Basically: over the last decade or so Arbitron, the one big radio ratings agency, recorded the declining popularity of rock radio, and stations like DC's own WHFS were shuttered (boo!). Then Arbitron developed a new technology that passively monitors what people listen to instead of relying on them to accurately report their listening habits. It turned out that rock radio was considerably more popular than anyone thought — rock listeners were just unusually bad at filling out Arbitron's surveys. With that factor removed, rock stations are now once again popping up in cities that have rolled out the new monitoring technology.</p>
+<p>Now, while I certainly don't want to imply that listening to Smash Mouth correlates with intelligence, in general I think it's probably true that it's harder to collect tracking metrics on the sorts of educated, sophisticated consumers that Greenwald's commenters presumably consider themselves to be. Their time will tend to be more valuable, meaning your ratings company will be able to afford to buy less of it. And they may have less time to consume media, meaning there's less collectible data available per capita — even if you don't have to pay for it. They also may be quicker to notice that you're tracking or otherwise inconveniencing them and take steps to stop you. Show of hands — how many people are reading this with Adblock Plus installed?</p>
+<p>From listening to Emily talk about her work it's clear that avoiding sampling error is hard enough when the attempt is made in a rigorous, well-funded academic setting. And of course the situation here is considerably worse. Ratings companies like Nielsen, Arbitron and the like have a financial incentive to sample poorly (or as poorly as they can get away with). And, from my cursory understanding of their industry (I read DCRTV! I tell clients which web analytic reports to buy!), it doesn't seem as though the firms sell themselves with their highly scientific methods so much as they sell themselves by being the only game in town.</p>
+<p>So it doesn't seem totally outrageous to me to suggest that metrics-driven editorial decisions may favor idiotic stories even more than the economists' magical intersecting lines say they should. I think the internet has helped reverse this trend, but America is still probably being fed stupider content than it ought to be. And, lest you think I'm just creating elaborate justifications for my own tastes' supremacy, keep in mind that I say all this as a guy who ordered a pay-per-view wrestling event less than a month ago.</p>
 
                 </div>
             </article>

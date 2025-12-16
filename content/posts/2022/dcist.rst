@@ -4,6 +4,9 @@ DCist
 :author: admin
 :slug: dcist
 :status: published
+:save_as: 2022/01/24/dcist/index.html
+:url: 2022/01/24/dcist/
+
 
 I was close to DCist from its earliest days. I initially supplied behind-the-scenes support, like fixing Movable Type templates, hosting the staff mailing list, and building `ridiculous <https://dcist.com/story/06/05/09/introducing-las/>`__ technical `projects <https://dcist.com/story/07/07/13/dcist-maps-come/>`__. But I wrote for the site, too--more and more as time went by--and had a seat at the table during editorial conversations.
 

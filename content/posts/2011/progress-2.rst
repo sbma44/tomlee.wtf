@@ -9,4 +9,4 @@ progress
 :url: 2011/12/29/progress-2/
 :private: true
 
-
+http://www.youtube.com/embed/bLlXz5oCYHc

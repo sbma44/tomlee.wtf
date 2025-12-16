@@ -53,114 +53,6 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2014/08/22/building-artificial-minds-is-going-to-be-the-most-important-thing-our-species-ever-does/">building artificial minds is going to be the most important thing our species ever does</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2014-08-22T14:25:00-04:00">Friday, 22 August 2014</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">B</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>And you shouldn't let anyone tell you otherwise!</p>
-<p>I'm prompted to write this by my friend Tim Lee's new piece on Vox: <a class="reference external" href="http://www.vox.com/2014/8/22/6043635/5-reasons-we-shouldnt-worry-about-super-intelligent-computers-taking">Will artificial intelligence destroy humanity? Here are 5 reasons not to worry.</a> It is characteristically smart, but I disagree with most of it.</p>
-<p>Tim's first and second points concern the difficulty of interfacing artificial minds with the physical world. This is accurate, but decreasingly so. The internet now provides programmatic means by which I can command a huge variety of commercial activity (Amazon, Uber, Push for Pizza); puts most of the people on Earth within easy communication range (email, SMS, POTS); and, in rich countries, is increasingly connected to ubiquitous telemetry (traffic cams, fitbit, mobile phone location trackers).</p>
-<p>Progress in robotics seems to be accelerating, and is still temporarily constrained by discontinuities between the field's capabilities and its market size. There are only so many buyers for automotive welding robots and <a class="reference external" href="https://www.youtube.com/watch?v=W1czBcnX1Ww">creepy robot dogs</a>, after all. The consumer market is currently mostly about robot vacuum cleaners that sort of work. But we're on the cusp of ubiquitous robot cars, and it seems plausible that geriatric caregiver bots will be viable in my lifetime. If a machine intelligence has a strong desire to interact with the real world (which it might not), it's hard to imagine the physical interface remaining a substantial obstacle for much longer.</p>
-<p>The third bullet is the meatiest, but also runs into the most problems:</p>
-<blockquote>
-<p>Digital computers are capable of emulating the behavior of other digital computers because computers function in a precisely-defined, deterministic way. To simulate a computer, you just have to carry out the sequence of instructions that the computer being modeled would perform.</p>
-<p>The human brain isn't like this at all. Neurons are complex analog systems whose behavior can't be modeled precisely the way digital circuits can. And even a slight imprecision in the way individual neurons are modeled can lead to a wildly inaccurate model for the brain as a whole.</p>
-</blockquote>
-<p>Yes, neurons are complex. But their behavior seems to be computable in a <a class="reference external" href="http://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis">Church-Turing</a> sort of way. You can consider digital music playback as an analogy. Music exists as a continuous and extremely complex transformation of air pressure. It is very dissimilar to how digital circuits work. But those circuits can operate so quickly that trains of on/off pulses can recreate an arbitrary piece of music perfectly. So it is, plausibly, with neurons.</p>
-<p>Although brains are very complex mechanisms, it is overwhelmingly likely that you can strip out much of their functionality without any impact on their computational capacity. Most of the cells in the brain are glia, responsible for things like immune function, garbage collection and building myelin sheaths. As far as anyone knows they're just there for biological support. How abstract can you make your model's neurons before they lose any hope of spawning a mind? Nobody knows. Neurons actually <strong>are</strong> weirdly computerlike, in that an action potential firing down an axon is an all-or-nothing event. But the threshold excitation that triggers firing is manipulated in lots of subtle ways (both temporarily and over longer time periods), and no one knows how many will have to be simulated or how accurately. Still, you can certainly perform recognition tasks with highly stylized approximations of neurons.</p>
-<p>It's also not clear that we need a particularly accurate simulation of the brain to create a mind. Tim:</p>
-<blockquote>
-<p>A good analogy here is weather simulation. Physicists have an excellent understanding of the behavior of individual air molecules. So you might think we could build a model of the earth's atmosphere that predicts the weather far into the future. But so far, weather simulation has proven to be a computationally intractable problem. Small errors in early steps of the simulation snowball into large errors in later steps. Despite huge increases in computing power over the last couple of decades, we've only made modest progress in being able to predict future weather patterns.</p>
-<p>Simulating a brain precisely enough to produce intelligence is a much harder problem than simulating a planet's weather patterns. There's no reason to think scientists will be able to do it in the foreseeable future.</p>
-</blockquote>
-<p>It's really hard to predict the <em>exact</em> sequence of a <em>particular</em> weather pattern. But modeling a <strong>plausible</strong> weather pattern is pretty easy. And neural systems seem to be able to operate in a really huge variety of configurations. Not only is every person's (presumably) conscious brain different, but they keep operating in mindlike ways after suffering severe alterations to their performance characteristics. Drugs! ALS! Concussions and lesions! <a class="reference external" href="http://en.wikipedia.org/wiki/Anterior_temporal_lobectomy">Lobectomies, for pete's sake!</a> Not to mention the seeming likelihood of many or most animals having substantial phenomenal experience despite wildly varying biologies. Once we figure out how to do it, there will probably be a considerable fudge factor in building minds.</p>
-<p>Tim's fourth argument concerns the importance of human relationships. This is fair: there's good reason to think human social behavior is one of our most evolved and convoluted systems, and one that a machine might have a hard time figuring out quickly. But although our behavior is complex it's also fairly predictable--we have already systematized a surprisingly large amount of this knowledge in fields like marketing and political campaigning. There's every reason to think that a machine intelligence that's immune to fatigue, moodiness, territoriality, jealousy and other human social impairments could master relationship-building.</p>
-<p>Tim's final point is an argument about the falling value of intelligence in a world where superintelligent machines proliferate. I'm not sure it makes a ton of sense to treat cognition as a simple commodity, but even if it does, this ignores the potentially trivial relative value of human minds in such a world.</p>
-<p>It's important to remember just how lousy our neural hardware is. When a neuron fires, it does so by opening channels along its axon, which allows an uneven gradient of sodium and potassium ions (maintained by a ceaseless cellular pump) to equalize between the inside and outside of the cell. This opens up adjacent channels, flowing down the length of the axon, stimulating the release of neurotransmitters at its synapses. The whole thing takes about a millisecond, which is several million times slower than a transistor. That our brains work despite this sluggish mechanism is a testament to the power of parallel computation, of course. And neurons perform analog operations (summing excitation, for instance) that would require many transistor switchings to simulate. And there are about twenty billion neurons in the human brain.</p>
-<p>So simulation isn't easy, exactly. But if a workable hardware configuration can be found, one can imagine scaling scenarios that transcend biological limits on sentience very quickly indeed. If your neurons had the switching performance of contemporary transistors, you could plausibly experience two lifetimes in an hour. You'd also be able to throw away a bunch of subsystems devoted to autonomic processes and other unnecessary biological and social functions, simplifying the problem further.</p>
-<hr class="docutils" />
-<p>I have no idea if we'll build machine intelligences. I think it's pretty likely that consciousness is an epiphenomenon free-riding on top of a powerful neural network, and that some aspect of causally isolated panpsychism is a basic component of the universe. But there's a mystic in me that wants the real source of our minds to retreat away from our plausible guesses.</p>
-<p>I think he'll be disappointed, though. If we do create a thinking machine, it's hard to imagine what it will want or do. It will be designed by our hands, not by evolutionary processes. So I don't think there's any particular reason to expect it to want to reproduce or grow or consolidate power or even avoid death. Perhaps it will have no volition at all.</p>
-<p>But if it does constitute a conscious being in a way that we can relate to, I think we should expect to be surpassed by it pretty quickly. Whether that presages extinction, irrelevance or transcendence, I couldn't say. But it's certainly going to be a big deal.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2014/06/30/arduino-class-notes/">arduino class notes</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2014-06-30T15:09:00-04:00">Monday, 30 June 2014</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">A</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>For the last four weeks I've been teaching an Intro to Arduino class at Sunlight. It's been fun! I'm hopeful that the participants have gotten a new hobby out of it. Being able to translate your software skills into the physical world isn't exactly sorcery, but it's the next best thing.</p>
-<p>The notes are available at the links below. And <a class="reference external" href="https://github.com/sbma44/arduino_class">the class Github repository can be found here</a>.</p>
-<ul class="simple">
-<li><a class="reference external" href="https://docs.google.com/presentation/d/1yYfUaWrnBj0mRdrw2Uqsf5R60zRw_ESvd8ALJlcwh8s/edit?usp=sharing">Lesson 1 - Digital Output</a></li>
-<li><a class="reference external" href="https://docs.google.com/presentation/d/1CWVHlpxCbt6r7GCFX95Dhw0FgfpoAQ3FLUMBNEgltlE/edit?usp=sharing">Lesson 2 - Digital Input</a></li>
-<li><a class="reference external" href="https://docs.google.com/presentation/d/1vPP5Um6v-PH0S9RmA1nb8KTqyDUe6FvZ6uJJwW-BkO0/edit?usp=sharing">Lesson 3 - Serial Communication</a></li>
-<li><a class="reference external" href="https://docs.google.com/presentation/d/1v44Z1UK2zNZAmFxzXQR1lURL2bSF0jxj5dahmTNXYXc/edit?usp=sharing">Lesson 4 - Analog Input/Output</a></li>
-<li><a class="reference external" href="https://docs.google.com/presentation/d/1hG8qm2u_oSdwhisx1egNyJrW7o34sUsDUPmqTvNluCo/edit?usp=sharing">Lesson 5 - What To Buy For Your New Hobby</a></li>
-</ul>
-<p>It's safe to say that this curriculum isn't too different from other Arduino classes. The extent to which it relies on the sample code that ships with the Arduino IDE is proof enough of that. But in my experience the hardest-won pieces of knowledge in any technical hobby are the bits of folk knowledge that don't rise to the level of Timeless Principle. What vendors have the best deals? What's the name of that kind of connector? Which stuff do I <em>really</em> need to know, and which stuff is just there because the instructor thinks it's good for me?</p>
-<p>I tried to focus on these questions in the notes attached to these slides. Hopefully you'll find them useful! Based on student response, I think that lesson 3 needs some touch-up work for non-Python users, but otherwise they're probably in pretty okay shape.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2014/06/02/advice-for-an-aspiring-programmer/">advice for an aspiring programmer</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2014-06-02T18:07:00-04:00">Monday, 02 June 2014</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">A</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Last week we interviewed a candidate who we really liked but who was much too green. He asked for some advice, so here's what I wrote -- might as well put it online. Hopefully it's a little more specific and opinionated than these things tend to be.</p>
-<hr class="docutils" />
-<p>It was a real pleasure to meet you, but your instincts are right: at this point we have to invest in people with a bit more experience under their belts. I do want to stress, though, that your enthusiasm and interest in software engineering came through clearly, and made us all enthusiastic about the developer you will no doubt become.</p>
-<p>Toward that end, let me offer a little more advice than I usually put into these sorts of emails:</p>
-<ul class="simple">
-<li>Pick a technology and invest time in it. There is tremendous value to understanding the repetition of patterns across engineering domains, but you need to gain deep expertise in one before you can do so effectively.</li>
-<li>I'll be more specific: pick one of these technologies -- Ruby, Python, Node/Javascript. All have vibrant open source communities from which you can learn a lot for free. All have bustling job markets. All have bindings in a huge variety of domains. All are abstract and widely supported and will spare you many of lower-level languages' headaches. All have robust web frameworks. Personally, I'd suggest Python, because it is the most stable and widely supported. It's everywhere-- it is Google's noncompiled language of choice, for instance, and widely used in scientific computing and a huge number of other areas. But its community is less fun and accessible than the others, and it's more sedate. The others will take you on a wilder ride, but you will probably have to learn things a few times as the community changes its mind about how to solve a problem. This is extra true for Node and less so for Ruby -- which reflects each community's age.</li>
-<li>There is a premium for mobile dev work, but I wouldn't invest in that right now because it's too specialized to be a great way to learn. Also iOS will be in turmoil thanks to Swift, and Java dev is a drag outside the genuinely-exciting opportunities of Android.</li>
-<li>Focus on the web and the key tasks associated with it. Skim the topics that other languages' web frameworks cover -- they all solve the same problems in slightly different ways. Invest a little time in learning jQuery -- being able to build out web templates is a very plausible starter job, and one you can get good at fast. Also, make a point of learning regular expressions and the network libraries and functions necessary for using APIs.</li>
-<li>You do not need to know much about data structures, compiler design, sorting algorithms, recursion or most of the other things that they teach you in a CS program.</li>
-<li>Microsoft technologies can earn you money but will never fully integrate with the world of open source software, which is where the best engineers and most exciting projects exist. I have written Visual Basic for a living; I don't think you should write any more of it. The .NET frameworks are okay but basically a less-open version of Java. Everyone hates Java.</li>
-<li>I wrote PHP for many years professionally and still think it is a cheap, useful tool. It gets zero respect in programming circles, though -- I would not suggest spending more time learning it until/unless you have mastered something more prestigious and just want it for quick personal projects.</li>
-<li>You should probably learn with a good text editor (but not an IDE) and the command line as your primary tools. On OS X I like Sublime Text 2. Speaking of which: you should be developing on OS X or Linux (people around here tend to favor Ubuntu or Mint). If you're on Windows now this will be painful, but you will never fully connect with the open source world and its idioms unless you get used to the *nix command line interface.</li>
-<li>There is no substitute for working with engineers who are better than you are. This is tough until you get yourself hired somewhere, though! On the far end there are code bootcamps, but those cost money. On the near end there are technical meetups -- shop around and find one that seems technical enough to teach you things. Contributing to open source projects is a good idea, too --&nbsp;<a class="reference external" href="http://sunlightfoundation.com/blog/2014/05/13/why-weve-collected-a-hojillion-inspector-general-reports/">writing an IG scraper for Sunlight might be an approachable task</a>&nbsp;(he said selfishly). Online tutorials can take you a long way if you put in the time.</li>
-<li>Get active on Github! Follow how people like Eric Mill (&#64;konklone) and Tom Macwright (&#64;tmcw) and Josh Tauberer (&#64;govtrack) do their work. Recognize that filing tickets is a valid way to contribute, as long as they are well-informed. It doesn't have to all be pull requests.</li>
-<li>Master the art of googling for error messages. Using search engines, Stack Exchange, mailing lists and IRC properly to uncover unknown answers is maybe the most important skill in real-life programming.</li>
-<li>Once you identify superstar programmers, follow them on Twitter or their blogs. The writing of people like Ian Bicking will get you familiar with the cultural context surrounding your programming language of choice. Speaking of which: conferences can be pricey but once you're ready they can be a really good way to learn -- if you pick the right one. Pycon is excellent. I know less about the other languages' marquee cons.</li>
-<li>Spend some time reading about diversity in technology. The situation is not good, and a lot of people are working very hard to change it. This is a huge topic of discussion right now and you need to be able to talk about it intelligently.</li>
-<li>If someone mentions linked data or the semantic web and they have never held a job at Google, assume they are about to waste your time.</li>
-</ul>
-<p>There! I think that's all the advice I can come up with for someone in your shoes. Ask me questions when you have them. And good luck.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2014/05/20/the-thing-about-the-internet-of-things/">the thing about the Internet of Things</a>
                     </h2>
                     <div class="entry-meta">
@@ -772,6 +664,93 @@ Web traffic to the vote pages finally peaking, ending 16 days of profit.— Josh
 <p>And this is to say nothing of the <a class="reference external" href="http://www.washingtonpost.com/blogs/wonkblog/wp/2013/10/07/this-cancer-patients-treatment-is-on-hold-because-of-the-government-shutdown/">cancer patients who had to delay treatment</a>, or <a class="reference external" href="http://www.sltrib.com/sltrib/politics/57003062-90/state-utah-million-national.html.csp">the people on SNAP and WIC who faced the very real prospect of going hungry</a> because of Washington's preening.</p>
 <p>It's not that I think we should be ashamed, exactly. I'm genuinely proud of the work that I and my colleagues did during the shutdown. People wanted the information we provided. We think it's important, and we'd have been fools not to respond to a sudden surge of public interest in the mission we pursue every day. I think that every non-legislator mentioned above should be proud of the work they did, too. I was disgusted by this crisis, and I said so, but I couldn't stop it--none of us could.</p>
 <p>But it's worth owning up to the fact that the incentives within the D.C. media-nonprofit-industrial complex are terrible. <a class="reference external" href="http://business.time.com/2013/10/16/sp-says-government-shutdown-cost-economy-24-billion/">S&amp;P says this escapade wasted $24 billion</a>. We have to stop doing this. Removing these processes from the realm of human theatrics, gossip and competition will be a necessary component of that change. Mostly, that means getting rid of the debt ceiling and electing better legislators. But part of it might also be about having less fun.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2013/09/23/humblebrag/">#humblebrag</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2013-09-23T11:35:00-04:00">Monday, 23 September 2013</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">#</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Or not, whatever. <a class="reference external" href="http://www.budget.senate.gov/democratic/index.cfm/committeehearings?ContentRecord_id=2c940932-ad2f-45ab-8df1-88de0d523a07&amp;ContentType_id=14f995b9-dfa5-407a-9d35-56cc7152a7ed&amp;Group_id=d68d31c2-2e75-49fb-a03a-be915cb4550b">This was a thrill for me</a>, and my colleague Nicko was kind enough to make me a GIF, so I'm sticking the links here for posterity.</p>
+<p><a class="reference external image-reference" href="/static/2013/09/tomlee-testimony.gif"><img alt="tomlee-testimony" class="aligncenter size-full wp-image-2607" src="/static/2013/09/tomlee-testimony.gif" style="width: 311px; height: 176px;" /></a></p>
+<p>I need to add, though, that although I have worked on these issues first-hand and know a bit about them, my knowledge absolutely pales in comparison to that of my current and former colleagues Kaitlin Devine, Drew Vogel and Kevin Webb. They deserve credit for what I think is <a class="reference external" href="http://sunlightfoundation.com/clearspending">the best, deepest and most sustained work on federal spending data quality</a> that's been done by anybody. And none of us would know how to make that expertise relevant to the people who can fix these problems without Sunlight's helpful, friendly and frighteningly smart policy team.</p>
+<p><a class="reference external" href="http://www.flickr.com/photos/senatormarkwarner/sets/72157635624395455/">Additional not-that-flattering photos available here</a>.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2013/09/10/the-new-iphone-is-bad-news-for-the-quantified-self-movement/">the new iphone is bad news for the quantified self movement</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2013-09-10T13:13:00-04:00">Tuesday, 10 September 2013</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">T</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Ashkan tweeted that the new iPhone will have a Fitbit-style accelerometer, enabling (presumably) Fitbit-style applications:</p>
+<blockquote>
+<p>IPhone5S now has M7 (fitbit style) sensor so app makers can track user's activities -- i.e number of steps taken <a class="reference external" href="http://t.co/wIzIU5FRCv">http://t.co/wIzIU5FRCv</a></p>
+<p class="attribution">&mdash;ashkan soltani (&#64;ashk4n) <a class="reference external" href="https://twitter.com/ashk4n/statuses/377490051779006464">September 10, 2013</a></p>
+</blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p><p>Tell me if this is crazy:</p>
+<div class="line-block">
+<div class="line">* Software is a more competitive market than hardware.</div>
+<div class="line">* Standardizing accelerometer hardware (assuming Android device makers hop on board, too) will gut the market for devices like Nike Fuel, Fitbit, etc.</div>
+<div class="line">* There'll be much stronger demand from consumers for data portability across services/interfaces/apps.</div>
+<div class="line">* All of this means thinner profit margins for fitness tracking firms.</div>
+<div class="line">* A smaller pie means less hype (this is the one I'm least sure about)</div>
+</div>
+<p>Maybe this isn't bad news -- it depends on your perspective and hopes for QS. More people will be using these pedometers, after all. It's just that it'll be clearer that they're pedometers.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2013/08/14/tessel-arduino-raspberry-pi/">Tessel, Arduino, Raspberry Pi</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2013-08-14T23:04:00-04:00">Wednesday, 14 August 2013</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">T</div>
+                </header>
+
+                <div class="entry-content">
+                    <p><a class="reference external" href="https://twitter.com/konklone/status/367787595427622912">Eric asked me what I think of the Tessel</a>! Well, sort of. Anyway I find myself delighted to have semi-informed thoughts about hobbyist microcontroller-y solutions. It's a pleasant byproduct of all the time I've spent on silly electronics projects over the last decade, and makes me feel better about my own perpetually-dawning software senescence.</p>
+<p>But so: the Tessel. Will it succeed? Is it worthwhile? You can read about it <a class="reference external" href="http://technical.io/">here</a> but the important details are that it's got wifi and a bunch of <a class="reference external" href="http://en.wikipedia.org/wiki/General_Purpose_Input/Output">GPIOs</a> and its development environment is built around Javascript -- so much so that it can allegedly run many many node.js packages!</p>
+<p>That's all potentially interesting, but its odds of success can't be understood outside of the environment it enters. So let's talk about the two gorillas in the hobbyist space: Arduino and Raspberry Pi.</p>
+<p><a class="reference external" href="http://www.raspberrypi.org/">Raspberry Pi</a> is a really cheap Linux computer with 256 MB of RAM. Like, $25 cheap. No onboard wifi -- it'll cost you another $10 to add ethernet (and double the RAM), or about the same for a USB wifi adapter. But it's a pretty capable little system! There are some GPIOs, but not that many, and they're not that robust, and there's only one hardware PWM output, which is annoying if you know what that means. It's also not open source. Still, it's a genuine Linux system, which makes it able to harness an&nbsp;<em>immensely</em> powerful library of software. And its makers&nbsp;seem to have a sweetheart deal with Broadcom that enables their price point.</p>
+<p><a class="reference external" href="http://arduino.cc/">Arduino</a> is a friendly microcontroller environment, and I should probably explain what that means. A microcontroller (uC) is a little computer -- so little that it suffers really serious limitations. For instance, it'll usually have less than 1MB of memory, and it'll run thousands of times slower than your laptop CPU, and it'll only be able to manipulate integers and have no video output or keyboard input. Pretty sad! On the other hand, it only costs a couple of bucks. And this list of capabilities isn't too dissimilar to, say, the videogame systems you had growing up (if you're as venerable as me, anyway).</p>
+<p>The cheapness of uCs mean they can be singleminded. Your computer is doing a ton of things all the time. Its most fundamental pieces of software decide how to split up processor time between those things, like a library of fantastically complicated clockwork systems that need to be cranked forward, one at a time, by one very spritely curator. The curator has pretty good instincts about how to manage her charges, but sometimes she remembers it's time to rebuild your search index or sync your system clock or check for Chrome updates or whatever, which means everything else might not get her attention right when you expected it would.</p>
+<p>This is mostly fine, but it doesn't work very well when you need extremely precise timing. Everything is&nbsp;<em>so fast</em>&nbsp;that it's mostly still pretty precise (and you can pursue some <a class="reference external" href="http://en.wikipedia.org/wiki/RTLinux">ridiculous hacks</a> to make it more precise still). But when you're dealing with the real world, or finicky electrical systems, the need for very precise timing comes up more often than you'd think.</p>
+<p>Microcontrollers are pretty good for this kind of thing. They can just sit there running one program because they're so cheap. The curator's attention is undivided; her behavior is predictable.</p>
+<p>Arduino isn't actually a chip, it's a development and deployment environment wrapped around a particular family of chips made by Atmel. It makes it a&nbsp;<em>hell</em> of a lot easier to write code for those chips. Even that comes at a cost. My <a class="reference external" href="/2012/01/02/ok-this-is-the-last-led-christmas-lights-video/">dumb Christmas lights</a> require communication in 10 microsecond pulses (rather pokey as these things go). But if you look at the &quot;Timing&quot; section of <a class="reference external" href="http://www.codeproject.com/Articles/279657/Simulating-and-controlling-GE-Color-Effects-Lights">this post you'll</a> see that to fake a 10-ish microsecond delay on Arduino you need to tell it to delayMicroseconds(3) or delayMicroseconds(4) depending on the Atmel chip. The Arduino environment introduces overhead -- it's a bit finicky. Still! The Arduino is&nbsp;<em>much</em>&nbsp;better about this stuff than the Raspberry Pi.</p>
+<p>(In the real world, sophisticated processors deal with applications that require precise timing requirements by speaking to microcontroller-like chips that handle their responsibilities precisely, but which can also speak to the main processor in a relatively timing-insensitive manner. Your sound card -- or, more likely, the part of your processor that used to be a distinct component called a sound card -- is a good example. Some of my current projects use a Raspberry Pi to speak to an Arduino to speak to an <a class="reference external" href="http://www.ti.com/product/tlc5940">LED controller chip</a>, which is less silly than it probably sounds.)</p>
+<p>So! Enough preamble. Where does the Tessel lie on this continuum?</p>
+<p>I think it's almost certainly going to be more Pi-like than Arduino-like. The fact that it's Javascript-focused is notable (though it's also worth noting that <a class="reference external" href="http://beagleboard.org/Support/BoneScript">the BeagleBone -- a Raspberry Pi precursor -- also pushes a JS-first approach</a>). It's a testament to the shockingly widespread impact of the V8 engine on our technical culture -- one of the many genuinely unselfish things that Google has given to the world. &nbsp;We'll have to remember this when they're forcibly uploading our brains a few years from now.</p>
+<p>Could the Tessel run a Javascript environment in some incredibly constrained manner that allows for precise, uC-like timing? Eh. Maybe? It seems pretty unlikely to me, particularly given all the general-purpose node.js packages that it claims to support. If you want a high level of precision, you need to know about and account for everything the system is doing. That means you can't work at a particularly high level of abstraction, as the Arduino example above hopefully demonstrates. You probably need to write assembly or C, not an interpreted language like JS that passes through a black box of voodoo optimizations. This is particularly true for an environment like node.js that emphasizes asynchronous approaches with somewhat unpredictable timing (says the guy who's never written any node.js code).&nbsp;And even if that sort of thing were easy to do in node, all those package authors would not have done it, since the Tessel didn't exist when they did their work.</p>
+<p>It seems most likely that the Tessel will be a stripped down *nix environment (the Tessel's processor is a cheaper installment from the <a class="reference external" href="http://www.ti.com/product/am3358">same ARM family that powers the BeagleBone</a>). But it'll only have 32 MB of RAM! You can run a <a class="reference external" href="https://openwrt.org/">tiny OS</a> in that -- <a class="reference external" href="/2008/03/26/dorkbot-dc-arduino-meet-fonera/">I've done it plenty</a>. But it's going to suck in various ways. And I'm not really convinced it's going to be cheaper than the much more capable $25 Raspberry Pi.</p>
+<p>The Arduino, meanwhile, <a class="reference external" href="http://www.radioshack.com/product/index.jsp?productId=12268262">is waiting at your neighborhood Radioshack for $30</a>, and&nbsp;<a class="reference external" href="http://www.ebay.com/sch/i.html?_odkw=arduino&amp;_osacat=0&amp;_from=R40&amp;_trksid=p2045573.m570.l1313.TR10.TRC2.A0.Xiduino&amp;_nkw=iduino&amp;_sacat=0">Chinese clones can be easily had for $7</a> or <a class="reference external" href="http://www.instructables.com/id/The-RRRRRRRRRRBA-or-What-They-Dont-Teach-You-in-/">less</a>.</p>
+<p>The Tessel, I think, aims to land between Arduino and the Pi. And that's not crazy. Making this stuff more accessible is really worthwhile! Building a lovely little network-capable platform with handy modular sensors and helper libraries is worthwhile! Getting an Arduino online is terrible and expensive, and the Raspberry Pi's universe of <a class="reference external" href="http://arduino.cc/en/Main/ArduinoShields">shields</a> is still a bit underwhelming. There is good work yet to be done.</p>
+<p>But both of those projects are hugely popular. You shouldn't underestimate how important those network effects are. I spent a ton of time on BeagleBone, then gave up. Other than price, it is a much better platform than Raspberry Pi: it's fully open, has more GPIOs and a better processor. But people got&nbsp;<em>so excited</em> about the Pi, thanks in large part to the enormous publicity it attracted. Seemingly overnight I could pick from&nbsp;<a class="reference external" href="http://learn.adafruit.com/category/learn-raspberry-pi">a million awesome tutorials penned by brilliant people eager to figure stuff out for me</a>. Same goes for Arduino.</p>
+<p>Could Tessel carve out a new niche? Sure. I think it'd have to offer something new, though, and I'm not sure it does. The Tessel looks nice, but it's probably not going to be cheap enough or offer enough additional utility over established platforms to become a huge success. You can run node.js on a Pi, after all.</p>
 
                 </div>
             </article>
