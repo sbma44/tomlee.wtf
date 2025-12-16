@@ -53,6 +53,32 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2012/05/08/noncommercial-and-good-arent-the-same/">'noncommercial' and 'good' aren't the same</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2012-05-08T11:22:00-04:00">Tuesday, 08 May 2012</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">'</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Matt <a class="reference external" href="http://www.slate.com/blogs/moneybox/2012/05/08/paul_boutique_sampling_and_the_law.html">makes a point</a> that more people in the free software space should learn to appreciate:</p>
+<blockquote>
+Another issue raised in comments is the idea that a &quot;fair use&quot; by definition can't be commercial. I was glad to see someone raise this point if only because I do wish we could re-inject more life into the commerce/non-commercial distinction for broad copyright purposes. But my goal would be to use the distinction to raise the scope of tolerated non-commercial copying, not to narrow the scope of allowable commerce. Commerce is a legitimate and important human undertaking, and the goal of copyright law should be to facilitate useful commerce. That includes preventing large-scale commercialized digital copying, but I think also means allowing commercialized sampling, quoting, and repurposing of existing material.</blockquote>
+<p><a class="reference external" href="http://sunlightfoundation.com/blog/2012/05/02/defending-the-big-tent-open-data-inclusivity-and-activism/">I made a somewhat similar point recently when talking about open data</a>:</p>
+<blockquote>
+[...] I think it’s flatly wrong to consider private actors’ interest in public data to be uniformly problematic. We should be clear: we won’t tolerate those interests’ occasional attempts to lock public data into exclusive monopolies. I think our community has done a&nbsp;<a class="reference external" href="http://www.globalintegrity.org/blog/bank-responds-to-google-maps-deal">pretty good job lately</a>&nbsp;of identifying such situations and stopping them, and of course people like&nbsp;<a class="reference external" href="http://boingboing.net/2012/03/19/liberating-americas-secret.html">Carl Malamud</a>&nbsp;have been doing important work on this question since well before most of us ever heard of &quot;open data.&quot; But if commercial activity is enabled by data, that’s all to the good—the great thing about digital information is that scarcity doesn’t have to be a concern. Google Maps’ uses of Census TIGER data, for instance, is proprietary, motivated by profit, and unquestionably a huge boon to human welfare. And&nbsp;<a class="reference external" href="http://www.census.gov/geo/www/tiger/">the source data remains free for anyone else to use</a>! Cutting off those kinds of uses with noncommercial licensing would be nothing more than a destructive act of pique.</blockquote>
+<p>This really came into focus for me when I was in Berlin for a conference run by the good folks at the <a class="reference external" href="http://okfn.org/">Open Knowledge Foundation</a>. I admit that before I stopped to think about it, I never found noncommercial licenses that problematic, and would casually throw them on material I produced on the web. That way our vaguely-defined communal web society (so pure and untainted by the profit motive!) could use it, but &quot;they&quot; wouldn't benefit from my hard(?) work tagging photos on Flickr. Honestly, this was dumb. I was never going to put in the time to try to make money off of those photos. If someone else could do the work to make them useful to others, why begrudge them that opportunity?*</p>
+<p>I wouldn't go as far as Matt about the goal of copyright law being to facilitate commerce (this formulation seems to ignore the kind of deadweight losses that Matt's writing about IP is usually about). &nbsp;But he's right about commerce being a &quot;legitimate and important human undertaking.&quot; &nbsp;Certainly the private sector is capable of excesses, but it's also an incredible tool for identifying and satisfying human needs. We shouldn't resent it out of some sort of ideological tribalism -- particularly when we're discussing digital goods, where things are rarely zero-sum and where (with apologies to Julian and Kash) the negative externalities (Mark Zuckerberg can infer your sexual preferences) are less severe than those found in the physical world (the chemical plant next door means your baby was born with fins).</p>
+<p>* I should acknowledge that this is just a for-instance. As there's very occasionally a market demand for unflattering photos of some of my friends by ideological press outlets, I've elected to keep somewhat restrictive licensing on my meager photographic output. But in less problematic cases -- the code I put on GitHub, for instance -- I've moved to open, nonviral licensing.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2012/04/26/sexism-is-a-problem-brogramming-is-not/">sexism is a problem; brogramming is not</a>
                     </h2>
                     <div class="entry-meta">
@@ -478,67 +504,6 @@ There's vast amounts of databases, real-world data, and video that remains unind
 <p><a class="reference external" href="https://github.com/sbma44/cheerlights-arduino-python">If you have any use for this code, you can find it here</a>. For me, there are two challenges remaining: creating some interesting animations, and connecting a second string to the Arduino.</p>
 <p>This latter issue is a bigger problem than you might think: the lights' address space is only 6 bits -- too small to simply connect the two strings together and retain the ability to control individual lights (bulbs can share addresses, but I'd rather not do that). So the two strings need to be treated as individual entities. That's easy enough on the Arduino side. But the Arduino is going to live at one end of this double-string, not in the middle. That means that the signal to the far string will have to be transmitted along the length of the near string. This is too much distance for a fast serial connection to traverse without being spread out into illegibility.</p>
 <p>The solution, I'm told, is to shift the serial signal to RS-422, a higher-speed and more ethernet-like standard, then back to serial at the light string (it will travel along a twisted pair of conductors that I'll run along the already-too-heavy first string). I have the chips to do this, and it all *looks* pretty simple. Fingers crossed...</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2011/12/21/well-that-was-much-harder-than-it-needed-to-be/">well, that was much harder than it needed to be</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2011-12-21T00:16:00-05:00">Wednesday, 21 December 2011</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">W</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>I just spent some time banging my head against this problem; let me save people wandering in from Google similar trouble.</p>
-<p>So: you're trying to use pySerial to speak to your Arduino. It's not working. Or sometimes it is, but only when you have the Arduino Serial Monitor window open! This makes no sense.</p>
-<p>Here's the deal: the Arduino's fancy &quot;you can flash new programs onto me without pressing my reset button!&quot; functionality works by resetting the damn thing whenever a new serial connection is made. With the serial monitor open, the connection's already open, so no reset happens and your script might actually work. When the monitor is closed, the Arduino resets when Python connects to it -- and the Arduino might still be busy booting up when your script begins shoving bits across the link.</p>
-<p>So! You can disable this auto-reset behavior (you'll have to ask the Arduino people about that), but it seems simplest to just make your python script long-running and wait patiently for a beat or two after opening the serial link. Here's a dead-simple example:</p>
-<div class="line-block">
-<div class="line">[cc lang=&quot;python&quot;]import serial, sys</div>
-<div class="line">from time import sleep</div>
-</div>
-<div class="line-block">
-<div class="line">SERIAL_PORT = '/dev/tty.usbmodem621'</div>
-<div class="line">SERIAL_RATE = 9600</div>
-</div>
-<div class="line-block">
-<div class="line">ser = serial.Serial(SERIAL_PORT, SERIAL_RATE)</div>
-<div class="line">sleep(2)</div>
-<div class="line">val = int(sys.argv[1])</div>
-<div class="line">ser.write(chr(val))[/cc]</div>
-</div>
-<p>Here's the Arduino sketch. It just blinks the LED on pin 13 however many times you sent as a byte (I'm working on sending binary-ish data over the serial link; hence the use of raw byte values):</p>
-<p>[cc lang=&quot;java&quot;]byte inByte = 0;</p>
-<div class="line-block">
-<div class="line">void setup()</div>
-<div class="line">{</div>
-<div class="line">Serial.begin(9600);</div>
-<div class="line">pinMode(13, OUTPUT);</div>
-<div class="line">}</div>
-</div>
-<div class="line-block">
-<div class="line">void loop()</div>
-<div class="line">{</div>
-<div class="line">if (Serial.available() &gt; 0) {</div>
-<div class="line">inByte = Serial.read();</div>
-</div>
-<div class="line-block">
-<div class="line">for(int i=0;i digitalWrite(13, HIGH);</div>
-<div class="line">delay(500);</div>
-<div class="line">digitalWrite(13, LOW);</div>
-<div class="line">delay(500);</div>
-<div class="line">}</div>
-<div class="line">}</div>
-<div class="line">}</div>
-<div class="line">[/cc]</div>
-</div>
-<p>There! That was irritating.</p>
 
                 </div>
             </article>
