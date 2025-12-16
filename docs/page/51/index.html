@@ -53,6 +53,26 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2007/03/31/success/">success</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2007-03-31T20:12:00-04:00">Saturday, 31 March 2007</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">S</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Antibiotics: acquired. Temperature: 101.5°. Dr. Akhigbe: a good man, and thorough.</p>
+<p>Actually, Dr. A was great. We talked about politics, he tested me for diabetes (for some reason) and he explained various interesting medical tidbits. And, of course, he did all of this on a Saturday. What a nice guy.</p>
+<p>The first two pills of my Z-pack are coursing through my veins as I type this, and I've got high hopes that I'll feel non-terrible tomorrow. Trenchant thoughts on net neutrality will hopefully commence then.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2007/03/31/the-right-man-for-the-job/">the right man for the job</a>
                     </h2>
                     <div class="entry-meta">
@@ -478,27 +498,6 @@ The new MIT research could lead to the development of optical brain prosthetics 
 <p>When they're not, they're generally homeless people with mental problems or young guys trying to assert their dominance in front of their friends. In those cases it's tough to know what the right note is to strike between friendliness, assertiveness and submission. Is it going to give offense or spark further engagement if I make eye contact, or if I fail to? In the case of the homeless, once I'm acknowledged as being okay how can I continue to be polite without getting sucked into a five-minute-long spiel about bus tickets that ends with me lying that I don't have any cash on me?</p>
 <p>Maybe I'm just a less friendly guy than I like to think, but there's a definite edge to these interactions. I don't think I can be blamed for not wanting to be scrutinized by strangers. I haven't done anything wrong, although I know that the fact of many other people like me doing the same not-wrong things is, in aggregate, doing harm to the city's long-time, poorer residents. But what can I do about it? And what can they do, other than stop me on the street and demand answers without asking a question?</p>
 <p>I don't mean to sit here and complain about being forced to interact with my fellow man. But I can't pretend to enjoy these little chats, either. Being confronted with a stranger's sadness and anger is uncomfortable, no matter how politely-expressed or justified it is.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2007/03/17/whoops/">whoops!</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2007-03-17T21:17:00-04:00">Saturday, 17 March 2007</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">W</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>I should've seen this one coming: I had a problem with my math in the similarity matrix stuff. I didn't think through the problem carefully enough, and failed to realize that a given representative might vote several times on a piece of legislation as various amendments and procedural votes come up. That resulted in a screwed-up data model, which resulted in taking dot products of vectors of variable length, which shouldn't have worked at all (Perl is apparently pretty forgiving about referring to variables that don't exist).</p>
-<p>It still <em>sort of</em> worked, as you can tell from the graph. But it wasn't accurate, and most of the CPU time I had spent so far went to waste.</p>
-<p>I think I've got it all sorted out, but I'll have to rerun all of those cosine comparisons (I've improved the algorithm's efficiency; it might take less than a day this time). But progress continues: I've also written the infrastructure for segmenting the votes by issue. I'll beat this goddamn thing yet.</p>
-<p>Things aren't helped by Sunlight's data being somewhat messy. Some voting histories have multiple vote-records that have identical bills numbers, descriptions and dates. The only thing that varies, in fact, is the value of the vote that's stored. That's pretty goddamn confusing, so I'm just using the one that the page's order implies to be chronologically first and hoping for the best.</p>
 
                 </div>
             </article>

@@ -53,6 +53,29 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2011/12/22/ge-color-effects-lights-logic-in-python/">GE Color Effects Lights logic in Python</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2011-12-22T19:36:00-05:00">Thursday, 22 December 2011</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">G</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>I've been playing with <a class="reference external" href="http://www.amazon.com/Color-Effects-Changing-Remote-Control/dp/B004A354B8">these holiday lights</a> recently. They're very neat: each bulb has RGB LEDs embedded in it and is individually addressable (albeit with only 4 bits of resolution per color channel). Some wonderfully talented folks have <a class="reference external" href="http://www.deepdarc.com/2010/11/27/hacking-christmas-lights/">reverse-engineered</a> the protocol that the light controller uses; <a class="reference external" href="http://scottrharris.blogspot.com/2010/12/controlling-ge-color-effects-lights.html">others have written Arduino code</a> making it possible to snip the light's control line, connect it to an Arduino, and begin programming your own animations. Still others are doing various <a class="reference external" href="http://blog.jgc.org/2011/11/turning-ge-color-effects-g-35-christmas.html">neat and unusual things</a> with the result. Personally, I just want to have some interesting light displays for New Year's.</p>
+<p>These other folks' work makes this possible, but not as convenient as it could be: developing new animation routines on the Arduino is a pain in the butt. To do so you write your code in the Arduino's irritating development environment, then flash it to the chip and hope that everything worked right. There's a small risk of damaging the lights, and a large chance of things going wrong.</p>
+<p>So! I wrote some bridge code that moves the light control logic into Python, which can run and be manipulated on a regular ol' computer. The state of the lights is then sent to the Arduino many times per second (though not as many as I'd like -- still, only about 1FPS slower than the string's theoretical max) and the Arduino dutifully updates the state of the lights. This should make development of animations easier, and make it simpler to trigger or modulate them in response to network events or other things that the computer can detect.</p>
+<p><a class="reference external" href="https://github.com/sbma44/cheerlights-arduino-python">If you have any use for this code, you can find it here</a>. For me, there are two challenges remaining: creating some interesting animations, and connecting a second string to the Arduino.</p>
+<p>This latter issue is a bigger problem than you might think: the lights' address space is only 6 bits -- too small to simply connect the two strings together and retain the ability to control individual lights (bulbs can share addresses, but I'd rather not do that). So the two strings need to be treated as individual entities. That's easy enough on the Arduino side. But the Arduino is going to live at one end of this double-string, not in the middle. That means that the signal to the far string will have to be transmitted along the length of the near string. This is too much distance for a fast serial connection to traverse without being spread out into illegibility.</p>
+<p>The solution, I'm told, is to shift the serial signal to RS-422, a higher-speed and more ethernet-like standard, then back to serial at the light string (it will travel along a twisted pair of conductors that I'll run along the already-too-heavy first string). I have the chips to do this, and it all *looks* pretty simple. Fingers crossed...</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2011/12/21/well-that-was-much-harder-than-it-needed-to-be/">well, that was much harder than it needed to be</a>
                     </h2>
                     <div class="entry-meta">
@@ -570,30 +593,6 @@ It seems far more likely that if he meant to distribute any JSTOR articles on a 
 <p>Maybe this is horribly consequentialist, but for me it really comes down to this: for several reasons it strikes me as deeply unwise to put our working legislators on a&nbsp;<a class="reference external" href="http://www.cleveland.com/open/index.ssf/2010/12/voinovich_spills_the_beans_sen.html">constant fundraising treadmill</a> (particularly given our legislative institutions' other tendencies toward&nbsp;<a class="reference external" href="http://sunlightfoundation.com/blog/2010/12/21/keeping-congress-competent-staff-pay-turnover-and-what-it-means-for-democracy/">self-lobotimization</a>). Yet that's where we've found ourselves. &nbsp;Efforts to untangle this problem quickly run afoul of speech rights. &nbsp;But the speech rights in question almost invariably belong to people who wield incredible financial, social and political power. &nbsp;What's more, the rights in question tend to be concerned with the amplification of those individuals' speech in forums that are not and will never be available to most people, rather than rights associated with getting one's message across some threshold of discoverability.</p>
 <p>My principled friends will be aghast, but the idea of trampling on that particular subset of super-speech rights bothers me basically not at all. &nbsp;Sure, I would prefer a solution to this dilemma that arrives in a neatly-packaged, internally consistent collection of philosophical and legal thought. &nbsp;But if I can't have that, I will be content with something that wades through the pragmatically-minded muck along with much of the rest of our system.</p>
 <p>(For the record, I would be happy to support a compromise that allows unlimited political contributions in support of speech that takes the form of&nbsp;<a class="reference external" href="http://ronpaulblimp.com/">blimps</a>)</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2011/06/18/some-probably-dumb-thoughts-about-the-tenability-of-campaign-finance-laws/">some probably dumb thoughts about the tenability of campaign finance laws</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2011-06-18T16:00:00-04:00">Saturday, 18 June 2011</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">S</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>There's no way to write this post without seeming like I'm just being a shill for my employer. And yet, as I write it, I need to be careful to point out that I am <em>not speaking on behalf of my employer</em>, and could easily get myself in trouble for posting it. Really, this is all downside for me.</p>
-<p>But in the last week a couple of friends have written posts that begin, more or less, with &quot;Given that campaign finance legislation is fundamentally incompatible with the first amendment...&quot; And look, yes, I know that this is, if not the legal status quo, then at least what awaits us at the bottom of the legal slip and slide that our juridical institutions are gleefully hurtling down. But let me be the lame parent worrying about what all this water will do to the lawn: I still don't buy that money is speech.</p>
-<p>It's probably necessary to look at this from a couple of angles. First, there's the case in which money is given to someone else in order to support that candidate or cause's speech. Our campaign finance laws remain relatively strong in this area, and understandably so: if it's not <em>my</em> speech, my speech rights aren't (as) relevant. Handing you a pen is not speech; neither is handing you a dollar to buy a pen.</p>
-<p>The situation is admittedly more difficult in cases where we're talking about restricting individuals' ability to spend on their own expressions when those expressions benefit particular candidates or political outcomes. In a theoretical sense, I get it. It's an intractable problem. That pen might amount to a precondition to self-expression for you, making it, from a practical perspective, indistinguishable from the act of expression itself. If we can't summon the political will to guarantee everyone access to pens, we can sure as hell not start drafting pen-control laws and asking Staples cashiers to enforce them (in the case of the FEC, this is a generous metaphorical comparison).</p>
-<p>I love philosophical abstractions as much as the next guy, but let's get real: most types of communication are cheap. <a class="reference external" href="http://www.opensecrets.org/pres08/expend.php?cycle=2008&amp;cid=n00009638">This is about broadcast media</a>. The money-in-politics discussion is about domination of a small number of more-or-less zero-sum distribution channels, most of which are subject to physical constraints that necessitate a high level of regulation. Your freedom to speak within these channels is already severely limited in both a <a class="reference external" href="http://transition.fcc.gov/eb/oip/">legal</a> and <a class="reference external" href="http://www.google.com/search?q=nbc+won't+air+ad">practical</a> sense.</p>
-<p>I think we ought to distinguish between advertising and speech. I think everyone's got a right to express what they believe and to see if it can convince others. I don't think the right to force your message in front of others' eyeballs is nearly so sacrosanct. It used to be pretty difficult to disentangle these two things, but every hour we spend marching deeper into the digital age makes the distinction clearer.</p>
-<p>Or so it seems to me, anyway. I'm not claiming that our existing set of campaign finance laws is coherent; I'm not claiming that engineering a legally defensible alternative would be easy (though I have some ideas, many of them admittedly involving a jackboot on the throat of television ad sales executives). But I do think that the conversation about money's role in politics needs to be tied more closely to a conversation about broadcast media's role in politics. Personally, I think the latter is both a huge waste of resources and a wellspring of perverse incentives for politicians and the electorate. And I don't think it deserves to hide within the aegis of rights that we quite correctly treat with reverence.</p>
 
                 </div>
             </article>

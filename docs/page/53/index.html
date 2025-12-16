@@ -53,6 +53,25 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2007/02/19/a-belated-valentine/">a belated valentine</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2007-02-19T18:20:00-05:00">Monday, 19 February 2007</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">A</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>I haven't put anything up since then, but better late than never: thanks to everyone who came out to Unbuckled on Thursday, especially those who bought me birthday drinks. I can't think of any way I would've rather celebrated — it was great.</p>
+<p>And thanks &amp; congratulations to Kyle and Amanda for putting the concert together. I'm consistently amazed that people I know manage to put together such great rock shows. Their ability to identify bands at the sweet spot between popularity and bookability; get people in the door; make them feel like they got their money's worth; and have the bands leave happy — well, it's impressive. And for sub-$10 shows, it's surprisingly rare.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2007/02/15/rock-show/">rock show!</a>
                     </h2>
                     <div class="entry-meta">
@@ -560,189 +579,6 @@ The first device was found under Interstate 93, and the state police bomb squad 
 <li>There's always TypeKey, MT's unified login solution. In my experience, it's <a class="reference external" href="http://www.dcist.com/archives/2006/01/04/typekeys_reign_1.php">terrible</a>. Admittedly, the situation at DCist was worse than normal because Gothamist's server architecture meant that comments had to be submitted across a few different domain names, which made TypeKey's cookies go crazy. But overall, I came away deeply unimpressed.</li>
 <li>Finally, there are a <a class="reference external" href="http://www.sixapart.com/pronet/plugins/plugin/closecomments.html">couple</a> of <a class="reference external" href="http://www.sixapart.com/pronet/plugins/plugin/conversation_ki.html">plugins</a> that will close comments on older entries. There are downsides — people wandering in from Google won't be able to leave their thoughts on your old entries — but if you don't mind them, it should help.</li>
 </ul>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2007/01/29/fighting-movable-type-comment-spam-part-3/">fighting movable type comment spam - part 3</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2007-01-29T00:16:00-05:00">Monday, 29 January 2007</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">F</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>We've made some good progress. In <a class="reference external" href="/2007/01/26/fighting-movable-type-comment-spam-part-1/">part one</a> I talked about how comment spammers operate and some theoretical ways to stop them. In <a class="reference external" href="/2007/01/26/fighting-movable-type-comment-spam-part-1/">part two</a> I offered a little more practical advice, providing a walkthrough on how to convert an MT site from static HTML pages to PHP and offering more specific instructions on how to hide where your comment script lives. I know that at least one person has seen a reduction in comment spam as a result, which makes me pretty pleased.</p>
-<p>Sadly, what we've covered so far isn't enough. Spammers will find your renamed mt-comments.cgi no matter how much Javascript you bury it under. If users can use the form, so can spammers. They'll find the new location of mt-comments.cgi sooner or later, and then we'll be back at square one.</p>
-<p>But what if mt-comments kept changing its location? We can write a script that renames the file every time it runs, then set it to run at a regular interval. That way even when a spammer manages to find it they'll only be able to send spam until the next time the script runs. It'll be great! There are a couple of problems with this approach, though:</p>
-<ol class="arabic">
-<li><p class="first">If the script runs while a user is composing a comment, when they hit submit the form will send its data to a version of mt-comments that no longer exists. That could be a major pain in the ass. Fortunately, there's a pretty simple solution: we'll just keep two copies of mt-comments around at a time, deleting old ones and adding new ones on a rolling basis. That way a user would have to keep their browser open for two script-intervals in order for their comment to be lost.</p>
-</li>
-<li><div class="first line-block">
-<div class="line">The bigger problem is how to let the site's comment forms know about the changing location of mt-comments.cgi. You might recall that Movable Type sticks these values into its templates with code that looks like this:</div>
-</div>
-<blockquote>
-<pre class="literal-block">
-action=&quot;&lt;$MTCGIPath$&gt;&lt;$MTCommentScript$&gt;&quot;
-</pre>
-</blockquote>
-<div class="line-block">
-<div class="line">That's fine in theory, but in practice it doesn't work out very well. That's because in order to update those values, Movable Type requires that you rebuild the site. That means we'd be recomposing every page on the blog every time the mt-comments script was renamed. Users wouldn't like the slowdown, and your webhost would get upset about the system resources that you'd end up hogging.</div>
-<div class="line">So instead we'll drop the &lt;$MTCGIPath$&gt;&lt;$MTCommentScript$&gt; nonsense and just use some PHP. That'll let us keep track of the mt-comments script in a single PHP file. When a comment form is loaded it'll read the file and use whatever it finds there. It'll be plenty fast and it won't require that any pages be rebuilt.</div>
-</div>
-</li>
-</ol>
-<p>So here's the script:</p>
-<blockquote>
-<pre class="literal-block">
-&lt;?php
-// CONFIGURATION
-$SECRET = 'mysecret';
-$MT_DIRECTORY = '/public_html/mt/';
-$WRITEABLE_DIRECTORY = '/tmp/';
-$ftp_info = array(
-'host' =&gt; 'ftp.yourwebhost.com',
-'user' =&gt; 'your_login',
-'password' =&gt; 'your_password',
-'port' =&gt; 21
-);
-// END CONFIGURATION
-if(isset($_GET[$SECRET])):
-// login, get mt-config.cgi
-$ftp = ftp_connect($ftp_info['host'],$ftp_info['port']) or die('Couldn\'t connect to FTP service.  Is your FTP info correct?');
-ftp_login($ftp,$ftp_info['user'],$ftp_info['password']);
-ftp_chdir($ftp,$MT_DIRECTORY);
-ftp_get($ftp,$WRITEABLE_DIRECTORY . 'mt-config.cgi','mt-config.cgi',FTP_ASCII);
-// retrieve the config file
-$handle = fopen($WRITEABLE_DIRECTORY . 'mt-config.cgi','r');
-$mt_config = fread($handle, filesize($WRITEABLE_DIRECTORY . 'mt-config.cgi'));
-fclose($handle);
-// split it up, process each line
-$mt_config = split(&quot;\n&quot;,$mt_config);
-$new_mt_config = '';
-$comment_script_current = 'mt-comments.cgi';
-$comment_script_old = 'mt-comments-old.cgi';
-$mt_cgipath = '';
-foreach($mt_config as $line)
-{
-$line = trim($line);
-if(preg_match('/^\s*CommentScript\s+(.*)/i',$line,$matches))
-$comment_script_current = $matches[1];
-elseif(preg_match('/^\s*#\s*OldCommentScript\s+(.*)/i',$line,$matches))
-$comment_script_old = $matches[1];
-elseif(!preg_match('/##### Added by mt\-rotate\.php #####/i',$line))
-{
-if(preg_match('/^\s*CGIPath\s+(.*)/i',$line,$matches))
-{
-$mt_cgipath = $matches[1];
-if(substr($mt_cgipath,-1)!='/')
-$mt_cgipath .= '/';
-}
-$new_mt_config .= $line . &quot;\r\n&quot;;
-}
-}
-$new_mt_config = trim($new_mt_config); // get rid of trailing newline chars
-// get mt-comments.cgi
-ftp_get($ftp,$WRITEABLE_DIRECTORY . $comment_script_current,$comment_script_current,FTP_ASCII);
-// generate a new name for mt-comments.cgi (20 chars, a-z, upper &amp; lower case)
-$comment_script_new = '';
-while(strlen($comment_script_new)&lt;20)
-{
-$newchar = chr(ord('a') + rand(0,25));
-$comment_script_new .= (((rand()%2)==0) ? $newchar : strtoupper($newchar));
-}
-$comment_script_new .= '.cgi';
-// rename the current comment script
-rename($WRITEABLE_DIRECTORY . $comment_script_current, $WRITEABLE_DIRECTORY . $comment_script_new);
-// rewrite mt-config.cgi
-$new_mt_config .= &quot;\r\n\r\n##### Added by mt-rotate.php #####\r\n&quot;;
-$new_mt_config .= &quot;CommentScript $comment_script_new\r\n&quot;;
-$new_mt_config .= &quot;# OldCommentScript $comment_script_current\r\n&quot;;
-$handle = fopen($WRITEABLE_DIRECTORY . 'mt-config.cgi', 'w');
-fwrite($handle,$new_mt_config);
-fclose($handle);
-// rewrite the PHP include
-$php_include = &quot;&lt;?php \$PATH_TO_MT_COMMENTS = '&quot; . $mt_cgipath . $comment_script_new . &quot;'; ?&gt;&quot;;
-$handle = fopen($WRITEABLE_DIRECTORY . 'mt-comments-location.php','w');
-fwrite($handle,$php_include);
-fclose($handle);
-// upload the new mt-config.cgi
-ftp_put($ftp,'mt-config.cgi',$WRITEABLE_DIRECTORY . 'mt-config.cgi',FTP_ASCII);
-// upload the new comment script and set its permissions
-ftp_put($ftp,$comment_script_new,$WRITEABLE_DIRECTORY . $comment_script_new,FTP_ASCII);
-ftp_site($ftp,&quot;CHMOD 0755 $comment_script_new&quot;);
-// delete the old comment script
-ftp_delete($ftp,$comment_script_old);
-// upload mt-comments-location.php
-ftp_put($ftp,'mt-comments-location.php',$WRITEABLE_DIRECTORY . 'mt-comments-location.php',FTP_ASCII);
-ftp_close($ftp);
-// clean up the temp directory
-unlink($WRITEABLE_DIRECTORY . $comment_script_new);
-unlink($WRITEABLE_DIRECTORY . 'mt-config.cgi');
-unlink($WRITEABLE_DIRECTORY . 'mt-comments-location.php');
-endif;
-?&gt;
-</pre>
-</blockquote>
-<p>You'll notice that there's a bunch of info to fill in at the top. Most of it should be pretty straightforward. You'll need the FTP info for your webhost account — even though we'll run the script on the same machine as your blog, it needs to connect to itself by FTP in order to make sure that the permissions on the files can be set correctly.</p>
-<p>The $WRITEABLE_DIRECTORY value can probably be ignored — /tmp/ should work on pretty much every webhost out there. If it doesn't work, you can just create a directory with permissions set to 777 somewhere and point the script at it. But mostly, don't worry about it.</p>
-<p>The $MT_DIRECTORY variable needs to point at the directory where Movable Type is installed, and needs to do so from an FTP client's perspective. Connect to your site with an FTP client and browse to your MT directory. You should be able to figure it out from there.</p>
-<p>Finally, $SECRET should be set to a unique string. No weird characters or spaces, either — this needs to be able to be added to a URL, so stick to a simple alphanumeric password. This is necessary because running the script too often could constitute a denial-of-service attack on your blog, effectively making it impossible for anyone to comment. Putting a password in a querystring is generally a terrible idea, but since the requests for this script won't be going out over the internet (or outside the host machine at all) it should probably be okay.</p>
-<p>Once you've set all of those values, save the script as <strong>mt-rotate.php</strong> and upload it to the directory where Movable Type is installed (i.e. the one where mt.cgi and mt-config.cgi live). Now it's ready to be tested. Fire up your browser and head to:</p>
-<blockquote>
-<a class="reference external" href="http://www.yourdomain.com/mt/mt-rotate.php?mysecret">http://www.yourdomain.com/mt/mt-rotate.php?mysecret</a></blockquote>
-<p>Of course, change the path so that you're pointing at the right domain and the correct directory. And change &quot;mysecret&quot; to match whatever you set the $SECRET variable to in the script. If all goes well you shouldn't see anything at all — FTP into the site, check the Movable Type directory and confirm that it now has a file called mt-comments-location.php in it, that there's a file with a gibberish name (but ending in .cgi) and that mt-config.cgi now has a line at the bottom mentioning mt-rotate.php. If instead of all of this you see error messages in your web browser, well, something's wrong. Leave a comment and we'll sort it out.</p>
-<p>So we can now rotate our comment script's filename every time we call this particular URL. And the new, secret name of the file is kept in mt-comments-location.php in the MT directory. Now we just need to adjust our comment forms so that they can use that PHP file, then set the mt-rotate script to run on an automatic basis.</p>
-<p>In order to use mt-comments-location.php, we'll need to know where it resides. Unfortunately, that might be a problem. The $MT_DIRECTORY value may or may not match up with the full path to this file; it all depends on your webhost. I've put together a little script to make it easier to figure out. Download <a class="reference external" href="/static/2007/01/29/where-am-i.php.txt">this</a>, rename it to where-am-i.php (take the .txt off the end) and upload it to the MT directory on the server. Load it up in your web browser (<a class="reference external" href="http://www.yourserver.com/path/to/mt/where-am-i.php">http://www.yourserver.com/path/to/mt/where-am-i.php</a>) and have a look at the output. It ought to tell you what the filesystem path to the MT directory is.</p>
-<p>So! You now have the information necessary to rewrite your comment form's <em>action</em> property on the fly. If you didn't add the Javascript obfuscation from <a class="reference external" href="/2007/01/26/fighting-movable-type-comment-spam-part-1/">part two</a>, your comment form tag should still look something like this:</p>
-<blockquote>
-<pre class="literal-block">
-&lt;form method=&quot;post&quot; action=&quot;&lt;$MTCGIPath$&gt;&lt;$MTCommentScript$&gt;&quot; name=&quot;comments_form&quot; onsubmit=&quot;if (this.bakecookie.checked) rememberMe(this)&quot;&gt;
-</pre>
-</blockquote>
-<p>You'll need to add a PHP include statement, then some code to use the variable that becomes available by virtue of the include. Use this, but replace the /path/to/mt/ with the correct filesystem path where Movable Type resides:</p>
-<blockquote>
-<pre class="literal-block">
-&lt;?php include('/path/to/mt/mt-comments-location.php');?&gt;
-&lt;form method=&quot;post&quot; action=&quot;&lt;php print $PATH_TO_MT_COMMENTS;$&gt;&quot; name=&quot;comments_form&quot; onsubmit=&quot;if (this.bakecookie.checked) rememberMe(this)&quot;&gt;
-</pre>
-</blockquote>
-<p>If you <em>did</em> implement the Javascript obfuscation, you'll just want to swap &lt;$MTCGIPath$&gt;&lt;$MTCommentScript$&gt; and replace it with $PATH_TO_MT_COMMENTS. Like so:</p>
-<blockquote>
-<pre class="literal-block">
-&lt;?php include('/path/to/mt/mt-comments-location.php');?&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-&lt;?php print ObfuscateJS(&quot;document.comments_form.action = '$PATH_TO_MT_COMMENTS';&quot;);?&gt;
-&lt;/script&gt;
-</pre>
-</blockquote>
-<p>Make this change in all the templates that have a comment form in them, then rebuild your site (or just open and re-save one entry, if you'd prefer to make sure things are working before rebuilding all of your site's comment forms). If your comment form seems to be working, you're in great shape. If you see PHP warning messages showing up on the page around where you added the <em>include()</em> statement, odds are that you got the path to mt-comments-location.php wrong.</p>
-<p>But let's say that you didn't. You're pretty much all set — all you need to do is call the script on a regular basis.</p>
-<p>The way to do this is with a cron job — these are tasks that can be scheduled to occur at regular intervals on a Unix-style system. You should be able to set up a cron job through your web host's control panel software. This is where you manage the domain's email addresses, among other things. It can vary between hosts, but if you look for &quot;cron jobs&quot; or &quot;scheduled tasks&quot; you should probably be able to find it.</p>
-<p>cPanel is probably the most popular of these kinds of control panel software packages, and it happens to be what my webhost uses. So let's have a look at how to make it work:</p>
-<div class="line-block">
-<div class="line"><a class="reference external image-reference" href="http://www.flickr.com/photo_zoom.gne?id=372926381&amp;size=o"><img alt="finding the cron item in cPanel" src="http://farm1.static.flickr.com/129/372926381_a4cadcd99f_t.jpg" /></a></div>
-<div class="line"><a class="reference external image-reference" href="http://www.flickr.com/photo_zoom.gne?id=372926312&amp;size=o"><img alt="selecting the standard cron mode" src="http://farm1.static.flickr.com/127/372926312_c33ec4d09b_t.jpg" /></a></div>
-<div class="line"><a class="reference external image-reference" href="http://www.flickr.com/photo_zoom.gne?id=372926431&amp;size=o"><img alt="here's the punchline" src="http://farm1.static.flickr.com/156/372926431_64a05725d4_t.jpg" /></a></div>
-</div>
-<p>It ought to be relatively self-explanatory, particularly if you have a look at the above screenshots. But here's the punchline, the command that you want to run every time the cron does:</p>
-<blockquote>
-<pre class="literal-block">
-wget http://manifestdensity.net/mt/mt-rotate.php?mysecret -O/dev/null
-</pre>
-</blockquote>
-<div class="line-block">
-<div class="line">&quot;wget&quot; is a program that fetches webpages. The first parameter specifies the URL we want it to fetch (be sure to replace</div>
-<div class="line">&quot;mysecret&quot; with a real value). And the second says to send the retrieved HTML staight to the trash (otherwise it might generate a bunch of junk files in some directory or another). We don't need to hang onto the output, anyway — it's the incoming request that triggers the script's actions. The HTML it produces (or doesn't in this case — remember, there should be no output if it works right) is irrelevant except for debugging purposes.</div>
-</div>
-<p>And, with that somewhat anticlimactic final step, we should be done. The cron should fire however often you set it to (as you can see from the screenshot, I told it to fire once an hour — that seems like a good number to me). When it does, the necessary files will be renamed and updated, and your Movable Type installation should remain fairly spam-free. Hurrah!</p>
-<p><strong>UPDATE:</strong> Whoops! My mistake: I didn't realize that the comment preview template can't be made to use PHP — the filename will always end in .cgi, because it *is* the mt-comments script. You might have noticed this when you implemented part two and ended up with non-working Javascript.</p>
-<p>The good news is that there's an easy workaround: <strong>simply remove the action attribute from the comment preview template's form tag entirely</strong>. This will make the form submit to itself. If someone's at the preview form, they already know the URL, which means they have the comment script name and there's no point in hiding it anyway.</p>
 
                 </div>
             </article>

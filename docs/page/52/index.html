@@ -53,6 +53,27 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2007/03/17/whoops/">whoops!</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2007-03-17T21:17:00-04:00">Saturday, 17 March 2007</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">W</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>I should've seen this one coming: I had a problem with my math in the similarity matrix stuff. I didn't think through the problem carefully enough, and failed to realize that a given representative might vote several times on a piece of legislation as various amendments and procedural votes come up. That resulted in a screwed-up data model, which resulted in taking dot products of vectors of variable length, which shouldn't have worked at all (Perl is apparently pretty forgiving about referring to variables that don't exist).</p>
+<p>It still <em>sort of</em> worked, as you can tell from the graph. But it wasn't accurate, and most of the CPU time I had spent so far went to waste.</p>
+<p>I think I've got it all sorted out, but I'll have to rerun all of those cosine comparisons (I've improved the algorithm's efficiency; it might take less than a day this time). But progress continues: I've also written the infrastructure for segmenting the votes by issue. I'll beat this goddamn thing yet.</p>
+<p>Things aren't helped by Sunlight's data being somewhat messy. Some voting histories have multiple vote-records that have identical bills numbers, descriptions and dates. The only thing that varies, in fact, is the value of the vote that's stored. That's pretty goddamn confusing, so I'm just using the one that the page's order implies to be chronologically first and hoping for the best.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2007/03/17/the-early-bird/">the early bird</a>
                     </h2>
                     <div class="entry-meta">
@@ -1963,25 +1984,6 @@ videodiv.innerHTML='<applet code=\'processingdemo_video\' archive=\'/static/2007
 <p>The shoot was pretty fun, particularly since Josh made an in-costume run to Whole Foods for beer. After things wrapped up we tried to head back to Galaxy Hut, but they looked a little crowded and were charging a cover. So Josh continued his streak of real-life heroism and drove us all into the city to meet up with folks at Townhouse. I stopped taking photos at that point; Kriston's photostream <a class="reference external" href="http://flickr.com/photos/cappseus/395804032/">picks up</a> the <a class="reference external" href="http://flickr.com/photos/cappseus/395803956/">story</a> from there.</p>
 <p>But here are the shots I did get:</p>
 <p>[flickr]set:72157594545376414[/flickr]</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2007/02/19/a-belated-valentine/">a belated valentine</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2007-02-19T18:20:00-05:00">Monday, 19 February 2007</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">A</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>I haven't put anything up since then, but better late than never: thanks to everyone who came out to Unbuckled on Thursday, especially those who bought me birthday drinks. I can't think of any way I would've rather celebrated — it was great.</p>
-<p>And thanks &amp; congratulations to Kyle and Amanda for putting the concert together. I'm consistently amazed that people I know manage to put together such great rock shows. Their ability to identify bands at the sweet spot between popularity and bookability; get people in the door; make them feel like they got their money's worth; and have the bands leave happy — well, it's impressive. And for sub-$10 shows, it's surprisingly rare.</p>
 
                 </div>
             </article>

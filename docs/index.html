@@ -53,6 +53,41 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2025/12/16/treelemetry/">treelemetry</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2025-12-16T00:00:00-05:00">Tuesday, 16 December 2025</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">T</div>
+                </header>
+
+                <div class="entry-content">
+                    <p><a href="https://treelemetry.tomlee.space"><img alt="treelemetry graph of water level (min/max/mean) and temp/humidity over the last 24h" src="/static/2025/12/treelemetry2.png"></a></p>
+<p>The <a href="/2025/12/15/a-fresh-coat-of-paint/">blog update</a> is not the only project that AI coding has allowed me to pursue with wild abandon. Three years ago I bought a small rangefinding module from Adafruit, attached it to a wifi-capable microcontroller, and pointed it at the water in my Christmas tree stand. Since then, adding a new layer of technical complexity has become a cherished holiday tradition.</p>
+<p>The sensor is worth dwelling on, a lovely example of the silicon miracles that now litter our households. <a href="https://learn.adafruit.com/adafruit-vl6180x-time-of-flight-micro-lidar-distance-sensor-breakout">Adafruit sells the full module for about fifteen bucks</a>, and it's not much bigger than a thumbprint. But even that is mostly filler, mere support circuitry in service of the <a href="https://www.st.com/en/imaging-and-photonics-solutions/vl6180x.html#overview">VL6180X</a>, a tiny black spec that spits out pulses of infrared light and reports back the distance to the first thing they bounce off of, at a resolution of 1 millimeter and a maximum range of 10 centimeters. The VL6180X itself can be had for less than $4, but it's so tiny that few hobbyists will find it very convenient, hence Adafruit's role.</p>
+<p>You might wonder: how on earth can this thing do what it does? Light travels at 3x10E8 meters per second. Convert to millimeters by bumping that 8 to 11. Divide a second of time into 3x10E11 parts--that's how long it takes for light to travel that far. A microcontroller clock would have to run in the terahertz range to see this distinction. Nobody knows how to build a computer that fast, much less sell it for $4.</p>
+<p>So instead these gadgets measure the time difference been pulse and reception using specialized circuitry that makes it possible to calculate the relative timing of signals. Their ancestors are <a href="https://en.wikipedia.org/wiki/Delay-line_memory">acoustic delay lines</a>, an evocative piece of hardware from the early days of radar, when the idea of keeping information in memory was still impossibly difficult. Instead, a signal could be preserved by catching it in a slower medium and feeding it energy to sustain it, like a kid with a jar full of caterpillars and leaves. An incoming radio signal would be connected to a long tube full of mercury, or quartz, or who knows what, with a speaker at one end and a microphone at the other. The speaker would holler the signal out, and it would inch its way down the medium, then be collected by the microphone, then amplified and fed back to the speaker. This loop could be tapped when needed to (for example) make a subtractive comparison with an incoming radar signal, which could filter out all the stationary objects present in each bounce, leaving only the dots belonging to the Luftwaffe or whoever else.</p>
+<p>The VL6180X's datasheet does not disclose its secrets, but this sensor likely works with a less toxically mercury-filled version of the same idea: a linear cascade of relatively slow-switching silicon parts, which is ignited like the fuse to a bundle of Looney Tunes dynamite whenever an infrared pulse is emitted. The photodetector that sees the bounce--in a furious, hair-trigger electrical stampede provided by a different but also fascinating component--is connected to circuitry that instantly freezes the progression of the fuse so that its length can be measured at the microcontroller brain's sluggish rate of thought. This is done many times, fabulously quickly, to reduce the noisiness of the measurement, and then adjusted against calibrations of the cascade's imperfectly-homogenous speed and its response to temperature differences, which were measured and recorded at the production facility.</p>
+<p>A tiny miracle! Honestly, when I bought it I didn't even know if infrared light would bounce off of the surface of the water in the dish. But it does. My microcontroller can read the resulting measurement in a highly civilized electronic dialect, and it reports it over wifi to a server next to my furnace using a protocol called MQTT. MQTT is designed to receive reports from sensors and echo them out to as many listeners as have signed up, and to do it with very little delay--a classic pub/sub configuration. I built a little piece of software that would listen for measurements, aggregate them into various time periods, and upload a web-accessible file of them to a set location in Amazon S3 a couple of times per minute.</p>
+<p>All this had been running for two years, and visualized in some unappealing graphs like <a href="https://sbma44.github.io/tree-analytics/">this</a>. I also <a href="https://github.com/sbma44/xmas_tree_alarm">added a software guard dog</a> that monitors the MQTT measurements and, if the water dipped too low, turns our <a href="https://twinkly.com/collections/christmas-lighting">fancy, wifi-enabled Christmas tree lights red</a>.</p>
+<p>As part of that alarm system, I moved the data collection and uploading stuff off of my basement's humble Raspberry Pi. The Pi is capable enough for this, but its storage medium is a flash memory, and every write-intensive operation brings its death closer. Two autumns ago I bought <a href="https://www.terra-master.com/">a bargain basement NAS</a>, which I cannot really recommend but which is capable of running x86 Docker containers (but not any Docker orchestration software without tearing out the whole busybox-based operating system, which I don't care to do). So I dockerized the logging and alarm software, then redid it all this year with DuckDB.</p>
+<p>The uploader is separate, but should probably be rolled together with the uploader. It now includes some statistical analysis to find periods of monotonic distance increase--these reflect when the tree is "drinking" between water refills--and calculates their best-fit slope, a proxy for water use (the water dish's geometry isn't perfectly uniform). This part of the system is especially imperfect, particularly in the early hours of a new "drinking" interval, but it's much improved from what came before thanks to some suggestions from ChatGPT that exceeded my own stat knowledge. And I think it's good enough to confirm changes in the rate of water consumption, which will presumably signal that the tree is fully dead and drying out. Most of the outliers in that graph reflect periods where I was manually adjusting the sensor position to account for a spill or some other uninteresting physical problem.</p>
+<p>To really gild the lilly, this year I added a few more sensors. I first heard about <a href="https://shop.yosmart.com/collections/all?irclickid=15SwLBVJ4xycRDxxyTRzOXegUkpQFs25W3nnSA0&amp;sharedid=&amp;irpid=3311071&amp;irgwc=1&amp;afsrc=1&amp;gad_source=1&amp;gad_campaignid=23346232226&amp;gbraid=0AAAABCNtJ7avLgJ2peNV54cu43ucrhI9O&amp;gclid=Cj0KCQiAo4TKBhDRARIsAGW29bd5HkppIRmNiOc-PmBVzqJqYrBZFraCt7ngNWddkX1wXGBLnAp-10EaAvGnEALw_wcB">YoLink's suite of home automation products</a> on the <a href="https://atp.fm">Accidental Tech Podcast</a>, but hadn't been ready to take the plunge. My only real need for their stuff is leak detectors (mine are worryingly internet-incapable) and environmental sensing, which is <a href="/2022/02/01/notes-on-becoming-a-home-automation-dad/">something I already built</a>.</p>
+<p>The YoLink system does offer advantages, though. My bespoke environmental system uses Bluetooth temperature/humidity sensors, which passively emit the household's HVAC conditions as BT chirps. These are picked up by some ESP32 microcontrollers running software I wrote, which decodes the chirps and reports the detected values to my MQTT server over wifi. But Bluetooth doesn't go far, so chirp collection requires me to scatter ESP32s around my house in locations with access to power. The LR2032 coin cell batteries powering the sensors don't go far either, forcing me to swap out dead cells once or twice a year for every room. And of course I never implemented low-battery detection, or a mechanism for telling when a temperature reading has become stale (if a sensor dies, the echo of its last report remains in my phone's Homekit screen forever).</p>
+<p>YoLink has solved all of these problems, which, I must emphasize, are not imaginary. The sensors take AA batteries. They speak LoRa, a long-range low-power flavor of RF that traipses through walls and can go a full kilometer before fully dissolving. This means that only one hub is necessary, and YoLink's plugs in wherever, capturing those whispers and reporting them over wifi and on to the cloud. That last part is a minor disappointment: I am sure the service will betray its customers eventually, they all do. But YoLink hasn't yet--all the cloud stuff is free to access--and hopefully their $200 local API hub will still be on sale when they do. In the meantime, one can access their API <a href="https://github.com/sbma44/yolink-api/tree/sbma44-more-docs">pretty easily</a>, and even subscribe to their own MQTT server.</p>
+<p><a href="https://treelemetry.tomlee.space"><img alt="treelemetry statistical modules showing water level, time to refill, environmental readings" src="/static/2025/12/treelemetry.png"></a></p>
+<p>I nestled YoLink sensors into our Christmas tree's lower branches, which measure air temperature and humidity, plus the temperature of the water in the dish. Why not! The data logger now speaks to both MQTT servers, mine and theirs. The uploader uses AWS CDK to create properly secure credentials for its uploading.</p>
+<p>And, of course, <a href="https://treelemetry.tomlee.space">the web UI has been redone</a>. The segment slope graph could use some work, and I wouldn't say I <em>love</em> the overall aesthetic. But this is clearly a collection of very silly ideas, not worth really laboring over. I spent perhaps $15 in Cursor overage fees to get all this out, and in the process I learned some new things. I moved from <code>pip</code> to <code>uv</code>, and <code>troposphere</code> to <code>CDK</code>, and <code>sqlite</code> to <code>duckdb</code>. I stopped being scared of creating new CNAMEs for Github Pages sites. Some of the new statistical ideas might stick with me, though probably not. And I managed to customize <a href="https://github.com/bradly/christmas-lights.js/tree/main">Bradly Feeley's Christmas light adornment</a> without a robot's help, preserving at least a shred of dignity. The code for all this is <a href="https://github.com/sbma44/treelemetry">here</a>.</p>
+<p>Certainly, I can understand why LLMs are a source of sadness for many software developers. But for this, at least, my experience of them has been delightful, a way to refresh my knowledge of current practices and extend my reach.</p>
+<p>My earliest blog posts on this site are full of my enrapturement over technical detail. The excitement of figuring out a puzzle was immense, and I took great pride in it. I can still feel parts of sensation--this post may be proof of it. But I have also come to understand how disposable technology is (who else remembers XSPF, or the NYU Coral Cache?) and how often new ideas or details within the field are not as interesting as I might once have thought.</p>
+<p>With age, the truly mighty conceptual monuments (obviously including Christmas tree water level monitoring) have become easier for me to pick out amidst the jumble of the horizon. The distance to reach them is often too vast to be worth traversing. Sometimes it's okay to admire them from a distance. But LLMs now occasionally let people like me vault over the expanse and see it all up close. I know that nobody likes tourists, but it's good to get out of the house.</p>
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2025/12/15/a-fresh-coat-of-paint/">a fresh coat of paint</a>
                     </h2>
                     <div class="entry-meta">
@@ -1012,25 +1047,6 @@ Further inspection reveals five outlier tracts which warrant closer inspection. 
 
                 </div>
             </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2024/03/13/peloton-surgery/">peloton surgery</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2024-03-13T13:16:00-04:00">Wednesday, 13 March 2024</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">P</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>This will not be of interest to many people, but I documented my recent <a class="reference external" href="https://www.reddit.com/r/pelotoncycle/comments/1bdfqh3/fixed_b0202no_sensor_readings_error/">electronics repair saga</a> over on Reddit.</p>
-<p>Posting only to bask. Almost all of the time there is no good reason to accumulate electronics knowledge and doo-dads like the logic analyzer I used to fix my exercise bike. But every now and then...</p>
-
-                </div>
-            </article>
         </div>
     </div>
 
@@ -1079,6 +1095,10 @@ Further inspection reveals five outlier tracts which warrant closer inspection. 
                     <li>
                         <a href="https://tomlee.wtf/2025/12/15/a-fresh-coat-of-paint/">a fresh coat of paint</a>
                         <span class="archive-date">December 15</span>
+                    </li>
+                    <li>
+                        <a href="https://tomlee.wtf/2025/12/16/treelemetry/">treelemetry</a>
+                        <span class="archive-date">December 16</span>
                     </li>
                 </ul>
             </div>
