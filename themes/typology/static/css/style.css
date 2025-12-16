@@ -309,7 +309,7 @@ ol li:not(:last-child) {
 
 .section-content {
     max-width: 720px;
-    margin: 0 auto;
+    margin: 2em auto;
     padding: 0 30px;
 }
 
@@ -357,7 +357,7 @@ ol li:not(:last-child) {
     padding-bottom: 10rem;
 }
 
-.typology-post:after {
+/* .typology-post:after {
     content: "";
     height: 1px;
     width: 50px;
@@ -366,7 +366,7 @@ ol li:not(:last-child) {
     left: 50%;
     margin-left: -25px;
     background: var(--color-primary);
-}
+} */
 
 .typology-post:last-child:after {
     display: none;
@@ -491,6 +491,7 @@ ol li:not(:last-child) {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    margin-top: 0.5rem;
 }
 
 .site-title {
