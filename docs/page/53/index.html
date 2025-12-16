@@ -55,6 +55,34 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2007/02/14/everythings-terrible/">everything's terrible</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2007-02-14T13:01:00-05:00">Wednesday, 14 February 2007</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">E</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Man, what a lousy start to the morning. To be fair, any morning that starts at 2:30 is probably going to be fairly crappy, but this one has some real staying power. I was awakened by a tap-tap-tapping on my chamber door. The last time this happened it was a cop who wanted to explain that he'd chased a suspect into my garage. Based on that experience it seemed like it was worth getting up. This time it was just my neighbor, who swept into the apartment and started fiddling with our thermostat. Apparently something in the building was vibrating annoyingly, and, as irresponsible young renters, Charles and I seemed like the sort of people who might ignore a problem until it involved shrapnel and scalding.</p>
+<p>But it turned out that it wasn't our furnace at all — it was blowing its usual stream of frigid air throughout the nighttime apartment as reliably as ever. This happens every time it snows — the heat pump can't produce air hot enough to meet our modest-yet-optimistic thermostat setting, so the system just tries blowing the cold air <em>faster</em> in order to make up the difference. I appreciate the effort, but it's not much help.</p>
+<p>The other annoyances have been more minor. There was the slog to work through unsalted sidewalks — well, except for the American Chemical Association's stretch of pavement, which is always immaculately clear (but also seems likely to be highly carcinogenic). And LastCall is <a class="reference external" href="http://www.dcist.com/archives/2007/02/14/lastcall_needs.php">throwing a fit</a>, requiring me to shut it down until I can locate a nasty bug and quash it.</p>
+<p>But the biggest letdown is that our company sexual harassment training — which, yes, was scheduled for Valentine's Day — has been rescheduled due to the winter weather. I'm pretty bummed out; I had gone to a lot of effort separating candy hearts into &quot;workplace-safe&quot; and &quot;unacceptably sexual&quot; piles.</p>
+<div class="line-block">
+<div class="line"><a class="reference external image-reference" href="http://www.flickr.com/photos/sbma44/390331941/"><img alt="valentine's candy hearts sorted into 'acceptable' and 'unacceptable' piles" class="center" src="http://farm1.static.flickr.com/157/390331941_9bd013673c.jpg" style="width: 500px; height: 375px;" /></a></div>
+<div class="line"><a class="reference external image-reference" href="http://www.flickr.com/photos/sbma44/390331784/"><img alt="the aforementioned hearts separated into ziploc bags" class="center" src="http://farm1.static.flickr.com/176/390331784_582bb7e354.jpg" style="width: 500px; height: 375px;" /></a></div>
+</div>
+<p>Some of these were judgment calls: &quot;my boy&quot; was on the line, but its assertion of possession (and racist undertones) ultimately led me to give it the axe. Similarly, &quot;dare ya&quot; seemed fairly non-sexual, but was discarded due to the high odds that it would set events in motion that could lead to worker's comp claims. But most of the objectionable hearts were easy to spot. &quot;Kiss me&quot;? &quot;So fine&quot;? You'd be astounded at the filth that Brach's gets away with.</p>
+<p>As for the rest of the day... well, I'm not optimistic. The high availability of candy hearts in my workplace makes it likely that I'm going to be feeling very sick by the time I head home.</p>
+<p><strong>UPDATE:</strong> The stupid cafe around the corner forgot to put stupid dolmadas in my stupid carryout Greek salad. I hate this universe.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2007/02/14/you-know-a-band-is-hot/">you know a band is hot</a>
                     </h2>
                     <div class="entry-meta">
@@ -841,120 +869,6 @@ return $js;
 <p>That's it! Well, okay, almost it: you'll have to make the same changes on any other templates where a comment form appears. [STRIKEOUT:The comment preview template springs to mind] (see update). If you have comment forms in any other places on your site, you'll have to hunt those down, too. But that shouldn't be too hard. Once you're done, rebuild your site again, verify that comments are working, and revel in your now somewhat-better-protected comment system.</p>
 <p>Next: a way to rename <em>mt-comments.cgi</em> on an hourly basis. That'll show 'em.</p>
 <p><strong>UPDATE:</strong> Forget what I said about the comment preview template needing to be changed in a similar way. What you should actually do is <strong>remove the action property entirely from the comment preview template's &lt;form&gt; tag</strong>. I explain why in <a class="reference external" href="/2007/01/26/fighting-movable-type-comment-spam-part-1/">part 3</a> which — hey! — is now available. How about that.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2007/01/26/fighting-movable-type-comment-spam-part-1/">fighting movable type comment spam - part 1</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2007-01-26T15:29:00-05:00">Friday, 26 January 2007</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">F</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>There's recently been a lot of discussion on the Gothamist tech list about fighting comment spam, and it's prompted me to revisit and further develop some thoughts I had about the problem. Since I regularly get approached by friends who are hoping to eliminate their comment spam woes, I thought I'd write up my thoughts.</p>
-<p>I should be clear, though, that the methods I'll be outlining aren't endorsed or in use by the folks at Gothamist. They've got their own tech staff who are working on the problem. And because of the -ist sites' high profiles, high traffic and multi-server architecture, some of what I'll be discussing wouldn't really be relevant or appropriate for them anyway. But if you've got your own installation of Movable Type running on a webhost where you can run PHP (most can), read on...</p>
-<p>So how do the spammers work, and what are they trying to accomplish? Let's start with the second question. More than anything, they're trying to bump up their rank in search engines. By publishing comments on well-respected sites (in terms of non-spamminess), they can bump up their ranking and make more money. The <a class="reference external" href="http://en.wikipedia.org/wiki/Nofollow">nofollow</a> tag was supposed to fix all of this, but, well, it didn't. Perhaps the direct profit to be gained by idiots following their links is enough to compel them to do what they do; maybe they just don't bother to see whether nofollow is in place on the blogs they target. Either way, they seem pretty keen to keep doing what they're doing.</p>
-<p>So they submit fake comments to sites in droves. They do this using automated scripts — it's faster and easier than making a web browser automatically do this stuff. Libraries like <a class="reference external" href="http://search.cpan.org/dist/WWW-Mechanize/">WWW::Mechanize</a> make it pretty straightforward.</p>
-<p>In truth, it can be even simpler than WWW::Mechanize makes it. That's because blogging software works in uniform ways. When you load up a page with a comment form, the form's HTML tells your browser where to send the text of your comment. When you hit submit, the browser sends a specially-formed request (called an HTTP POST) to that URL. The script sitting at that URL — which, in MT's case, is called mt-comments.cgi by default — processes the request to post a comment.</p>
-<p>Spammers simply need to find that URL and send requests to it — generally speaking, they don't even need to load up the comment form beforehand. Unfortunately, it's pretty easy to find these URLs: <a class="reference external" href="http://www.google.com/search?q=inurl%3A%22mt-comments.cgi%22">here's a google search</a> that returns a bunch (see anybody you recognize?). Some spammers will just <a class="reference external" href="http://www.google.com/search?q=%22powered%20by%20movable%20type%22">look for Movable Type sites</a> and send requests to common places where mt-comments.cgi might live. That's why one of the first spam-fighting techniques recommended by Six Apart is to <a class="reference external" href="http://www.sixapart.com/pronet/comment_spam#commentscript">rename mt-comments.cgi</a>.</p>
-<p>Unfortunately, this doesn't last long. The new name of the script has to be available to your visitors' browsers in order for them to be able to leave comments, which means it's available to spammers, too. Here's how it's represented in the HTML:</p>
-<blockquote>
-<pre class="literal-block">
-&lt;form name=&quot;commentform&quot; method=&quot;post&quot; action=&quot;http://domain.com/url/to/renamed-commentscript.cgi&quot;&gt;
-</pre>
-</blockquote>
-<p>It's not hard to write something to find blogs on Technorati, visit them, grab the <em>action</em> attribute from the form and then start spamming it.</p>
-<p>One simple method for avoiding this is to obfuscate the form's action. Libraries like WWW::Mechanize don't generally have a Javascript interpreter built in, so if you use Javascript to set the form's action it'll be unavailable to many spammer scripts (although as Six Apart <a class="reference external" href="http://www.sixapart.com/pronet/comment_spam#obfuscation">notes</a>, this method isn't foolproof). This means that your commenters will have to have at least a basic Javascript interpreter working in order to comment. But even my Sidekick's woefully crappy Javascript implementation can handle this sort of code:</p>
-<blockquote>
-<pre class="literal-block">
-&lt;form name=&quot;commentform&quot; method=&quot;post&quot; action=&quot;/&quot;&gt;
-body of the form
-&lt;/form&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-document.commentform.action = 'http://domain.com/url/to/renamed-commentscript.cgi';
-&lt;/script&gt;
-</pre>
-</blockquote>
-<p>Of course, this kind of code is pretty easy to scrape, too. Some Javascript obfuscation might be in order:</p>
-<blockquote>
-<pre class="literal-block">
-document.commentform.action = 'http://dom' + 'ain.com/ur' + 'l/to/rena' + 'med-comme' + 'ntscrip' + 't.cgi';
-</pre>
-</blockquote>
-<p>But again, this is defeatible — and it doesn't even require a Javascript interpreter. Here's some Perl that'd do the trick, for example:</p>
-<blockquote>
-<pre class="literal-block">
-#!/usr/bin/perl -w
-use LWP::Simple;
-my $html = get('http://some/poor/suckers/blog');
-if($html =~ /\.action\s*=\s*(.*)$/im)
-{
-my $url = $1;
-$url =~ s/['&quot;]\s*\+\s*['&quot;]//gx; # collapse the string
-$url =~ s/(^['&quot;]\s*|['&quot;]\s*;?$)//gx; # clean up leading and trailing quotes
-print &quot;$url\n&quot;;
-}
-</pre>
-</blockquote>
-<p>It might return a few false positives, but it'd do the trick. Spammers don't care much about false positives, anyway. HTTP POSTs are cheap.</p>
-<p>But there are better ways to obfuscate Javascript. I wrote this one last night. There are many like it, but this one is mine (and would go after the form tag, as before). It's fairly pointless — the next step in the arms race is for the spammers to use a JS interpreter, which would beat it — but I felt like writing it, so I did. I think it's a pretty good one, as these things go.</p>
-<p>(As a sidenote, I <em>really</em> like doing this sort of <a class="reference external" href="http://en.wikipedia.org/wiki/Metaprogramming">metaprogramming</a> — writing one program through the use of another. I'm not the type of geek who gets very excited about unit tests or polymorphism, but these kinds of tasks scratch my nerd-itch (exactly disgusting as it sounds) better than anything else. Ask me to write a Perl script that makes some PHP which generates Javascript to write a block of CSS and I'll be a happy boy.)</p>
-<blockquote>
-<pre class="literal-block">
-&lt;?php
-function ObfuscateJS($string_to_obfuscate, $number_of_variables=5, $max_chars_per_chunk=3)
-{
-// create some random variables that will be used by JS later on
-$vars = array();
-for($i=0;$i&lt;$number_of_variables;$i++)
-$vars[] = rand();
-// begin building the JS string
-$js = &quot;if(typeof(Obfuscator)!='object')\n   var Obfuscator = new Object();\n&quot;;
-for($i=0;$i&lt;sizeof($vars);$i++)
-$js .= &quot;Obfuscator.v$i = &quot; . $vars[$i] . &quot;;\n&quot;;
-$js .= &quot;eval(''&quot;;
-while(strlen($string_to_obfuscate))
-{
-// figure out how many characters we're going to encode this time
-$num_chars_this_time = rand(1,$max_chars_per_chunk);
-// grab that chunk of characters
-$this_chunk = str_replace(&quot;'&quot;,&quot;\\'&quot;,substr($string_to_obfuscate,0,$num_chars_this_time));
-// remove that chunk from the string we're working on
-$string_to_obfuscate = substr($string_to_obfuscate,$num_chars_this_time);
-// create a plausible-seeming alternate, garbage chunk
-$rotated_chunk = '';
-for($i=0;$i&lt;strlen($this_chunk);$i++)
-{
-$thischar = substr($this_chunk,$i,1);
-if((($thischar&gt;='A')&amp;&amp;($thischar&lt;='Z'))||(($thischar&gt;='a')&amp;&amp;($thischar&lt;='z')))
-$thischar = chr(ord($thischar) + (((rand()%2)==1) ? 1 : -1));
-$rotated_chunk .= $thischar;
-}
-// figure out which of our random variables we're going to use
-$v1index = rand(0,sizeof($vars)-1);
-$v2index = rand(0,sizeof($vars)-1);
-// write out a short-form JS if-then that uses the random vars to decide its order
-$js .= &quot; + ((Obfuscator.v$v1index &gt; Obfuscator.v$v2index) ? &quot; . (($vars[$v1index]&gt;$vars[$v2index]) ? &quot;'$this_chunk' : '$rotated_chunk')&quot; : &quot;'$rotated_chunk' : '$this_chunk')&quot;);
-}
-$js .= &quot;);\n&quot;;
-return $js;
-}
-?&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-&lt;?php print ObfuscateJS(&quot;document.commentform.action = 'http://domain.com/url/to/renamed-commentscript.cgi';&quot;);?&gt;
-&lt;/script&gt;
-</pre>
-</blockquote>
-<p>I feel confident in saying that this can't be beaten with a mere regex (okay, <a class="reference external" href="http://books.slashdot.org/comments.pl?sid=143298&amp;cid=12015194">technically</a> it could — but not a regex that a spammer is likely to bother writing). You'd really need a full-on Javascript interpreter to disentangle the logic that this function produces. Unfortunately, the bad guys have those.</p>
-<p>And that might be a good place to leave this off. In the next part I'll describe a method for renaming your comment script on a recurring, automated basis. Will that be foolproof, either? Well, no. But I think it'll raise the bar to a level where a spammer would have to expend considerable effort to keep up with your site's constantly moving target — something that he's unlikely to do.</p>
-<p><strong>UPDATE:</strong> Parts <a class="reference external" href="/2007/01/26/fighting-movable-type-comment-spam-part-1/">2</a> and <a class="reference external" href="/2007/01/26/fighting-movable-type-comment-spam-part-1/">3</a> are now available.</p>
 
                 </div>
             </article>

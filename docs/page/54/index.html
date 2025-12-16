@@ -55,6 +55,120 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2007/01/26/fighting-movable-type-comment-spam-part-1/">fighting movable type comment spam - part 1</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2007-01-26T15:29:00-05:00">Friday, 26 January 2007</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">F</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>There's recently been a lot of discussion on the Gothamist tech list about fighting comment spam, and it's prompted me to revisit and further develop some thoughts I had about the problem. Since I regularly get approached by friends who are hoping to eliminate their comment spam woes, I thought I'd write up my thoughts.</p>
+<p>I should be clear, though, that the methods I'll be outlining aren't endorsed or in use by the folks at Gothamist. They've got their own tech staff who are working on the problem. And because of the -ist sites' high profiles, high traffic and multi-server architecture, some of what I'll be discussing wouldn't really be relevant or appropriate for them anyway. But if you've got your own installation of Movable Type running on a webhost where you can run PHP (most can), read on...</p>
+<p>So how do the spammers work, and what are they trying to accomplish? Let's start with the second question. More than anything, they're trying to bump up their rank in search engines. By publishing comments on well-respected sites (in terms of non-spamminess), they can bump up their ranking and make more money. The <a class="reference external" href="http://en.wikipedia.org/wiki/Nofollow">nofollow</a> tag was supposed to fix all of this, but, well, it didn't. Perhaps the direct profit to be gained by idiots following their links is enough to compel them to do what they do; maybe they just don't bother to see whether nofollow is in place on the blogs they target. Either way, they seem pretty keen to keep doing what they're doing.</p>
+<p>So they submit fake comments to sites in droves. They do this using automated scripts — it's faster and easier than making a web browser automatically do this stuff. Libraries like <a class="reference external" href="http://search.cpan.org/dist/WWW-Mechanize/">WWW::Mechanize</a> make it pretty straightforward.</p>
+<p>In truth, it can be even simpler than WWW::Mechanize makes it. That's because blogging software works in uniform ways. When you load up a page with a comment form, the form's HTML tells your browser where to send the text of your comment. When you hit submit, the browser sends a specially-formed request (called an HTTP POST) to that URL. The script sitting at that URL — which, in MT's case, is called mt-comments.cgi by default — processes the request to post a comment.</p>
+<p>Spammers simply need to find that URL and send requests to it — generally speaking, they don't even need to load up the comment form beforehand. Unfortunately, it's pretty easy to find these URLs: <a class="reference external" href="http://www.google.com/search?q=inurl%3A%22mt-comments.cgi%22">here's a google search</a> that returns a bunch (see anybody you recognize?). Some spammers will just <a class="reference external" href="http://www.google.com/search?q=%22powered%20by%20movable%20type%22">look for Movable Type sites</a> and send requests to common places where mt-comments.cgi might live. That's why one of the first spam-fighting techniques recommended by Six Apart is to <a class="reference external" href="http://www.sixapart.com/pronet/comment_spam#commentscript">rename mt-comments.cgi</a>.</p>
+<p>Unfortunately, this doesn't last long. The new name of the script has to be available to your visitors' browsers in order for them to be able to leave comments, which means it's available to spammers, too. Here's how it's represented in the HTML:</p>
+<blockquote>
+<pre class="literal-block">
+&lt;form name=&quot;commentform&quot; method=&quot;post&quot; action=&quot;http://domain.com/url/to/renamed-commentscript.cgi&quot;&gt;
+</pre>
+</blockquote>
+<p>It's not hard to write something to find blogs on Technorati, visit them, grab the <em>action</em> attribute from the form and then start spamming it.</p>
+<p>One simple method for avoiding this is to obfuscate the form's action. Libraries like WWW::Mechanize don't generally have a Javascript interpreter built in, so if you use Javascript to set the form's action it'll be unavailable to many spammer scripts (although as Six Apart <a class="reference external" href="http://www.sixapart.com/pronet/comment_spam#obfuscation">notes</a>, this method isn't foolproof). This means that your commenters will have to have at least a basic Javascript interpreter working in order to comment. But even my Sidekick's woefully crappy Javascript implementation can handle this sort of code:</p>
+<blockquote>
+<pre class="literal-block">
+&lt;form name=&quot;commentform&quot; method=&quot;post&quot; action=&quot;/&quot;&gt;
+body of the form
+&lt;/form&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+document.commentform.action = 'http://domain.com/url/to/renamed-commentscript.cgi';
+&lt;/script&gt;
+</pre>
+</blockquote>
+<p>Of course, this kind of code is pretty easy to scrape, too. Some Javascript obfuscation might be in order:</p>
+<blockquote>
+<pre class="literal-block">
+document.commentform.action = 'http://dom' + 'ain.com/ur' + 'l/to/rena' + 'med-comme' + 'ntscrip' + 't.cgi';
+</pre>
+</blockquote>
+<p>But again, this is defeatible — and it doesn't even require a Javascript interpreter. Here's some Perl that'd do the trick, for example:</p>
+<blockquote>
+<pre class="literal-block">
+#!/usr/bin/perl -w
+use LWP::Simple;
+my $html = get('http://some/poor/suckers/blog');
+if($html =~ /\.action\s*=\s*(.*)$/im)
+{
+my $url = $1;
+$url =~ s/['&quot;]\s*\+\s*['&quot;]//gx; # collapse the string
+$url =~ s/(^['&quot;]\s*|['&quot;]\s*;?$)//gx; # clean up leading and trailing quotes
+print &quot;$url\n&quot;;
+}
+</pre>
+</blockquote>
+<p>It might return a few false positives, but it'd do the trick. Spammers don't care much about false positives, anyway. HTTP POSTs are cheap.</p>
+<p>But there are better ways to obfuscate Javascript. I wrote this one last night. There are many like it, but this one is mine (and would go after the form tag, as before). It's fairly pointless — the next step in the arms race is for the spammers to use a JS interpreter, which would beat it — but I felt like writing it, so I did. I think it's a pretty good one, as these things go.</p>
+<p>(As a sidenote, I <em>really</em> like doing this sort of <a class="reference external" href="http://en.wikipedia.org/wiki/Metaprogramming">metaprogramming</a> — writing one program through the use of another. I'm not the type of geek who gets very excited about unit tests or polymorphism, but these kinds of tasks scratch my nerd-itch (exactly disgusting as it sounds) better than anything else. Ask me to write a Perl script that makes some PHP which generates Javascript to write a block of CSS and I'll be a happy boy.)</p>
+<blockquote>
+<pre class="literal-block">
+&lt;?php
+function ObfuscateJS($string_to_obfuscate, $number_of_variables=5, $max_chars_per_chunk=3)
+{
+// create some random variables that will be used by JS later on
+$vars = array();
+for($i=0;$i&lt;$number_of_variables;$i++)
+$vars[] = rand();
+// begin building the JS string
+$js = &quot;if(typeof(Obfuscator)!='object')\n   var Obfuscator = new Object();\n&quot;;
+for($i=0;$i&lt;sizeof($vars);$i++)
+$js .= &quot;Obfuscator.v$i = &quot; . $vars[$i] . &quot;;\n&quot;;
+$js .= &quot;eval(''&quot;;
+while(strlen($string_to_obfuscate))
+{
+// figure out how many characters we're going to encode this time
+$num_chars_this_time = rand(1,$max_chars_per_chunk);
+// grab that chunk of characters
+$this_chunk = str_replace(&quot;'&quot;,&quot;\\'&quot;,substr($string_to_obfuscate,0,$num_chars_this_time));
+// remove that chunk from the string we're working on
+$string_to_obfuscate = substr($string_to_obfuscate,$num_chars_this_time);
+// create a plausible-seeming alternate, garbage chunk
+$rotated_chunk = '';
+for($i=0;$i&lt;strlen($this_chunk);$i++)
+{
+$thischar = substr($this_chunk,$i,1);
+if((($thischar&gt;='A')&amp;&amp;($thischar&lt;='Z'))||(($thischar&gt;='a')&amp;&amp;($thischar&lt;='z')))
+$thischar = chr(ord($thischar) + (((rand()%2)==1) ? 1 : -1));
+$rotated_chunk .= $thischar;
+}
+// figure out which of our random variables we're going to use
+$v1index = rand(0,sizeof($vars)-1);
+$v2index = rand(0,sizeof($vars)-1);
+// write out a short-form JS if-then that uses the random vars to decide its order
+$js .= &quot; + ((Obfuscator.v$v1index &gt; Obfuscator.v$v2index) ? &quot; . (($vars[$v1index]&gt;$vars[$v2index]) ? &quot;'$this_chunk' : '$rotated_chunk')&quot; : &quot;'$rotated_chunk' : '$this_chunk')&quot;);
+}
+$js .= &quot;);\n&quot;;
+return $js;
+}
+?&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+&lt;?php print ObfuscateJS(&quot;document.commentform.action = 'http://domain.com/url/to/renamed-commentscript.cgi';&quot;);?&gt;
+&lt;/script&gt;
+</pre>
+</blockquote>
+<p>I feel confident in saying that this can't be beaten with a mere regex (okay, <a class="reference external" href="http://books.slashdot.org/comments.pl?sid=143298&amp;cid=12015194">technically</a> it could — but not a regex that a spammer is likely to bother writing). You'd really need a full-on Javascript interpreter to disentangle the logic that this function produces. Unfortunately, the bad guys have those.</p>
+<p>And that might be a good place to leave this off. In the next part I'll describe a method for renaming your comment script on a recurring, automated basis. Will that be foolproof, either? Well, no. But I think it'll raise the bar to a level where a spammer would have to expend considerable effort to keep up with your site's constantly moving target — something that he's unlikely to do.</p>
+<p><strong>UPDATE:</strong> Parts <a class="reference external" href="/2007/01/26/fighting-movable-type-comment-spam-part-1/">2</a> and <a class="reference external" href="/2007/01/26/fighting-movable-type-comment-spam-part-1/">3</a> are now available.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2007/01/25/new-tools-for-internet-gossips/">new tools for internet gossips</a>
                     </h2>
                     <div class="entry-meta">
@@ -474,26 +588,6 @@
 <p>But I'm sure that privacy is only part of their concern. Finding someone to write the API and geocoding stuff is probably the bigger stumbling block. They seem like they're building a pretty basic Yahoo-style directory (right down to trying to settle on a fixed taxonomy for participating bloggers to use), and I imagine they don't want to complicate anything. But the API could consist of a handful of simple REST calls, and geocoding is just a Google Maps mashup away (it's a lot easier than it looks). The front page will just be a little fun, flashy stuff thrown on top of their crawled RSS database.</p>
 <p>As for their motivation, I think it must primarily be out of the goodness of their hearts — and wanting to be the center of the DC blogosphere. Other than attracting participants to their ad program, I don't see how they're going to monetize it. So call it a good thing for the blogs of DC — but not as good a thing as it could be.</p>
 <p>Oh! They're also going to begin geocoding their <a class="reference external" href="http://www.washingtonpost.com/wp-dyn/rss/index.html">RSS feeds</a> soon. That was probably the most exciting thing I heard all night.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2007/01/06/that-looks-familiar/">that looks familiar</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2007-01-06T13:53:00-05:00">Saturday, 06 January 2007</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">T</div>
-                </header>
-
-                <div class="entry-content">
-                    <p><a class="reference external" href="http://speeddial.cell-ular.com/">Slotcars that you control by yelling into your phone</a>, thanks to <a class="reference external" href="http://ww.asterisk.org">Asterisk</a> and an <a class="reference external" href="http://www.arduino.cc">Arduino</a>. Pretty neat, and somewhat similar to a project that I finished not too long ago for our office's lobby (more on that soon). I wonder how he pulls apart the SIP VoIP stream...</p>
-<p>The creator's <a class="reference external" href="http://cell-ular.com/">other project</a> is pretty cool, too — it uses <a class="reference external" href="http://www.processing.org">Processing</a> and cameraphones and image recognition to an interesting effect. I can't figure out how the hell one uses the <a class="reference external" href="http://www.mobot.com/">mobot</a> image recognition service that he refers to, though.</p>
-<p><strong>UPDATE:</strong> Check out <a class="reference external" href="http://www.megaphone3000.com/">this project</a>, too, from the <a class="reference external" href="http://itp.nyu.edu/show/results.php?sortby=class">same show</a>. With the number of bars and clubs that have prominent video displays, the low cost of the software (and VoIP service) and the ubiquity of cell phones, I really think a fun business could be made out of creating and selling machines that offer this kind of ad-hoc head-to-head gaming. I know I'd enjoy watching a projection of a few people play a game of Bomberman while waiting for the next band set up at a 9:30 show. Maybe the winner gets some money off his tab — it'd be great.</p>
 
                 </div>
             </article>

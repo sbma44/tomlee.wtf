@@ -55,6 +55,25 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2007/10/12/i-made-a-twitterbot/">I made a Twitterbot</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2007-10-12T14:39:00-04:00">Friday, 12 October 2007</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">I</div>
+                </header>
+
+                <div class="entry-content">
+                    <p><a class="reference external" href="http://twitter.pbwiki.com/Direct+Message+Bots">There are many like it</a>, but <a class="reference external" href="http://labs.echoditto.com/twitterbot">this one is mine</a>. More to come.</p>
+<p>And speaking of completely unoriginal contributions to the internet: I'm <em>really</em> liking Ruby so far.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2007/10/12/i-assert-my-moral-right-to-deliciousness/">I assert my moral right to deliciousness</a>
                     </h2>
                     <div class="entry-meta">
@@ -549,34 +568,6 @@ We've got to do everything we can as quickly as we can to disrupt their websites
 <blockquote>
 <em>Deadwood</em> fans in our office are still smarting over last year's cancellation of their favorite show. But they won't be able to resist writer David Milch's follow-up series, <em>John From Cincinnati</em>, which debuts June 10 on HBO. It's got mystic philosophizing, SoCal surfing, drug addiction, and a mysterious person (or is he an alien?) named John, who is most definitely <em>not</em> from Cincinnati. Plus, Rebecca De Mornay plays a smokin' grandma! What's not to like? Whereas <em>Deadwood</em> was lavish and profane (think Cormac McCarthy with Tourette's Syndrome), <em>JFC</em> is spare and spiritual (think William James with surfboards). But it's pure Milch, so expect another overnight cult hit with memorable taglines (&quot;Meet the fuckin' Jetsons!&quot;) and fanboy pilgrimages to Imperial Beach, California, where the series is set.</blockquote>
 <p>Scrubbed from the first draft: a bunch of exclamation points and a bit about how our future society will be based upon <em>John From Cincinnati</em> and occasionally have to send George Carlin back through time to help David Milch score heroin/bibles.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2007/09/17/like-having-a-disease-named-after-you/">like having a disease named after you</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2007-09-17T14:28:00-04:00">Monday, 17 September 2007</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">L</div>
-                </header>
-
-                <div class="entry-content">
-                    <p><a class="reference external" href="http://www.drupal.org">Drupal</a> is excellent software, PHP-based though it may be. So there's a little thrill of excitement that occurs when you find what appears to be a genuine bug in a high-profile part of it. But that thrill is tempered when you realize that a) your clients don't care about the exotic nature of the problem, as they have already launched their website against your recommendation and b) all of the people who could help you appear to currently be on <a class="reference external" href="http://barcelona2007.drupalcon.org/">planes to Barcelona</a>.</p>
-<p>So I reproduce my plaintive IRC begging here not because I think it's likely to help (I know some Drupal hax0rs extraordinaire, but I don't think they're subscribed). No, this is just me crying out to the universe.</p>
-<blockquote>
-<div class="line-block">
-<div class="line">I've got a really weird issue with Views and profile fields. Essentially, a profile-heavy view intermittently stops returning any records. Resaving the view typically resolves the problem -- for a while. I haven't been able to determine the event that causes the view to break again, but it always does. Looking at the results from views_build_view('queries',..), it's clear that sometimes the module is forgetting to repeatedly join the query against profile_values.</div>
-<div class="line">for example, here's how the query looks when it's working: <a class="reference external" href="http://papernapkin.org/pastebin/view/2725">http://papernapkin.org/pastebin/view/2725</a></div>
-<div class="line">and here's how it looks when it's broken: <a class="reference external" href="http://papernapkin.org/pastebin/view/2726">http://papernapkin.org/pastebin/view/2726</a></div>
-<div class="line">in hook_views_query_alter this manifests itself as abbreviated 'tables' and 'tablequeue' properties in the query object. but adding code to that hook to manually alter those properties to the known-to-be-good version doesn't resolve the problem. so I'm at a loss. any ideas would be greatly appreciated.</div>
-</div>
-</blockquote>
-<p>It looks like I'll be dumping views and rewriting this page manually. Which, in turn, means that you can expect bitching about a SQL injection problem in this space in two or three days...</p>
 
                 </div>
             </article>

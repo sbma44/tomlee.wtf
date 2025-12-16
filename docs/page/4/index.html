@@ -55,6 +55,64 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2016/04/04/be-gentle-to-servers-and-mean-to-lawyers/">be gentle to their servers and mean to their lawyers</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2016-04-04T21:49:00-04:00">Monday, 04 April 2016</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">B</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>I didn't like <a class="reference external" href="http://www.storybench.org/to-scrape-or-not-to-scrape-the-technical-and-ethical-challenges-of-collecting-data-off-the-web/">this article about ethical screen scraping very much</a>, and said so on Twitter.</p>
+<blockquote>
+<p>Whyso? <a class="reference external" href="https://t.co/xDIUDMlovZ">https://t.co/xDIUDMlovZ</a></p>
+<p class="attribution">&mdash;Storybench (&#64;storybench) <a class="reference external" href="https://twitter.com/storybench/status/717150047775887360">April 5, 2016</a></p>
+</blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p><p>Well, you asked for it.</p>
+<p>Screen scraping is the automated collection of information from the web. For our purposes, let's assume it's public information. Stuff you can load in your web browser, using an incognito window and a pasted URL. Stuff meant for ungated human consumption.</p>
+<p>When might it be unethical to systematically collect this information, which is being published freely? I can think of a few scenarios that might qualify. If your use of the resource makes it unavailable to others, that might be unethical. This could happen if you hammer the server, but it could also happen if you mirror and resell a database that someone has spent money amassing and maintaining, undercutting them and destroying the model that sustains the resource for others.</p>
+<p>What if the owner simply doesn't like the way in which you use their information? Some people think this is a workable way of limiting how information is used. For example, they feel that public tweets shouldn't be quoted by journalists if the tweets weren't written with widespread distribution in mind. In a screen scraping context, a realtor site might be fine with you shopping for a home but less excited about your collecting price data to power an analysis of gentrification.</p>
+<p>I think that these kinds of implicit rules about how information is used are at best impractical. Well, okay, that's my diplomatic framing. I really think the sentiment is prudish, illiberal and ludicrous. <a class="reference external" href="http://blog.gaiam.com/quotes/authors/thomas-jefferson?page=3">The transfer of knowledge is not zero-sum</a> and we should err on the side of preserving that miraculous quality. But some people do think along opposing lines.</p>
+<p>And although there is very little legal support for their idea that such limitations should be the default way that our society works, it's certainly possible to impose arbitrary limits on what people do with information you give to them if you can get them to agree to a contract.</p>
+<p>This brings us to screen scraping.</p>
+<div class="section" id="you-have-a-right-to-use-information-you-ve-been-told">
+<h2>You have a right to use information you've been told</h2>
+<p>Liberal society works because facts belong to everyone. Unless you have a very good reason not to, you need to believe in your right to use published information. You need to believe in your right to think and speak freely about the things you have perceived. This is how our civilization works; it's how our minds work; it's how reality works. Don't give up this belief without a fight.</p>
+</div>
+<div class="section" id="fuck-their-contracts">
+<h2>Fuck their contracts</h2>
+<p>Nearly every website has a terms of service document. These are typically <a class="reference external" href="https://en.wikipedia.org/wiki/Standard_form_contract">contracts of adhesion</a> that say you can't use the site at all unless you agree to a ton of fine print, which will often include a prohibition on automated data collection and probably other things you will do in the normal course of using the web and sustaining belief in a modicum of personal rights. They're also sometimes called &quot;clickwrap&quot; licenses, a rough category of legal agreements that people mindlessly agree to through implicit action when they use software (or when they broke a seal during unwrapping, back when software came in boxes).</p>
+<p>This is fundamentally outrageous. You do not enter a contract when you walk into a store or open a book. But the law around websites was born in a later and worse age, when we let them get away with this kind of shenanigan. To a point.</p>
+<p>Just because a company puts something in a TOS doesn't mean it's legally enforceable. Google probably can't require you to murder a stranger as a condition of accessing your email, for example. They may not even be able to force Gmail users to permanently forego their right to sue if a self-driving car runs over Fluffy (though Google's lawyers will certainly try). When the fight lands in front of a judge, who will determine which outrageous overreaches are allowable, Google's case will be stronger if its lawyers can prove you read and understood the contract terms prior to violating them. I am not a lawyer, and you should consult a real one rather than relying on my advice. But reading the TOS may not do you any favors.</p>
+</div>
+<div class="section" id="the-cfaa-is-bullshit">
+<h2>The CFAA is bullshit</h2>
+<p>Outside of any contracts you mistakenly agree to, the Computer Fraud and Abuse Act is the primary vehicle by which scraping might get you into trouble. <a class="reference external" href="https://www.eff.org/issues/cfaa">Let's let the EFF explain</a>:</p>
+<blockquote>
+The CFAA is the federal anti-hacking law. Among other things, this law makes it illegal to intentionally access a computer without authorization or in excess of authorization; however, the law does not explain what &quot;without authorization&quot; actually means. The statute does attempt to define &quot;exceeds authorized access,&quot; but the meaning of that phrase has been subject to considerable dispute. While the CFAA is primarily a criminal law intended to reduce the instances of malicious hacking, a 1994 amendment to the bill allows for civil actions to be brought under the staute.</blockquote>
+<p>This is a stupid, arbitrary law, and you are potentially violating it every time you use the internet. You should be aware that it exists in the same way that you are aware sharks exist. But you shouldn't let them stop you from going in the ocean.</p>
+</div>
+<div class="section" id="not-asking-questions-is-a-great-way-to-avoid-dumb-answers">
+<h2>Not asking questions is a great way to avoid dumb answers</h2>
+<p>This is tricky, I know. If a site operator might be excited about your project, getting their permission might unlock better data, save you time, and avoid subsequent fights. But if they're antagonistic or even just *surprised*, they will instead ask their lawyers how they should respond to your request and their lawyers will (eventually) tell them to say &quot;no&quot;. Then you will have no plausible way to claim that you didn't know you shouldn't collect the information. Worse, the publishers will be on their guard.</p>
+<p>If you think the site operator might want to work with you, you should ask for their help. If you're not sure, you should instead ask yourself if you have an ethical claim to the data. The site operator is not necessarily the appropriate arbiter of that question. At <a class="reference external" href="https://sunlightfoundation.com">Sunlight</a> we encountered endless situations where the site operator was not the information's rightful owner. Government sites, hosting public information, with robots.txt files forbidding automated collection? To hell with that. It's wrong.</p>
+</div>
+<div class="section" id="the-stakes-matter">
+<h2>The stakes matter</h2>
+<p>I say all of the above blithely and confidently, and I think it's good advice for the audience to which the original talk was aimed: journalists. It is decidedly not how I approach these questions in my professional life, at least not these days. I work for a private, for-profit enterprise. We're trying to make money. We have the resources to be careful, to buy licenses, to read contracts, and to be worth suing.</p>
+<p>And while I'm proud of how much work our company does to add to the public good, we are not investigative reporters or nonprofit activists. Perhaps more to the point: if we callously take someone else's information and they come after us with a decent argument about it, no one will shed tears for us.</p>
+<p>If you are acting on behalf of a corporation, talk to your counsel, then talk to their counsel, then work out an agreement. Take it from Gawker, getting deposed isn't as fun as it sounds.</p>
+<p>If you are a journalist, a hobbyist, an activist, or really anyone seeking knowledge rather than wealth: scrape that site. Teach us something. Try not to be a jerk about it. It will probably be fine.</p>
+</div>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2015/12/22/star-wars/">Star Wars</a>
                     </h2>
                     <div class="entry-meta">
@@ -649,44 +707,6 @@ Gladwell has used information from others without attribution, often in language
 </ul>
 <p>It's safe to say that this curriculum isn't too different from other Arduino classes. The extent to which it relies on the sample code that ships with the Arduino IDE is proof enough of that. But in my experience the hardest-won pieces of knowledge in any technical hobby are the bits of folk knowledge that don't rise to the level of Timeless Principle. What vendors have the best deals? What's the name of that kind of connector? Which stuff do I <em>really</em> need to know, and which stuff is just there because the instructor thinks it's good for me?</p>
 <p>I tried to focus on these questions in the notes attached to these slides. Hopefully you'll find them useful! Based on student response, I think that lesson 3 needs some touch-up work for non-Python users, but otherwise they're probably in pretty okay shape.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2014/06/02/advice-for-an-aspiring-programmer/">advice for an aspiring programmer</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2014-06-02T18:07:00-04:00">Monday, 02 June 2014</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">A</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Last week we interviewed a candidate who we really liked but who was much too green. He asked for some advice, so here's what I wrote -- might as well put it online. Hopefully it's a little more specific and opinionated than these things tend to be.</p>
-<hr class="docutils" />
-<p>It was a real pleasure to meet you, but your instincts are right: at this point we have to invest in people with a bit more experience under their belts. I do want to stress, though, that your enthusiasm and interest in software engineering came through clearly, and made us all enthusiastic about the developer you will no doubt become.</p>
-<p>Toward that end, let me offer a little more advice than I usually put into these sorts of emails:</p>
-<ul class="simple">
-<li>Pick a technology and invest time in it. There is tremendous value to understanding the repetition of patterns across engineering domains, but you need to gain deep expertise in one before you can do so effectively.</li>
-<li>I'll be more specific: pick one of these technologies -- Ruby, Python, Node/Javascript. All have vibrant open source communities from which you can learn a lot for free. All have bustling job markets. All have bindings in a huge variety of domains. All are abstract and widely supported and will spare you many of lower-level languages' headaches. All have robust web frameworks. Personally, I'd suggest Python, because it is the most stable and widely supported. It's everywhere-- it is Google's noncompiled language of choice, for instance, and widely used in scientific computing and a huge number of other areas. But its community is less fun and accessible than the others, and it's more sedate. The others will take you on a wilder ride, but you will probably have to learn things a few times as the community changes its mind about how to solve a problem. This is extra true for Node and less so for Ruby -- which reflects each community's age.</li>
-<li>There is a premium for mobile dev work, but I wouldn't invest in that right now because it's too specialized to be a great way to learn. Also iOS will be in turmoil thanks to Swift, and Java dev is a drag outside the genuinely-exciting opportunities of Android.</li>
-<li>Focus on the web and the key tasks associated with it. Skim the topics that other languages' web frameworks cover -- they all solve the same problems in slightly different ways. Invest a little time in learning jQuery -- being able to build out web templates is a very plausible starter job, and one you can get good at fast. Also, make a point of learning regular expressions and the network libraries and functions necessary for using APIs.</li>
-<li>You do not need to know much about data structures, compiler design, sorting algorithms, recursion or most of the other things that they teach you in a CS program.</li>
-<li>Microsoft technologies can earn you money but will never fully integrate with the world of open source software, which is where the best engineers and most exciting projects exist. I have written Visual Basic for a living; I don't think you should write any more of it. The .NET frameworks are okay but basically a less-open version of Java. Everyone hates Java.</li>
-<li>I wrote PHP for many years professionally and still think it is a cheap, useful tool. It gets zero respect in programming circles, though -- I would not suggest spending more time learning it until/unless you have mastered something more prestigious and just want it for quick personal projects.</li>
-<li>You should probably learn with a good text editor (but not an IDE) and the command line as your primary tools. On OS X I like Sublime Text 2. Speaking of which: you should be developing on OS X or Linux (people around here tend to favor Ubuntu or Mint). If you're on Windows now this will be painful, but you will never fully connect with the open source world and its idioms unless you get used to the *nix command line interface.</li>
-<li>There is no substitute for working with engineers who are better than you are. This is tough until you get yourself hired somewhere, though! On the far end there are code bootcamps, but those cost money. On the near end there are technical meetups -- shop around and find one that seems technical enough to teach you things. Contributing to open source projects is a good idea, too --&nbsp;<a class="reference external" href="http://sunlightfoundation.com/blog/2014/05/13/why-weve-collected-a-hojillion-inspector-general-reports/">writing an IG scraper for Sunlight might be an approachable task</a>&nbsp;(he said selfishly). Online tutorials can take you a long way if you put in the time.</li>
-<li>Get active on Github! Follow how people like Eric Mill (&#64;konklone) and Tom Macwright (&#64;tmcw) and Josh Tauberer (&#64;govtrack) do their work. Recognize that filing tickets is a valid way to contribute, as long as they are well-informed. It doesn't have to all be pull requests.</li>
-<li>Master the art of googling for error messages. Using search engines, Stack Exchange, mailing lists and IRC properly to uncover unknown answers is maybe the most important skill in real-life programming.</li>
-<li>Once you identify superstar programmers, follow them on Twitter or their blogs. The writing of people like Ian Bicking will get you familiar with the cultural context surrounding your programming language of choice. Speaking of which: conferences can be pricey but once you're ready they can be a really good way to learn -- if you pick the right one. Pycon is excellent. I know less about the other languages' marquee cons.</li>
-<li>Spend some time reading about diversity in technology. The situation is not good, and a lot of people are working very hard to change it. This is a huge topic of discussion right now and you need to be able to talk about it intelligently.</li>
-<li>If someone mentions linked data or the semantic web and they have never held a job at Google, assume they are about to waste your time.</li>
-</ul>
-<p>There! I think that's all the advice I can come up with for someone in your shoes. Ask me questions when you have them. And good luck.</p>
 
                 </div>
             </article>

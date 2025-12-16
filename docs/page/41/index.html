@@ -55,6 +55,34 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2007/09/17/like-having-a-disease-named-after-you/">like having a disease named after you</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2007-09-17T14:28:00-04:00">Monday, 17 September 2007</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">L</div>
+                </header>
+
+                <div class="entry-content">
+                    <p><a class="reference external" href="http://www.drupal.org">Drupal</a> is excellent software, PHP-based though it may be. So there's a little thrill of excitement that occurs when you find what appears to be a genuine bug in a high-profile part of it. But that thrill is tempered when you realize that a) your clients don't care about the exotic nature of the problem, as they have already launched their website against your recommendation and b) all of the people who could help you appear to currently be on <a class="reference external" href="http://barcelona2007.drupalcon.org/">planes to Barcelona</a>.</p>
+<p>So I reproduce my plaintive IRC begging here not because I think it's likely to help (I know some Drupal hax0rs extraordinaire, but I don't think they're subscribed). No, this is just me crying out to the universe.</p>
+<blockquote>
+<div class="line-block">
+<div class="line">I've got a really weird issue with Views and profile fields. Essentially, a profile-heavy view intermittently stops returning any records. Resaving the view typically resolves the problem -- for a while. I haven't been able to determine the event that causes the view to break again, but it always does. Looking at the results from views_build_view('queries',..), it's clear that sometimes the module is forgetting to repeatedly join the query against profile_values.</div>
+<div class="line">for example, here's how the query looks when it's working: <a class="reference external" href="http://papernapkin.org/pastebin/view/2725">http://papernapkin.org/pastebin/view/2725</a></div>
+<div class="line">and here's how it looks when it's broken: <a class="reference external" href="http://papernapkin.org/pastebin/view/2726">http://papernapkin.org/pastebin/view/2726</a></div>
+<div class="line">in hook_views_query_alter this manifests itself as abbreviated 'tables' and 'tablequeue' properties in the query object. but adding code to that hook to manually alter those properties to the known-to-be-good version doesn't resolve the problem. so I'm at a loss. any ideas would be greatly appreciated.</div>
+</div>
+</blockquote>
+<p>It looks like I'll be dumping views and rewriting this page manually. Which, in turn, means that you can expect bitching about a SQL injection problem in this space in two or three days...</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2007/09/17/barely-returned/">barely returned</a>
                     </h2>
                     <div class="entry-meta">
@@ -728,29 +756,6 @@ Redirect 301 /2007/07/bias/ http://www.brianbeutler.com/2007/07/bias_1/
                 <div class="entry-content">
                     <p>A somewhat dense but <a class="reference external" href="http://spectrum.ieee.org/aug07/5429">really good article</a> from IEEE Spectrum (found via Slashdot). It comes complete with a somewhat-irritating but still very informative <a class="reference external" href="http://spectrum.ieee.org/aug07/5480">Flash demonstration</a> of the topic it discusses: how recorded music has become louder and more fatiguing as a result of an arms race between music producers that trades upon our pathetically easily-fooled nervous systems. It's like the omnipresence of corn syrup in processed foods: everyone says they don't like it, but it's hard to argue with figures showing that sweetness = sales.</p>
 <p>The article covers a lot of ground, touching on numerous issues related to how audio storage technology works (I had no idea that engineers could alter vinyl's dynamic range during mastering — sort of like adjusting the bitrate on an MP3). Definitely worth a read. And if you have any irritating audiophile friends, you may want to send them the link. If they don't understand the piece, politely tell them to shut up for a bit about how awful digital audio technology is.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2007/08/23/i-have-been-remiss/">I have been remiss</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2007-08-23T11:13:00-04:00">Thursday, 23 August 2007</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">I</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Lots of people I know are doing great things on the internet, and I haven't been paying enough attention. So here! Some links that you ought to pay attention to, two of which are shamelessly lifted from <a class="reference external" href="http://dceiver.blogspot.com/2007/08/dceptette-tickety-tockety.html">DCeiver</a>.</p>
-<ul class="simple">
-<li><a class="reference external" href="http://www.movering.com/yogaball">Yogaball is sweeping the nation</a>, and all that you can hope to do is familiarize yourself with its rules before a rising tide of family fun sweeps over the carpeted floors of your home and you just stare — and then it's like the time between now and that first spreading sheet of water never existed, and suddenly you're crying/gasping for breath in a small pocket of air near the ceiling, an indifferent flashlight bobbing next to you, and you can hear yourself and the splashing water but otherwise it's silent. THAT'S how fun Yogaball is. Prepare yourself, and consider purchasing flood and/or lawn sport insurance (if available/extant).</li>
-<li>Have you ever wondered what Sommer's favorite food is? Of course you have. Well, stop torturing yourself about it. This and other revelations can be found in <a class="reference external" href="http://www.washingtonian.com/blogarticles/people/capitalcomment/4989.html">her interview with Washingtonian</a>, which she handled with grace and wit.</li>
-<li><a class="reference external" href="http://pygmalioninablanket.blogspot.com/2007/08/something-meaty-this-way-comes-part-2.html">This</a> is what Western civilization has been working toward all these years. When I look at that meat cake I suddenly understand how Christopher Hitchens has been feeling these past six years.</li>
-</ul>
 
                 </div>
             </article>

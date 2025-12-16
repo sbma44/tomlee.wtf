@@ -55,6 +55,29 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2006/10/09/wasting-money-takes-a-lot-of-research/">wasting money takes a lot of research</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2006-10-09T22:33:00-04:00">Monday, 09 October 2006</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">W</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>A while back I did <a class="reference external" href="http://www.dcist.com/archives/2005/12/14/dissecting_the.php">a post on DCist</a> about pulling apart our subway system's SmarTrip card. I've been meaning to follow up, but wasn't quite sure what to do. The obvious next step is to try to get some data off of WMATA media. I actually took a stab at this with the old magnetic farecards, ordering the <a class="reference external" href="http://stripesnoop.sourceforge.net/faq.html#a17">necessary parts</a> and never receiving them from DigiKey.</p>
+<p>But magstripes are boring anyway. Pulling data from the SmartTrip would be considerably more exciting. But where to begin? My acetone-powered adventures notwithstanding, it's tough to even know what technology is inside the SmarTrip, much less how to access it. How should one go about figuring this out? The totally unsurprising answer: use Google.</p>
+<p>It turns out that the SmarTrip is <a class="reference external" href="http://lnweb18.worldbank.org/External/lac/lac.nsf/Sectors/Transport/FCB7AB38B086D96F852568B200777333?OpenDocument">actually a &quot;GO CARD&quot;</a> manufactured by a company called Cubic that makes <a class="reference external" href="http://www.cubic.com/ecc/cctt/index.html">videogames for the military</a>, <a class="reference external" href="http://cubic.com/cts/sysdiagram.htm">complicated charts</a> and wireless farecard thingamajigs. And look! It's a gigantic <a class="reference external" href="http://www.itsc.org.sg/plugfest/pf_documents/pf2004/CryptoSC-6-Cubic.pdf">datasheet PDF</a>, which reveals that GO CARDS are modified <a class="reference external" href="http://en.wikipedia.org/wiki/ISO_14443">ISO 14443 B</a> cards.</p>
+<p>That internet says that means that they run on the 13.56 MHz frequency, which means that <a class="reference external" href="http://www.sonmicro.com/1356/sm1013.php">for a mere $96</a> I could get an RFID dev kit that'd let me talk to the chips. Probably.</p>
+<p>But surprisingly, I'm not ready to drop that much money on a blog post. Yet.</p>
+<p><strong>ALTHOUGH:</strong> Section 4.4.0 of <a class="reference external" href="http://64.233.161.104/search?q=cache:BkRfDOdZAGcJ:www.apta.com/about/committees/utfs/standard/documents/trends_in_electronic_fare_media_1_5.doc+trends_in_electronic_fare_media_1_5.doc&amp;hl=en&amp;gl=us&amp;ct=clnk&amp;cd=2">this document</a> makes me think I shouldn't waste my time — they namecheck <a class="reference external" href="http://geekz.co.uk/schneierfacts/">Bruce Schneier</a>. Since doing that is about the extent of my own knowledge of cryptography, I figure I'm probably outgunned.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2006/10/09/hi-there/">hi there</a>
                     </h2>
                     <div class="entry-meta">
