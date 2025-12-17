@@ -9,7 +9,7 @@ save_as: 2025/12/17/bosch-washed/index.html
 url: 2025/12/17/bosch-washed/
 ---
 
-[![bosch washed infographic showing dishwashing stats](/static/2025/12/bosch_washed.png)](/static/2025/12/bosch_washed.png)
+[![bosch washed infographic showing dishwashing stats](/static/2025/12/bosch_washed_2.png)](/static/2025/12/bosch_washed_2.png)
 
 My Spotify Wrapped was less embarrassing than it could have been--I am frozen in time in the late aughts, but that's fine with me. But it reminded me to take on one more "if only I had the time" project.
 
