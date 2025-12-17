@@ -55,6 +55,28 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2007/02/15/rock-show/">rock show!</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2007-02-15T13:48:00-05:00">Thursday, 15 February 2007</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">R</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Well, I'm 27. 26 was a fairly traumatic year, but I'm sorry to leave it behind — it seemed like a pretty good age to be. But I've still got over a thousand days until the crystal in my left palm turns black, so I'm not <em>really</em> upset at marking this year off the calendar.</p>
+<p>I'm still sort of apathetic about the whole birthday observance ritual, though. So instead of trying to guilt you all into celebrating the anniversary of my glorious birth, I think I'll just try to guilt you into coming to this:</p>
+<p><a class="reference external image-reference" href="http://www.dcist.com/archives/2007/02/15/unbuckled_5_has.php"><img alt="unbuckled flyer" class="center" src="http://www.dcist.com/attachments/dcist_amanda/unbuckled%20flyer.jpg" /></a></p>
+<p>I'm confident that it'll be great.</p>
+<p>In other news, it appears that the song on the new Arcade Fire CD that's my current favorite is <a class="reference external" href="http://www.stereogum.com/archives/004615.html">actually</a> <a class="reference external" href="http://thetorturegarden.blogspot.com/2007_01_01_archive.html">about</a> what a jerk Jessica Simpson's dad is. That makes me like it even more.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2007/02/14/everythings-terrible/">everything's terrible</a>
                     </h2>
                     <div class="entry-meta">
@@ -723,152 +745,6 @@ wget http://manifestdensity.net/mt/mt-rotate.php?mysecret -O/dev/null
 <p>And, with that somewhat anticlimactic final step, we should be done. The cron should fire however often you set it to (as you can see from the screenshot, I told it to fire once an hour — that seems like a good number to me). When it does, the necessary files will be renamed and updated, and your Movable Type installation should remain fairly spam-free. Hurrah!</p>
 <p><strong>UPDATE:</strong> Whoops! My mistake: I didn't realize that the comment preview template can't be made to use PHP — the filename will always end in .cgi, because it *is* the mt-comments script. You might have noticed this when you implemented part two and ended up with non-working Javascript.</p>
 <p>The good news is that there's an easy workaround: <strong>simply remove the action attribute from the comment preview template's form tag entirely</strong>. This will make the form submit to itself. If someone's at the preview form, they already know the URL, which means they have the comment script name and there's no point in hiding it anyway.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2007/01/27/fighting-movable-type-comment-spam-part-2/">fighting movable type comment spam - part 2</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2007-01-27T13:43:00-05:00">Saturday, 27 January 2007</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">F</div>
-                </header>
-
-                <div class="entry-content">
-                    <p><a class="reference external" href="http://www.informationleafblower.com">Kyle</a> and <a class="reference external" href="http://www.jeffnye.org">Jeff</a> rightly pointed out that yesterday's bout of MT-theorizing (aka <a class="reference external" href="/2007/01/26/fighting-movable-type-comment-spam-part-1/">part 1</a>) — however marginally interesting it might have been — wasn't all that helpful. They're right. I didn't write it in a practically-minded sort of way. So here's a shot at explaining how you'd use the stuff I discussed. And, happily enough, some of these steps are necessary for you to use the upcoming method that I alluded to at the end of the last post — so I would've had to write a large part of this anyway.</p>
-<p>First things first. The Javascript obfuscator function that I wrote about is written in PHP. More importantly, the rotating comment script functionality I keep alluding to (and which will be a considerably more powerful anti-spam measure) will rely on PHP. But if your Movable Type site was installed with the default settings, its pages aren't PHP — they're just HTML (Jeff and Kyle: I checked, and this applies to both of you).</p>
-<p>So what does this mean, and how do we fix it? Well, PHP is a server-side scripting language. When it serves a webpage out to a user it looks for PHP code in it (marked by blocks beginning with &quot;&lt;?php&quot; and ending with &quot;?&gt;&quot;) and runs it before sending the resulting HTML to a user's web browser. You can do all kinds of useful things with PHP — talk to databases, manage user sessions, create graphics, compose PDFs — but we'll just be using some of its most basic functionality. But even if you weren't trying to fight comment spam I think that converting your site to PHP would be a good idea. There are a lot of neat things that people have written in it that you might want to use someday.</p>
-<p>By default PHP doesn't run on every web page coming from a server. Instead, it only runs on pages whose names end in .php — this is done for efficiency's sake, so that PHP is only invoked when necessary. If you have complete control over the server you can change this. But for you, me, and anyone else bothering to read this, you won't have that level of control. So instead we need to make Movable Type begin to generate .php files instead of .html.</p>
-<p>Doing this is actually pretty easy. First, go to the templates section of your blog's MT administrative interface. By default you should be looking at the Index Templates. You'll notice that there's a list of &quot;Output Files&quot;. Find one of these that ends in &quot;.html&quot; and click on the template name. You should see a screen that looks like this:</p>
-<p><a class="reference external image-reference" href="http://www.flickr.com/photo_zoom.gne?id=370935695&amp;size=o"><img alt="changing a movable type template's output file extension" class="center" src="http://farm1.static.flickr.com/162/370935695_7019159597.jpg" /></a></p>
-<p>I've highlighted the extension in yellow. Just change it from &quot;html&quot; to &quot;php&quot; and save the template. Do this for each template in the Index Templates section that has an Output File ending in .html. The next time that your site is rebuilt, the index templates will have .php extensions — so instead of index.html, you'll get index.php.</p>
-<p>But the Index Templates are only half of the problem. There are a lot of other files generated by MT: the pages for individual entries, for example. These share a common template — it's under the &quot;Archives&quot; tab in the templates section. But if you click to it, you'll find that there's no place to specify the extension.</p>
-<p>Instead, click on &quot;Settings&quot; in the left sidebar, then on the &quot;Publishing&quot; tab. You'll see a screen like this:</p>
-<p><a class="reference external image-reference" href="http://www.flickr.com/photo_zoom.gne?id=370935654&amp;size=o"><img alt="changing movable type's archive template extension" class="center" src="http://farm1.static.flickr.com/138/370935654_8110dea79a.jpg" /></a></p>
-<p>Again, note the yellow box, change its contents from &quot;html&quot; to &quot;php&quot; and hit &quot;Save Changes&quot;.</p>
-<p><img alt="Movable Type's 'Rebuild' Button" class="right" src="/static/2007/01/27/2000127_mtrebuilt.gif" />You're almost done with the HTML » PHP conversion. Click on the &quot;Rebuild Site&quot; button in the left sidebar, select &quot;Rebuild All Files&quot; from the dropdown and click the &quot;Rebuild&quot; button. Depending on the size of your site, this might take a little while.</p>
-<p>Okay. What Movable Type has just done is regenerated every file on your site as a .php file. But there's a problem: the .html files are still there. It's not a <em>big</em> problem — the links that are generated by MT to things like your archives and individual entries will all have been changed automatically. But incoming links to old entries will be pointing at the .html file, which is no longer the right thing for them to point to. Fortunately, we can fix this. Open up Notepad or another text editor and enter this text:</p>
-<blockquote>
-<pre class="literal-block">
-# This file automatically sends users looking for .html files to the
-# equivalent .php file, if it exists.  It should be named .htaccess and placed
-# in the directory that corresponds to the root of your website.
-&lt;IfModule mod_rewrite.c&gt;
-# turn on the rewriting engine
-RewriteEngine on
-# make this equivalent to the part that comes after your
-# domain name.  for example, if your blog lives at
-# http://www.server.com/my/blog, make the next line read
-# RewriteBase /my/blog
-RewriteBase   /
-# parse out basename, but remember if we did
-RewriteRule   ^(.*)\.html$              $1      [NC,E=WasHTM:yes]
-# rewrite to document.php if exists
-RewriteCond   %{REQUEST_FILENAME}.php -f
-RewriteRule   ^(.*)$ $1.php             [R=301,S=1]
-# else reverse the previous removal of .html
-RewriteCond   %{ENV:WasHTM}            ^yes$
-RewriteRule   ^(.*)$ $1.html
-&lt;/IfModule&gt;
-# adapted from http://www.totalchoicehosting.com/forums/lofiversion/index.php/t25151.html
-</pre>
-</blockquote>
-<p>Be sure you edit the line with &quot;RewriteBase&quot; in it if your blog lives in a subdirectory of your website (if it lives at the domain's root — e.g. <a class="reference external" href="http://www.manifestdensity.net">http://www.manifestdensity.net</a> instead of <a class="reference external" href="http://www.zunta.org/blog">http://www.zunta.org/blog</a> — then you can leave it alone). Save this as a file called &quot;htaccess&quot;. Using an FTP client, upload it to the root public directory of your website — the directory which, if I uploaded a file called test.txt to it, would result in the file being available at /static/2007/01/27/test.txt (it's frequently the directory called &quot;public_html&quot; that you see as soon as you connect with FTP). Then, still using the FTP client, rename it to &quot;<strong>.</strong>htaccess&quot; (we're adding the dot at this point because on some systems adding it earlier would have made it invisible, and consequently quite a bit harder to work with). If an .htaccess file already existed, you probably shouldn't overwrite it. Email me the contents and we can sort through how to merge the two.</p>
-<p>If your webserver is configured in a typical way, this .htaccess file will make the server look at every incoming request for a file ending in .html and check to see if there's an identically-named file ending in .php. If there is, it'll forward the user to the .php version. If there isn't, it'll serve up the original .html. Handy, huh? Have a look around your site (and via old links to it on other sites) and make sure that everything is working the way you expect it to.</p>
-<p>Okay. It's taken us a while to get here, I admit. But things should get easier from here on out. You now have the ability to put PHP in your templates in order to generate obfuscated Javascript that will in turn obfuscate the comment script's location. The first thing to do is to change the comment script's name — after all, if the spammers already know its location, hiding that location won't do us much good.</p>
-<p>Fire up your FTP client again and go to the directory where MT is installed. Use it to rename mt-comments.cgi to something hard to guess — for the purposes of this post, I'll pretend you chose <em>toms-replacement-mt-comments.cgi</em>, but you should select something unique and hard to guess. From the same directory, download <em>mt-config.cgi</em> and open it up in a text editor. Look for a line like this:</p>
-<blockquote>
-<pre class="literal-block">
-CommentScript mt-comments.cgi
-</pre>
-</blockquote>
-<div class="line-block">
-<div class="line">If there is one, change <em>mt-comments.cgi</em> to</div>
-<div class="line"><em>toms-replacement-mt-comments.cgi</em>. If there isn't one, add one:</div>
-</div>
-<blockquote>
-<pre class="literal-block">
-CommentScript toms-replacement-mt-comments.cgi
-</pre>
-</blockquote>
-<p>Save the file and upload it over your old mt-config.cgi.</p>
-<p>Congratulations: your comments are now broken! This is because all the comment forms on your site are now pointing at the script's old name. If you rebuilt the site they'd be automatically fixed (assuming your templates are properly written), since MT would swap in the new script name. But we don't want to do that just yet.</p>
-<p>Instead, go into your MT Admin Panel's Templates section again. Go to the Archives tab and open the Individual Entry Archive template. Find the opening &lt;form&gt; tag for the comment form — in the default MT 3.2 templates, it looks like this:</p>
-<blockquote>
-<pre class="literal-block">
-&lt;form method=&quot;post&quot; action=&quot;&lt;$MTCGIPath$&gt;&lt;$MTCommentScript$&gt;&quot; name=&quot;comments_form&quot; onsubmit=&quot;if (this.bakecookie.checked) rememberMe(this)&quot;&gt;
-</pre>
-</blockquote>
-<p>Notice the action=&quot;&lt;$MTCGIPath$&gt;&lt;$MTCommentScript$&gt;&quot; line. This is what we're going to change, so that instead it's set by Javascript. In order to do that, we need to know how to manipulate the form in Javascript. As in the Bible/Hellboy comics, naming a thing gives you power over it: make sure that the <strong>name=&quot;comments_form&quot;</strong> portion of the &lt;form&gt; tag is present in your comment form (if <strong>name</strong> is there but set to something else, change the Javascript I've provided to use that name instead of <strong>comments_form</strong>).</p>
-<p>Alright. Almost there. First, we need to point the form's action attribute at the wrong place, to lead spammers on a wild goose chase. That's easy enough to do — setting <strong>action=&quot;/&quot;</strong> should be sufficient. Now let's use some Javascript to set the form's action to the right thing. Right after the form's closing tag, add the following Javascript (I've included the &lt;form&gt; tag, too, to remind you where it goes. Don't paste this in as well — you only need one &lt;form&gt; tag.).</p>
-<blockquote>
-<pre class="literal-block">
-&lt;form method=&quot;post&quot; action=&quot;/&quot; name=&quot;comments_form&quot; onsubmit=&quot;if (this.bakecookie.checked) rememberMe(this)&quot;&gt;
-All of the form's HTML
-&lt;/form&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-document.comments_form.action = '&lt;$MTCGIPath$&gt;&lt;$MTCommentScript$&gt;';
-&lt;/script&gt;
-</pre>
-</blockquote>
-<p>There! Your form's action is now somewhat hidden. If you'd like to hide it further (and make use of our exciting new PHP powers), just paste in the function that I wrote yesterday and use it to scramble the JS. It should end up looking like so:</p>
-<blockquote>
-<pre class="literal-block">
-&lt;form method=&quot;post&quot; action=&quot;/&quot; name=&quot;comments_form&quot; onsubmit=&quot;if (this.bakecookie.checked) rememberMe(this)&quot;&gt;
-All of the form's HTML
-&lt;/form&gt;
-&lt;?php
-function ObfuscateJS($string_to_obfuscate, $number_of_variables=5, $max_chars_per_chunk=3)
-{
-// create some random variables that will be used by JS later on
-$vars = array();
-for($i=0;$i&lt;$number_of_variables;$i++)
-$vars[] = rand();
-// begin building the JS string
-$js = &quot;if(typeof(Obfuscator)!='object')\n   var Obfuscator = new Object();\n&quot;;
-for($i=0;$i&lt;sizeof($vars);$i++)
-$js .= &quot;Obfuscator.v$i = &quot; . $vars[$i] . &quot;;\n&quot;;
-$js .= &quot;eval(''&quot;;
-while(strlen($string_to_obfuscate))
-{
-// figure out how many characters we're going to encode this time
-$num_chars_this_time = rand(1,$max_chars_per_chunk);
-// grab that chunk of characters
-$this_chunk = str_replace(&quot;'&quot;,&quot;\\'&quot;,substr($string_to_obfuscate,0,$num_chars_this_time));
-// remove that chunk from the string we're working on
-$string_to_obfuscate = substr($string_to_obfuscate,$num_chars_this_time);
-// create a plausible-seeming alternate, garbage chunk
-$rotated_chunk = '';
-for($i=0;$i&lt;strlen($this_chunk);$i++)
-{
-$thischar = substr($this_chunk,$i,1);
-if((($thischar&gt;='A')&amp;&amp;($thischar&lt;='Z'))||(($thischar&gt;='a')&amp;&amp;($thischar&lt;='z')))
-$thischar = chr(ord($thischar) + (((rand()%2)==1) ? 1 : -1));
-$rotated_chunk .= $thischar;
-}
-// figure out which of our random variables we're going to use
-$v1index = rand(0,sizeof($vars)-1);
-$v2index = rand(0,sizeof($vars)-1);
-// write out a short-form JS if-then that uses the random vars to decide its order
-$js .= &quot; + ((Obfuscator.v$v1index &gt; Obfuscator.v$v2index) ? &quot; . (($vars[$v1index]&gt;$vars[$v2index]) ? &quot;'$this_chunk' : '$rotated_chunk')&quot; : &quot;'$rotated_chunk' : '$this_chunk')&quot;);
-}
-$js .= &quot;);\n&quot;;
-return $js;
-}
-?&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-&lt;?php print ObfuscateJS(&quot;document.comments_form.action = '&lt;$MTCGIPath$&gt;&lt;$MTCommentScript$&gt;';&quot;);?&gt;
-&lt;/script&gt;
-</pre>
-</blockquote>
-<p>That's it! Well, okay, almost it: you'll have to make the same changes on any other templates where a comment form appears. [STRIKEOUT:The comment preview template springs to mind] (see update). If you have comment forms in any other places on your site, you'll have to hunt those down, too. But that shouldn't be too hard. Once you're done, rebuild your site again, verify that comments are working, and revel in your now somewhat-better-protected comment system.</p>
-<p>Next: a way to rename <em>mt-comments.cgi</em> on an hourly basis. That'll show 'em.</p>
-<p><strong>UPDATE:</strong> Forget what I said about the comment preview template needing to be changed in a similar way. What you should actually do is <strong>remove the action property entirely from the comment preview template's &lt;form&gt; tag</strong>. I explain why in <a class="reference external" href="/2007/01/26/fighting-movable-type-comment-spam-part-1/">part 3</a> which — hey! — is now available. How about that.</p>
 
                 </div>
             </article>
