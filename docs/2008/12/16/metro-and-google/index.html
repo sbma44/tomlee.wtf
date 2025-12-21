@@ -31,8 +31,9 @@
                 </div>
                 <nav class="main-nav">
                     <ul>
-                        <!-- <li><a href="https://tomlee.wtf/">Home</a></li>
-                        <li><a href="https://tomlee.wtf/about/">About</a></li>
+                        <li><a href="https://tomlee.wtf/">Home</a></li>
+                        <li><a href="https://tomlee.wtf/search/">Search</a></li>
+                        <!-- <li><a href="https://tomlee.wtf/about/">About</a></li>
                         <li><a href="https://tomlee.wtf/projects/">Projects</a></li> -->
                         <li class="social-icon"><a href="https://github.com/sbma44" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
@@ -53,19 +54,20 @@
 <div class="typology-section">
     <div class="section-content">
         <article class="typology-post typology-single-post">
-            <header class="entry-header">
-                <h1 class="entry-title">Metro and Google</h1>
+            <header class="entry-header" data-pagefind-ignore>
+                <h1 class="entry-title" data-pagefind-meta="title">Metro and Google</h1>
 
                 <div class="entry-meta">
                     <span class="meta-item">
-                        <time datetime="2008-12-16T15:01:00-05:00">Tuesday, 16 December 2008</time>
+                        <time datetime="2008-12-16T15:01:00-05:00" data-pagefind-meta="date">Tuesday, 16 December 2008</time>
+                        <span data-pagefind-filter="year" style="display: none;">2008</span>
                     </span>
                 </div>
 
                 <div class="post-letter">M</div>
             </header>
 
-            <div class="entry-content">
+            <div class="entry-content" data-pagefind-body>
                 <p>Let's talk about Metro's recent decision to eschew Google Transit. This is a topic about which I have a small amount of inside knowledge, actually. At the end of August I wrote to WMATA's CTO, Suzanne Peck. I talked about some of the projects I'd done with WMATA data and expressed my affection for the agency. I explained that I was frustrated by the limits of the data available on wmata.com, and I requested a meeting. I received a response almost immediately (even though it was 11pm or so — a good sign in a CTO!). She thanked me for my interest, complimented me on my projects and directed me to Victor Grimes, her deputy, whom she instructed to meet with me.</p>
 <p>I met with Mr. Grimes a week or two later. He was cordial but not too interested in what I had to say about opening up WMATA's data: according to him, the situation was well in hand. WMATA was already on its way to integrating with Google Transit. There were just a few lingering problems.</p>
 <p>To discuss those properly, we first need to talk briefly about Google Transit. The heart of Google's system is their <a class="reference external" href="http://code.google.com/transit/spec/transit_feed_specification.html">GTFS format</a> — this stands for Google Transit Feed Specification, and it's quickly become an industry standard. It's not too complicated: basically a GTFS feed consists of a bunch of comma-delimited files with names like &quot;routes.txt&quot; and &quot;stops.txt&quot;, which all get zipped up into one file and placed on the transit agency's website. You could open these up in Excel if you wanted. Google sucks this data down once a week or so, processes it and displays it within their own systems — but a transit agency doesn't have to worry about all that. They just need to make sure they get their GTFS file right, and that Google knows where to find it. Many other systems have adopted GTFS, and a lot of them make the data <a class="reference external" href="http://www.bart.gov/schedules/developers/open.aspx">available to the public</a>, not just to Google.</p>

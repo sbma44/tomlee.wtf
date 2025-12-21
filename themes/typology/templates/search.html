@@ -1,0 +1,222 @@
+{% extends "base.html" %}
+
+{% block title %}Search - {{ SITENAME }}{% endblock %}
+
+{% block extra_head %}
+<script src="/pagefind/pagefind.js"></script>
+<style>
+    .search-container {
+        margin: 0 auto;
+        /* max-width: 800px; */
+        /* padding: 4rem 2rem; */
+    }
+
+    /* Search input */
+    #search-input {
+        font-family: 'Domine', serif;
+        font-size: 1.8rem;
+        padding: 1.2rem 1.5rem;
+        border: 2px solid #ddd;
+        border-radius: 4px;
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 2rem;
+    }
+
+    #search-input:focus {
+        border-color: var(--color-primary);
+        outline: none;
+    }
+
+    /* Results */
+    #search-results {
+        margin-top: 3rem;
+    }
+
+    .entry-content h2.search-result-title {
+        margin-bottom: 0;
+    }
+
+    .search-result {
+        margin-bottom: 4rem;
+    }
+
+    .search-result-title {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 3.6rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+        margin-top: 0;
+        line-height: 1.25;
+        text-transform: uppercase;
+        color: var(--color-text-dark);
+    }
+
+    .search-result-title a {
+        text-decoration: none;
+        color: var(--color-text-dark);
+    }
+
+    .search-result-title a:hover {
+        color: var(--color-primary);
+    }
+
+    .search-result-date {
+        font-family: 'Domine', serif;
+        font-size: 1.4rem;
+        color: var(--color-text-muted);
+        margin-top: 0.5rem;
+        margin-bottom: 2rem;
+        display: block;
+    }
+
+    .search-result-excerpt {
+        font-family: 'Domine', serif;
+        font-size: 1.8rem;
+        line-height: 1.88;
+        color: var(--color-text);
+    }
+
+    .search-result-excerpt mark {
+        background-color: #fff3cd;
+        padding: 0.2rem 0.4rem;
+        font-weight: 600;
+        color: var(--color-text-dark);
+    }
+
+    .search-message {
+        font-family: 'Domine', serif;
+        font-size: 1.8rem;
+        padding: 2rem;
+        color: var(--color-text-light);
+    }
+
+    .search-load-more {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 1.6rem;
+        padding: 1rem 2rem;
+        background: var(--color-primary);
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        text-transform: uppercase;
+        margin-top: 2rem;
+    }
+
+    .search-load-more:hover {
+        background: var(--color-secondary);
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="typology-section">
+    <div class="section-content">
+        <article class="typology-post">
+            <header class="entry-header">
+                <h1 class="entry-title">Search</h1>
+            </header>
+
+            <div class="entry-content">
+                <div class="search-container">
+                    <input type="search" id="search-input" placeholder="Search blog posts..." />
+                    <div id="search-results"></div>
+                </div>
+            </div>
+        </article>
+    </div>
+</div>
+
+<script>
+    window.addEventListener('DOMContentLoaded', async (event) => {
+        const pagefind = await import("/pagefind/pagefind.js");
+
+        const searchInput = document.getElementById('search-input');
+        const searchResults = document.getElementById('search-results');
+
+        let allResults = [];
+        let displayedCount = 0;
+        const resultsPerPage = 20;
+
+        // Render a single result
+        function renderResult(result) {
+            const date = result.meta?.date || '';
+            const excerpt = result.excerpt.replace(/<mark>/g, '<mark>').replace(/<\/mark>/g, '</mark>');
+
+            return `
+                <div class="search-result">
+                    <h2 class="search-result-title">
+                        <a href="${result.url}">${result.meta?.title || result.title || 'Untitled'}</a>
+                    </h2>
+                    ${date ? `<time class="search-result-date">${date}</time>` : ''}
+                    <div class="search-result-excerpt">${excerpt}</div>
+                </div>
+            `;
+        }
+
+        // Display results
+        function displayResults(append = false) {
+            if (!append) {
+                searchResults.innerHTML = '';
+                displayedCount = 0;
+            }
+
+            const resultsToShow = allResults.slice(displayedCount, displayedCount + resultsPerPage);
+            const html = resultsToShow.map(renderResult).join('');
+
+            if (append) {
+                searchResults.insertAdjacentHTML('beforeend', html);
+            } else {
+                searchResults.innerHTML = html;
+            }
+
+            displayedCount += resultsToShow.length;
+
+            // Add load more button if needed
+            const existingButton = document.getElementById('load-more-btn');
+            if (existingButton) existingButton.remove();
+
+            if (displayedCount < allResults.length) {
+                const button = document.createElement('button');
+                button.id = 'load-more-btn';
+                button.className = 'search-load-more';
+                button.textContent = `Load more results (${allResults.length - displayedCount} remaining)`;
+                button.onclick = () => displayResults(true);
+                searchResults.appendChild(button);
+            }
+
+            // Show message if no results
+            if (allResults.length === 0 && searchInput.value) {
+                searchResults.innerHTML = `<div class="search-message">No results found for "${searchInput.value}"</div>`;
+            }
+        }
+
+        // Perform search
+        async function performSearch() {
+            const query = searchInput.value.trim();
+            if (!query) {
+                searchResults.innerHTML = '';
+                return;
+            }
+
+            // Execute search
+            const search = await pagefind.search(query);
+
+            // Load full result data
+            allResults = await Promise.all(
+                search.results.map(r => r.data())
+            );
+
+            displayResults();
+        }
+
+        // Debounced search
+        let searchTimeout;
+        searchInput.addEventListener('input', () => {
+            clearTimeout(searchTimeout);
+            searchTimeout = setTimeout(performSearch, 300);
+        });
+    });
+</script>
+{% endblock %}

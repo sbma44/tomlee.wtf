@@ -1,0 +1,13 @@
+{
+  "name": "tomlee-wtf",
+  "version": "1.0.0",
+  "description": "Tom Lee's personal blog",
+  "private": true,
+  "scripts": {
+    "index": "pagefind --site docs",
+    "build": "make publish && npm run index"
+  },
+  "devDependencies": {
+    "pagefind": "^1.2.0"
+  }
+}

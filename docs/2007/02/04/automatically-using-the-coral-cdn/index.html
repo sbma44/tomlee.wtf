@@ -31,8 +31,9 @@
                 </div>
                 <nav class="main-nav">
                     <ul>
-                        <!-- <li><a href="https://tomlee.wtf/">Home</a></li>
-                        <li><a href="https://tomlee.wtf/about/">About</a></li>
+                        <li><a href="https://tomlee.wtf/">Home</a></li>
+                        <li><a href="https://tomlee.wtf/search/">Search</a></li>
+                        <!-- <li><a href="https://tomlee.wtf/about/">About</a></li>
                         <li><a href="https://tomlee.wtf/projects/">Projects</a></li> -->
                         <li class="social-icon"><a href="https://github.com/sbma44" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
@@ -53,19 +54,20 @@
 <div class="typology-section">
     <div class="section-content">
         <article class="typology-post typology-single-post">
-            <header class="entry-header">
-                <h1 class="entry-title">automatically using the coral cdn</h1>
+            <header class="entry-header" data-pagefind-ignore>
+                <h1 class="entry-title" data-pagefind-meta="title">automatically using the coral cdn</h1>
 
                 <div class="entry-meta">
                     <span class="meta-item">
-                        <time datetime="2007-02-04T17:16:00-05:00">Sunday, 04 February 2007</time>
+                        <time datetime="2007-02-04T17:16:00-05:00" data-pagefind-meta="date">Sunday, 04 February 2007</time>
+                        <span data-pagefind-filter="year" style="display: none;">2007</span>
                     </span>
                 </div>
 
                 <div class="post-letter">A</div>
             </header>
 
-            <div class="entry-content">
+            <div class="entry-content" data-pagefind-body>
                 <p>You might've noticed that I hotlinked those mp3s, providing URLs that point directly at someone else's blog. This is normally considered pretty poor form — you're using up someone else's bandwidth without giving them any associated (and salable) web traffic. But in this case it's not quite so bad: I used the Coral CDN to make the links. That reduces the bandwidth that my visitors will be consuming from the other sites to a negligible amount. NYU picks up most of the bill (and is presumably happy to do so). I wrote a bit more about the Coral CDN <a class="reference external" href="http://www.zunta.org/blog/archives/2005/03/29/ourmedia_sux0rs/">here</a>; you can find their explanation <a class="reference external" href="http://www.coralcdn.org/">here</a>. It's an extremely useful tool, and not just for excusing normally boorish behavior — if you have a large file on your own server, it can come in handy there, too.</p>
 <p>The only downside is that it requires that users be able to send web traffic out on port [STRIKEOUT:8090] 8080, which is a slightly unusual requirement. It shouldn't be a problem for most people, but if someone's behind a restrictive corporate firewall, the Coral-ified link might make it impossible for them to get the file.</p>
 <p>So to fix that I whipped up this Javascript. It attempts to load a small image (originating on this domain) over the Coral CDN. If it manages to, we know that the visitor can use port [STRIKEOUT:8090] 8080 and access the Coral system. If that condition is met, the script then replaces all the links on the page that go to big-seeming files with ones that use Coral (&quot;big-seeming&quot; is determined by the extension — mp3, mp4, mpg and avi are what the script looks for right now, but it's easy to adjust that). If the image doesn't load, the original link is left alone and will presumably still work for the poor firewalled visitor.</p>

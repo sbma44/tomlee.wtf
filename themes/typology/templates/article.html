@@ -15,14 +15,15 @@
 <div class="typology-section">
     <div class="section-content">
         <article class="typology-post typology-single-post">
-            <header class="entry-header">
-                <h1 class="entry-title">{{ article.title }}</h1>
+            <header class="entry-header" data-pagefind-ignore>
+                <h1 class="entry-title" data-pagefind-meta="title">{{ article.title }}</h1>
 
                 {% if article.date or article.author %}
                 <div class="entry-meta">
                     {% if article.date %}
                     <span class="meta-item">
-                        <time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime('%A, %d %B %Y') }}</time>
+                        <time datetime="{{ article.date.isoformat() }}" data-pagefind-meta="date">{{ article.date.strftime('%A, %d %B %Y') }}</time>
+                        <span data-pagefind-filter="year" style="display: none;">{{ article.date.strftime('%Y') }}</span>
                     </span>
                     {% endif %}
                 </div>
@@ -33,12 +34,12 @@
                 {% endif %}
             </header>
 
-            <div class="entry-content">
+            <div class="entry-content" data-pagefind-body>
                 {{ article.content }}
             </div>
 
             {% if article.tags %}
-            <div class="entry-tags">
+            <div class="entry-tags" data-pagefind-ignore>
                 <p>
                     <strong>Tags:</strong>
                     {% for tag in article.tags %}
@@ -51,3 +52,4 @@
     </div>
 </div>
 {% endblock %}
+
