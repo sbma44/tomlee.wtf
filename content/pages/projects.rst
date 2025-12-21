@@ -4,3 +4,4 @@ Projects
 :url: projects/
 
 This is a placeholder projects page. Add your project information here.
+
