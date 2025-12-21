@@ -31,8 +31,9 @@
                 </div>
                 <nav class="main-nav">
                     <ul>
-                        <!-- <li><a href="https://tomlee.wtf/">Home</a></li>
-                        <li><a href="https://tomlee.wtf/about/">About</a></li>
+                        <li><a href="https://tomlee.wtf/">Home</a></li>
+                        <li><a href="https://tomlee.wtf/search/">Search</a></li>
+                        <!-- <li><a href="https://tomlee.wtf/about/">About</a></li>
                         <li><a href="https://tomlee.wtf/projects/">Projects</a></li> -->
                         <li class="social-icon"><a href="https://github.com/sbma44" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
@@ -53,19 +54,20 @@
 <div class="typology-section">
     <div class="section-content">
         <article class="typology-post typology-single-post">
-            <header class="entry-header">
-                <h1 class="entry-title">fighting movable type comment spam - part 2</h1>
+            <header class="entry-header" data-pagefind-ignore>
+                <h1 class="entry-title" data-pagefind-meta="title">fighting movable type comment spam - part 2</h1>
 
                 <div class="entry-meta">
                     <span class="meta-item">
-                        <time datetime="2007-01-27T13:43:00-05:00">Saturday, 27 January 2007</time>
+                        <time datetime="2007-01-27T13:43:00-05:00" data-pagefind-meta="date">Saturday, 27 January 2007</time>
+                        <span data-pagefind-filter="year" style="display: none;">2007</span>
                     </span>
                 </div>
 
                 <div class="post-letter">F</div>
             </header>
 
-            <div class="entry-content">
+            <div class="entry-content" data-pagefind-body>
                 <p><a class="reference external" href="http://www.informationleafblower.com">Kyle</a> and <a class="reference external" href="http://www.jeffnye.org">Jeff</a> rightly pointed out that yesterday's bout of MT-theorizing (aka <a class="reference external" href="/2007/01/26/fighting-movable-type-comment-spam-part-1/">part 1</a>) — however marginally interesting it might have been — wasn't all that helpful. They're right. I didn't write it in a practically-minded sort of way. So here's a shot at explaining how you'd use the stuff I discussed. And, happily enough, some of these steps are necessary for you to use the upcoming method that I alluded to at the end of the last post — so I would've had to write a large part of this anyway.</p>
 <p>First things first. The Javascript obfuscator function that I wrote about is written in PHP. More importantly, the rotating comment script functionality I keep alluding to (and which will be a considerably more powerful anti-spam measure) will rely on PHP. But if your Movable Type site was installed with the default settings, its pages aren't PHP — they're just HTML (Jeff and Kyle: I checked, and this applies to both of you).</p>
 <p>So what does this mean, and how do we fix it? Well, PHP is a server-side scripting language. When it serves a webpage out to a user it looks for PHP code in it (marked by blocks beginning with &quot;&lt;?php&quot; and ending with &quot;?&gt;&quot;) and runs it before sending the resulting HTML to a user's web browser. You can do all kinds of useful things with PHP — talk to databases, manage user sessions, create graphics, compose PDFs — but we'll just be using some of its most basic functionality. But even if you weren't trying to fight comment spam I think that converting your site to PHP would be a good idea. There are a lot of neat things that people have written in it that you might want to use someday.</p>
