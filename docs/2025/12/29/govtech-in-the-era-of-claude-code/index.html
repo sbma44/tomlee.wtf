@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Govtech in the Era of Claude Code - Tom Lee</title>
+
+    <meta name="description" content="Andrej Karpathy notes that "people who aren’t keeping up even over the last 30 days already have a deprecated world view" about using LLMs to...">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;600;700&family=Josefin+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="https://tomlee.wtf/theme/css/style.css">
+
+    <link href="https://tomlee.wtf/feed.xml" type="application/atom+xml" rel="alternate" title="Tom Lee Atom Feed" />
+
+    <script data-host="https://app.microanalytics.io" data-dnt="false" src="https://app.microanalytics.io/js/script.js" id="ZwSg9rf6GA" async defer></script>
+
+</head>
+
+<body>
+    <header id="typology-header" class="typology-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="site-branding">
+                    <h1 class="site-title"><a href="https://tomlee.wtf/">Tom Lee</a></h1>
+                </div>
+                <nav class="main-nav">
+                    <ul>
+                        <li class="social-icon"><a href="https://tomlee.wtf/search/" title="Search" aria-label="Search">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                        </a></li>
+                        <!-- <li><a href="https://tomlee.wtf/about/">About</a></li>
+                        <li><a href="https://tomlee.wtf/projects/">Projects</a></li> -->
+                        <li class="social-icon"><a href="https://github.com/sbma44" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://x.com/tjl" target="_blank" rel="noopener" title="Twitter" aria-label="Twitter">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+                        </a></li>
+                        <li class="social-icon"><a href="https://bsky.app/profile/tjl.bsky.social" target="_blank" rel="noopener" title="Bluesky" aria-label="Bluesky">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z"/></svg>
+                        </a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="typology-fake-bg">
+<div class="typology-section">
+    <div class="section-content">
+        <article class="typology-post typology-single-post">
+            <header class="entry-header" data-pagefind-ignore>
+                <h1 class="entry-title" data-pagefind-meta="title">Govtech in the Era of Claude Code</h1>
+
+                <div class="entry-meta">
+                    <span class="meta-item">
+                        <time datetime="2025-12-29T00:00:00-05:00" data-pagefind-meta="date">Monday, 29 December 2025</time>
+                        <span data-pagefind-filter="year" style="display: none;">2025</span>
+                    </span>
+                </div>
+
+                <div class="post-letter">G</div>
+            </header>
+
+            <div class="entry-content" data-pagefind-body>
+                <p>Andrej Karpathy notes that <a href="https://x.com/karpathy/status/2004621825180139522">"people who aren’t keeping up even over the last 30 days already have a deprecated world view" about using LLMs to write code</a> and that <a href="http://x.com/karpathy/status/2004974725320347884">devs must "rapidly progress through their grief cycle"</a> to find their new place in the profession. I think he's right. I haven't written software professionally except in a glancing way for a long time, but I've felt myself gain what feel like enormous new powers and <a href="https://friendlybit.com/python/writing-justhtml-with-coding-agents/">watched others achieve truly towering things</a>.</p>
+<p>Things are moving faster than even those at the field's forefront can figure out. But I don't think it's too early to begin thinking about what this might mean for how government builds technology.</p>
+<h2>Old problems and their old solutions</h2>
+<p>The cause of government's inability to build excellent software has been diagnosed in various ways at various times.</p>
+<p>In the early civic tech era, we felt government didn't realize what was achievable. This was true at the time, but--at least until AI arrived--had ceased to be a serious problem.</p>
+<p>Government's inability to manage complex software projects implemented by third parties was next, chalked up to some mix of procurement rules, monolithic design practices, and a lack of institutional expertise. This remains a serious problem but great progress has been made through the evangelism of agile methodologies, the creation of digital services teams, procurement thought leadership, and creative approaches to attracting (and compensating) software talent.</p>
+<p>Then DOGE arrived, and blew it all up. I had been wondering how it will be rebuilt. Perhaps some kinds of civil service reform that make it easier to hire, fire, and pay people? A disaggregation of the 18F/USDS offices toward DS teams in less central locations (a trend already underway)?</p>
+<p>I think those things are still likely, but it is becoming clear that the next era will be built in a world where software engineering, as a discipline, has dramatically changed. I'm not sure what that will mean, but I can think of at least four likely trends.</p>
+<h2>Fewer, but better</h2>
+<p>First, in-house expertise will be more important than ever. The amount of production codebase that a single software architect can deliver has gotten dramatically larger, and has not yet stopped expanding. There are inevitably layers between an agency's requirements, as embodied by its statutory obligations, political imperatives, and institutional knowledge, and a deployed application. But those layers are going to become very thin, very fast. This will make exciting new things possible, but it will also mean that the people who embody them will have less redundancy. Stupid mistakes will become easier; the premium to smartness will increase.</p>
+<h2>Cybersecurity as subdiscipline instead of compliance function</h2>
+<p>The level of human understanding of deployed codebases is plummeting. People will complain bitterly about this on Bluesky, but it's inevitable. Many of the negative consequences of this can be ameliorated by instilling good, traditional development practices into our new tools and the procedures that surround them--tell your .cursorrules to write lots of tests; run beta periods with humans and agents; do perf testing and, way before that, nail down your architecture while someone who understands the relevant issues is behind the steering wheel.</p>
+<p>Still, there's inevitably going to be more dark matter. Cybersecurity expertise will be important for understanding the landscape of risk and prioritization. Pointing Claude at a NIST checklist is not going to cut it.</p>
+<h2>Which agency do you think Garry means?</h2>
+<p><img alt="tweet from garry tan: &quot;intelligence is on tap now so agency is even more important&quot;" src="/static/2025/12/garrytan.png"></p>
+<p>When he says <a href="https://x.com/garrytan/status/1894063324582625732">this</a>? Kidding, of course. (And heck, it seems like "agency" as a buzzword is <a href="https://x.com/tszzl/status/2005042727172669637">already going out of fashion</a>.)</p>
+<p>Still: when you use these tools, the importance of having ideas and executing them to completion does inevitably present itself as the thread we must cling to as this technology strips away our pride in other human talents. It's a tendency we'll all have to cultivate more intensively, certainly including myself.</p>
+<p>In the case of government, though, there are some novel kinds of hindrance. Feds cannot "just do things". We can all recite at least some of the litany of well-meaning rules that grind government to a halt. The FAR. Hiring rules. The PRA. The other PRA. The list goes on.</p>
+<p><a href="https://www.recodingamerica.us/">Brilliant people are already working on this</a>, but the pressure is going to increase as agencies' expanded productive capacity makes them feel stymied even more often and, perhaps, begins to overwhelm some of the people manning the barricades. At the same time, DOGE's catastrophic legacy of failure will chasten any thought of radical reform. I have no idea how this will shake out, but it's going to be intense.</p>
+<h2>Programming will definitely get cheap. Programmers might, too.</h2>
+<p>We've all learned about Jevons' Paradox, sure. But I am not so sanguine about what the labor market for programmers will look like at the start of the next presidential administration. Only a fool would guess at the state of the economy that far in the future, but I will not be at all surprised if the famed stability of a government job--whether that promise is still true or not--begins to attract more talented technologists for a given federal salary. That could, in part, be because their private sector compensation prospects have fallen.</p>
+<p>There's an even darker version of this story: government could become <em>the</em> anti-AI refuge for workers, a safe haven from accelerating efficiency. This seems particularly easy to imagine if the Democratic Party allows itself to become negatively polarized into the anti-AI party, as countless left-aligned posters spinning threads about water use and copyright are pushing. It will not be easy for the party's leadership--aged, hated, repudiated--to seize the mantle of responsible governance of this bewildering new technology, rather than succumb to populist antimodernity.</p>
+<p>I say all of this with a sense of melancholy about what we're about to lose. But there is no sense denying the inevitable: soon, many kinds of tasks will no longer be performed by humans outside of classrooms. And this seems likely to apply to software more than most fields. That's at least a little sad for those of us who are entranced by computers.</p>
+<p>But it will also come with benefits. And not least of these could be government getting dramatically better at serving its citizens. Before long we could all have a pretty-good caseworker assigned to each of us for every otherwise-bewildering bureaucratic maze that was designed for a markup session rather than human clients. Tax filing, benefit applications, financial planning, program eligibility--an infinitely patient social worker whenever anyone needs one. Believe me, I can imagine exactly how this paragraph would get roasted on Bluesky. But there are people who need this kind of help and aren't getting it, and (yes, I see the reply you were drafting) <em>won't</em> get it without a breakthrough this epochal.</p>
+<p>Heck, in some ways government might even enjoy a relative procedural advantage: everyone else's talent pipeline is now hopelessly clogged with garbage submissions designed to game the system. But the feds have been laboring under those conditions for decades! Throwing a few AI resumes on the pile probably won't slow them down much.</p>
+<h2>These are good guesses today</h2>
+<p>But they'll probably be wrong soon. It feels a little paradoxical to say that things are moving so fast that, for now, all we can do is watch and wait. But I think it's approximately true. We have to at least wait to hear the sonic boom. In the meantime I intend to keep using and maybe even understanding these new tools.</p>
+            </div>
+
+        </article>
+    </div>
+</div>
+    </div>
+
+    <footer id="typology-footer" class="typology-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy;  Tom Lee</p>
+                <!-- <p>Powered by <a href="https://getpelican.com/" target="_blank" rel="noopener">Pelican</a></p> -->
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
