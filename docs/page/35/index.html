@@ -57,6 +57,35 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2008/03/18/smash/">smash</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2008-03-18T11:07:00-04:00">Tuesday, 18 March 2008</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">S</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Super Smash Bros. Brawl was waiting for me when I got home on Sunday thanks to a years-old, barely-remembered gift card from my mom (thanks, mom!). Wanna play? My friend number is 0645-5578-9044.</p>
+<p>In other Wii news, it looks like the homebrew scene is heating up a bit. First, there was this:</p>
+<p><center><object width="425" height="355"><embed src="http://www.youtube.com/v/H5YB1Mmx7E4&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></center></p><p>At the CCC these guys presented a significant advance. The Wii can emulate the Gamecube console that preceded it. And software tools for running homebrew applications on the Gamecube are, as you might expect, better developed than those for the Wii. Those tools can run on the Wii, but only in Gamecube mode, which locks programs out of the console's enticing new features — things like Wiimote control and network connectivity. These guys found a way to scan the device's ordinarily-protected memory space from Gamecube mode and plucked some encryption keys from it. Using those keys they can create discs that the Wii thinks are Wii games, which consequently have complete access to the console's hardware resources. Neat, huh?</p>
+<p>But more immediately relevant to home users is the so-called &quot;Twilight Hack&quot;, which debuted in February. The Zelda game for the Wii is called The Twilight Princess and it contains that perennial favorite, a buffer overflow vulnerability.</p>
+<p>Think of it like this: a computer's memory is filled with a very long list of things it has to do, and it proceeds through these steps in order. Some of these instructions tell it to jump to other places in the list, some of them tell it to manipulate different parts of the list, and some of them tell it to run comparisons on the list and do different things depending on the result. In simple systems the memory is allocated as needed, which can result in a chunk of data like an image sitting next to a chunk of code that will actually be fed to the processor. As you might imagine, maintaining the boundaries between these regions is important.</p>
+<p>But it's easy to screw up and forget to do it when loading a file's contents into memory, particularly on a platform like a console. Hey, why bother checking, say, a save game? If it's only your code that's writing the file, and it checks the content's length when it writes it, why check again when you read it? You trust your file-writing code, and where the hell else are save files going to be coming from?</p>
+<p>The answer, of course, is hackers. In this case they took a save file and discovered that when it's loaded there's no check on the length of the text string that names Link's horse. So you write a super-long string and when it's loaded into memory it not only writes into the memory set aside for the horse name, but also into the memory after it. You fill that up with what's called a no-op sled — a long list of instructions saying &quot;no operation; do nothing, go to the next step&quot;, at the end of which you put some code that gives you control of the system in one way or another. When, during the normal execution of the game, the processor reads a legitimate instruction telling it to jump somewhere into that no-op-filled region and start executing instructions it will slide allllll the way down the sled and then run your system-pwning code. The sled lets you avoid needing to know precisely where the processor is going to begin reading, improving your odds of getting your code executed.</p>
+<p>This, incidentally, is also the technique used to &quot;softmod&quot; an Xbox. There are three different Xbox games that don't properly check their savegames. That's an easy point of entry for a file with a custom payload. The game will have already passed all the security checks built into the system, meaning that any code you can introduce into memory will be treated as part of the game itself — and frequently this will be enough to let you tear down any lingering security for good.</p>
+<p>Initially the Twilight Hack required a special (though commercially available) Gamecube SD card adapter, but it's now been improved to the point where you can use the Wii's built-in SD reader, allowing user-created code to be booted from the card slot in the console's front:</p>
+<p><center><object width="425" height="355"><embed src="http://www.youtube.com/v/IowCjQb6dQA&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></center></p><p>So far it looks like Linux, emulators and a homebrew version of Tetris are available. That's pretty much par for the course when a new system is opened up: those first two are huge piles of useful code that are freely available, requiring work to adapt but not any original design. Small games like Tetris are also pretty common, serving as necessary learning exercises for probing how the console's various hardware functions operate.</p>
+<p>But will there be a proliferation of other software? I'm doubtful. The homebrew scenes for the Dreamcast and Gamecube are cool but haven't yielded any killer apps. The Xbox scene has been more successful, but largely because of the console's beefy specs, onboard hard drive and widely-pirated software development kit. If I had to bet I'd say that continued refinement of WiiLinux and the emulators can be expected, and that there may be a few apps showcasing <a class="reference external" href="http://www.cs.cmu.edu/~johnny/projects/wii/">Johnny Lee's neat Wii demos</a>. Maybe there'll be an underpowered media player, too, and a few lousy games. But that will be about it.</p>
+<p>Except, of course, for one other application: piracy. The binary game dumps <a class="reference external" href="http://thepiratebay.org/browse/405">are out there</a>, and we can now run arbitrary code. I haven't looked for a writeup yet, but I can guarantee you that someone out there is using Twilight Princess to load pirated games from their Wii's SD card slot.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2008/03/17/check-me-out/">check me out</a>
                     </h2>
                     <div class="entry-meta">
@@ -484,57 +513,6 @@ The Harlem Globetrotters are owned by Shamrock Capital Growth Fund.</blockquote>
                     <p>God dammit. I was feeling good about my prospects this year. Yes, I spent two and a half weeks sick. But so did everyone else! I was just trying to fit in! Besides, that length of time isn't that bad by my historical standards. Generally speaking I spend about every twelfth day of the year coughing or sneezing or otherwise being unpleasant to be around, and doing so in an extremely biological manner. I thought this year's stats would be an improvement.</p>
 <p>But this morning I woke up with a 101 degree fever. My eyes stung. My lungs felt like burlap covered with cat hair, and my spine felt like a tube of pantyhose crammed full of pointy garbage. I took a sick day and lord was it ever a good idea.</p>
 <p>The afternoon's been filled with cranberry juice and bad science fiction movies (when Henry Rollins and Dolph Lundgren are by far the best actors in a production you know you're looking at a quality piece of cinema). Tomorrow? Well, we'll see.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2008/02/20/busted/">busted</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2008-02-20T15:59:00-05:00">Wednesday, 20 February 2008</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">B</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Whoops! We got a DMCA notice at work today from our ISP, and I'm to blame. It was an accident, honest! I had (allegedly!) been downloading episode five of The Wire's current season and neglected to shut off my Bittorrent app before leaving home. Apparently HBO took notice and didn't take kindly to it.</p>
-<p>First: I'm currently an HBO subscriber, so I'm feeling pretty karmically okay about all of this.</p>
-<p>Second: I may have been downloading a bunch of other season 6 eps at the same time (I had a plane ride ahead of me and catching up to do!) but HBO apparently only noticed the torrent for episode 5 — a lousy torrent made from an HBO screener DVD, incidentally, with horribly clipping audio throughout. It wasn't even the good stuff! It makes me wonder if they're particularly sensitive to leaked screeners.</p>
-<p>Third: although I'm being flip, this is still an embarrassing and stupid mistake. The last thing I want to do was expose the company to liability so that I can timeshift my preferred crime dramas. The odds of dire consequences arising from this particular incident seem to be fairly nonexistent, but it's certainly something I want to avoid in the future. Having no faith in myself, I turn to technology.</p>
-<p>OS X maintains an app called Kicker that does various things when network events occur — things like changing wifi access points. It also has an XML configuration file you can modify that'll allow you to run your own scripts. Scripts like this one:</p>
-<blockquote>
-<pre class="literal-block">
-#!/bin/sh
-#get the ssid of the network
-ssid=`ioreg -l -n AirPortDriver | grep APCurrentSSID | sed 's/^.*= &quot;\(.*\)&quot;.*$/\1/; s/ /_/g'`
-#fill in your own values for ssid and location below
-if [ $ssid = &quot;YourWirelessNetwork&quot; -o $ssid = &quot;YourOtherWirelessNetwork&quot; ]
-then
-`killall Transmission`
-fi
-exit 0
-</pre>
-</blockquote>
-<p><a class="reference external" href="http://www.transmissionbt.com/">Transmission</a> is the name of the app I use for Bittorrent. You'll want to change that and the wifi network placeholders (capitalization matters!). Then you'll want to save that file somewhere safe and `chmod +x <em>whatever_you_called_it</em>`. Then follow <a class="reference external" href="http://www.macgeekery.com/gspot/2006-05/hacking_kicker_and_configd_to_run_your_scripts">these directions</a> for editing Kicker.xml so that it'll run your script. Voila! The script will run whenever you change networks. It'll check the name of the network and, if there's a match, terminate the Transmission application (potentially messily, I should add — this may be bad for your downloads in progress).</p>
-<p>All in all, a pretty clever way to avoid my own stupidity. Hopefully someone else will find it useful, too.</p>
-<p><strong>UPDATE:</strong> Hmm. After installing this setup I began to experience some pretty weird system blocking errors — most noticeably Terminal.app freezing, but other weirdness, too. You may want to hold off on it for now. I'm giving it another go using a Ruby script that forks immediately in the hopes that this will prevent anything from sticking:</p>
-<blockquote>
-<pre class="literal-block">
-#!/usr/bin/ruby
-pid = fork do
-#get the ssid of the network
-ssid = `ioreg -l -n AirPortDriver | grep APCurrentSSID | sed 's/^.*= &quot;\(.*\)&quot;.*$/\1/; s/ /_/g'`
-#fill in your own values for ssid and location below
-if ((ssid =~ /YourWirelessNetwork/i) || (ssid =~ /YourOtherWirelessNetwork/i))
-`killall Transmission&amp;`
-end
-end
-</pre>
-</blockquote>
 
                 </div>
             </article>

@@ -57,6 +57,87 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2014/11/30/leds-for-halloween/">LEDs for halloween</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2014-11-30T18:51:00-05:00">Sunday, 30 November 2014</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">L</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>I've continued to drift away from my commitment to dressing as villains. In my defense, Cyclops is kind of a jerk.</p>
+<p><a class="reference external image-reference" href="/static/2014/11/IMG_0185.jpg"><img alt="image1" class="aligncenter wp-image-2855 size-medium" src="/static/2014/11/IMG_0185-300x300.jpg" style="width: 300px; height: 300px;" /></a></p>
+<p>I worry that I'm beginning to stagnate: my palette of duct tape, under armour and LEDs is flexible enough for a variety of comic book characters. If augmented with adhesive velcro strips and the choice of a pouch-laden Rob Liefeld character, it's even sort of convenient.</p>
+<p>The LED components are always a hit, and I've seen more costumes incorporating them in recent years. I've added light to my costumes with a variety of different systems in the past, but they always had shortcomings. This is the first year that I achieved a well-engineered yet simple implementation, so it seems worth writing up how best to do it.</p>
+<div class="section" id="led-strips">
+<h2>LED strips</h2>
+<p>China now produces these in great volumes, and they're both cheap and easy to work with. Tons of different colors and configurations are available from <a class="reference external" href="http://www.ebay.com/itm/1-20M-RGB-5050-SMD-waterproof-300-LED-Light-Strip-Flexible-IR-Remote-12V-power-/161255347539?pt=US_String_Lights_Fairy_Lights&amp;var=&amp;hash=item258b915553">eBay</a> and <a class="reference external" href="http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&amp;field-keywords=led+strip">Amazon</a>, invariably arriving on black plastic spools and with peel-off adhesive backing. Besides color, you'll have to decide on brightness, which varies both LEDs per meter and LED type, and waterproofing. For a halloween costume, pretty much anything will be fine -- which is to say blindingly bright.</p>
+<p>The strips can only be cut in certain spots, but these are clearly marked. Solder tabs are present if you want to connect strips together. You're going to need a soldering iron to connect the strip to power, but it's about the simplest soldering job imaginable.</p>
+</div>
+<div class="section" id="power">
+<h2>Power</h2>
+<p>The strips aren't just LEDs: they also have integrated resistors that are rated for 12 volts, presumably because this is the voltage at which automotive systems run. That's what you'll need to supply to the strip. You have a few options:</p>
+<ul class="simple">
+<li>Batteries' voltage is summed when wired in series. Alkaline batteries like AA cells, AAA cells and D cells are all 1.5 volts per cell, meaning that 8 placed in series will give your LEDs the power they need. You can find appropriate battery cases at Radioshack or eBay (you might need to chain two four-battery cases together). This is arguably the easiest of the approaches listed here, but also the shortest-lived and the one most likely to cause problems if asked to power too many LEDs (particularly with AAA cells, which I don't recommend).</li>
+<li>Lead-acid batteries are rechargeable, can hold a ton of power, and come in 12 volt or 6 volt varieties. Avoid the latter, buy a cheap trickle charger, and connect directly to your LEDs. The downside, as the name suggests, is weight (and price -- a small battery will probably run $30). Any lead-acid battery is likely to be 10 or 15 pounds. For the right costume, this is no problem. For others, it's a huge pain in the ass. If it suits your needs, though, a lead-acid battery can be a handy thing to have around: keep one charged and one of these doohickeys on hand and you'll be able to power your cell phone for a solid week when civilization finally collapses.</li>
+<li>Lithium-polymer USB batteries are rechargeable, pack a lot of juice, are compact and lightweight, and <a class="reference external" href="http://www.ebay.com/itm/Power-Bank-Battery-Charger-Universal-USB-Backup-Portable-External-Pack-2600mAh-/171503255918?pt=US_Cell_Phone_PDA_Chargers&amp;var=&amp;hash=item27ee64016e">can now be had for less than ten bucks</a>. They're ideal for costumes, and they often wind up being useful cellphone supplements after the holiday. Their downside is complexity. USB power is always 5 volts. That's not enough for a 12 volt LED strip. Chaining these batteries together isn't a great idea, either. There are already electronics in play in those enclosures; and anyway 12 isn't divisible by 5. We need a way to turn 5 volts into 12.</li>
+</ul>
+<p>Boost converters do this pretty efficiently, and <a class="reference external" href="http://www.ebay.com/itm/DC-DC-Adjustable-Step-up-boost-Power-Converter-Module-XL6009-Replace-LM2577-/310717070508?pt=LH_DefaultDomain_0&amp;hash=item48582e3cac">cost just a few dollars on eBay</a>. You'll need a few more things to use them, though: wirecutters, a USB cable you don't mind ruining, and a multimeter. This last tool might sound intimidating, but <a class="reference external" href="http://www.amazon.com/DT830B-Digital-Voltmeter-Ammeter-Multimeter/dp/B005KGCI0Y/ref=sr_1_5?ie=UTF8&amp;qid=1417390547&amp;sr=8-5&amp;keywords=multimeter">a crappy $10 multimeter</a> will work just fine.</p>
+<p>At this point your mission is to cut the USB cord in half and expose conductive portions of its four wires. Plug the USB connector into the battery and use the multimeter's probes to test the wires until you find a pair that gives you a reading close to 5 volts (it might not be exact, but it should be within a tenth of a volt or two). If your USB cable was designed by good people, these wires will be red and black, like the probes of your multimeter almost certainly are. But maybe they won't be. I'll assume they are.</p>
+<p>Disconnect the USB plug from the battery. Then solder the USB wires onto the boost converter. Red is positive; black is ground. They go to the IN(+) and IN(-) solder terminals of your boost converter, respectively.</p>
+<p>Now reconnect the cable to the battery and use the multimeter to probe the output terminals of the boost converter. There'll be tiiiiny screw on top of a plastic box on the boost converter. Turn it while reading the measurement from the multimeter until it reads twelve. It can be tough to do all of this with only two hands, so finding someone to help is recommended.</p>
+<p>Once your boost converter is set to twelve volts, you can solder your LED strip's connection to the output terminals. Simple.</p>
+<p>You can avoid the multimeter hassle by buying <a class="reference external" href="http://www.ebay.com/itm/DC-4-35V-LM2577-Adjustable-Boost-Step-up-Converter-Red-LED-Voltmeter-12V-24V-/351216675095?pt=LH_DefaultDomain_0&amp;hash=item51c6252917">one of these units</a> and using its integrated display to set the voltage.</p>
+<p><a class="reference external image-reference" href="/static/2014/11/Screen-Shot-2014-11-30-at-6.38.23-PM.png"><img alt="image2" class="aligncenter size-medium wp-image-2853" src="/static/2014/11/Screen-Shot-2014-11-30-at-6.38.23-PM-300x250.png" style="width: 300px; height: 250px;" /></a></p>
+<p>This is both more expensive and a waste of energy (the display will remain on while powering your costume). It's also not something I've personally tried -- I've only used these to step down voltage from 12 to 5, not to step it up. I think it should work, but I can't make any guarantees.Either way you'll need to chop up a USB cable. And a basic multimeter is a handy thing to have around.</p>
+</div>
+<div class="section" id="how-much-power">
+<h2>How Much Power?</h2>
+<p>It's a drag, but if you're powering more than a dozen LEDs, you should do at least a <em>little</em> math to ensure longevity and safety. Batteries can get dangerously hot when they're drained quickly. Besides, you wouldn't want to run out of power before the end of the party, would you?</p>
+<p>We're concerned with amperage -- milliamperage, to be more precise. A liberal estimate of an individual LED's power consumption is 30 milliamps. This level of current draw, held for an hour, equals 30 milliamp-hours (mAH). Conveniently, this is also the unit that battery capacity is measured in.</p>
+<p>If your battery assembly's output is 12 volts, the math is really easy: just divide the mAH rating of a your alkaline battery type by the number of LEDs in use multiplied by 30. A typical AA battery might hold 1200 mAH (check the label). Given that rating, a 12-volt assembly of them (8 in series) could power 40 LEDs for an hour.</p>
+<p>If you're using a single lead-acid battery, it's just the same, except your battery's capacity might be measured in <em>amp</em>-hours. One amp-hour equals 1000 milliamp-hours. That means a 6 amp-hour lead-acid battery could power 200 LEDs for an hour.</p>
+<p>With varying voltages, like we'll encounter with a USB lithium battery, things get slightly trickier, but only slightly. We need to figure things out in terms of energy, not just current -- that means watts, which are amps times voltage. Here's how it works out:</p>
+<blockquote>
+<div class="line-block">
+<div class="line">(5 volts * USB battery milliamp hours) / (12 volts * number of LEDs * 30 milliamp-hours)</div>
+<div class="line">=</div>
+<div class="line">number of LEDs</div>
+</div>
+</blockquote>
+<p>The boost converter we use with the USB battery isn't perfectly efficient, so we should include a fudge factor. Let's be conservative and say it's only 90% efficient:</p>
+<blockquote>
+<div class="line-block">
+<div class="line">(0.9 * 5 volts * USB battery milliamp hours) / (12 volts * number of LEDs * 30 milliamp-hours)</div>
+<div class="line">=</div>
+<div class="line">number of LEDs</div>
+</div>
+</blockquote>
+<p>A small USB lithium battery might hold 2400 mAH (the packaging will usually say). Using the above math, that means such a battery could power 30 LEDs for an hour.</p>
+<p>Of course, you probably want to power your costume for more than an hour. In fact, you should make sure of it: asking a battery to dump all of its power in an hour is fairly aggressive, and might make it heat up more than is comfortable or wise. Use the above to figure out the capacity you need per hour, then double it. Remember, you can always swap out batteries. Or, for the alkaline and lead-acid otions, you can increase capacity by adding more cells in parallel (don't do this with the USB lithium option -- just plug a new one in, or power different sections of LEDs from different batteries).</p>
+<p>The above estimates are conservative. Boost converters are generally more than 90% efficient, and the types of LEDs I'm suggesting you use generally draw 15 or 20 milliamps, not 30. But it's good to employ a generous fudge factor. I've always been pleasantly surprised by how long my batteries hold out. You'll probably want to give your rig a test run before the party, anyway.</p>
+</div>
+<div class="section" id="fading">
+<h2>Fading</h2>
+<p>The first time I tried to dim the LEDs in a Halloween costume it didn't work very well. I had attached a potentiometer: a knob that can add resistance to a circuit when you turn it. Increasing the resistance lowers the voltage that gets to the LEDs. A lower voltage does dim LEDs, but the behavior isn't very smooth. At first the change is almost imperceptible, then it's very sudden, and then the LEDs just turn off completely. This is because LEDs emit photons in response to voltage in a nonlinear way; even worse, humans perceive brightness in response to number of photons in a nonlinear way.</p>
+<p>The solution is not to alter the brightness of the LED, but to change its duty cycle: how much of the time it's turned on. If an LED is only turned on every third microsecond, it will appear 33% as bright as if it were on steadily. LEDs turn on and off very quickly, so it's easy to make them strobe so fast that the human eye can't notice the flicker.</p>
+<p>The way to do this is beyond an introductory blog post, but the short answer is: a <a class="reference external" href="http://www.ebay.com/itm/5PCS-New-IRF740-Power-MOSFET-N-Channel-10A-400V-/321524795852?pt=LH_DefaultDomain_2&amp;hash=item4adc5f09cc">MOSFET</a>, an <a class="reference external" href="http://www.ebay.com/itm/New-ATMEAG328-5V-16Mhz-Replace-ATmega168-For-Arduino-Pro-Mini-Compatible-Nano-/191117208428?pt=LH_DefaultDomain_0&amp;hash=item2c7f792b6c">Arduino</a>, and the <a class="reference external" href="http://arduino.cc/en/Reference/analogWrite">analogWrite()</a> function. The first two can be had for less than $5 combined, and the last is free. If you decide to try this but have no idea what you're doing, get in touch with me and I'll try to help.</p>
+<p>A nice side-effect: by adding an Arduino you can easily start programming strobing or fading effects. You could even make your costume respond to the partygoers around you.</p>
+</div>
+<div class="section" id="el-wire">
+<h2>EL Wire</h2>
+<p>LEDs aren't your only options for lighting a costume. Electroluminescent <a class="reference external" href="http://www.ebay.com/itm/US-5M-16ft-Flexible-EL-Wire-Neon-LED-Light-Rope-Party-Car-Decorati-BATTERY-PACK-/271509438262?pt=US_String_Lights_Fairy_Lights&amp;var=&amp;hash=item3f37393f36">wire</a>, <a class="reference external" href="http://www.ebay.com/itm/1-4m-electroluminescent-strip-with-lead-wire-connector-48-EL-tape-light-lamp-/121268322259?pt=LH_DefaultDomain_0&amp;var=&amp;hash=item1c3c27bfd3">strips</a> and <a class="reference external" href="https://www.sparkfun.com/products/10799">panels</a> are fairly cheap and generally come with their electrical systems prebuilt, thanks to their unusual power requirements (very high voltage and frequency alternating current at very low amperages). Those power supplies generally run off of just one or two alkaline batteries and can last for many hours.</p>
+<p>The downside to EL systems is how difficult they are to manipulate. EL wire and panels can be cut, but they can't be spliced without unusual tools and more skill than I can muster. The power supplies also tend to be made cheaply, and when they are they emit a quiet but high-pitched whine which might be annoying in environments that are supposed to be silent and spooky, like a haunted house.</p>
+</div>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2014/08/22/building-artificial-minds-is-going-to-be-the-most-important-thing-our-species-ever-does/">building artificial minds is going to be the most important thing our species ever does</a>
                     </h2>
                     <div class="entry-meta">
@@ -738,44 +819,6 @@ sudo dd if=/dev/disk1 of=preconfigured_raspberry_pi.img bs=1048576 count=3000</b
 <p>An even more important Halloween costume innovation: the duct tape smartphone pocket. Man, what a quality of life improvement. Highly recommended! Add a little <a class="reference external" href="http://www.amazon.com/Velcro-Brand-Industrial-Strength-Inches/dp/B00006IC2T/ref=sr_1_2?ie=UTF8&amp;qid=1382921427&amp;sr=8-2&amp;keywords=adhesive+velcro">adhesive velcro</a> if you really want to class things up.</p>
 <p>I made one for myself and one for Steph, too -- she put together a great version of Debrie-from-Arrested-Development-as-Sue-Storm, making for what I think was <a class="reference external" href="http://www.flickr.com/photos/sbma44/10523222743/">a quite successful (if slightly textually complicated) couples costume</a>.</p>
 <p>Anyway! More on this year's specific decorative efforts in a separate post. For now: many thanks to everyone who came out; to Annie and Ezra for opening their house to this stupid hobby of mine (and buying everyone beer!); and to Steph for putting up with my weird obsessiveness these past few weeks.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2013/10/21/the-shutdown-was-a-bit-too-much-fun/">the shutdown was a bit too much fun</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2013-10-21T10:43:00-04:00">Monday, 21 October 2013</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">T</div>
-                </header>
-
-                <div class="entry-content">
-                    <!--  -->
-<blockquote>
-I should perhaps confess that on September 11 last, once I had experienced all the usual mammalian gamut of emotions, from rage to nausea, I also discovered that another sensation was contending for mastery. On examination, and to my own surprise and pleasure, it turned out be exhilaration. Here was the most frightful enemy–theocratic barbarism–in plain view... I realized that if the battle went on until the last day of my life, I would never get bored in prosecuting it to the utmost.</blockquote>
-<p>Christopher Hitchens made <a class="reference external" href="http://www.thenation.com/article/images-rearview-mirror">that ugly little confession</a>. Today, safely on the other side of the government's two week shutdown, I'm feeling a similar shame.</p>
-<p>The embarrassing truth is that for those who work in and around politics, the shutdown was great. It was something to gossip about, write about, get indignant about. It was exciting! And it was good for business.</p>
-<p>For the press, acknowledging this is easy enough: that discipline has had a lot of practice at explaining its responsibility to document travesties without averting them. <a class="reference external" href="http://nymag.com/daily/intelligencer/2013/10/where-did-robert-costa-come-from.html?mid=twitter_nymag">Here's Robert Costa making the transition from &quot;guy who works with Jonah Goldberg&quot; to &quot;conservative press corp dean / less creepy reincarnation of Bob Novak.&quot;</a> He's far from the only writer lamenting-the-shutdown-but-not-really:</p>
-<blockquote>
-Sigh. I miss the crisis already.— Josh Barro (&#64;jbarro) <a class="reference external" href="https://twitter.com/jbarro/statuses/390563356358086656">October 16, 2013</a></blockquote>
-<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p><!--  -->
-<blockquote>
-Real talk: These wild demands from Congressional Republicans were great for Web traffic. The standoff will be missed.— Matt Yglesias (&#64;mattyglesias) <a class="reference external" href="https://twitter.com/mattyglesias/statuses/390563650777661440">October 16, 2013</a></blockquote>
-<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p><p>The effect exists outside of the media. The shutdown was good to those of us who occuppy ourselves watchdogging the government. Here's my friend Josh Tauberer, who runs <a class="reference external" href="http://govtrack.us">GovTrack.us</a>:</p>
-<blockquote>
-Web traffic to the vote pages finally peaking, ending 16 days of profit.— Joshua Tauberer (&#64;JoshData) <a class="reference external" href="https://twitter.com/JoshData/statuses/390679792028098560">October 17, 2013</a></blockquote>
-<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p><p>I can sympathize. Sunlight's blog saw a modest 10% boost in traffic during the shutdown relative to the two weeks preceding it. But our <a class="reference external" href="congress.sunlightfoundation.com">iOS and Android mobile apps</a>, which provide information about Congress, saw usage spikes of 186% and 195%, respectively. We don't sell ads, but our funders care about those numbers. And I've probably fielded more press calls in the last two weeks than the preceding six months (admittedly, many of these have been about healthcare.gov's failures, not Congress's, but I think that's still in the neighborhood of profiting from human misery).</p>
-<p>Perhaps unsurprisingly, the people most responsible for the shutdown have benefited from its effects, too. We're still tallying <a class="reference external" href="http://realtime.influenceexplorer.com/newest-filings/">the latest quarterly numbers</a>, but <a class="reference external" href="http://thinkprogress.org/default/2013/10/16/2791091/ted-cruz-admits-budget-standoff-fundraising/">anecdotal reports indicate that the crisis helped people like Ted Cruz raise a lot of money</a>. <a class="reference external" href="http://www.publicintegrity.org/2013/10/15/13549/political-fundraising-boosted-shutdown-default">Fundraising emails from both parties latched onto the shutdown as a moneymaker right from the start</a>.</p>
-<p>I spent the final days of the shutdown at a conference in San Francisco, where I gossipped with a fellow traveler about a shared acquaintance's new-ish cable news show, and how a shutdown-prompted ratings boost had taken it safely off the bubble. And Twitter analytics tell me that I went from an average of 12.7 tweets per day to a manic 17.8 during the shutdown! Oh, the fun that I had!</p>
-<p>This wasn't true for many people who depend on a federal paycheck. Although my girlfriend was glad enough to have a nasty deadline moved by the shutdown, when I callously referred to &quot;workers being paid for sitting around doing nothing&quot; on an internal office listserv, I invited several deservedly angry replies from the spouses of feds. My friend Dave is a Capitol Hill staffer; for him this episode has meant incredibly-longer-than-usual work days and the possibility of <a class="reference external" href="http://www.newyorker.com/online/blogs/newsdesk/2013/10/why-congressional-staffers-hate-the-vitter-amendement.html">a nonsensical pay cut</a> (<a class="reference external" href="http://sunlightfoundation.com/policy/documents/keeping_congress_competent/">staffers are already badly underpaid</a>).</p>
-<p>And this is to say nothing of the <a class="reference external" href="http://www.washingtonpost.com/blogs/wonkblog/wp/2013/10/07/this-cancer-patients-treatment-is-on-hold-because-of-the-government-shutdown/">cancer patients who had to delay treatment</a>, or <a class="reference external" href="http://www.sltrib.com/sltrib/politics/57003062-90/state-utah-million-national.html.csp">the people on SNAP and WIC who faced the very real prospect of going hungry</a> because of Washington's preening.</p>
-<p>It's not that I think we should be ashamed, exactly. I'm genuinely proud of the work that I and my colleagues did during the shutdown. People wanted the information we provided. We think it's important, and we'd have been fools not to respond to a sudden surge of public interest in the mission we pursue every day. I think that every non-legislator mentioned above should be proud of the work they did, too. I was disgusted by this crisis, and I said so, but I couldn't stop it--none of us could.</p>
-<p>But it's worth owning up to the fact that the incentives within the D.C. media-nonprofit-industrial complex are terrible. <a class="reference external" href="http://business.time.com/2013/10/16/sp-says-government-shutdown-cost-economy-24-billion/">S&amp;P says this escapade wasted $24 billion</a>. We have to stop doing this. Removing these processes from the realm of human theatrics, gossip and competition will be a necessary component of that change. Mostly, that means getting rid of the debt ceiling and electing better legislators. But part of it might also be about having less fun.</p>
 
                 </div>
             </article>

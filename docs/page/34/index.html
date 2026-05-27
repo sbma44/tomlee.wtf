@@ -57,6 +57,26 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2008/04/10/human-readable/">human-readable</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2008-04-10T14:31:00-04:00">Thursday, 10 April 2008</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">H</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>I realize I've already blogged about my <a class="reference external" href="/2008/03/26/dorkbot-dc-arduino-meet-fonera/">Arduino/Fonera project</a> far too much. But I don't think I've actually explained <em>what it does</em> in simple terms. If you're interested, a brief explanation of what it is and how it works is included in today's <a class="reference external" href="http://dcist.com/2008/04/10/transit_on_thur_27.php">DCist transit post</a>. Special bonus: mean comments at my expense!</p>
+<p>Now I'll shut up about it. Up next: something filled with shift registers, LEDs and childhood nostalgia.</p>
+<p>(Although <a class="reference external" href="http://www.tearsoffire.org/twiki/bin/view/Projects/SolarPendulum">this</a> looks like a fun (and cheap) project, too.)</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2008/04/09/dear-people-on-facebook/">dear people on Facebook</a>
                     </h2>
                     <div class="entry-meta">
@@ -503,35 +523,6 @@ I actively allowed someone to cheat off my final exam for that oceanography clas
 <p>Of course the island is also filled with rum punch and pina colada opportunities, if that's your thing (the former: sort of; the latter: not so much, thanks to childhood memories of its vile Slurpee incarnation). I am sorry to report, however, that the San Juan bar we patronized was unable to fulfill requests for Buttery Nipples and Sexes on the Beach, much to the dismay of the loud girls who surrounded us.</p>
 <p>Oh yeah! Photos. Here's the complete set:</p>
 <p>[flickr]set:72157604143493874[/flickr]</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2008/03/18/smash/">smash</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2008-03-18T11:07:00-04:00">Tuesday, 18 March 2008</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">S</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Super Smash Bros. Brawl was waiting for me when I got home on Sunday thanks to a years-old, barely-remembered gift card from my mom (thanks, mom!). Wanna play? My friend number is 0645-5578-9044.</p>
-<p>In other Wii news, it looks like the homebrew scene is heating up a bit. First, there was this:</p>
-<p><center><object width="425" height="355"><embed src="http://www.youtube.com/v/H5YB1Mmx7E4&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></center></p><p>At the CCC these guys presented a significant advance. The Wii can emulate the Gamecube console that preceded it. And software tools for running homebrew applications on the Gamecube are, as you might expect, better developed than those for the Wii. Those tools can run on the Wii, but only in Gamecube mode, which locks programs out of the console's enticing new features — things like Wiimote control and network connectivity. These guys found a way to scan the device's ordinarily-protected memory space from Gamecube mode and plucked some encryption keys from it. Using those keys they can create discs that the Wii thinks are Wii games, which consequently have complete access to the console's hardware resources. Neat, huh?</p>
-<p>But more immediately relevant to home users is the so-called &quot;Twilight Hack&quot;, which debuted in February. The Zelda game for the Wii is called The Twilight Princess and it contains that perennial favorite, a buffer overflow vulnerability.</p>
-<p>Think of it like this: a computer's memory is filled with a very long list of things it has to do, and it proceeds through these steps in order. Some of these instructions tell it to jump to other places in the list, some of them tell it to manipulate different parts of the list, and some of them tell it to run comparisons on the list and do different things depending on the result. In simple systems the memory is allocated as needed, which can result in a chunk of data like an image sitting next to a chunk of code that will actually be fed to the processor. As you might imagine, maintaining the boundaries between these regions is important.</p>
-<p>But it's easy to screw up and forget to do it when loading a file's contents into memory, particularly on a platform like a console. Hey, why bother checking, say, a save game? If it's only your code that's writing the file, and it checks the content's length when it writes it, why check again when you read it? You trust your file-writing code, and where the hell else are save files going to be coming from?</p>
-<p>The answer, of course, is hackers. In this case they took a save file and discovered that when it's loaded there's no check on the length of the text string that names Link's horse. So you write a super-long string and when it's loaded into memory it not only writes into the memory set aside for the horse name, but also into the memory after it. You fill that up with what's called a no-op sled — a long list of instructions saying &quot;no operation; do nothing, go to the next step&quot;, at the end of which you put some code that gives you control of the system in one way or another. When, during the normal execution of the game, the processor reads a legitimate instruction telling it to jump somewhere into that no-op-filled region and start executing instructions it will slide allllll the way down the sled and then run your system-pwning code. The sled lets you avoid needing to know precisely where the processor is going to begin reading, improving your odds of getting your code executed.</p>
-<p>This, incidentally, is also the technique used to &quot;softmod&quot; an Xbox. There are three different Xbox games that don't properly check their savegames. That's an easy point of entry for a file with a custom payload. The game will have already passed all the security checks built into the system, meaning that any code you can introduce into memory will be treated as part of the game itself — and frequently this will be enough to let you tear down any lingering security for good.</p>
-<p>Initially the Twilight Hack required a special (though commercially available) Gamecube SD card adapter, but it's now been improved to the point where you can use the Wii's built-in SD reader, allowing user-created code to be booted from the card slot in the console's front:</p>
-<p><center><object width="425" height="355"><embed src="http://www.youtube.com/v/IowCjQb6dQA&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></center></p><p>So far it looks like Linux, emulators and a homebrew version of Tetris are available. That's pretty much par for the course when a new system is opened up: those first two are huge piles of useful code that are freely available, requiring work to adapt but not any original design. Small games like Tetris are also pretty common, serving as necessary learning exercises for probing how the console's various hardware functions operate.</p>
-<p>But will there be a proliferation of other software? I'm doubtful. The homebrew scenes for the Dreamcast and Gamecube are cool but haven't yielded any killer apps. The Xbox scene has been more successful, but largely because of the console's beefy specs, onboard hard drive and widely-pirated software development kit. If I had to bet I'd say that continued refinement of WiiLinux and the emulators can be expected, and that there may be a few apps showcasing <a class="reference external" href="http://www.cs.cmu.edu/~johnny/projects/wii/">Johnny Lee's neat Wii demos</a>. Maybe there'll be an underpowered media player, too, and a few lousy games. But that will be about it.</p>
-<p>Except, of course, for one other application: piracy. The binary game dumps <a class="reference external" href="http://thepiratebay.org/browse/405">are out there</a>, and we can now run arbitrary code. I haven't looked for a writeup yet, but I can guarantee you that someone out there is using Twilight Princess to load pirated games from their Wii's SD card slot.</p>
 
                 </div>
             </article>
