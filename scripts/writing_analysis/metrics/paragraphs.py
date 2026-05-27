@@ -141,3 +141,8 @@ def compute_raw_lengths(
                 rows.append({"period": period, "paragraph_length": length})
 
     return pd.DataFrame(rows)
+
+
+
+
+

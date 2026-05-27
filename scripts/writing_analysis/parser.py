@@ -242,3 +242,8 @@ if __name__ == "__main__":
         print(f"Path: {posts[0].path}")
         print(f"Date: {posts[0].date}")
         print(f"Text preview: {posts[0].text[:500]}...")
+
+
+
+
+

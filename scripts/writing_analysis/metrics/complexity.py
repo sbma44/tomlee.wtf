@@ -206,3 +206,8 @@ def compute(posts: list["Post"], granularity: str = "yearly") -> pd.DataFrame:
         )
 
     return pd.DataFrame(rows)
+
+
+
+
+

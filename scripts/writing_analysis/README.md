@@ -50,3 +50,8 @@ Options:
 All outputs go to `output/`:
 - CSV files at yearly, quarterly, and monthly granularity
 - PNG visualizations with varied chart types (heatmaps, line charts, bar charts, box plots, scatter plots, pie charts, stacked areas)
+
+
+
+
+
