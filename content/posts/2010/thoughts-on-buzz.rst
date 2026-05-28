@@ -5,8 +5,6 @@ thoughts on Buzz
 :category: Uncategorized
 :slug: thoughts-on-buzz
 :status: published
-:save_as: 2010/02/11/thoughts-on-buzz/index.html
-:url: 2010/02/11/thoughts-on-buzz/
 :private: true
 
 - It's interesting to watch how people are using the service, and to try to deduce the norms that will soon emerge arround it.  I just de-linked my Flickr account because I realized I didn't mean to push a recently-uploaded photo on my followers.  I still have Twitter linked to it -- though given the FB status/Twitter faux pas, I suspect I'll remove that connection soon, too.

@@ -5,8 +5,6 @@ Aniara
 :category: Uncategorized
 :slug: aniara
 :status: published
-:save_as: 2022/10/11/aniara/index.html
-:url: 2022/10/11/aniara/
 
 .. container:: wp-block-image
 

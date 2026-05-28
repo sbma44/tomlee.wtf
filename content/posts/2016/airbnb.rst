@@ -5,8 +5,6 @@ AirBnB
 :category: Uncategorized
 :slug: airbnb
 :status: published
-:save_as: 2016/09/14/airbnb/index.html
-:url: 2016/09/14/airbnb/
 
 Steph and I have been AirBnBing our guest bedroom for about a year and a half now, and it's been mostly great. It's not a ton of extra money, but it's not an insignificant amount, either. We occasionally meet interesting people. We are regularly reminded that the world is full of people unlike ourselves, and that it's possible to get along with them, at least when the interaction is supervised by an app's influential reputation system.
 

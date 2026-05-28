@@ -5,8 +5,6 @@ well, I'm sick
 :category: personal
 :slug: well-im-sick
 :status: published
-:save_as: 2006/11/30/well-im-sick/index.html
-:url: 2006/11/30/well-im-sick/
 :private: true
 
 | |box of Cold-Eeze lozenges|\ And have been since Sunday. I should've known something was up when the smoke at the Black Cat and `Sommer <http://cruelsommer.blogspot.com>`__'s party started to bother me. I'm usually of at least average hardiness when it comes to friends' cigarette fumes, but this time I was dying.

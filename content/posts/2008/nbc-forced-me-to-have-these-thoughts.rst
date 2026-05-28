@@ -5,8 +5,6 @@ NBC forced me to have these thoughts
 :category: pop culture
 :slug: nbc-forced-me-to-have-these-thoughts
 :status: published
-:save_as: 2008/08/20/nbc-forced-me-to-have-these-thoughts/index.html
-:url: 2008/08/20/nbc-forced-me-to-have-these-thoughts/
 :private: true
 
 Curse them and their Olympic advertising:

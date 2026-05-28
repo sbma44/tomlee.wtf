@@ -5,8 +5,6 @@ music
 :category: music
 :slug: music
 :status: published
-:save_as: 2008/02/26/music/index.html
-:url: 2008/02/26/music/
 :private: true
 
 - New Hold Steady coming soon! I guess `Pitchfork had the news on Friday <http://www.pitchforkmedia.com/article/news/48851-the-new-hold-steady-album-istay-positivei>`__, but I just came across `this live track <http://www.hypeful.com/2008/02/23/hold-steady-finish-fourth-album-stay-positive/>`__ today. Man. That sounds pretty promising, right?

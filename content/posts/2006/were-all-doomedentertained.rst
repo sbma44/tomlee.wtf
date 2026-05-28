@@ -5,8 +5,6 @@ we're all doomed/entertained
 :category: tech
 :slug: were-all-doomedentertained
 :status: published
-:save_as: 2006/11/29/were-all-doomedentertained/index.html
-:url: 2006/11/29/were-all-doomedentertained/
 :private: true
 
 Two recent blog posts that caught my eye:

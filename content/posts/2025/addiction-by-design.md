@@ -5,8 +5,6 @@ author: admin
 category: Uncategorized
 slug: addiction-by-design
 status: published
-save_as: 2025/12/16/addiction-by-design/index.html
-url: 2025/12/16/addiction-by-design/
 ---
 
 In the spirit of [losing less writing output to Twitter](/2025/12/15/a-fresh-coat-of-paint/), here's something I posted last week that got a surprising amount of attention.

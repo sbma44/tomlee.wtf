@@ -5,8 +5,6 @@ SXSW: lessons from the distant past
 :category: Uncategorized
 :slug: sxsw-lessons-from-the-distant-past
 :status: published
-:save_as: 2012/03/11/sxsw-lessons-from-the-distant-past/index.html
-:url: 2012/03/11/sxsw-lessons-from-the-distant-past/
 :private: true
 
 Anil Dash is on stage right now talking with Nick Denton about a variety of different things, including the failed 2011 Gawker-wide redesign which, if you remember, was going to Change Webdesign Forever and then didn't. (Don't worry, I'm sure Pinterest's look will echo through the ages.)

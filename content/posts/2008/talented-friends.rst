@@ -5,8 +5,6 @@ talented friends
 :category: DC, music, personal
 :slug: talented-friends
 :status: published
-:save_as: 2008/04/03/talented-friends/index.html
-:url: 2008/04/03/talented-friends/
 :private: true
 
 #. `The City Veins <http://thecityveins.com/>`__! Tonight! `Here <http://www.rockandrollhoteldc.com/portal/>`__! Come for the music; stay to be a part of `Kyle's <http://www.informationleafblower.com/blog/>`__ growing media empire. Remember: it starts strangely early. I'll see you there.

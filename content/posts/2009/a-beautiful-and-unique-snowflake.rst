@@ -5,8 +5,6 @@ a beautiful and unique snowflake
 :category: Uncategorized
 :slug: a-beautiful-and-unique-snowflake
 :status: published
-:save_as: 2009/12/08/a-beautiful-and-unique-snowflake/index.html
-:url: 2009/12/08/a-beautiful-and-unique-snowflake/
 :private: true
 
 There's nothing quite like sorting through resumes to make you feel like an untalented cliche.

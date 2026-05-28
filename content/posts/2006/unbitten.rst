@@ -5,8 +5,6 @@ unbitten
 :category: personal
 :slug: unbitten
 :status: published
-:save_as: 2006/12/05/unbitten/index.html
-:url: 2006/12/05/unbitten/
 :private: true
 
 | Werewolves are the only movie monster that I've ever found really terrifying, as I mentioned in `this <http://www.unfogged.com/archives/week_2006_11_12.html#005780>`__ unfogged thread. The loss of self and merciless, unstoppable ferocity that underpin the werewolf mythology have always added up to a particularly terrifying sum in my mind — and exposure to a memorable X-Files episode at an impressionable age didn't help matters. Besides, they have none of the saving graces of the other classic monsters: they don't possess any of the vampire's sexy villainy; they only shamble when particularly full, making them harder to escape from than mummies or zombies; and unlike the relatively rare creature from the black lagoon, blob or giant Japanese reptile, werewolves are completely ubiquitous (COMPLETELY. Look out your window right now — you should see at least two.).

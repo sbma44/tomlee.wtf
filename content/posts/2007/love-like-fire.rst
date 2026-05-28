@@ -5,8 +5,6 @@ love like fire
 :category: music
 :slug: love-like-fire
 :status: published
-:save_as: 2007/08/29/love-like-fire/index.html
-:url: 2007/08/29/love-like-fire/
 :private: true
 
 I heard this on WOXY and liked it, despite WOXY being unusually sucky today (Nickel Creek!? WTF?):

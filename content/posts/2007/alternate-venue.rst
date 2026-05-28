@@ -5,8 +5,6 @@ alternate venue
 :category: personal
 :slug: alternate-venue
 :status: published
-:save_as: 2007/04/20/alternate-venue/index.html
-:url: 2007/04/20/alternate-venue/
 :private: true
 
 One reason it's been quiet around here this week is that we're kicking off a new, tech-centric blog over at EchoDitto. I haven't quite decided how I'll handle syndicating content from that site back here — I would really like to have the things I write there in my archives.

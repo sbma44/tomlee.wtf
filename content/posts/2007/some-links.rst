@@ -5,8 +5,6 @@ some links
 :category: misc
 :slug: some-links
 :status: published
-:save_as: 2007/08/22/some-links/index.html
-:url: 2007/08/22/some-links/
 :private: true
 
 - `Comcast claims they aren't interfering with BitTorrent despite strong evidence to the contrary <http://torrentfreak.com/comcast-wrongfully-denies-interfering-with-bittorrent/>`__. The problem apparently isn't affecting all Comcast users, and TorrentFreak says that some BT client authors are integrating workarounds into their programs. So if you're a Comcast customer perhaps you don't need to panic after all.

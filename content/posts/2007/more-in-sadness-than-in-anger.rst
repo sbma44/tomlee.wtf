@@ -5,8 +5,6 @@ more in sadness than in anger
 :category: photos
 :slug: more-in-sadness-than-in-anger
 :status: published
-:save_as: 2007/05/01/more-in-sadness-than-in-anger/index.html
-:url: 2007/05/01/more-in-sadness-than-in-anger/
 :private: true
 
 Pretty pathetic:

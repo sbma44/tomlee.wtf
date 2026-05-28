@@ -5,8 +5,6 @@ llms and programming
 :category: Uncategorized
 :slug: llms-and-programming
 :status: published
-:save_as: 2024/08/13/llms-and-programming/index.html
-:url: 2024/08/13/llms-and-programming/
 
 Tom MacWright has written `an interesting post on LLMs and their effect on the discipline of programming <https://macwright.com/2024/07/18/llms-democratizing-coding>`__, noting that they represent a grimly ironic answer to his desire to democratize programming, since his enthusiasm for the project was about its potential to provide both intellectual and financial returns. LLMs allow programmers to write code without understanding it and to increase productivity without increasing skill, which might undermine compensation standards. Becoming a programmer is getting easier! But at the expense of the reasons for doing it at all.
 

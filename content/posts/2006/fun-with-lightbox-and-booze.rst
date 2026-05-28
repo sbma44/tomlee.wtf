@@ -5,8 +5,6 @@ fun with lightbox (and booze!)
 :category: personal, tech
 :slug: fun-with-lightbox-and-booze
 :status: published
-:save_as: 2006/10/26/fun-with-lightbox-and-booze/index.html
-:url: 2006/10/26/fun-with-lightbox-and-booze/
 :private: true
 
 | I visited Emily in Philadelphia last weekend — conveniently enough, she and her neighbors had all decided to throw a party on Saturday. The apartments all adjoin a nice brick courtyard, providing a pretty prime party location. The food was great, the booze was plentiful, and talk eventually turned to the the Flickr API and how to use microcontrollers to train cats to use the toilet (this was not a theoretical conversation). And there was mulled cider. C'mon, admit it: that's pretty good.

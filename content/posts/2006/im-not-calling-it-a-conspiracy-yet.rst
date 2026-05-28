@@ -5,8 +5,6 @@ I'm not calling it a conspiracy... yet
 :category: misc
 :slug: im-not-calling-it-a-conspiracy-yet
 :status: published
-:save_as: 2006/11/21/im-not-calling-it-a-conspiracy-yet/index.html
-:url: 2006/11/21/im-not-calling-it-a-conspiracy-yet/
 :private: true
 
 | As far as I can recall, there is no candy bar on the national market that contains raisins. None of even moderate prominence, anyway. The closest you can come is Nestle's generally-underrated `Chunky <http://www.cybercandy.co.uk/search/index1.php/url_indprod/xdbc_2>`__ product, but its length:(width+height) ratio is all off — it's some sort of ill-conceived candy chimera. Deliciousness aside, it's clearly not fit to take its place in the American pantheon of bar-shaped food products.

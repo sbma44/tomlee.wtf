@@ -5,8 +5,6 @@ bands you already like without knowing it
 :category: music
 :slug: bands-you-already-like-without-knowing-it
 :status: published
-:save_as: 2007/02/04/bands-you-already-like-without-knowing-it/index.html
-:url: 2007/02/04/bands-you-already-like-without-knowing-it/
 :private: true
 
 For all I know both of these bands may be blogospheric old news by now. But I'm really enjoying them, so here you go.

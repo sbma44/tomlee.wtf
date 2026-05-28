@@ -5,8 +5,6 @@ sick again
 :category: personal
 :slug: sick-again
 :status: published
-:save_as: 2008/02/21/sick-again/index.html
-:url: 2008/02/21/sick-again/
 :private: true
 
 God dammit. I was feeling good about my prospects this year. Yes, I spent two and a half weeks sick. But so did everyone else! I was just trying to fit in! Besides, that length of time isn't that bad by my historical standards. Generally speaking I spend about every twelfth day of the year coughing or sneezing or otherwise being unpleasant to be around, and doing so in an extremely biological manner. I thought this year's stats would be an improvement.

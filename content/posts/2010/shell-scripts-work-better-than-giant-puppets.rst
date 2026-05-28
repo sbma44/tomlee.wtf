@@ -5,8 +5,6 @@ shell scripts work better than giant puppets
 :category: tech
 :slug: shell-scripts-work-better-than-giant-puppets
 :status: published
-:save_as: 2010/12/13/shell-scripts-work-better-than-giant-puppets/index.html
-:url: 2010/12/13/shell-scripts-work-better-than-giant-puppets/
 :private: true
 
 There were two good pieces on NPR this morning discussing the reaction to Wikileaks.

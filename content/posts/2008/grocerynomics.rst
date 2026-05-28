@@ -5,8 +5,6 @@ grocerynomics
 :category: DC, misc
 :slug: grocerynomics
 :status: published
-:save_as: 2008/04/24/grocerynomics/index.html
-:url: 2008/04/24/grocerynomics/
 :private: true
 
 From `RenewShaw <http://remakingleslumhistorique.blogspot.com/2008/04/thinking-about-teeter-effect.html>`__ (with apologies for quoting the full entry):

@@ -5,8 +5,6 @@ rotation is great but someday machines will do something else & it'll be amazing
 :category: Uncategorized
 :slug: rotation-is-great-but-someday-machines-will-do-something-else-itll-be-amazing
 :status: published
-:save_as: 2015/07/27/rotation-is-great-but-someday-machines-will-do-something-else-itll-be-amazing/index.html
-:url: 2015/07/27/rotation-is-great-but-someday-machines-will-do-something-else-itll-be-amazing/
 
 |Gear_5-bar_linkage|
 

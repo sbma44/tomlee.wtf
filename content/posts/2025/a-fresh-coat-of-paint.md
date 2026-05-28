@@ -5,8 +5,6 @@ author: admin
 category: Uncategorized
 slug: a-fresh-coat-of-paint
 status: published
-save_as: 2025/12/15/a-fresh-coat-of-paint/index.html
-url: 2025/12/15/a-fresh-coat-of-paint/
 ---
 
 [![words per year](/static/2025/12/words_per_year_bar.png)](/static/2025/12/words_per_year_bar.png)

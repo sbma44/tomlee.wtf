@@ -5,8 +5,6 @@ we got into a serious thing
 :category: music
 :slug: we-got-into-a-serious-thing
 :status: published
-:save_as: 2006/10/30/we-got-into-a-serious-thing/index.html
-:url: 2006/10/30/we-got-into-a-serious-thing/
 :private: true
 
 | The Governess seems `disappointed in herself <http://pygmalioninablanket.blogspot.com/2006/10/lame.html>`__ for bailing out on the line for the `super-secret Beck show <http://www.dcist.com/archives/2006/10/30/becks_surprise.php>`__. I wouldn't be so hard on yourself, G.

@@ -5,8 +5,6 @@ asphalt!
 :category: Uncategorized
 :slug: asphalt
 :status: published
-:save_as: 2024/03/25/asphalt/index.html
-:url: 2024/03/25/asphalt/
 
 Noting for posterity that I got a second piece published in Greater Greater Washington: this one about the Eckington asphalt plant's permit renewal.
 

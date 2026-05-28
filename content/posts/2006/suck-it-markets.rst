@@ -5,8 +5,6 @@ suck it, markets
 :category: misc
 :slug: suck-it-markets
 :status: published
-:save_as: 2006/11/09/suck-it-markets/index.html
-:url: 2006/11/09/suck-it-markets/
 :private: true
 
 | Atrios `notes <http://feeds.feedburner.com/~r/blogspot/bRuz/~3/47154871/2006_11_05_atrios_archive.html>`__ that Tradesports completely failed to predict the outcome in the senate. In some ways, it's unfair to use control of the senate to criticize the idea of non-financial futures markets. In this case, we're talking about a very small range of possible outcomes and a situation that was genuinely hard to predict. All Tradesports said was that the Republicans were 70% likely to retain control. That probability has to collapse into reality at some point, and 30% is nothing to sneeze at. It just didn't work out this time.

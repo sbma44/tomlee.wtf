@@ -5,8 +5,6 @@ some NextBus stats
 :category: DC, tech
 :slug: some-nextbus-stats
 :status: published
-:save_as: 2009/07/02/some-nextbus-stats/index.html
-:url: 2009/07/02/some-nextbus-stats/
 :private: true
 
 No word yet from WMATA, but I did end up writing a script to grab NextBus's routeconfig data (download `here <http://www.megaupload.com/?d=NUI1B2H8>`__). Then I tried to match each NextBus-defined stop with the closest one in the GTFS dataset. Some stats\*:

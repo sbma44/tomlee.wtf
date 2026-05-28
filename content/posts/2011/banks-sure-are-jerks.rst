@@ -5,8 +5,6 @@ banks sure are jerks
 :category: Uncategorized
 :slug: banks-sure-are-jerks
 :status: published
-:save_as: 2011/04/13/banks-sure-are-jerks/index.html
-:url: 2011/04/13/banks-sure-are-jerks/
 :private: true
 
 Regarding the new caps on debit card interchange fees:

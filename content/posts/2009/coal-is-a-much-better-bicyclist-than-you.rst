@@ -5,8 +5,6 @@ coal is a much better bicyclist than you
 :category: science
 :slug: coal-is-a-much-better-bicyclist-than-you
 :status: published
-:save_as: 2009/07/16/coal-is-a-much-better-bicyclist-than-you/index.html
-:url: 2009/07/16/coal-is-a-much-better-bicyclist-than-you/
 :private: true
 
 |20090716_coalhelmet.jpg|

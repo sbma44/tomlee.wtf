@@ -5,8 +5,6 @@ the internet is just a tool
 :category: misc
 :slug: the-internet-is-just-a-tool
 :status: published
-:save_as: 2007/11/14/the-internet-is-just-a-tool/index.html
-:url: 2007/11/14/the-internet-is-just-a-tool/
 :private: true
 
 | **Hell is other commenters**

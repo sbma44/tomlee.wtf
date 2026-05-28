@@ -5,8 +5,6 @@ fortress: shed
 :category: Uncategorized
 :slug: fortress-shed
 :status: published
-:save_as: 2016/06/19/fortress-shed/index.html
-:url: 2016/06/19/fortress-shed/
 
 I am already failing badly at Iron Blogger. Should I hit publish on that post in *drafts* that I wrote months ago but which might upset my family? Is that valuable self-expression or just narcissism?
 

@@ -5,8 +5,6 @@ it feels like the big easy wasn't
 :category: personal
 :slug: it-feels-like-the-big-easy-wasnt
 :status: published
-:save_as: 2008/02/04/it-feels-like-the-big-easy-wasnt/index.html
-:url: 2008/02/04/it-feels-like-the-big-easy-wasnt/
 :private: true
 
 Hi there. Have you been wondering where I am? No, probably not. But look, I was gone: to New Orleans, with the rest of the `EchoDitto <http://www.echoditto.com>`__ crew for our annual retreat, which this year happened to coincide with the beginning of Mardis Gras.

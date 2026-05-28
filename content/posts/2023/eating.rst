@@ -5,8 +5,6 @@ eating
 :category: Uncategorized
 :slug: eating
 :status: published
-:save_as: 2023/11/28/eating/index.html
-:url: 2023/11/28/eating/
 
 `Kerry Howley's latest is unsurprisingly great, detailing the history behind a trendy LA health food store <https://www.thecut.com/article/erewhon-smoothie-boston-los-angeles-history.html>`__ that somehow, as a middle-aged dad on the east coast, I had never heard of. I think you should go read it!
 

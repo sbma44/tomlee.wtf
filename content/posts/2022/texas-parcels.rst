@@ -5,8 +5,6 @@ texas parcels
 :category: Uncategorized
 :slug: texas-parcels
 :status: published
-:save_as: 2022/10/05/texas-parcels/index.html
-:url: 2022/10/05/texas-parcels/
 
 .. container:: float wp-block-image
 

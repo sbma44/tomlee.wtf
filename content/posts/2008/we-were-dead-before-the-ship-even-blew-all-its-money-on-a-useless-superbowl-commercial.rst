@@ -5,8 +5,6 @@ we were dead before the ship even blew all its money on a useless superbowl comm
 :category: tech
 :slug: we-were-dead-before-the-ship-even-blew-all-its-money-on-a-useless-superbowl-commercial
 :status: published
-:save_as: 2008/01/22/we-were-dead-before-the-ship-even-blew-all-its-money-on-a-useless-superbowl-commercial/index.html
-:url: 2008/01/22/we-were-dead-before-the-ship-even-blew-all-its-money-on-a-useless-superbowl-commercial/
 :private: true
 
 ..

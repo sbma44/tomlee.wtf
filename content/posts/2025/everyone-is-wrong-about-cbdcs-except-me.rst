@@ -5,8 +5,6 @@ Everyone is wrong about CBDCs (except me)
 :category: Uncategorized
 :slug: everyone-is-wrong-about-cbdcs-except-me
 :status: published
-:save_as: 2025/05/12/everyone-is-wrong-about-cbdcs-except-me/index.html
-:url: 2025/05/12/everyone-is-wrong-about-cbdcs-except-me/
 
 I found myself chatting with some smart friends over the weekend. Like any good party, the conversation eventually turned to cryptocurrency. By the end, I was convinced I should write this post.
 

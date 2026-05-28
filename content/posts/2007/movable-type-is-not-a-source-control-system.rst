@@ -5,8 +5,6 @@ movable type is not a source control system
 :category: tech
 :slug: movable-type-is-not-a-source-control-system
 :status: published
-:save_as: 2007/03/20/movable-type-is-not-a-source-control-system/index.html
-:url: 2007/03/20/movable-type-is-not-a-source-control-system/
 :private: true
 
 ...as I reminded myself the hard way this morning. Save one little template over another one, where the latter happens to have all of your configuration constants and utility functions? Bad things happen. And no, of \*course\* I didn't have a backup. That'd be ridiculous!

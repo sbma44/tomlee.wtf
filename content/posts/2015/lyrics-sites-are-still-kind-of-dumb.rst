@@ -5,8 +5,6 @@ lyrics sites are still kind of dumb
 :category: Uncategorized
 :slug: lyrics-sites-are-still-kind-of-dumb
 :status: published
-:save_as: 2015/01/13/lyrics-sites-are-still-kind-of-dumb/index.html
-:url: 2015/01/13/lyrics-sites-are-still-kind-of-dumb/
 
 `Tim Lee is 100% right to situate Genius within a long and failed utopian tradition of annotating the web <http://www.vox.com/2015/1/13/7535561/rap-genius-new-yorker>`__.
 

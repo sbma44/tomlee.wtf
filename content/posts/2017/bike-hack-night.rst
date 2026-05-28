@@ -5,8 +5,6 @@ bike hack night
 :category: Uncategorized
 :slug: bike-hack-night
 :status: published
-:save_as: 2017/01/26/bike-hack-night/index.html
-:url: 2017/01/26/bike-hack-night/
 
 I gave a talk at `Bike Hack Night <https://www.meetup.com/Transportation-Techies/events/235892038/>`__ a couple of weeks ago, and have finally managed to put the audio and slides online. It runs about 12 minutes long and describes how I used the ESP8266 wifi microcontroller, ultrasonic rangefinding sensors, a homegrown iOS app and some data analysis to examine how much space cars afford me when passing me as I ride my bike.
 

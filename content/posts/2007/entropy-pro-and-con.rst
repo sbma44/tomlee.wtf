@@ -5,8 +5,6 @@ entropy: pro and con
 :category: science
 :slug: entropy-pro-and-con
 :status: published
-:save_as: 2007/11/15/entropy-pro-and-con/index.html
-:url: 2007/11/15/entropy-pro-and-con/
 :private: true
 
 - **PRO:** Towels are self-drying.

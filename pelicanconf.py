@@ -32,10 +32,8 @@ PAGINATION_PATTERNS = (
     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
 )
 
-# Don't generate slug-based URLs for articles with explicit save_as/url
-# This prevents duplicate content at both /slug.html and /YYYY/MM/DD/slug/
-ARTICLE_SAVE_AS = ''  # Disable default, rely on per-article save_as metadata
-ARTICLE_URL = ''      # Disable default, rely on per-article url metadata
+ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 # Static files (images, etc.)
 STATIC_PATHS = ['static', 'extra']

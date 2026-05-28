@@ -5,8 +5,6 @@ author: admin
 category: Uncategorized
 slug: govtech-in-the-era-of-claude-code
 status: published
-save_as: 2025/12/29/govtech-in-the-era-of-claude-code/index.html
-url: 2025/12/29/govtech-in-the-era-of-claude-code/
 ---
 Andrej Karpathy notes that ["people who aren’t keeping up even over the last 30 days already have a deprecated world view" about using LLMs to write code](https://x.com/karpathy/status/2004621825180139522) and that [devs must "rapidly progress through their grief cycle"](http://x.com/karpathy/status/2004974725320347884) to find their new place in the profession. I think he's right. I haven't written software professionally except in a glancing way for a long time, but I've felt myself gain what feel like enormous new powers and [watched others achieve truly towering things](https://friendlybit.com/python/writing-justhtml-with-coding-agents/).
 

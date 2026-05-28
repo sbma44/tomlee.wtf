@@ -5,8 +5,6 @@ a topic for debate
 :category: music
 :slug: a-topic-for-debate
 :status: published
-:save_as: 2007/06/26/a-topic-for-debate/index.html
-:url: 2007/06/26/a-topic-for-debate/
 :private: true
 
 RESOLVED: `Toto's "Africa" <http://hypem.com/search/toto%20africa/1/>`__ would make for a great Arcade Fire cover.

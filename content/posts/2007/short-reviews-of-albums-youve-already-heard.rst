@@ -5,8 +5,6 @@ short reviews of albums you've already heard
 :category: music
 :slug: short-reviews-of-albums-youve-already-heard
 :status: published
-:save_as: 2007/08/01/short-reviews-of-albums-youve-already-heard/index.html
-:url: 2007/08/01/short-reviews-of-albums-youve-already-heard/
 :private: true
 
 I've been having a lucky streak when it comes to new music:

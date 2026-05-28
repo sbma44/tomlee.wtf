@@ -5,8 +5,6 @@ put awesome music on your internet website
 :category: tech
 :slug: put-awesome-music-on-your-internet-website
 :status: published
-:save_as: 2007/04/06/put-awesome-music-on-your-internet-website/index.html
-:url: 2007/04/06/put-awesome-music-on-your-internet-website/
 :private: true
 
 It seems like everybody's been posting spring playlists:

@@ -5,8 +5,6 @@ Harlem Shakes / Passion Pit
 :category: music
 :slug: harlem-shakes-passion-pit
 :status: published
-:save_as: 2009/06/10/harlem-shakes-passion-pit/index.html
-:url: 2009/06/10/harlem-shakes-passion-pit/
 :private: true
 
 I am, let's face it, a bit too well-hydrated to pretend any semblance of rhetorical structure. So let's just do this in context-free bullet point format, like the rest of our society:

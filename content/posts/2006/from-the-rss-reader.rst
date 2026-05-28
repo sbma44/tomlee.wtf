@@ -5,8 +5,6 @@ from the rss reader
 :category: politics
 :slug: from-the-rss-reader
 :status: published
-:save_as: 2006/11/27/from-the-rss-reader/index.html
-:url: 2006/11/27/from-the-rss-reader/
 :private: true
 
 | |any good protests coming up?|

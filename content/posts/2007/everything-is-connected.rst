@@ -5,8 +5,6 @@ everything is connected
 :category: music, tech
 :slug: everything-is-connected
 :status: published
-:save_as: 2007/11/23/everything-is-connected/index.html
-:url: 2007/11/23/everything-is-connected/
 :private: true
 
 #. `As noted on their blog <http://noref.biz/?r=http%3A%2F%2Fblog.hypem.com%2F%3Fp%3D108>`__, some guy (not me; I wish I'd thought of it, although I wouldn't have published the MP3 URLs publicly) has written a script that pulls RSS from the HM, adds Last.fm popular tags to songs, and posts the MP3s' URLs to del.icio.us. The `result <http://del.icio.us/taggedhype/indie_rock>`__ is a huge, well-categorized stream of MP3s that represents most of the music blogosphere.

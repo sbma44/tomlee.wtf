@@ -5,8 +5,6 @@ since you've been gone
 :category: misc
 :slug: since-youve-been-gone
 :status: published
-:save_as: 2007/05/23/since-youve-been-gone/index.html
-:url: 2007/05/23/since-youve-been-gone/
 :private: true
 
 **FIRST** I've started receiving comment spam directing me to order sausage pizza, apparently from Russia. Who am I to refuse?

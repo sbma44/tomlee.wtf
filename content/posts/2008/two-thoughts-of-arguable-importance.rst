@@ -5,8 +5,6 @@ two thoughts of arguable importance
 :category: misc
 :slug: two-thoughts-of-arguable-importance
 :status: published
-:save_as: 2008/07/16/two-thoughts-of-arguable-importance/index.html
-:url: 2008/07/16/two-thoughts-of-arguable-importance/
 :private: true
 
 #. I'm really not looking forward to the inevitable advent of sous-vide machines targeting the home cook. Heartfelt testimonials, theme dinner parties, and the Slate product roundup that will mark the phenomenon's end: it's going to be pretty unbearable.

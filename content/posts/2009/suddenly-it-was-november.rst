@@ -5,8 +5,6 @@ suddenly it was November
 :category: Uncategorized
 :slug: suddenly-it-was-november
 :status: published
-:save_as: 2009/11/03/suddenly-it-was-november/index.html
-:url: 2009/11/03/suddenly-it-was-november/
 :private: true
 
 Halloween's over, and I've finally started to reassemble the pieces of my shattered life.  It's amazing how one little coffin-and-spider-construction project can derail gym attendance, laundry completion and sleep.

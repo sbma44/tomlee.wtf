@@ -5,8 +5,6 @@ coming soon as an impassioned letter in Wizard
 :category: pop culture
 :slug: coming-soon-as-an-impassioned-letter-in-wizard
 :status: published
-:save_as: 2008/06/16/coming-soon-as-an-impassioned-letter-in-wizard/index.html
-:url: 2008/06/16/coming-soon-as-an-impassioned-letter-in-wizard/
 :private: true
 
 Important business:

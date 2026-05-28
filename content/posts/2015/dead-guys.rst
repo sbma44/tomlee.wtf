@@ -5,8 +5,6 @@ dead guys
 :category: Uncategorized
 :slug: dead-guys
 :status: published
-:save_as: 2015/04/08/dead-guys/index.html
-:url: 2015/04/08/dead-guys/
 
 I love my friend Brian Beutler. But I didn't like `his piece calling for a holiday celebrating the confederacy's defeat <http://www.newrepublic.com/article/121406/civil-war-150th-anniversary-confederacy-defeat-should-be-holiday>`__ or `its followup <http://www.newrepublic.com/article/121477/civil-war-150th-anniversary-southerners-should-celebrate-union>`__.
 

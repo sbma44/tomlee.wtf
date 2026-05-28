@@ -5,8 +5,6 @@ notes on becoming a home automation dad
 :category: Uncategorized
 :slug: notes-on-becoming-a-home-automation-dad
 :status: published
-:save_as: 2022/02/01/notes-on-becoming-a-home-automation-dad/index.html
-:url: 2022/02/01/notes-on-becoming-a-home-automation-dad/
 
 When did the pandemic start? I remember returning from a vacation. My wife had to work but I took the week off. We hired a nanny. The hotel was unremarkable except it had a water park sort of thing with slides and a lazy river, and weed is legal in California. We had heard about a sickness in China before leaving. Now there were reports that it was nearby. Reason for concern! Our hotel seemed fine (what did that mean?), but it was something we thought about the last night when I went to pick up tacos. I am pretty sure the pandemic started during our drive home from the airport, back in D.C.
 

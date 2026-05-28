@@ -5,8 +5,6 @@ crime!
 :category: DC
 :slug: crime
 :status: published
-:save_as: 2007/01/21/crime/index.html
-:url: 2007/01/21/crime/
 :private: true
 
 |Crime!|

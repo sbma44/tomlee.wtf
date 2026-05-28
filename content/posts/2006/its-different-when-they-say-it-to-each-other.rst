@@ -5,8 +5,6 @@ it's different when they say it to each other
 :category: misc
 :slug: its-different-when-they-say-it-to-each-other
 :status: published
-:save_as: 2006/12/13/its-different-when-they-say-it-to-each-other/index.html
-:url: 2006/12/13/its-different-when-they-say-it-to-each-other/
 :private: true
 
 | |photo of the australian embassy and its silly christmas decorations|

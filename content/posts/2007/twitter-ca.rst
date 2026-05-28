@@ -5,8 +5,6 @@ twitter.ca
 :category: tech
 :slug: twitter-ca
 :status: published
-:save_as: 2007/05/09/twitter-ca/index.html
-:url: 2007/05/09/twitter-ca/
 :private: true
 
 `Canadiafy Twitter <http://labs.echoditto.com/twitter.ca>`__

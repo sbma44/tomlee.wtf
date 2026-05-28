@@ -5,8 +5,6 @@ geocoding your way to a great vacation
 :category: Uncategorized
 :slug: geocoding-your-way-to-a-great-vacation
 :status: published
-:save_as: 2016/07/10/geocoding-your-way-to-a-great-vacation/index.html
-:url: 2016/07/10/geocoding-your-way-to-a-great-vacation/
 
 The road had descended steeply into the valley, and if there was a river anywhere near, it seemed like we would find it soon. There were even a few signs for a dock, but by that time we were suspicious. The people of Skradin would have you believe that their great civic passtime is standing on street corners, wearing t-shirts emblazoned with the letter P and proclaiming the availability of free parking for ferry passengers. It seemed suspicious. Besides, Google told us the ferry was over one more mountain. Nice try, Skradinze.
 

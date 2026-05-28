@@ -5,8 +5,6 @@ NYT RSS PSA
 :category: tech
 :slug: nyt-rss-psa
 :status: published
-:save_as: 2007/09/19/nyt-rss-psa/index.html
-:url: 2007/09/19/nyt-rss-psa/
 :private: true
 
 - `Full-text Paul Krugman feed <http://feeds.feedburner.com/PaulKrugman>`__

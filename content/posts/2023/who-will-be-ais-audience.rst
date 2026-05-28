@@ -5,8 +5,6 @@ who will be ai's audience?
 :category: Uncategorized
 :slug: who-will-be-ais-audience
 :status: published
-:save_as: 2023/01/27/who-will-be-ais-audience/index.html
-:url: 2023/01/27/who-will-be-ais-audience/
 
 For the better part of a decade we've been warned to fear the displaced truck drivers that will soon be set adrift by autonomous semis. Suddenly that looks wrong. You can find self-driving projects in the "losses" section of various companies' financial statements and in a handful of sunbelt cities. But that's about it. Meanwhile, ChatGPT's serviceable prose is everywhere! What does this mean for the white collar worker? A representative riff came `from Kevin Drum this week <https://jabberwocking.com/chatgpt-goes-to-law-school/>`__:
 

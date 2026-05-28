@@ -5,8 +5,6 @@ Rumsfeld's out
 :category: DC
 :slug: rumsfelds-out
 :status: published
-:save_as: 2006/11/08/rumsfelds-out/index.html
-:url: 2006/11/08/rumsfelds-out/
 :private: true
 
 | Which, okay, great. I would've liked to leave open the possibility of making my wallpaper a screencap of him being led out of the pentagon in handcuffs, but I'll settle for simply getting someone competent in there.

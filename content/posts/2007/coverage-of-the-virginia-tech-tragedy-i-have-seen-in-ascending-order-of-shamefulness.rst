@@ -5,8 +5,6 @@ coverage of the Virginia Tech tragedy I have seen, in ascending order of shamefu
 :category: misc
 :slug: coverage-of-the-virginia-tech-tragedy-i-have-seen-in-ascending-order-of-shamefulness
 :status: published
-:save_as: 2007/04/16/coverage-of-the-virginia-tech-tragedy-i-have-seen-in-ascending-order-of-shamefulness/index.html
-:url: 2007/04/16/coverage-of-the-virginia-tech-tragedy-i-have-seen-in-ascending-order-of-shamefulness/
 :private: true
 
 #. Wolf Blitzer asking the guy who took the video of police officers outside the building what sort of cell phone he used. Answer: Nokia.

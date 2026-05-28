@@ -5,8 +5,6 @@ trains that don't stop
 :category: misc
 :slug: trains-that-dont-stop
 :status: published
-:save_as: 2008/07/07/trains-that-dont-stop/index.html
-:url: 2008/07/07/trains-that-dont-stop/
 :private: true
 
 I know, I know: two YouTube videos in one day? But `this <http://urbanplanningblog.com/2008/06/18/boarding-a-train-that-doesnt-stop/>`__ is really neat:

@@ -5,8 +5,6 @@ the house of endless mourning feat. the harlem globetrotters
 :category: Uncategorized
 :slug: the-house-of-endless-mourning-feat-the-harlem-globetrotters
 :status: published
-:save_as: 2022/10/31/the-house-of-endless-mourning-feat-the-harlem-globetrotters/index.html
-:url: 2022/10/31/the-house-of-endless-mourning-feat-the-harlem-globetrotters/
 
 The last big Halloween party I threw happened just before the pandemic. It was a lot of work, they always were. Weeks of dragging decorations across town; building some overly ambitious new one every year; making manic entreaties to generous friends to help put them up, and to strangers to come enjoy them, and to even more selfless friends to come take them down in the next day's harsh morning light. Staying late at the venue in the days before to get the prep done, staying until the end of the party to ensure everything went okay. The last couple of times: to do it all with children. It was a lot, and while I wouldn't say the rise of a globe-spanning deadly contagion was a relief, exactly, it did save me a lot of time, effort, and money in late October.
 

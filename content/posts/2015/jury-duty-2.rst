@@ -5,8 +5,6 @@ jury duty
 :category: Uncategorized
 :slug: jury-duty-2
 :status: published
-:save_as: 2015/01/17/jury-duty-2/index.html
-:url: 2015/01/17/jury-duty-2/
 
 |the sacred dignity of fashion trends|\ I had been called to jury duty several times before, but never selected. Steph is an attorney, Charles was an investigator, people in my family have gone to jail, and I've seen enough movies to know that the police can be compromised (*Blade*, for instance).
 

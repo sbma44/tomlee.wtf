@@ -5,8 +5,6 @@ you might be a terrible writer if...
 :category: misc
 :slug: you-might-be-a-terrible-writer-if
 :status: published
-:save_as: 2008/08/18/you-might-be-a-terrible-writer-if/index.html
-:url: 2008/08/18/you-might-be-a-terrible-writer-if/
 :private: true
 
 - You ever entitle a blog post according to the form "A, B and C... Oh My!"

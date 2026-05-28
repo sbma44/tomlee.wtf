@@ -5,8 +5,6 @@ oh, NPR
 :category: tech
 :slug: oh-npr
 :status: published
-:save_as: 2008/05/09/oh-npr/index.html
-:url: 2008/05/09/oh-npr/
 :private: true
 
 You know I love you. But these two stories are really, really embarrassing:

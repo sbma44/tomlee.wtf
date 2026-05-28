@@ -5,8 +5,6 @@ say goodbye, cavemen
 :category: pop culture
 :slug: say-goodbye-cavemen
 :status: published
-:save_as: 2007/01/31/say-goodbye-cavemen/index.html
-:url: 2007/01/31/say-goodbye-cavemen/
 :private: true
 
 |photo of a mooninite by flickr user medildo, used under an ex-boyfriend license|

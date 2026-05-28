@@ -5,8 +5,6 @@ today, in "ruining Breaking Bad"
 :category: Uncategorized
 :slug: today-in-ruining-breaking-bad
 :status: published
-:save_as: 2012/08/20/today-in-ruining-breaking-bad/index.html
-:url: 2012/08/20/today-in-ruining-breaking-bad/
 :private: true
 
 Last night Walt escaped a plastic zip-tie handcuff by using electricity from a household socket to create an electrical arc that melted the plastic. Not to belabor this, but when you short out a household electrical socket, this is what it looks like:

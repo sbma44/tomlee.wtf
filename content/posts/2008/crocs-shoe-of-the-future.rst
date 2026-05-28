@@ -5,8 +5,6 @@ CROCS: SHOE OF THE FUTURE
 :category: personal
 :slug: crocs-shoe-of-the-future
 :status: published
-:save_as: 2008/06/16/crocs-shoe-of-the-future/index.html
-:url: 2008/06/16/crocs-shoe-of-the-future/
 :private: true
 
 |image1|

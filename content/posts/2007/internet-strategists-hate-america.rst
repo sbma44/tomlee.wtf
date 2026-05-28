@@ -5,8 +5,6 @@ internet strategists hate America
 :category: misc
 :slug: internet-strategists-hate-america
 :status: published
-:save_as: 2007/10/01/internet-strategists-hate-america/index.html
-:url: 2007/10/01/internet-strategists-hate-america/
 :private: true
 
 In response to my last post a much-better-informed little birdy sent me a transcript of a Homeland Security Committee hearing about online Islamic extremism. It was an interesting read, and I may say something else about it later. But for now, here's the part that was most immediately striking:

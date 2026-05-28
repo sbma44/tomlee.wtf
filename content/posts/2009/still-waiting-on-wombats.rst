@@ -5,8 +5,6 @@ still waiting on wombats
 :category: music
 :slug: still-waiting-on-wombats
 :status: published
-:save_as: 2009/02/20/still-waiting-on-wombats/index.html
-:url: 2009/02/20/still-waiting-on-wombats/
 :private: true
 
 The fact that the Wombats haven't yet become a hugely successful band is a persistent puzzlement for me. I've been patient! Ever since the first version of "Backfire at the Disco" I've bided my time, waiting for stateside tour dates and a favorable Pitchfork review. I thought that a much-touted SXSW showcase would do it, but no — I'm still waiting. In the meantime the band has released a number of increasingly overproduced (but still catchy!) singles, and seems to be prepping a new LP.

@@ -5,8 +5,6 @@ Paris
 :category: Uncategorized
 :slug: paris
 :status: published
-:save_as: 2015/11/18/paris/index.html
-:url: 2015/11/18/paris/
 
 We had been feeling cross about Uber. This is, by far, the subject about which Steph and I fight the most, as the service's admittedly poor routing prompts different and conflicting reactions from us. She cannot resist reaching across gaping chasms of culture, language and basic navigational competence to put our drivers on the right path. I prefer, in characteristically nonconfrontational style, to quietly abandon myself to fate, gladly surrendering a few hundred meters or cents if it saves everyone some embarrassment.
 

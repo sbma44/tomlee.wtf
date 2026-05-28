@@ -5,8 +5,6 @@ reading material
 :category: misc
 :slug: reading-material
 :status: published
-:save_as: 2007/07/08/reading-material/index.html
-:url: 2007/07/08/reading-material/
 :private: true
 
 - Emily sent me this link: `Kottke compares Facebook and AOL <http://www.kottke.org/07/07/facebook-vs-aol-redux>`__. It sums up a lot of why I'm an FB skeptic. Open, diffuse standards and services are good. Putting your eggs in one basket is bad.

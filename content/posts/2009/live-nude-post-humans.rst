@@ -5,8 +5,6 @@ Live! Nude! Post-humans!
 :category: pop culture
 :slug: live-nude-post-humans
 :status: published
-:save_as: 2009/03/07/live-nude-post-humans/index.html
-:url: 2009/03/07/live-nude-post-humans/
 :private: true
 
 I haven't seen *Watchmen* yet — Emily and I were traveling last night, bound for a quick vacation in Texas. Just about the time everyone else was suffering through "`Citizen Solder <http://www.youtube.com/watch?v=LJRthpxDM10>`__" I was tucking into an enormous plate of `delicious blue corn tortillas <http://www.chuys.com/location.html>`__. So I say this based on the comic, not the film.

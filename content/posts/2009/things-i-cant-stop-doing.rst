@@ -5,8 +5,6 @@ things I can't stop doing
 :category: music, personal
 :slug: things-i-cant-stop-doing
 :status: published
-:save_as: 2009/03/04/things-i-cant-stop-doing/index.html
-:url: 2009/03/04/things-i-cant-stop-doing/
 :private: true
 
 #. Coughing

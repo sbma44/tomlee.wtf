@@ -5,8 +5,6 @@ Arduino: arduous
 :category: tech
 :slug: arduino-arduous
 :status: published
-:save_as: 2007/04/24/arduino-arduous/index.html
-:url: 2007/04/24/arduino-arduous/
 :private: true
 
 It took me a hell of a long time to get around to fixing the problem with the circuit, but I finally got my Arduino relay interface/magic extension cord working — thanks in no small part to the `help <http://www.flickr.com/photos/sbma44/340044058/>`__ of a `kind stranger <http://www.flickr.com/photos/11328208@N00/>`__ who happened across my Flickr photostream.

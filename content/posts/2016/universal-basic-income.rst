@@ -5,8 +5,6 @@ universal basic income
 :category: Uncategorized
 :slug: universal-basic-income
 :status: published
-:save_as: 2016/05/31/universal-basic-income/index.html
-:url: 2016/05/31/universal-basic-income/
 
 UBI is getting a ton of attention these days, and on the whole I'm glad. Smart people I know who care deeply about social welfare have been quietly nursing this dream for a long time, and I respect the depth of their thought and commitment. One friend is even writing a book about UBI! I would like to see a greater share of society's wealth go to the poor, and this seems like a mechanism for achieving that goal that is worth investigating.
 

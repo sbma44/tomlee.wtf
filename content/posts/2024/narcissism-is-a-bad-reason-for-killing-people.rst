@@ -5,8 +5,6 @@ narcissism is a bad reason for killing people
 :category: Uncategorized
 :slug: narcissism-is-a-bad-reason-for-killing-people
 :status: published
-:save_as: 2024/12/11/narcissism-is-a-bad-reason-for-killing-people/index.html
-:url: 2024/12/11/narcissism-is-a-bad-reason-for-killing-people/
 
 Of course it was reasonable to focus on Mangione's interactions with the health care system as we searched for his motive. But now, with `his manifesto <https://www.kenklippenstein.com/p/luigis-manifesto>`__ in hand and some of his personal history known, those interactions seem bizarrely scant. He suffered from chronic back pain, but `could still go rock climbing <https://www.wmtw.com/article/luigi-mangione-unitedhealthcare-ceo-shooting/63157284>`__. There's no indication he was denied care by a health insurance company. His family was prosperous and could presumably have found alternatives if he had been truly desperate. His manifesto ends with an abstract (and `dumb <https://pmc.ncbi.nlm.nih.gov/articles/PMC9154274/>`__) complaint about U.S. life expectancy, not a specific tale of tragedy.
 

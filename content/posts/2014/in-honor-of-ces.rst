@@ -5,8 +5,6 @@ in honor of CES
 :category: Uncategorized
 :slug: in-honor-of-ces
 :status: published
-:save_as: 2014/01/06/in-honor-of-ces/index.html
-:url: 2014/01/06/in-honor-of-ces/
 :private: true
 
 Let us revisit the opening paragraph of *The Hitchhiker's Guide to the Galaxy*:

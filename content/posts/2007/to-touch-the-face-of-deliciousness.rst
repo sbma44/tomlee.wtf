@@ -5,8 +5,6 @@ to touch the face of deliciousness
 :category: personal
 :slug: to-touch-the-face-of-deliciousness
 :status: published
-:save_as: 2007/02/07/to-touch-the-face-of-deliciousness/index.html
-:url: 2007/02/07/to-touch-the-face-of-deliciousness/
 :private: true
 
 |photo of a delicious-looking corndog and some tongs|\ Why yes, I *do* own a deep fryer. It's so sweet of you to notice!

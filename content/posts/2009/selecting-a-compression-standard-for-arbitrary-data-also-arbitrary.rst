@@ -5,8 +5,6 @@ selecting a compression standard for arbitrary data: also arbitrary!
 :category: Uncategorized
 :slug: selecting-a-compression-standard-for-arbitrary-data-also-arbitrary
 :status: published
-:save_as: 2009/09/25/selecting-a-compression-standard-for-arbitrary-data-also-arbitrary/index.html
-:url: 2009/09/25/selecting-a-compression-standard-for-arbitrary-data-also-arbitrary/
 :private: true
 
 In keeping with this site's new ambition to become a J. Sanchez metablog:

@@ -5,8 +5,6 @@ this is really pretty great
 :category: misc
 :slug: this-is-really-pretty-great
 :status: published
-:save_as: 2007/04/12/this-is-really-pretty-great/index.html
-:url: 2007/04/12/this-is-really-pretty-great/
 :private: true
 
 .. raw:: html

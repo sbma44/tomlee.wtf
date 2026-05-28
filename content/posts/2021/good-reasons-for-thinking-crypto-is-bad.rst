@@ -5,8 +5,6 @@ good reasons for thinking crypto is bad
 :category: Uncategorized
 :slug: good-reasons-for-thinking-crypto-is-bad
 :status: published
-:save_as: 2021/11/23/good-reasons-for-thinking-crypto-is-bad/index.html
-:url: 2021/11/23/good-reasons-for-thinking-crypto-is-bad/
 
 By citing one of my tweets, Will Wilkinson has done me the immense favor of inviting me to an internet argument I can join without getting in trouble. I am embarrassed at the genuine thrill I felt at this. My wife has been asking what she should get me for Christmas, and I've been hemming and hawing about various electronic gadgets in response. But now it's clear what I really want to find under the tree: trackbacks.
 

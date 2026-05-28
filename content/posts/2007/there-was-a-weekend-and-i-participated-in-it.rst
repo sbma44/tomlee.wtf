@@ -5,8 +5,6 @@ there was a weekend and I participated in it
 :category: personal
 :slug: there-was-a-weekend-and-i-participated-in-it
 :status: published
-:save_as: 2007/11/13/there-was-a-weekend-and-i-participated-in-it/index.html
-:url: 2007/11/13/there-was-a-weekend-and-i-participated-in-it/
 :private: true
 
 - On Saturday Emily and I (mostly Emily) made `pretzels <http://www.flickr.com/photos/sbma44/2006479840/>`__ and `cheese biscuits <http://www.flickr.com/photos/sbma44/2006499530/>`__, then headed over to `Jason <http://www.doombot.com>`__ & Lee's to participate in their bake-off. I'm pretty sure I ate five different types of pie, then spent the rest of the night alternating between picking Spree off of a gingerbread house and complaining about what an awful candy Spree is. Overall: delicious, but incapacitating.

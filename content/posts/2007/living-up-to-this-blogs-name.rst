@@ -5,8 +5,6 @@ living up to this blog's name
 :category: personal
 :slug: living-up-to-this-blogs-name
 :status: published
-:save_as: 2007/02/28/living-up-to-this-blogs-name/index.html
-:url: 2007/02/28/living-up-to-this-blogs-name/
 :private: true
 
 |picture of some gold rush prospectors|

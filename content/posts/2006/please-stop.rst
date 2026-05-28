@@ -5,8 +5,6 @@ please stop
 :category: personal
 :slug: please-stop
 :status: published
-:save_as: 2006/10/18/please-stop/index.html
-:url: 2006/10/18/please-stop/
 :private: true
 
 | Stop it, you `pretentious <http://www.google.com/search?q=%22hallowe%27en%22%20site%3Aboingboing.net>`__ `twits <http://www.makezine.com/blog/archive/2006/10/thrills_and_chi.html?CMP=OTC-0D6B48984890>`__. It's HALLOWEEN. Halloween. Not "Hallowe'en". You are not living in the Victorian era. You are not a medieval alchemist recording observations about phlogiston and aether. You are (hopefully) not Tori Amos.

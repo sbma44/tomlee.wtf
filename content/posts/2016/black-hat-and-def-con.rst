@@ -5,8 +5,6 @@ black hat and def con
 :category: Uncategorized
 :slug: black-hat-and-def-con
 :status: published
-:save_as: 2016/08/14/black-hat-and-def-con/index.html
-:url: 2016/08/14/black-hat-and-def-con/
 
 A week ago I was in Las Vegas, surrounded by thousands of people attending Black Hat and DEF CON, the computer security industry's two most important US gatherings. I had never been, and I loved it. I loved it.
 

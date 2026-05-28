@@ -5,8 +5,6 @@ treating stupidity with the seriousness it deserves
 :category: pop culture
 :slug: treating-stupidity-with-the-seriousness-it-deserves
 :status: published
-:save_as: 2008/12/22/treating-stupidity-with-the-seriousness-it-deserves/index.html
-:url: 2008/12/22/treating-stupidity-with-the-seriousness-it-deserves/
 :private: true
 
 `The Onion AV Club <http://www.avclub.com/content/cinema/the_wrestler>`__ on *The Wrestler*:

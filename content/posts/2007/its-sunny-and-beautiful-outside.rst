@@ -5,8 +5,6 @@ it's sunny and beautiful outside
 :category: music
 :slug: its-sunny-and-beautiful-outside
 :status: published
-:save_as: 2007/03/22/its-sunny-and-beautiful-outside/index.html
-:url: 2007/03/22/its-sunny-and-beautiful-outside/
 :private: true
 
 Have some `pop music <http://www.whoneedsradio.com/2007/03/lovekevins.html>`__ to go with it.

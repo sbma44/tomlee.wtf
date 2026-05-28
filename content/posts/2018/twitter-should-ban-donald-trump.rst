@@ -5,8 +5,6 @@ Twitter should ban Donald Trump
 :category: Uncategorized
 :slug: twitter-should-ban-donald-trump
 :status: published
-:save_as: 2018/01/05/twitter-should-ban-donald-trump/index.html
-:url: 2018/01/05/twitter-should-ban-donald-trump/
 
 I live about a mile north of the Capitol in Washington, DC. My wife's workplace is a few hundred yards from the White House. Our seven month old daughter's daycare is a few hundred yards past that. I wouldn't say I was ever in favor of goading a foreign power into launching a nuclear attack on DC. But these facts have made me downright humorless about it.
 

@@ -5,8 +5,6 @@ DIY eye-fi server: docker, flickr, all sorts of good stuff
 :category: Uncategorized
 :slug: diy-eye-fi-server-docker-flickr-all-sorts-of-good-stuff
 :status: published
-:save_as: 2017/04/20/diy-eye-fi-server-docker-flickr-all-sorts-of-good-stuff/index.html
-:url: 2017/04/20/diy-eye-fi-server-docker-flickr-all-sorts-of-good-stuff/
 
 |image1|\ The Eye-fi is an SD card with an embedded wifi chip. Configure it, put it in your camera and it can wirelessly upload photos without human intervention. It's a neat gadget, even if I never did manage to get my mother's working for her.
 

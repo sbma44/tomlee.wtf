@@ -5,8 +5,6 @@ god dammit
 :category: personal
 :slug: god-dammit
 :status: published
-:save_as: 2007/04/04/god-dammit/index.html
-:url: 2007/04/04/god-dammit/
 :private: true
 
 |I'm not getting a tax refund|

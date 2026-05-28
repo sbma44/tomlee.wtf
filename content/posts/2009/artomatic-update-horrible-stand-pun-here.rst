@@ -5,8 +5,6 @@ Artomatic Update: HORRIBLE "STAND" PUN HERE
 :category: personal
 :slug: artomatic-update-horrible-stand-pun-here
 :status: published
-:save_as: 2009/05/11/artomatic-update-horrible-stand-pun-here/index.html
-:url: 2009/05/11/artomatic-update-horrible-stand-pun-here/
 :private: true
 
 Progress!

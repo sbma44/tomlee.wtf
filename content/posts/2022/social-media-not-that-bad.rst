@@ -5,8 +5,6 @@ social media: not that bad
 :category: Uncategorized
 :slug: social-media-not-that-bad
 :status: published
-:save_as: 2022/08/08/social-media-not-that-bad/index.html
-:url: 2022/08/08/social-media-not-that-bad/
 
 I don't really have time to respond properly to two thoughtful essays from `Ryan Avent <https://ryanavent.substack.com/p/time-to-outgrow-social-media>`__ and `Ezra Klein <https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html>`__, which makes it very tempting to instead dash off a sketch of a response on Twitter. But since these essays are about the perniciousness of social media, that would be antagonistic. I can at least shove these into RSS for appearances' sake.
 

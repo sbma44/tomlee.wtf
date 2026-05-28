@@ -5,8 +5,6 @@ stateside
 :category: personal
 :slug: stateside
 :status: published
-:save_as: 2006/12/07/stateside/index.html
-:url: 2006/12/07/stateside/
 :private: true
 
 | Well, I'm back home, or at least on the Dulles toll road. We landed almost an hour late, but the flight was mostly pleasant and uneventful. I **did** sit behind a human being with what may be the worst sense of taste I've ever encountered — and if you've ever heard one of my own full-throated defenses of the movie *Predator*, you know that's saying something.

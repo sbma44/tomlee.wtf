@@ -5,8 +5,6 @@ Peter, Bjorn and John-Boy
 :category: music
 :slug: peter-bjorn-and-john-boy
 :status: published
-:save_as: 2007/04/18/peter-bjorn-and-john-boy/index.html
-:url: 2007/04/18/peter-bjorn-and-john-boy/
 :private: true
 
 I've never been fully head-over-heels for the original, but this is an awfully nice cover. I guess it's been around for a couple of weeks, but if you haven't seen it, give it a look.

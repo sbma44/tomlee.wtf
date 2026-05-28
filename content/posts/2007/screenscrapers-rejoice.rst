@@ -5,8 +5,6 @@ screenscrapers, rejoice!
 :category: tech
 :slug: screenscrapers-rejoice
 :status: published
-:save_as: 2007/07/18/screenscrapers-rejoice/index.html
-:url: 2007/07/18/screenscrapers-rejoice/
 :private: true
 
 Adrian Holovaty has just released a Python library called `templatemaker <http://www.holovaty.com/blog/archive/2007/07/06/0128>`__ that promises to make screen-scraping much easier.

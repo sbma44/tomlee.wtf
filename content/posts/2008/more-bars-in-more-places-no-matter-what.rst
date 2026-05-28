@@ -5,8 +5,6 @@ more bars in more places, no matter what
 :category: tech
 :slug: more-bars-in-more-places-no-matter-what
 :status: published
-:save_as: 2008/07/28/more-bars-in-more-places-no-matter-what/index.html
-:url: 2008/07/28/more-bars-in-more-places-no-matter-what/
 :private: true
 
 I like to think I've got a healthily cynical outlook on these sorts of things, so I'm not sure why this never occurred to me:

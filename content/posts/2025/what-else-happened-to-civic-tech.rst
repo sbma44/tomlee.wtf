@@ -5,8 +5,6 @@ What else happened to Civic Tech?
 :category: Uncategorized
 :slug: what-else-happened-to-civic-tech
 :status: published
-:save_as: 2025/12/04/what-else-happened-to-civic-tech/index.html
-:url: 2025/12/04/what-else-happened-to-civic-tech/
 
 Josh Tauberer has written `a great and generous post reflecting on the civic tech era <https://www.linkedin.com/pulse/what-actually-happened-civic-tech-joshua-tauberer-ibnbe/?trackingId=FfDEvpzVMapzu0%2FrmSGBmg%3D%3D>`__ and why its successes deserve to be celebrated, even if it has been some time since its heyday. I agree with him. I'm proud of my time at the Sunlight Foundation and the part that Sunlight played in shaping the larger movement's legacy. And, like with the open data and open source movements that preceded it, I am frustrated when others suggest a movement has failed simply because it has lost its grip on the zeigeist.
 

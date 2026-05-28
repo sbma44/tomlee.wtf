@@ -5,8 +5,6 @@ today's spooky story
 :category: misc
 :slug: todays-spooky-story
 :status: published
-:save_as: 2008/10/23/todays-spooky-story/index.html
-:url: 2008/10/23/todays-spooky-story/
 :private: true
 
 In comments, `Ben <http://waste.typepad.com>`__ suggests `August Heat <http://www.donaldtyson.com/august.html>`__ as a good scary story. I'm glad he did — it's excellent (and a very quick read). Go have a look.

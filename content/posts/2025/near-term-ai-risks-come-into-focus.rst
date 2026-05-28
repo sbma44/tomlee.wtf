@@ -5,8 +5,6 @@ near-term AI risks come into focus
 :category: Uncategorized
 :slug: near-term-ai-risks-come-into-focus
 :status: published
-:save_as: 2025/03/12/near-term-ai-risks-come-into-focus/index.html
-:url: 2025/03/12/near-term-ai-risks-come-into-focus/
 
 I think, or maybe just hope, that `this account <https://www.lesswrong.com/posts/oKAFFvaouKKEhbBPm/a-bear-case-my-predictions-regarding-ai-progress>`__ is true: that LLMs will keep getting better, but that we know enough to understand what an LLM *is*, and make guesses about what an ideal one looks like, and that it doesn't imply serious threats to the primacy of human experience on this planet. Whew! This doesn't rule out a future AI godhead, but getting there will require more than just additional pitch decks and power lines. I hope this will give us all some breathing room and let my kids experience a last normal childhood, full of ordinary hopes and dreams.
 

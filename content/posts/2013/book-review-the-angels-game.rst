@@ -5,8 +5,6 @@ book review: The Angel's Game
 :category: Uncategorized
 :slug: book-review-the-angels-game
 :status: published
-:save_as: 2013/07/13/book-review-the-angels-game/index.html
-:url: 2013/07/13/book-review-the-angels-game/
 :private: true
 
 Carlos Ruiz Zafon is a talented writer and a miraculous self-promoter. *The Angel's Game* -- like *The Shadow of the Wind* -- will leave you convinced that you've read a better book than you have. But that doesn't mean you shouldn't read it.

@@ -5,8 +5,6 @@ century
 :category: Uncategorized
 :slug: century
 :status: published
-:save_as: 2016/06/26/century/index.html
-:url: 2016/06/26/century/
 
 I rode my bicycle a hundred miles yesterday, and so yes, this is mostly an extended humble-brag. But it is also a mark of how much has changed since `my first, ecstatic road bike experience </2012/09/29/beautiful-and-fast/>`__.
 

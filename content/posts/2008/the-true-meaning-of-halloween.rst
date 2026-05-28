@@ -5,8 +5,6 @@ the true meaning of halloween
 :category: misc
 :slug: the-true-meaning-of-halloween
 :status: published
-:save_as: 2008/10/29/the-true-meaning-of-halloween/index.html
-:url: 2008/10/29/the-true-meaning-of-halloween/
 :private: true
 
 With all the hustle and bustle, it's all too easy to forget...

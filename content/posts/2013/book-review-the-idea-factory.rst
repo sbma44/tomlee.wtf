@@ -5,8 +5,6 @@ book review: The Idea Factory
 :category: Uncategorized
 :slug: book-review-the-idea-factory
 :status: published
-:save_as: 2013/05/04/book-review-the-idea-factory/index.html
-:url: 2013/05/04/book-review-the-idea-factory/
 :private: true
 
 A really lovely history of Bell Labs and its incredible impact on the world. Gertner does a fantastic job of synthesizing existing historical accounts, while also unearthing his own wholly original findings through interviews and dives into the AT&T archives.

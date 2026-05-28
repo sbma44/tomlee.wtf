@@ -5,8 +5,6 @@ in war, nobody wins
 :category: Uncategorized
 :slug: in-war-nobody-wins
 :status: published
-:save_as: 2009/08/14/in-war-nobody-wins/index.html
-:url: 2009/08/14/in-war-nobody-wins/
 :private: true
 
 No:

@@ -5,8 +5,6 @@ VPNwatcher for OS X
 :category: Uncategorized
 :slug: vpnwatcher-for-os-x
 :status: published
-:save_as: 2015/06/30/vpnwatcher-for-os-x/index.html
-:url: 2015/06/30/vpnwatcher-for-os-x/
 
 Swap out "Transmission" for your own VPN-sensitive client, obvs. Assumes Viscosity or another client that creates a tun0 interface.
 

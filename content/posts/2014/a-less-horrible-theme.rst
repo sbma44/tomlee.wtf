@@ -5,8 +5,6 @@ a less horrible theme
 :category: Uncategorized
 :slug: a-less-horrible-theme
 :status: published
-:save_as: 2014/02/03/a-less-horrible-theme/index.html
-:url: 2014/02/03/a-less-horrible-theme/
 :private: true
 
 Though still quite horrible. I couldn't stand the old one anymore, though.

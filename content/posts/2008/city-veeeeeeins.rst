@@ -5,8 +5,6 @@ city veeeeeeins
 :category: music
 :slug: city-veeeeeeins
 :status: published
-:save_as: 2008/09/24/city-veeeeeeins/index.html
-:url: 2008/09/24/city-veeeeeeins/
 :private: true
 
 Tonight! Black Cat! Word on the inter-street is that they go on around 11 — that's right, it's a headlining spot. I think I'll be in the Red Room by 10 or so. See you there? Of course I will.

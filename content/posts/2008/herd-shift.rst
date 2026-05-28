@@ -5,8 +5,6 @@ herd shift
 :category: politics
 :slug: herd-shift
 :status: published
-:save_as: 2008/05/07/herd-shift/index.html
-:url: 2008/05/07/herd-shift/
 :private: true
 
 So where can I sign up for more timely updates from the media conspiracy? I'm imagining an email list. Or maybe a dashboard widget with Growl notifications telling me when and how to unfairly marginalize the Ron Paul campaign.

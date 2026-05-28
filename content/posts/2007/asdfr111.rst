@@ -5,8 +5,6 @@ ASDF#R#@%@111
 :category: pop culture
 :slug: asdfr111
 :status: published
-:save_as: 2007/09/10/asdfr111/index.html
-:url: 2007/09/10/asdfr111/
 :private: true
 
 `HOLY FUCK IRONMAN <http://www.apple.com/trailers/paramount/ironman/>`__

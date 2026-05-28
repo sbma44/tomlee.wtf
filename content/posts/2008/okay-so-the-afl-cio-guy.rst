@@ -5,8 +5,6 @@ okay, so the AFL-CIO guy
 :category: politics
 :slug: okay-so-the-afl-cio-guy
 :status: published
-:save_as: 2008/10/03/okay-so-the-afl-cio-guy/index.html
-:url: 2008/10/03/okay-so-the-afl-cio-guy/
 :private: true
 
 This video is making the progressive blogospheric rounds:

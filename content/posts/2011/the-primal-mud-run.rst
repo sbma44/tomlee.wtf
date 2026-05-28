@@ -5,8 +5,6 @@ the primal mud run
 :category: Uncategorized
 :slug: the-primal-mud-run
 :status: published
-:save_as: 2011/11/06/the-primal-mud-run/index.html
-:url: 2011/11/06/the-primal-mud-run/
 :private: true
 
 |me, exhausted and covered in mud|

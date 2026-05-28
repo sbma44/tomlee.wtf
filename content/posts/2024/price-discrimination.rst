@@ -5,8 +5,6 @@ price discrimination
 :category: Uncategorized
 :slug: price-discrimination
 :status: published
-:save_as: 2024/08/26/price-discrimination/index.html
-:url: 2024/08/26/price-discrimination/
 
 We have just returned home. Physically, we were in Vermont, working by remote for two weeks and vacationing for a third. Psychologically, we were in numerous locales. Caloric IPA City. A day trip to Diminished Parental Vigilance Island. Touring the Drug-Addicts-Are-Merely-Annoying,-Not-Dangerous District. But also: relaxing in the Land of Substantially Reduced Price Sensitivity.
 

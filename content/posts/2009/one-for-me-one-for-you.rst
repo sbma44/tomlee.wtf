@@ -5,8 +5,6 @@ one for me, one for you
 :category: misc
 :slug: one-for-me-one-for-you
 :status: published
-:save_as: 2009/01/05/one-for-me-one-for-you/index.html
-:url: 2009/01/05/one-for-me-one-for-you/
 :private: true
 
 Guess who I've been shopping for this season...

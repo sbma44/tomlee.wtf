@@ -5,8 +5,6 @@ speed cameras: LEGACY
 :category: Uncategorized
 :slug: speed-cameras-legacy
 :status: published
-:save_as: 2024/04/19/speed-cameras-legacy/index.html
-:url: 2024/04/19/speed-cameras-legacy/
 
 *This is the third and probably last installment of my speed camera saga.* `Part 1 is here </2024/04/12/are-dcs-traffic-cameras-racist/>`__\ *.* `Part 2 is here </2024/04/13/traffic-cameras-extended-edition/>`__\ *.*
 

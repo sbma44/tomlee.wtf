@@ -5,8 +5,6 @@ for charles
 :category: misc
 :slug: for-charles
 :status: published
-:save_as: 2007/04/17/for-charles/index.html
-:url: 2007/04/17/for-charles/
 :private: true
 
 |for charles|

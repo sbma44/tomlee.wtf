@@ -5,8 +5,6 @@ yet another way newspapers are doomed
 :category: news
 :slug: yet-another-way-newspapers-are-doomed
 :status: published
-:save_as: 2010/10/21/yet-another-way-newspapers-are-doomed/index.html
-:url: 2010/10/21/yet-another-way-newspapers-are-doomed/
 :private: true
 
 I think it's safe to say I'm not a social media triumphalist.  But `this is silly <http://mashable.com/2010/10/20/washington-post-tells-journalists-not-to-engage-on-twitter/>`__:

@@ -5,8 +5,6 @@ peloton surgery
 :category: Uncategorized
 :slug: peloton-surgery
 :status: published
-:save_as: 2024/03/13/peloton-surgery/index.html
-:url: 2024/03/13/peloton-surgery/
 
 This will not be of interest to many people, but I documented my recent `electronics repair saga <https://www.reddit.com/r/pelotoncycle/comments/1bdfqh3/fixed_b0202no_sensor_readings_error/>`__ over on Reddit.
 

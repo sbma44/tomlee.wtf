@@ -5,8 +5,6 @@ getting presents is sort of like wealth redistribution, I guess
 :category: DC
 :slug: getting-presents-is-sort-of-like-wealth-redistribution-i-guess
 :status: published
-:save_as: 2006/12/21/getting-presents-is-sort-of-like-wealth-redistribution-i-guess/index.html
-:url: 2006/12/21/getting-presents-is-sort-of-like-wealth-redistribution-i-guess/
 :private: true
 
 |replica rolexes on indymedia|

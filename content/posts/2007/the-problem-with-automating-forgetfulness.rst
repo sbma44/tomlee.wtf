@@ -5,8 +5,6 @@ the problem with automating forgetfulness
 :category: tech
 :slug: the-problem-with-automating-forgetfulness
 :status: published
-:save_as: 2007/05/16/the-problem-with-automating-forgetfulness/index.html
-:url: 2007/05/16/the-problem-with-automating-forgetfulness/
 :private: true
 
 Last week I used Viktor Mayer-SchÃ¶nberger's `"Useful Void" proposal <http://www.vmsweb.net/attachments/pdf/Useful_Void.pdf>`__ (PDF) as a jumping-off point to ruminate about Facebook, the work/personal divide and darknets over `here </2007/05/10/the-internet-like-an-electronic-elephant/>`__. Along the way I casually dismissed Mayer-SchÃ¶nberger's proposal:

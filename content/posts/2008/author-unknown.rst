@@ -5,8 +5,6 @@ author unknown
 :category: personal
 :slug: author-unknown
 :status: published
-:save_as: 2008/10/14/author-unknown/index.html
-:url: 2008/10/14/author-unknown/
 :private: true
 
 `Adrienne gets personal email from strangers <http://dredgereport.wordpress.com/2008/10/13/return-to-sender/>`__. So do I — with a name as nondescript as mine, it's inevitable.

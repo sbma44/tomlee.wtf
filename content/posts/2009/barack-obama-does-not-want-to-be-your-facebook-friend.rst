@@ -5,8 +5,6 @@ Barack Obama does not want to be your Facebook friend
 :category: politics, tech
 :slug: barack-obama-does-not-want-to-be-your-facebook-friend
 :status: published
-:save_as: 2009/01/20/barack-obama-does-not-want-to-be-your-facebook-friend/index.html
-:url: 2009/01/20/barack-obama-does-not-want-to-be-your-facebook-friend/
 :private: true
 
 Given that I'm a Professional Internet Guy, it's probably not wise for me to spend as much time as I do telling people that the web is less important than they think. But guys, seriously: the web is less important than you think — especially the new administration's use of the web.

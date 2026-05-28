@@ -5,8 +5,6 @@ how a resurrection really looks
 :category: music
 :slug: how-a-resurrection-really-looks
 :status: published
-:save_as: 2006/11/27/how-a-resurrection-really-looks/index.html
-:url: 2006/11/27/how-a-resurrection-really-looks/
 :private: true
 
 | |20061127_boysngirls.jpg|

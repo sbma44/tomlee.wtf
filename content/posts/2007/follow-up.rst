@@ -5,8 +5,6 @@ follow-up
 :category: tech
 :slug: follow-up
 :status: published
-:save_as: 2007/07/13/follow-up/index.html
-:url: 2007/07/13/follow-up/
 :private: true
 
 - `Some notes on developing Google Mapplets <http://labs.echoditto.com/google-mapplets>`__. Mostly just a rehash of the `documentation <http://www.google.com/apis/maps/documentation/mapplets/>`__, but some might find it useful.

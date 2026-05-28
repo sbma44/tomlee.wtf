@@ -5,8 +5,6 @@ author: admin
 category: Uncategorized
 slug: knowledge-worker-at-the-end-of-the-universe
 status: published
-save_as: 2026/05/27/knowledge-worker-at-the-end-of-the-universe/index.html
-url: 2026/05/27/knowledge-worker-at-the-end-of-the-universe/
 ---
 [The Pope's encyclical](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) has elicited fascinating reactions from some AI experts. Most eye-catching has been a reflexive opposition to Leo's suggestion that these models are not truly conscious:
 

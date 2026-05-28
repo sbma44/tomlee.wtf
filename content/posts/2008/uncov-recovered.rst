@@ -5,8 +5,6 @@ uncov, recovered
 :category: tech
 :slug: uncov-recovered
 :status: published
-:save_as: 2008/07/23/uncov-recovered/index.html
-:url: 2008/07/23/uncov-recovered/
 :private: true
 
 `The only tech blog that matters <http://uncov.com>`__ shut down early this year, and after the traditional "does the blogger really mean it?" period I deleted the entry from my RSS reader.

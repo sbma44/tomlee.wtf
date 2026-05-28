@@ -5,8 +5,6 @@ woe is wii
 :category: tech
 :slug: woe-is-wii
 :status: published
-:save_as: 2006/11/19/woe-is-wii/index.html
-:url: 2006/11/19/woe-is-wii/
 :private: true
 
 | I was really hoping to have an embarrassing flash video for you. It was going to be of Charles and me, gesticulating wildly in front of the TV as we gleefully played with his new Nintendo Wii.

@@ -5,8 +5,6 @@ URLs! you can never have too many of those...
 :category: misc
 :slug: urls-you-can-never-have-too-many-of-those
 :status: published
-:save_as: 2007/04/06/urls-you-can-never-have-too-many-of-those/index.html
-:url: 2007/04/06/urls-you-can-never-have-too-many-of-those/
 :private: true
 
 - `Erase the line between your bookmarks and del.icio.us <http://del.icio.us/help/firefox/bookmarks/quicktour>`__. Via Techcrunch.

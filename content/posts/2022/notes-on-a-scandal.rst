@@ -5,8 +5,6 @@ notes on a scandal
 :category: Uncategorized
 :slug: notes-on-a-scandal
 :status: published
-:save_as: 2022/12/13/notes-on-a-scandal/index.html
-:url: 2022/12/13/notes-on-a-scandal/
 
 Forbes has `SBF's planned testimony before the House Financial Services Committee <https://www.forbes.com/sites/stevenehrlich/2022/12/13/exclusive-transcript-the-full-testimony-sbf-planned-to-give-to-congress/?sh=79518c6c3c47>`__. Now in Bahamian custody, he won't be giving it; and in the hours leading up to his appearance, it seemed like he was trying to wriggle out of the obligation, anyway. Still, it's interesting to examine this document and try to understand what it's trying to accomplish, if anything.
 

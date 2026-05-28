@@ -5,8 +5,6 @@ Halloween 2023
 :category: Uncategorized
 :slug: halloween-2023
 :status: published
-:save_as: 2023/10/31/halloween-2023/index.html
-:url: 2023/10/31/halloween-2023/
 
 Adding a third kid hasn't made anything easier, but we are getting a little more done. Perhaps it's the first two maturing. Perhaps it's the lack of a `big seasonal project </2022/10/31/the-house-of-endless-mourning-feat-the-harlem-globetrotters/>`__. Or perhaps my capacity for parental neglect is just being inexorably stretched. But in 2023 I managed to put up the most Halloween decorations in recent memory.
 

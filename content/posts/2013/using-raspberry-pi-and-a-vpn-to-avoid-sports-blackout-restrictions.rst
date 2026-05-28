@@ -5,8 +5,6 @@ using Raspberry Pi and a VPN to avoid sports blackout restrictions
 :category: Uncategorized
 :slug: using-raspberry-pi-and-a-vpn-to-avoid-sports-blackout-restrictions
 :status: published
-:save_as: 2013/12/01/using-raspberry-pi-and-a-vpn-to-avoid-sports-blackout-restrictions/index.html
-:url: 2013/12/01/using-raspberry-pi-and-a-vpn-to-avoid-sports-blackout-restrictions/
 :private: true
 
 Broadcast sports is finally, finally embracing the digital age. My Apple TV has separate apps for the NHL, NBA and MLB, for instance. Sadly, these are still subject to blackout restrictions, preventing me from being able to purchase Capitals games. Irritating!

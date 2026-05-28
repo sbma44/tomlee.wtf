@@ -5,8 +5,6 @@ cheer up, Kriston
 :category: DC
 :slug: cheer-up-kriston
 :status: published
-:save_as: 2006/10/13/cheer-up-kriston/index.html
-:url: 2006/10/13/cheer-up-kriston/
 :private: true
 
 | You know what they say about God never `closing a door <http://grammarpolice.net/archives/001096.php>`__ without opening a window:

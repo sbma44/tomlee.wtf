@@ -5,8 +5,6 @@ so here we are
 :category: personal
 :slug: so-here-we-are
 :status: published
-:save_as: 2006/12/04/so-here-we-are/index.html
-:url: 2006/12/04/so-here-we-are/
 :private: true
 
 | |a typical British scene|\ Despite a valiant attempt to forget my passport, I currently appear to be in London. I can tell because the Starbucks I'm sitting in is trying to sell me "crisps". If not for that, I'd probably have no idea. Jetlag is in full effect, and the last thing I ate was a microwaved airline croissant that I probably shouldn't have.

@@ -5,8 +5,6 @@ untoothsome
 :category: personal
 :slug: untoothsome
 :status: published
-:save_as: 2008/04/07/untoothsome/index.html
-:url: 2008/04/07/untoothsome/
 :private: true
 
 I have just returned from the dentist. The news is not good.

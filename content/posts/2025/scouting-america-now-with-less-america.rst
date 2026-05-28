@@ -5,8 +5,6 @@ Scouting America (now with less America)
 :category: Uncategorized
 :slug: scouting-america-now-with-less-america
 :status: published
-:save_as: 2025/11/25/scouting-america-now-with-less-america/index.html
-:url: 2025/11/25/scouting-america-now-with-less-america/
 
 I just got this email from Scouting America. What a week for Pete Hegseth's Department of Defense.
 

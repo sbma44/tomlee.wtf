@@ -5,8 +5,6 @@ author: admin
 category: Uncategorized
 slug: treelemetry
 status: published
-save_as: 2025/12/16/treelemetry/index.html
-url: 2025/12/16/treelemetry/
 ---
 
 [![treelemetry graph of water level (min/max/mean) and temp/humidity over the last 24h](/static/2025/12/treelemetry2.png)](https://treelemetry.tomlee.space)

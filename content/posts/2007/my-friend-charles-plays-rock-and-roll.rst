@@ -5,8 +5,6 @@ my friend Charles plays rock and roll
 :category: music
 :slug: my-friend-charles-plays-rock-and-roll
 :status: published
-:save_as: 2007/04/11/my-friend-charles-plays-rock-and-roll/index.html
-:url: 2007/04/11/my-friend-charles-plays-rock-and-roll/
 :private: true
 
 And you should come see him play. Tonight! Velvet Lounge! 9pmish! More details (and music) `here <http://thecityveins.com/blog/2007/04/11/tonight/>`__. I'll see you there.

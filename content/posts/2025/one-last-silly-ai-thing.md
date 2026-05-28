@@ -5,8 +5,6 @@ author: admin
 category: Uncategorized
 slug: bosch-washed
 status: published
-save_as: 2025/12/17/bosch-washed/index.html
-url: 2025/12/17/bosch-washed/
 ---
 
 [![bosch washed infographic showing dishwashing stats](/static/2025/12/bosch_washed_2.png)](/static/2025/12/bosch_washed_2.png)

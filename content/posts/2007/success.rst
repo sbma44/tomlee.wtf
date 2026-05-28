@@ -5,8 +5,6 @@ success
 :category: personal
 :slug: success
 :status: published
-:save_as: 2007/03/31/success/index.html
-:url: 2007/03/31/success/
 :private: true
 
 Antibiotics: acquired. Temperature: 101.5°. Dr. Akhigbe: a good man, and thorough.

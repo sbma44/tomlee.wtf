@@ -5,8 +5,6 @@ Jeffrey Armistead Lee
 :category: personal
 :slug: jeffrey-armistead-lee
 :status: published
-:save_as: 2020/07/28/jeffrey-armistead-lee/index.html
-:url: 2020/07/28/jeffrey-armistead-lee/
 
 [video width="694" height="516" mp4="/static/2020/07/Dad-on-Accent-Lighting_mono.mp4"][/video]
 

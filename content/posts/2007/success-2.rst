@@ -5,8 +5,6 @@ success!
 :category: tech
 :slug: success-2
 :status: published
-:save_as: 2007/12/18/success-2/index.html
-:url: 2007/12/18/success-2/
 :private: true
 
 I got my FON router and Arduino to talk to each other, and I'm pretty excited about it. You can find the details `here <http://labs.echoditto.com/hacking-la-fonera-2>`__ if you're interested.

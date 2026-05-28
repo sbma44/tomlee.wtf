@@ -5,8 +5,6 @@
 :category: personal
 :slug: 6-pm-on-friday
 :status: published
-:save_as: 2007/03/23/6-pm-on-friday/index.html
-:url: 2007/03/23/6-pm-on-friday/
 :private: true
 
 ...is a pretty irritating time to have to do your timesheet.

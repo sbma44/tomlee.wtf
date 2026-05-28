@@ -5,8 +5,6 @@ black hat sessions I have attended, translated into their wizarding equivalents
 :category: Uncategorized
 :slug: black-hat-sessions-i-have-attended-translated-into-their-wizarding-equivalents
 :status: published
-:save_as: 2016/08/04/black-hat-sessions-i-have-attended-translated-into-their-wizarding-equivalents/index.html
-:url: 2016/08/04/black-hat-sessions-i-have-attended-translated-into-their-wizarding-equivalents/
 
 - `welcome to hogwarts; making the most of your time here; the sorting hat and scalp hygiene <https://www.blackhat.com/us-16/day-zero.html>`__
 - `banishment incantations for fun and profit <https://www.blackhat.com/us-16/briefings/schedule/#abusing-bleeding-edge-web-standards-for-appsec-glory-3463>`__

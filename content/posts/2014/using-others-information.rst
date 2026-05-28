@@ -5,8 +5,6 @@ using others' information
 :category: Uncategorized
 :slug: using-others-information
 :status: published
-:save_as: 2014/12/21/using-others-information/index.html
-:url: 2014/12/21/using-others-information/
 :private: true
 
 |stylized photo of malcolm gladwell|

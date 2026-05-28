@@ -5,8 +5,6 @@ technologies that I'm inappropriately excited about
 :category: tech
 :slug: technologies-that-im-inappropriately-excited-about
 :status: published
-:save_as: 2007/04/04/technologies-that-im-inappropriately-excited-about/index.html
-:url: 2007/04/04/technologies-that-im-inappropriately-excited-about/
 :private: true
 
 None of them are released yet, but the odds of me buying or downloading each is high:

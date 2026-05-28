@@ -5,8 +5,6 @@ the mantle of fanboydom
 :category: music
 :slug: the-mantle-of-fanboydom
 :status: published
-:save_as: 2006/12/15/the-mantle-of-fanboydom/index.html
-:url: 2006/12/15/the-mantle-of-fanboydom/
 :private: true
 
 There's a new Arcade Fire track! The sound quality isn't great, but the song is:

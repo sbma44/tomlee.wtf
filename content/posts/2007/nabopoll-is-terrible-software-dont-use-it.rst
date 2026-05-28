@@ -5,8 +5,6 @@ nabopoll is terrible software; don't use it
 :category: tech
 :slug: nabopoll-is-terrible-software-dont-use-it
 :status: published
-:save_as: 2007/04/22/nabopoll-is-terrible-software-dont-use-it/index.html
-:url: 2007/04/22/nabopoll-is-terrible-software-dont-use-it/
 :private: true
 
 |hax0r3d|

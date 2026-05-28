@@ -5,8 +5,6 @@ blegs are best when they're enigmatic
 :category: tech
 :slug: blegs-are-best-when-theyre-enigmatic
 :status: published
-:save_as: 2006/10/25/blegs-are-best-when-theyre-enigmatic/index.html
-:url: 2006/10/25/blegs-are-best-when-theyre-enigmatic/
 :private: true
 
 | Wanted: one or preferably two cassette tape decks or walkmen that the lender doesn't mind getting back in the form of a pile of parts (or a thankful email). The second one (if available) needs to work and have the ability to record. The first doesn't need to work at all.

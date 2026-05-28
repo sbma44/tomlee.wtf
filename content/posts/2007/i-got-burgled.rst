@@ -5,8 +5,6 @@ I got burgled!
 :category: personal
 :slug: i-got-burgled
 :status: published
-:save_as: 2007/10/17/i-got-burgled/index.html
-:url: 2007/10/17/i-got-burgled/
 :private: true
 
 I was sitting in a not-that-eventful software development event this afternoon when I got a phone call from an unknown number. I expected this — my mom was scheduled to have some surgery tomorrow and the hospital's patient-wrangler was due to call and tell me where we needed to be and when.

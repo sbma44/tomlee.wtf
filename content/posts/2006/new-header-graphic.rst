@@ -5,8 +5,6 @@ new header graphic
 :category: internal affairs
 :slug: new-header-graphic
 :status: published
-:save_as: 2006/11/01/new-header-graphic/index.html
-:url: 2006/11/01/new-header-graphic/
 :private: true
 
 | Courtesy of `Perdita <http://flickr.com/photos/perdita/>`__ and her use of a By-Attribution Creative Commons license.

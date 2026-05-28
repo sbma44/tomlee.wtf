@@ -5,8 +5,6 @@ Two Eulogies
 :category: Uncategorized
 :slug: two-eulogies
 :status: published
-:save_as: 2021/11/02/two-eulogies/index.html
-:url: 2021/11/02/two-eulogies/
 
 It was a long October.
 

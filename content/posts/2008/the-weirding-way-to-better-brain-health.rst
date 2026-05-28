@@ -5,8 +5,6 @@ the weirding way to better brain health
 :category: science
 :slug: the-weirding-way-to-better-brain-health
 :status: published
-:save_as: 2008/07/31/the-weirding-way-to-better-brain-health/index.html
-:url: 2008/07/31/the-weirding-way-to-better-brain-health/
 :private: true
 
 *... or, "Kwisatz Haderacetylcholinergic Drug Alternatives"*

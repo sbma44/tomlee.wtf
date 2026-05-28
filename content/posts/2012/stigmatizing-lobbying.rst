@@ -5,8 +5,6 @@ stigmatizing lobbying
 :category: Uncategorized
 :slug: stigmatizing-lobbying
 :status: published
-:save_as: 2012/07/19/stigmatizing-lobbying/index.html
-:url: 2012/07/19/stigmatizing-lobbying/
 :private: true
 
 Just a quick thought (Sunlight's about to head out to a company outing at Nationals Park), but `via Matt <http://www.slate.com/blogs/moneybox/2012/07/19/business_schools_need_ethics.html>`__, this Luigi Zingales quote hit a chord:

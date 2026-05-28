@@ -5,8 +5,6 @@ constructive criticism re: our nation's conveyances
 :category: personal
 :slug: constructive-criticism-re-our-nations-conveyances
 :status: published
-:save_as: 2008/04/20/constructive-criticism-re-our-nations-conveyances/index.html
-:url: 2008/04/20/constructive-criticism-re-our-nations-conveyances/
 :private: true
 
 My apologies for using this forum for something as tedious as the following. But there seem to be some misconceptions about how our transportation system is supposed to work, and this seems like the most efficient way to get the word out:

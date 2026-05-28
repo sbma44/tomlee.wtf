@@ -5,8 +5,6 @@ AI & open data
 :category: Uncategorized
 :slug: ai-open-data
 :status: published
-:save_as: 2024/10/11/ai-open-data/index.html
-:url: 2024/10/11/ai-open-data/
 
 `Luis Villa notes <https://www.openml.fyi/2024-10-10/>`__, with some sadness, the closing of yet another door to the open web--occasioned, this time, by creators' reluctance to make their work available for training AI:
 

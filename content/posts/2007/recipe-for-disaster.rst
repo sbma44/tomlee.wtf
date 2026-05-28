@@ -5,8 +5,6 @@ recipe for disaster
 :category: tech
 :slug: recipe-for-disaster
 :status: published
-:save_as: 2007/03/23/recipe-for-disaster/index.html
-:url: 2007/03/23/recipe-for-disaster/
 :private: true
 
 - `one <http://developers.facebook.com/documentation.php?v=1.0&doc=fql>`__

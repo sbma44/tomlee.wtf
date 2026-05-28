@@ -5,8 +5,6 @@ advanced seltzer engineering
 :category: Uncategorized
 :slug: advanced-seltzer-engineering
 :status: published
-:save_as: 2011/10/31/advanced-seltzer-engineering/index.html
-:url: 2011/10/31/advanced-seltzer-engineering/
 :private: true
 
 |our office sodastream|\ Over the past few years, many of you have heard me evangelize the gospel of home carbonation. At work we've recently taken things to a new level, and I've had a couple of people ask me questions about it. As you can imagine, I'm delighted to answer them. But let's begin at the beginning.

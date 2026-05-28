@@ -5,8 +5,6 @@ introductory OpenStreetMap politics
 :category: Uncategorized
 :slug: introductory-openstreetmap-politics
 :status: published
-:save_as: 2016/07/31/introductory-openstreetmap-politics/index.html
-:url: 2016/07/31/introductory-openstreetmap-politics/
 
 *None of the following will be of much interest to people already familiar with OSM, except perhaps as an opportunity to take offense. The internet has plenty of those; I encourage you to trust me when I say that I mean no disrespect. I offer this both to satisfy my own commitment to write more and because I've recently been thinking that saying things that seem obvious can be important. Sometimes they turn out not to be that obvious after all.*
 

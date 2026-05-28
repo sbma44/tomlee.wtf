@@ -5,8 +5,6 @@ crazy people (recommended)
 :category: Uncategorized
 :slug: crazy-people-recommended
 :status: published
-:save_as: 2013/04/05/crazy-people-recommended/index.html
-:url: 2013/04/05/crazy-people-recommended/
 :private: true
 
 |toynbee|

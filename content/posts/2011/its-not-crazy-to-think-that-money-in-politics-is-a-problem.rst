@@ -5,8 +5,6 @@ it's not crazy to think that money in politics is a problem
 :category: Uncategorized
 :slug: its-not-crazy-to-think-that-money-in-politics-is-a-problem
 :status: published
-:save_as: 2011/09/28/its-not-crazy-to-think-that-money-in-politics-is-a-problem/index.html
-:url: 2011/09/28/its-not-crazy-to-think-that-money-in-politics-is-a-problem/
 :private: true
 
 *Usual disclaimer: I'm not speaking for my employer.*

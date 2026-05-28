@@ -5,8 +5,6 @@ badness
 :category: Uncategorized
 :slug: badness
 :status: published
-:save_as: 2014/12/31/badness/index.html
-:url: 2014/12/31/badness/
 :private: true
 
 Vox has a `nice piece about the nonsensical nature of "detox" diet regimens <http://www.vox.com/2014/12/31/7438565/detox>`__.

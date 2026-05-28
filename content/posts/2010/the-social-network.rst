@@ -5,8 +5,6 @@ the social network
 :category: Uncategorized
 :slug: the-social-network
 :status: published
-:save_as: 2010/10/04/the-social-network/index.html
-:url: 2010/10/04/the-social-network/
 :private: true
 
 It's a very good movie. You should go see it.  I don't have much more to say about it than that.

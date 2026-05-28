@@ -5,8 +5,6 @@ also, there's already a really good Django search plugin using that name
 :category: Uncategorized
 :slug: also-theres-already-a-really-good-django-search-plugin-using-that-name
 :status: published
-:save_as: 2009/08/04/also-theres-already-a-really-good-django-search-plugin-using-that-name/index.html
-:url: 2009/08/04/also-theres-already-a-really-good-django-search-plugin-using-that-name/
 :private: true
 
 This `Iran proxy network thingy <http://haystacknetwork.com/>`__ seems deeply suspicious to me. A tech journalist friend seems to think it's legit, and I suppose I'll admit that it's too early to say. But I have a lot of questions:

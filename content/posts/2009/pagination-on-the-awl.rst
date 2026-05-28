@@ -5,8 +5,6 @@ pagination on The Awl?!
 :category: Uncategorized
 :slug: pagination-on-the-awl
 :status: published
-:save_as: 2009/08/25/pagination-on-the-awl/index.html
-:url: 2009/08/25/pagination-on-the-awl/
 :private: true
 
 `Maaan <http://www.theawl.com/2009/08/a-friendly-chat-molly-mcaleer-on-blogging-auditioning-videoing-making-it-and-networking-in-los-angeles>`__.

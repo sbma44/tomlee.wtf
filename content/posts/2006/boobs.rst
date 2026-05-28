@@ -5,8 +5,6 @@ boobs!
 :category: personal
 :slug: boobs
 :status: published
-:save_as: 2006/10/17/boobs/index.html
-:url: 2006/10/17/boobs/
 :private: true
 
 Not the good kind, though. The kind that run web hosts. Here's what greeted some of you this morning:

@@ -5,8 +5,6 @@ like a bee
 :category: personal
 :slug: like-a-bee
 :status: published
-:save_as: 2006/11/07/like-a-bee/index.html
-:url: 2006/11/07/like-a-bee/
 :private: true
 
 | Wow. The past seven days have been pretty hectic — so much so that I'm a little shocked to see that it's been a week since I posted something here. Weird. Even more troubling, I haven't even been able to play with my `new toy <http://www.flickr.com/photos/44137303@N00/286872273>`__ (I'm referring to the microcontroller).

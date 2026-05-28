@@ -5,8 +5,6 @@ christmas eve in the drunk tank
 :category: personal
 :slug: christmas-eve-in-the-drunk-tank
 :status: published
-:save_as: 2006/12/25/christmas-eve-in-the-drunk-tank/index.html
-:url: 2006/12/25/christmas-eve-in-the-drunk-tank/
 :private: true
 
 Christmas Eve at the Red Room: hugely disappointing.

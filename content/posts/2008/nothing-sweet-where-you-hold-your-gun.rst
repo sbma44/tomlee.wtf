@@ -5,8 +5,6 @@ nothing sweet where you hold your gun
 :category: DC, news
 :slug: nothing-sweet-where-you-hold-your-gun
 :status: published
-:save_as: 2008/06/26/nothing-sweet-where-you-hold-your-gun/index.html
-:url: 2008/06/26/nothing-sweet-where-you-hold-your-gun/
 :private: true
 
 | |20080626_bronson.jpg|

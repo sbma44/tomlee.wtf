@@ -5,8 +5,6 @@ I want one of these
 :category: tech
 :slug: i-want-one-of-these
 :status: published
-:save_as: 2007/04/03/i-want-one-of-these/index.html
-:url: 2007/04/03/i-want-one-of-these/
 :private: true
 
 .. raw:: html

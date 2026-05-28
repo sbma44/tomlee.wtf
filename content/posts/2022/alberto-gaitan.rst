@@ -5,8 +5,6 @@ alberto gaitan
 :category: Uncategorized
 :slug: alberto-gaitan
 :status: published
-:save_as: 2022/08/10/alberto-gaitan/index.html
-:url: 2022/08/10/alberto-gaitan/
 
 I was terribly sorry to read that Alberto had passed. `Here is a lovely remembrance by his friend Gareth Branwyn <https://washingtoncitypaper.com/article/565889/remembering-artist-alberto-gaitan-1955-2022/>`__. I certainly won't do better than that, but I'll at least add my own memory of the man.
 

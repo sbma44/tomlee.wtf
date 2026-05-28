@@ -5,8 +5,6 @@ technical things that people should learn how to do
 :category: Uncategorized
 :slug: technical-things-that-people-should-learn-how-to-do
 :status: published
-:save_as: 2010/02/03/technical-things-that-people-should-learn-how-to-do/index.html
-:url: 2010/02/03/technical-things-that-people-should-learn-how-to-do/
 :private: true
 
 Not that I blame those who don't! But:

@@ -5,8 +5,6 @@ frolf
 :category: personal
 :slug: frolf
 :status: published
-:save_as: 2007/07/06/frolf/index.html
-:url: 2007/07/06/frolf/
 :private: true
 
 Before I forget, check it out — wholesome all-American activity, conducted on the Fourth of July in a patriotic manner:

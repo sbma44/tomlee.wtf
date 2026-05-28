@@ -5,8 +5,6 @@
 :category: Uncategorized
 :slug: teens
 :status: published
-:save_as: 2015/04/27/teens/index.html
-:url: 2015/04/27/teens/
 
 `Sam Biddle thinks we care too much about teens <http://gawker.com/what-if-teens-arent-cool-1699997713>`__:
 

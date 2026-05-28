@@ -5,8 +5,6 @@ Star Wars
 :category: Uncategorized
 :slug: star-wars
 :status: published
-:save_as: 2015/12/22/star-wars/index.html
-:url: 2015/12/22/star-wars/
 
 I think `Ezra's right about the commercial mechanics of comic book movies <http://www.vox.com/2015/12/22/10649574/star-wars-force-awakens-comic-books>`__ (though `I think this is partly due to origin stories being the only filmable comic book stories </2012/07/11/how-to-think-about-reboots/>`__). But this is not what the new Star Wars movie is doing. Or I hope it's not.
 

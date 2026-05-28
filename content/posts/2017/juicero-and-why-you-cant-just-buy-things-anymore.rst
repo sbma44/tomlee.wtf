@@ -5,8 +5,6 @@ juicero and why you can't just buy things anymore
 :category: Uncategorized
 :slug: juicero-and-why-you-cant-just-buy-things-anymore
 :status: published
-:save_as: 2017/04/28/juicero-and-why-you-cant-just-buy-things-anymore/index.html
-:url: 2017/04/28/juicero-and-why-you-cant-just-buy-things-anymore/
 
 The Juicero debacle is paying dividends besides simple amusement. `This teardown of the (impressively overengineered) Juicero press <https://blog.bolt.io/heres-why-juicero-s-press-is-so-expensive-6add74594e50>`__ is interesting and sort of beautiful, and it led me to `other writing by Ben Einstein <https://blog.bolt.io/>`__, who works at a hardware-focused venture capital firm named Bolt.
 

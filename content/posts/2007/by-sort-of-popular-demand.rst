@@ -5,8 +5,6 @@ by sort-of-popular demand
 :category: tech
 :slug: by-sort-of-popular-demand
 :status: published
-:save_as: 2007/01/03/by-sort-of-popular-demand/index.html
-:url: 2007/01/03/by-sort-of-popular-demand/
 :private: true
 
 **UPDATE:** I'm no longer using this code since the move to Wordpress -- you might want to check out `this plugin <http://wordpress.org/extend/plugins/flickr-tag/installation/>`__ if you're in a similar situation.

@@ -5,8 +5,6 @@ greenness, easiness thereof; christ I wish there was another possible title
 :category: politics
 :slug: greenness-easiness-thereof-christ-i-wish-there-was-another-possible-title
 :status: published
-:save_as: 2008/06/09/greenness-easiness-thereof-christ-i-wish-there-was-another-possible-title/index.html
-:url: 2008/06/09/greenness-easiness-thereof-christ-i-wish-there-was-another-possible-title/
 :private: true
 
 Ezra `links approvingly <http://www.prospect.org/csnc/blogs/ezraklein_archive?month=06&year=2008&base_name=saucy_ignorant_contrarianism>`__ to a `Wonk Room post <http://thinkprogress.org/wonkroom/2008/06/07/wired-ignorant-libertarianism/>`__ complaining about `Wired's new environmentalist-baiting issue <http://www.wired.com/science/planetearth/magazine/16-06/ff_heresies_intro>`__, which, among other things, decries green enthusiasm for organic farming as detrimental to the more important cause of reducing greenhouse emissions.

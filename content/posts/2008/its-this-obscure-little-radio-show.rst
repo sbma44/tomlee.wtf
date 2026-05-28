@@ -5,8 +5,6 @@ it's this obscure little radio show
 :category: politics, pop culture
 :slug: its-this-obscure-little-radio-show
 :status: published
-:save_as: 2008/10/23/its-this-obscure-little-radio-show/index.html
-:url: 2008/10/23/its-this-obscure-little-radio-show/
 :private: true
 
 Megan `doesn't care for Matt Taibbi's takedown of Byron York <http://meganmcardle.theatlantic.com/archives/2008/10/quiet_in_the_peanut_gallery.php>`__, in which Taibbi makes it sound like York has no idea what he's talking about with respect to the financial crisis.

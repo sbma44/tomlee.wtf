@@ -5,8 +5,6 @@ okay
 :category: misc
 :slug: okay
 :status: published
-:save_as: 2008/05/16/okay/index.html
-:url: 2008/05/16/okay/
 :private: true
 
 This is pretty amazing:

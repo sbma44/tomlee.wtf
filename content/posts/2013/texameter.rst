@@ -5,8 +5,6 @@ texameter
 :category: Uncategorized
 :slug: texameter
 :status: published
-:save_as: 2013/03/10/texameter/index.html
-:url: 2013/03/10/texameter/
 :private: true
 
 I picked up this handsome fellow in Texas:

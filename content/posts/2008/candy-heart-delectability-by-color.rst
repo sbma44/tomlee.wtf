@@ -5,8 +5,6 @@ candy heart delectability by color
 :category: science
 :slug: candy-heart-delectability-by-color
 :status: published
-:save_as: 2008/02/13/candy-heart-delectability-by-color/index.html
-:url: 2008/02/13/candy-heart-delectability-by-color/
 :private: true
 
 (In descending order.)

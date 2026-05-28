@@ -5,8 +5,6 @@ electric bikes and regenerative braking
 :category: personal
 :slug: electric-bikes-and-regenerative-braking
 :status: published
-:save_as: 2008/06/17/electric-bikes-and-regenerative-braking/index.html
-:url: 2008/06/17/electric-bikes-and-regenerative-braking/
 :private: true
 
 |20080617_electribike.jpg|

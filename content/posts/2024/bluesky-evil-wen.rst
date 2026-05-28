@@ -5,8 +5,6 @@ bluesky evil wen?
 :category: Uncategorized
 :slug: bluesky-evil-wen
 :status: published
-:save_as: 2024/12/04/bluesky-evil-wen/index.html
-:url: 2024/12/04/bluesky-evil-wen/
 
 One of the reasons I've been slow to leave Twitter is my default skepticism about new services. I enjoy my ruts: I didn't want to leave ICQ, or AIM, or blogs, or the Instagram photo feed. I linger around these digital ghost towns even as my friends move on to more vibrant locales. That those friends sometimes abandon their new homes, years later, in disgust, is cold comfort. I should have followed them, enjoyed their company while I could, suppressed my misgivings about our new digital landlords. Instead, too often, I indulge my aversion to change and watch my RSS software's "unread" count tick upward ever more slowly.
 

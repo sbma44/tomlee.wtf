@@ -5,8 +5,6 @@ liveblogging globalization
 :category: politics, tech
 :slug: liveblogging-globalization
 :status: published
-:save_as: 2007/07/13/liveblogging-globalization/index.html
-:url: 2007/07/13/liveblogging-globalization/
 :private: true
 
 `Bunnie Huang <http://www.bunniestudios.com/blog/>`__ is the man who cracked the Xbox — not once but twice, as he recently revealed himself to be involved with the hypervisor escalation exploit, too. He's an electronics god.

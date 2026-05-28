@@ -5,8 +5,6 @@ shameful
 :category: misc
 :slug: shameful
 :status: published
-:save_as: 2006/11/16/shameful/index.html
-:url: 2006/11/16/shameful/
 :private: true
 
 | First, my blogging performance. Work is taking nearly every waking moment, and will continue to do so through Monday. It stinks.

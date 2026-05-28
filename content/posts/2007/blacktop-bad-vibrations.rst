@@ -5,8 +5,6 @@ blacktop / bad vibrations
 :category: music
 :slug: blacktop-bad-vibrations
 :status: published
-:save_as: 2007/06/05/blacktop-bad-vibrations/index.html
-:url: 2007/06/05/blacktop-bad-vibrations/
 :private: true
 
 `Via stereogum <http://www.stereogum.com/archives/arcade-fire-stole-my-basketball.html>`__:

@@ -5,8 +5,6 @@ look at me! but don't pay attention
 :category: DC
 :slug: look-at-me-but-dont-pay-attention
 :status: published
-:save_as: 2006/10/11/look-at-me-but-dont-pay-attention/index.html
-:url: 2006/10/11/look-at-me-but-dont-pay-attention/
 :private: true
 
 | Sheesh. I honestly don't understand how a group of people can run through the city in dresses by day and party in lingerie by night — all of this while drunk — yet object to `a little publicity <http://www.dcist.com/archives/2006/10/11/cross_dressing.php>`__. Nevertheless, I've spent a decent amount of time today figuring out diplomatic ways of assuring grown men that their bosses won't care if they occasionally wear skirts.

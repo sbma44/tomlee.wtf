@@ -5,8 +5,6 @@ time warner and traffic shaping
 :category: tech
 :slug: time-warner-and-traffic-shaping
 :status: published
-:save_as: 2007/06/10/time-warner-and-traffic-shaping/index.html
-:url: 2007/06/10/time-warner-and-traffic-shaping/
 :private: true
 
 There's an `interesting thread <http://slashdot.org/article.pl?sid=07/06/10/0645232&from=rss>`__ over on Slashdot in response to Time Warner's decision to begin selectively throttling some high-bandwidth applications like Bittorrent.

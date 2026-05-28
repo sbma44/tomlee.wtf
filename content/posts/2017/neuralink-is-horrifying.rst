@@ -5,8 +5,6 @@ Neuralink is horrifying
 :category: Uncategorized
 :slug: neuralink-is-horrifying
 :status: published
-:save_as: 2017/04/21/neuralink-is-horrifying/index.html
-:url: 2017/04/21/neuralink-is-horrifying/
 
 `This is the craziest thing I've read in a while <http://waitbutwhy.com/2017/04/neuralink.html>`__. I may be missing context, but it seems that Elon Musk's various ventures have settled on giving important product announcements and exclusive access to a cartoon science blogger named Tim Urban (Randall Munroe was presumably too expensive or inquisitive). Over many, many words, Urban explains the idea behind Musk's newest astoundingly ambitious venture: `Neuralink <https://www.neuralink.com/>`__, which aims to accelerate the development of direct brain-to-machine interfaces.
 

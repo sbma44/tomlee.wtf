@@ -5,8 +5,6 @@ Puerto Rico, exhaustively
 :category: personal
 :slug: puerto-rico-exhaustively
 :status: published
-:save_as: 2008/03/19/puerto-rico-exhaustively/index.html
-:url: 2008/03/19/puerto-rico-exhaustively/
 :private: true
 
 There are, of course, many tragic aspects of neocolonialism, from economic distortions to the perversion of native culture to the fundamental outrage of diminishing a people's capacity for self-determination. But it's great for tourists.

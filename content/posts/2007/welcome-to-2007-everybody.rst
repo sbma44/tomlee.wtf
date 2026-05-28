@@ -5,8 +5,6 @@ welcome to 2007, everybody
 :category: personal
 :slug: welcome-to-2007-everybody
 :status: published
-:save_as: 2007/01/01/welcome-to-2007-everybody/index.html
-:url: 2007/01/01/welcome-to-2007-everybody/
 :private: true
 
 |party people|

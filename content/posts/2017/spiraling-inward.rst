@@ -5,8 +5,6 @@ spiraling inward
 :category: Uncategorized
 :slug: spiraling-inward
 :status: published
-:save_as: 2017/12/15/spiraling-inward/index.html
-:url: 2017/12/15/spiraling-inward/
 
 `Sam Altman's post about Silicon Valley orthodoxy <http://blog.samaltman.com/e-pur-si-muove>`__ has everyone on Twitter pretty upset, and understandably so. It's a mess. Altman's not brave enough to defy the orthodoxy he feels stifled by, and instead offers a straw man too ridiculous to take seriously. The idea that anti-gay sentiment must be tolerated if we want to accommodate genius is ludicrous; it's hard to even know what to do with it.I suppose I should admit that just last weekend I listened to an Apollo astronaut admiringly reflect on how no one could build a rocket engine quite like Wernher von Braun. Still. It takes tremendous self-flattery to imagine that the tech industry is built on minds so rare. I don't think I'm being unfair in supposing that Altman is probably mostly sore about the treatment his friend Pete has received.
 

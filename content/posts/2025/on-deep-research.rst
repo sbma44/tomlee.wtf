@@ -5,8 +5,6 @@ on deep research
 :category: Uncategorized
 :slug: on-deep-research
 :status: published
-:save_as: 2025/02/18/on-deep-research/index.html
-:url: 2025/02/18/on-deep-research/
 
 `Read Benedict Evans <https://www.ben-evans.com/benedictevans/2025/2/17/the-deep-research-problem>`__, who scorns how it amasses stats on an area in which he's an expert.
 

@@ -5,8 +5,6 @@ I assume that IR classes already discuss the Iron Sheik
 :category: Uncategorized
 :slug: i-assume-that-ir-classes-already-discuss-the-iron-sheik
 :status: published
-:save_as: 2009/07/22/i-assume-that-ir-classes-already-discuss-the-iron-sheik/index.html
-:url: 2009/07/22/i-assume-that-ir-classes-already-discuss-the-iron-sheik/
 :private: true
 
 |20090722_defjamvendetta|\ The blogosphere, and now `NPR <http://www.npr.org/templates/story/story.php?storyId=106857447>`__, have been abuzz recently with analyses of the new beef between Jay-Z and The Game, as expressed in the language of international relations. This is all to the good — the more the blogosphere resembles drunken bullshitting, the happier I am. yet this approach carries problems. The quality and quantity of hip hop feuds is erratic; we can't count on them to provide a reliable source of rhetorical inspiration. Recognizing this problem, let me humbly suggest a stupider alternative.

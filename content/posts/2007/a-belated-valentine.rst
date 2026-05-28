@@ -5,8 +5,6 @@ a belated valentine
 :category: personal
 :slug: a-belated-valentine
 :status: published
-:save_as: 2007/02/19/a-belated-valentine/index.html
-:url: 2007/02/19/a-belated-valentine/
 :private: true
 
 I haven't put anything up since then, but better late than never: thanks to everyone who came out to Unbuckled on Thursday, especially those who bought me birthday drinks. I can't think of any way I would've rather celebrated — it was great.

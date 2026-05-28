@@ -5,8 +5,6 @@ I love iGuitar
 :category: tech
 :slug: i-love-iguitar
 :status: published
-:save_as: 2008/05/19/i-love-iguitar/index.html
-:url: 2008/05/19/i-love-iguitar/
 :private: true
 
 |Intelliscreen for the iPhone|

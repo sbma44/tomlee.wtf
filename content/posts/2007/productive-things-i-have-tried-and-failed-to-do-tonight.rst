@@ -5,8 +5,6 @@ productive things I have tried and failed to do tonight
 :category: personal
 :slug: productive-things-i-have-tried-and-failed-to-do-tonight
 :status: published
-:save_as: 2007/10/10/productive-things-i-have-tried-and-failed-to-do-tonight/index.html
-:url: 2007/10/10/productive-things-i-have-tried-and-failed-to-do-tonight/
 :private: true
 
 #. **Fix my mom's plane problems**

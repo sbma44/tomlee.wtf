@@ -5,8 +5,6 @@ fiction publishing sort of seems like a scam?
 :category: Uncategorized
 :slug: fiction-publishing-sort-of-seems-like-a-scam
 :status: published
-:save_as: 2023/03/09/fiction-publishing-sort-of-seems-like-a-scam/index.html
-:url: 2023/03/09/fiction-publishing-sort-of-seems-like-a-scam/
 
 I am a much worse reader than I used to be. Kids and prestige TV (but mostly kids) mean I can barely keep up with my monthly sci-fi book club. That's okay: I long ago reconciled myself to being a not-particularly-fast reader. And maybe some day I'll have more time.
 

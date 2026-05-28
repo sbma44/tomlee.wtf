@@ -5,8 +5,6 @@ part man. part machine. all disenfranchising.
 :category: DC
 :slug: part-man-part-machine-all-disenfranchising
 :status: published
-:save_as: 2006/11/07/part-man-part-machine-all-disenfranchising/index.html
-:url: 2006/11/07/part-man-part-machine-all-disenfranchising/
 :private: true
 
 | I'm about to head off to vote, but before I do, one additional thought on the election — and this one has almost nothing to do with helicopters.

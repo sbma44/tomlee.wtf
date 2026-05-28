@@ -5,8 +5,6 @@ are dc's speed cameras racist?
 :category: Uncategorized
 :slug: are-dcs-traffic-cameras-racist
 :status: published
-:save_as: 2024/04/12/are-dcs-traffic-cameras-racist/index.html
-:url: 2024/04/12/are-dcs-traffic-cameras-racist/
 
 *This is the first of my posts about speed cameras.* `Part 2 is here </2024/04/13/traffic-cameras-extended-edition/>`__\ *\ .* `Part 3 is here </2024/04/19/speed-cameras-legacy/>`__\ *.*
 

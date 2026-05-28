@@ -5,8 +5,6 @@ important questions
 :category: misc
 :slug: important-questions
 :status: published
-:save_as: 2009/06/06/important-questions/index.html
-:url: 2009/06/06/important-questions/
 :private: true
 
 Emily and I both read and enjoyed *World War Z* at the beach. Emily enjoyed it enough to ask that *The Zombie Survival Guide* be included among her birthday loot, and it was probably the spirit of that book that led us to discuss the technical specifics of vampire abatement strategies.

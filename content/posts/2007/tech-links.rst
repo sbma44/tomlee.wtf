@@ -5,8 +5,6 @@ tech links
 :category: tech
 :slug: tech-links
 :status: published
-:save_as: 2007/07/23/tech-links/index.html
-:url: 2007/07/23/tech-links/
 :private: true
 
 To get things started off nerdily on this beautiful Monday morning:

@@ -5,8 +5,6 @@ laser harp!
 :category: misc
 :slug: laser-harp
 :status: published
-:save_as: 2008/04/11/laser-harp/index.html
-:url: 2008/04/11/laser-harp/
 :private: true
 
 `Via the MAKE::Blog <http://blog.makezine.com/archive/2008/04/beamz_laser_music_thingy.html>`__:

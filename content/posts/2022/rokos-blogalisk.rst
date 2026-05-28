@@ -5,8 +5,6 @@ Roko's blogalisk
 :category: Uncategorized
 :slug: rokos-blogalisk
 :status: published
-:save_as: 2022/04/30/rokos-blogalisk/index.html
-:url: 2022/04/30/rokos-blogalisk/
 
 Last week my friend `Matt Yglesias wrote a good post about rogue AI as existential risk <https://www.slowboring.com/p/the-case-for-terminator-analogies?s=r>`__--"x-risk", the people (kids?) seem to say. It's an interesting topic, and one that a surprising number of smart people have begun to worry about thanks in no small part to Nick Bostrom's book `Superintelligence <https://www.amazon.com/dp/B00LOOCGB2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1>`__, which popularized the issue and caught the attention of figures as loud and rich as Elon Musk.
 

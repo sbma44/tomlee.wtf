@@ -5,8 +5,6 @@ alas
 :category: tech
 :slug: alas
 :status: published
-:save_as: 2007/05/04/alas/index.html
-:url: 2007/05/04/alas/
 :private: true
 
 `No HDTV for me <http://sunlightfoundation.com/mashup>`__.

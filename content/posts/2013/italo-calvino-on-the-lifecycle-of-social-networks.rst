@@ -5,8 +5,6 @@ Italo Calvino on the lifecycle of social networks
 :category: Uncategorized
 :slug: italo-calvino-on-the-lifecycle-of-social-networks
 :status: published
-:save_as: 2013/07/05/italo-calvino-on-the-lifecycle-of-social-networks/index.html
-:url: 2013/07/05/italo-calvino-on-the-lifecycle-of-social-networks/
 :private: true
 
 ..

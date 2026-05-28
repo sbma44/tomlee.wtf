@@ -5,8 +5,6 @@ I watched some CBS shows and you should probably ignore me
 :category: Uncategorized
 :slug: i-watched-some-cbs-shows-and-you-should-probably-ignore-me
 :status: published
-:save_as: 2016/11/27/i-watched-some-cbs-shows-and-you-should-probably-ignore-me/index.html
-:url: 2016/11/27/i-watched-some-cbs-shows-and-you-should-probably-ignore-me/
 
 I got horribly sick around 10pm on Thanksgiving night. It wasn't the food (no one else got sick) but by early afternoon the next day I was in the ER getting IV fluids and a CT scan to ensure my appendix was in one piece. It was! But the rest of the stuff in there remained unhappy and I didn't eat anything but gatorade and two bananas for the next 48 hours. I'm feeling much better now but the recovery process has involved watching a hell of a lot of TV. Which reminded me of something I've been meaning to write about for a long time. Specifically: the cultural salience of the CBS primetime lineup. It's the key to everything. Bear with me.
 

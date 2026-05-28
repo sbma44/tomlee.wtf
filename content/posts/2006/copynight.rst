@@ -5,8 +5,6 @@ copynight
 :category: tech
 :slug: copynight
 :status: published
-:save_as: 2006/10/12/copynight/index.html
-:url: 2006/10/12/copynight/
 :private: true
 
 | Thanks to Catherine for sending `this <http://upcoming.org/event/116688/>`__ my way. Dorks arguing about copyright over beers? Mere blocks from my house?! This is so up my alley that I wouldn't be surprised to show up and find myself already listed as the spirit chair.

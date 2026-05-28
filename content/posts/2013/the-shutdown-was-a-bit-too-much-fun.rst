@@ -5,8 +5,6 @@ the shutdown was a bit too much fun
 :category: Uncategorized
 :slug: the-shutdown-was-a-bit-too-much-fun
 :status: published
-:save_as: 2013/10/21/the-shutdown-was-a-bit-too-much-fun/index.html
-:url: 2013/10/21/the-shutdown-was-a-bit-too-much-fun/
 :private: true
 
 ..

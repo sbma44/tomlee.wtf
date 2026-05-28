@@ -5,8 +5,6 @@ Kriston will be the first to tell you
 :category: Uncategorized
 :slug: kriston-will-be-the-first-to-tell-you
 :status: published
-:save_as: 2010/02/11/kriston-will-be-the-first-to-tell-you/index.html
-:url: 2010/02/11/kriston-will-be-the-first-to-tell-you/
 :private: true
 
 |image1|

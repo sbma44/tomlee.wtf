@@ -5,8 +5,6 @@ race for the prize
 :category: personal
 :slug: race-for-the-prize
 :status: published
-:save_as: 2007/08/14/race-for-the-prize/index.html
-:url: 2007/08/14/race-for-the-prize/
 :private: true
 
 |all systems go!|

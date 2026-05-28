@@ -5,8 +5,6 @@ you will be surprised to hear that I enjoy science fiction action movies
 :category: pop culture
 :slug: you-will-be-surprised-to-hear-that-i-enjoy-science-fiction-action-movies
 :status: published
-:save_as: 2008/11/25/you-will-be-surprised-to-hear-that-i-enjoy-science-fiction-action-movies/index.html
-:url: 2008/11/25/you-will-be-surprised-to-hear-that-i-enjoy-science-fiction-action-movies/
 :private: true
 
 I rewatched *Aliens* over the weekend, and man: that's a pretty good movie!

@@ -5,8 +5,6 @@ oh apple. not you, too...
 :category: misc
 :slug: oh-apple-not-you-too
 :status: published
-:save_as: 2006/12/27/oh-apple-not-you-too/index.html
-:url: 2006/12/27/oh-apple-not-you-too/
 :private: true
 
 From the iTunes Music Store:

@@ -5,8 +5,6 @@ fake tags are a real problem
 :category: Uncategorized
 :slug: fake-tags-are-a-real-problem
 :status: published
-:save_as: 2023/02/03/fake-tags-are-a-real-problem/index.html
-:url: 2023/02/03/fake-tags-are-a-real-problem/
 
 As a bicyclist I am always ready to believe the worst about drivers. Drivers are why I'm woken up by gunning engines in the middle of the night. Drivers are why I have titanium screwed into my collarbone. Drivers! That I bring my children to school by bicycle every weekday morning has only raised the stakes and, along with it, my ire.
 

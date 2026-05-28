@@ -5,8 +5,6 @@ me being cheap (in two parts)
 :category: personal
 :slug: me-being-cheap-in-two-parts
 :status: published
-:save_as: 2007/05/15/me-being-cheap-in-two-parts/index.html
-:url: 2007/05/15/me-being-cheap-in-two-parts/
 :private: true
 
 #. I need to wriggle out of my T-Mobile contract. Well, one of them: I long ago escaped the one associated with my Sidekick, but I bought a separate number for DCist's LastCall service. LastCall's currently shut down due to some technical problems, and if I resurrect it I'd want to use a different SMS gateway. But I've still got over a year left on the contract.

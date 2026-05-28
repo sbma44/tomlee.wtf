@@ -5,8 +5,6 @@ petulance
 :category: Uncategorized
 :slug: petulance
 :status: published
-:save_as: 2024/07/17/petulance/index.html
-:url: 2024/07/17/petulance/
 
 Some of Silicon Valley's top figures have recently declared their support for Donald Trump. The failed attempt on Trump's life offered congenial timing for this kind of announcement, and these men are professional opportunity-noticers, after all. But their changed allegiance seems to have been brewing for a while. It's interesting to consider the reasons for it.
 

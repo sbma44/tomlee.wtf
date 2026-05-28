@@ -5,8 +5,6 @@ guess where I'm glad I don't live
 :category: misc
 :slug: guess-where-im-glad-i-dont-live
 :status: published
-:save_as: 2008/07/17/guess-where-im-glad-i-dont-live/index.html
-:url: 2008/07/17/guess-where-im-glad-i-dont-live/
 :private: true
 
 `The exciting answer <http://nymag.com/daily/intel/2008/07/au_revoir_new_york_media_scene.html>`__.

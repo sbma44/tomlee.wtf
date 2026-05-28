@@ -5,8 +5,6 @@ The Inspiring Power of Bad Ideas
 :category: Uncategorized
 :slug: the-inspiring-power-of-bad-ideas
 :status: published
-:save_as: 2020/08/10/the-inspiring-power-of-bad-ideas/index.html
-:url: 2020/08/10/the-inspiring-power-of-bad-ideas/
 
 *This is an adaptation of an adaptation of a twenty-minute talk I gave on June 29, 2019 at the inaugural KevCon, a going-away-slash-birthday party for Kevin Bankston.* *I subsequently published it on Medium. But the experience of collecting my dad's digital ephemera; the surprise at learning people are still subscribed to my zombie RSS; and the recent glimmers of hope for a less-centralized internet all made me feel guilty and stupid about leaving it in a proprietary silo to bitrot. So: here.*
 

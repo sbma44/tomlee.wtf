@@ -5,8 +5,6 @@ civic pride
 :category: DC
 :slug: civic-pride
 :status: published
-:save_as: 2007/05/17/civic-pride/index.html
-:url: 2007/05/17/civic-pride/
 :private: true
 
 Philadelphia's alt-weeklies are awash in she-males.

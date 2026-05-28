@@ -5,8 +5,6 @@ what is it like to be a bOt?
 :category: Uncategorized
 :slug: what-is-it-like-to-be-a-bot
 :status: published
-:save_as: 2025/06/10/what-is-it-like-to-be-a-bot/index.html
-:url: 2025/06/10/what-is-it-like-to-be-a-bot/
 
 Surprisingly few papers use this title! I'm writing this post primarily to stake a claim before any more arrive.
 

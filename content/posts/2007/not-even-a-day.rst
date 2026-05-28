@@ -5,8 +5,6 @@ not even a day
 :category: DC, personal, tech
 :slug: not-even-a-day
 :status: published
-:save_as: 2007/07/18/not-even-a-day/index.html
-:url: 2007/07/18/not-even-a-day/
 :private: true
 
 Walking into the Old Dominion Brewhouse yesterday, two guys stopped me and asked if I could direct them to `The Space </2007/07/17/membership-has-its-privileges-theyre-just-all-kind-of-lame/>`__. Clearly I have no idea what the market actually wants.

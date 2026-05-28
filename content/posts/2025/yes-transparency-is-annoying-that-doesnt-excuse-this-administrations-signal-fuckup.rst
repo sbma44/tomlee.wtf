@@ -5,8 +5,6 @@ Yes, transparency is annoying. That doesn't excuse this administration's Signal 
 :category: Uncategorized
 :slug: yes-transparency-is-annoying-that-doesnt-excuse-this-administrations-signal-fuckup
 :status: published
-:save_as: 2025/03/25/yes-transparency-is-annoying-that-doesnt-excuse-this-administrations-signal-fuckup/index.html
-:url: 2025/03/25/yes-transparency-is-annoying-that-doesnt-excuse-this-administrations-signal-fuckup/
 
 For many years I led the technical arm of the Sunlight Foundation, which was, at the time, one of D.C.'s most prominent advocates for government transparency. On the tech side of the house, the transparency mission mostly meant bringing already-open records into the digital age: getting public data out of PDFs and into CSVs and APIs. But we worked closely with colleagues who focused on more philosophical aspects of government transparency, from FOIA policy to putting cameras in the Supreme Court to how the PCLOB prioritized its work. We lived and breathed this stuff. `One of our software developers took up the hobby of sketching the un-photographable door to the secret FISA court <https://www.washingtonpost.com/news/the-switch/wp/2013/07/31/ever-wondered-what-the-top-secret-fisa-court-looks-like-we-have-pictures/>`__! For fun!
 

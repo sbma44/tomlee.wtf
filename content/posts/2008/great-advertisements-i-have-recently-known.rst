@@ -5,8 +5,6 @@ great advertisements I have recently known
 :category: pop culture
 :slug: great-advertisements-i-have-recently-known
 :status: published
-:save_as: 2008/06/09/great-advertisements-i-have-recently-known/index.html
-:url: 2008/06/09/great-advertisements-i-have-recently-known/
 :private: true
 
 Don't make me pick a favorite:

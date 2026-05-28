@@ -5,8 +5,6 @@ giving up on DD-WRT
 :category: tech
 :slug: giving-up-on-dd-wrt
 :status: published
-:save_as: 2009/05/11/giving-up-on-dd-wrt/index.html
-:url: 2009/05/11/giving-up-on-dd-wrt/
 :private: true
 
 My `DD-WRT adventures </2009/05/05/artomatic-update-python-on-the-fonera/>`__ have come to an end. I spent a long time finding the perfect firmware, cramming Python into it, massaging libraries and... found an immovable roadblock.

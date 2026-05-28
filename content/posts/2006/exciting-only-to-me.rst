@@ -5,8 +5,6 @@ exciting only to me
 :category: misc
 :slug: exciting-only-to-me
 :status: published
-:save_as: 2006/12/08/exciting-only-to-me/index.html
-:url: 2006/12/08/exciting-only-to-me/
 :private: true
 
 | A second ago I needed graph paper. I went `here <http://incompetech.com/beta/linedGraphPaper/triple.html>`__, and suddenly I had some. Wow.

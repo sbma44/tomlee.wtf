@@ -5,8 +5,6 @@ raising awareness
 :category: DC
 :slug: raising-awareness
 :status: published
-:save_as: 2006/11/09/raising-awareness/index.html
-:url: 2006/11/09/raising-awareness/
 :private: true
 
 | |the founder of LNS. seriously.|\ I somehow missed it on Monday, but this week's `Late Night Shots roundup <http://www.wonkette.com/politics/last-week%27s-shots/last-weeks-shots-ridiculous-generalizations-will-suffice-212755.php>`__ is just as good as I would've expected. Callow, mean and dumb: these are the worst people on earth that aren't eligible for trial at the Hague.

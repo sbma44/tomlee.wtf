@@ -5,8 +5,6 @@ it's trolls all the way down
 :category: Uncategorized
 :slug: its-trolls-all-the-way-down
 :status: published
-:save_as: 2012/11/20/its-trolls-all-the-way-down/index.html
-:url: 2012/11/20/its-trolls-all-the-way-down/
 :private: true
 
 This:

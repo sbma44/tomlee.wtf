@@ -5,8 +5,6 @@ ad blockers won't be a big deal
 :category: misc, tech
 :slug: ad-blockers-wont-be-a-big-deal
 :status: published
-:save_as: 2015/09/18/ad-blockers-wont-be-a-big-deal/index.html
-:url: 2015/09/18/ad-blockers-wont-be-a-big-deal/
 
 One of the few downsides to attending a conference in Asia is that when the English-speaking world is waking up and beginning to groggily think serious thoughts, you will have just returned to your hotel from a reception with free beer, which you will have had sort of a lot of. The food here is spicy enough that beer availability is a basic amenity, like electrical outlets or ventilation. Korea is a great country.
 

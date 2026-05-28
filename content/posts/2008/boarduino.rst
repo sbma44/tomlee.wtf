@@ -5,8 +5,6 @@ boarduino!
 :category: tech
 :slug: boarduino
 :status: published
-:save_as: 2008/04/16/boarduino/index.html
-:url: 2008/04/16/boarduino/
 :private: true
 
 |boarduino!|

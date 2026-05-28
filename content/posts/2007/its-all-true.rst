@@ -5,8 +5,6 @@ it's all true
 :category: politics
 :slug: its-all-true
 :status: published
-:save_as: 2007/12/17/its-all-true/index.html
-:url: 2007/12/17/its-all-true/
 :private: true
 
 `Yup <http://outtamindouttasite.typepad.com/outtasite/2007/12/im-reminded.html>`__, Jonah Goldberg is doing a Q&A at the L Street Borders exactly one month from tomorrow — I came across the sign earlier today. I wonder what kind of crowd he'll attract. Hopefully one that contains a lot of angry, half-drunk history professors.

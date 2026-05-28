@@ -5,8 +5,6 @@ less horrible still!
 :category: Uncategorized
 :slug: less-horrible-still
 :status: published
-:save_as: 2014/02/09/less-horrible-still/index.html
-:url: 2014/02/09/less-horrible-still/
 :private: true
 
 I'm almost done fiddling with it, I think. Please excuse the infinite scroll effect on the photos. I know it's tacky.

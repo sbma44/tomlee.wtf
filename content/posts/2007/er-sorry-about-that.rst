@@ -5,8 +5,6 @@ er, sorry about that
 :category: tech
 :slug: er-sorry-about-that
 :status: published
-:save_as: 2007/12/03/er-sorry-about-that/index.html
-:url: 2007/12/03/er-sorry-about-that/
 :private: true
 
 To all you kind, lovely people who follow user "DCist" on Twitter, helping me debug a project or just expressing an interest: I apologize. I've been working on a Ruby reincarnation of my `LastCall <http://dcist.com/2006/05/09/introducing_las.php>`__ service.

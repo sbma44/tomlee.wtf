@@ -5,8 +5,6 @@ Comcast is killing Bittorrent
 :category: tech
 :slug: comcast-is-killing-bittorrent
 :status: published
-:save_as: 2007/08/18/comcast-is-killing-bittorrent/index.html
-:url: 2007/08/18/comcast-is-killing-bittorrent/
 :private: true
 
 Comcast has placed new anti-Bittorrent restrictions in place, limiting download speeds and, crucially, preventing those with completed downloads from "seeding" — continuing to contribute to the Bittorrent swarm. Eliminating seeders cripples a swarm; if enough ISPs did it, the efficiency of the protocol would plummet. Many swarms would no longer be viable.

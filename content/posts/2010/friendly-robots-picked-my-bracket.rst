@@ -5,8 +5,6 @@ friendly robots picked my bracket
 :category: Uncategorized
 :slug: friendly-robots-picked-my-bracket
 :status: published
-:save_as: 2010/03/18/friendly-robots-picked-my-bracket/index.html
-:url: 2010/03/18/friendly-robots-picked-my-bracket/
 :private: true
 
 Don't hate me if it works:

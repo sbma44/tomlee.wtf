@@ -5,8 +5,6 @@ turn off the bright line
 :category: misc
 :slug: turn-off-the-bright-line
 :status: published
-:save_as: 2007/06/06/turn-off-the-bright-line/index.html
-:url: 2007/06/06/turn-off-the-bright-line/
 :private: true
 
 Ezra `wonders <http://ezraklein.typepad.com/blog/2007/06/faith.html>`__ why one religion can be considered more worthy of belief than another, using Christianity and the Flying Spaghetti Monster as examples:

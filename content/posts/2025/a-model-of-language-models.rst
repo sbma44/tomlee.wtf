@@ -5,8 +5,6 @@ my model of language models
 :category: Uncategorized
 :slug: a-model-of-language-models
 :status: published
-:save_as: 2025/04/03/a-model-of-language-models/index.html
-:url: 2025/04/03/a-model-of-language-models/
 
 The wordcel versus shape rotator debate was a brief but amusing moment of online faux antagonism. There is a natural human tendency to collapse all experience into a unidimensional continuum (or, if you're attempting to show an unusual amount of intellectual rigor, a four-quadrant chart), and this was a good one: a germ of an empirically observed neurological difference flowered into a blooming meadow of cliches. Masculine Nietzchean autists versus effeminate silvertongued jurists! Everyone could find a reflection of themselves and a satisfying new antagonism to complement it. Jocks versus nerds! Except only for nerds.
 

@@ -5,8 +5,6 @@ Georgian food!
 :category: Uncategorized
 :slug: georgian-food
 :status: published
-:save_as: 2010/03/27/georgian-food/index.html
-:url: 2010/03/27/georgian-food/
 :private: true
 
 I blogged about it! `Head over to the IFA <http://internetfoodassociation.com/2010/03/27/georgian-food/>`__.

@@ -5,8 +5,6 @@ this blog goes negative
 :category: politics
 :slug: this-blog-goes-negative
 :status: published
-:save_as: 2008/10/09/this-blog-goes-negative/index.html
-:url: 2008/10/09/this-blog-goes-negative/
 :private: true
 
 My friend V made this video and asked me to pass it along:

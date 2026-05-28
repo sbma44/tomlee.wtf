@@ -5,8 +5,6 @@ be gentle to their servers and mean to their lawyers
 :category: Uncategorized
 :slug: be-gentle-to-servers-and-mean-to-lawyers
 :status: published
-:save_as: 2016/04/04/be-gentle-to-servers-and-mean-to-lawyers/index.html
-:url: 2016/04/04/be-gentle-to-servers-and-mean-to-lawyers/
 
 I didn't like `this article about ethical screen scraping very much <http://www.storybench.org/to-scrape-or-not-to-scrape-the-technical-and-ethical-challenges-of-collecting-data-off-the-web/>`__, and said so on Twitter.
 
