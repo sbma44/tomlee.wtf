@@ -75,7 +75,7 @@ def main() -> None:
         sys.exit(1)
 
     img_block = (
-        "\n" + "\n".join(f'<img src="{to_src(p)}">' for p in images) + "\n"
+        "\n" + "\n".join(f'<a href="{to_src(p)}"><img src="{to_src(p)}"></a>' for p in images) + "\n"
         if images
         else ""
     )
