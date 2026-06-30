@@ -15,7 +15,7 @@ There are several camps situated around the lake and a backpacking program calle
 
 I never went to Ross as a kid, but I attended its neighbor [Camp Bowman](https://www.gotogoshen.org/camps-programs/camp-bowman/) many times. Bowman is distinguished by the disrepair of its shower facilities and the fact that Scouts cook all their meals over open wood fires rather than visiting a dining hall like at the other Goshen camps. Successive layers of bug spray, sunscreen, wood smoke, lake water, and spilled drink mix, combined with youth protection rules that prevent verifiable bathing, produce sedimentary levels of childhood filth that are truly remarkable. To this day I feel a surge of stoic vigor and the need to wash my face when I smell wood smoke in daytime.
 
-I also did a trek at Lenhok'sin, though the only thing I really remember about it is getting accidentally shoved into tree by some roughhousing scouts and unluckily bracing my hand against a [Goshen Zapper](https://en.wikipedia.org/wiki/Buck_moth).
+I also did a trek at Lenhok'sin, though the only thing I really remember about it is getting accidentally shoved into tree by some roughhousing Scouts and unluckily bracing my hand against a [Goshen Zapper](https://en.wikipedia.org/wiki/Buck_moth).
 
 <a href="/static/2026/06/pushpop.jpeg"><img src="/static/2026/06/pushpop.jpeg"></a>
 
@@ -51,9 +51,9 @@ I believe, for example, that stoic endurance is admirable. It's good to be able 
 
 Watching the kids provided other revelations. And not just the Cubs, though they certainly had their quirks. The camp staff was almost entirely teenaged. Overhearing the gawky Scoutcraft team complain bitterly about the sun-kissed and muscular Aquatics staffers reminded me of an adolescent bestiary I'd started to believe only existed in teen dramas. This is one of the best things about Scouting, of course: it brings together all kinds of kids and forces them to cooperate, from golden-boy future astronauts to profoundly annoying geeks. 
 
-(And now girls, too! The prospect of witnessing the implied interactions at the teenaged Troop level is terrifying&mdash;something completely absent from my own experience of scouting.)
+(And now girls, too! The prospect of witnessing the implied interactions at the teenaged Troop level is terrifying&mdash;something completely absent from my own experience of Scouting.)
 
-The program has something to teach every kind of kid. But the astronauts are also spending their weekends hitting home runs and going on dates. For the weirdos, Scouting is sometimes the best way they have to feel possessed of some measure of fortitude. Perhaps unsurprisingly, a glance at the ranks of adult leaders shows that scouting attracts, or at least retains, an outsize share of such weirdos. It was interesting to ponder my past and current place within their ranks.
+The program has something to teach every kind of kid. But the astronauts are also spending their weekends hitting home runs and going on dates. For the weirdos, Scouting is sometimes the best way they have to feel possessed of some measure of fortitude. Perhaps unsurprisingly, a glance at the ranks of adult leaders shows that Scouting attracts, or at least retains, an outsize share of such weirdos. It was interesting to ponder my past and current place within their ranks.
 
 But mostly it was wonderful to be able to watch my daughter grow in ways that I knew I once had, too. She is a brilliant girl, charming and goofy. After a week in the woods she seems tougher, less solipsistic. She came home sunburned and happy, and she's appalled that this week's camp in Rock Creek Park lacks an archery program. We're already talking about next year.
 
