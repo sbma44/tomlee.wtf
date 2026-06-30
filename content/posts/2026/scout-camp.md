@@ -23,7 +23,7 @@ There was also the year when I got so deliriously sick that I was moved to the n
 
 <a href="/static/2026/06/camp.JPG"><img src="/static/2026/06/camp.JPG"></a>
 
-Camp is where the Scout experience reaches apotheosis. Scouts are stuck in the woods, with other Scouts, for at least a week. It will inevitably be uncomfortable in various ways, and their skills, ingenuity, and grit will determine the toll it takes on them. They will inevitably learn things about how the natural world works that are hard to intuit from a city or suburb: its beauty, its complexity, its hostility and bounty and indifference.
+Camp is where the Scout experience reaches apotheosis. Scouts are stuck in the woods, with other Scouts, for at least a week. It will inevitably be uncomfortable in various ways, and their skills, ingenuity, and grit will determine the toll it takes on them. They will learn things about how the natural world works that are hard to intuit from a city or suburb: its beauty, its complexity, its hostility and bounty and indifference.
 
 <a href="/static/2026/06/crawfish.JPG"><img src="/static/2026/06/crawfish.JPG"></a>
 <a href="/static/2026/06/frog.JPG"><img src="/static/2026/06/frog.JPG"></a>
@@ -41,7 +41,7 @@ The hope is that this lets the kids learn about themselves and what they're capa
 
 I was more bothered by this than the kids were. I admit my nerves were up. I'd been reading _Lonesome Dove_, and a night or two before had finished the chapter in which a hapless Irish immigrant is abruptly swarmed and killed by a nest of water moccasins during an otherwise peaceful river crossing. 
 
-(That still compares favorably to the frame of mind I was in during the week I spent reading _Crime and Punishment_ for school during a leadership program without running water, during which I was assigned--by my Scoutmaster, who knew and trusted me--to a patrol of Scouts from other troops with behavioral and emotional problems. It was a very long week.)
+(That still compares favorably to the frame of mind I was in during the week I spent reading _Crime and Punishment_ for school during a leadership program without running water, during which I was assigned&mdash;by my Scoutmaster, who knew and trusted me&mdash;to a patrol of Scouts from other troops with behavioral and emotional problems. It was a very long week.)
 
 Snakes aside, _Lonesome Dove_ makes good camp reading. To imagine a version of outdoor life that is vastly poorer in materials&mdash;where a tent was a rare luxury, and canvas and leather were state-of-the-art&mdash;makes one feel much better about the greasy adhesion of dried sweat to a nylon sleeping bag. It leaves one confident, proud, and wary to understand what humans can achieve, endure, or lose.
 
