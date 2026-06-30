@@ -39,7 +39,7 @@ The hope is that this lets the kids learn about themselves and what they're capa
 
 <a href="/static/2026/06/snake.JPG"><img src="/static/2026/06/snake.JPG"></a>
 
-I was more bothered by this than the kids were. I admit my nerves were up. I'd been reading _Lonesome Dove_, and a night or two before had finished the chapter in which a hapless Irish immigrant is abruptly swarmed and killed by a nest of water moccasins during an otherwise peaceful river crossing. 
+I was more bothered by this than the kids were. I admit my nerves were up. I had been reading _Lonesome Dove_, and a night or two before had finished the chapter in which a hapless Irish immigrant is abruptly swarmed and killed by a nest of water moccasins during an otherwise peaceful river crossing. 
 
 (That still compares favorably to the frame of mind I was in during the week I spent reading _Crime and Punishment_ for school during a leadership program without running water, during which I was assigned&mdash;by my Scoutmaster, who knew and trusted me&mdash;to a patrol of Scouts from other troops with behavioral and emotional problems. It was a very long week.)
 
@@ -49,9 +49,9 @@ I believe deeply in these familiar lessons and was ecstatic at the chance to ree
 
 I believe, for example, that stoic endurance is admirable. It's good to be able to adapt to circumstances, to accept what can't be changed, and to make the best of what's before you. But taken too far, this is passivity, settling. I see this in a way I didn't back then. There is a place for neurotic restlessness and ambition.
 
-Watching the kids provided other revelations. And not just the Cubs, though they certainly had their quirks. The camp staff was almost entirely teenaged. Overhearing the gawky Scoutcraft team complain bitterly about the sun-kissed and muscular Aquatics staffers reminded me of an adolescent bestiary I'd started to believe only existed in teen dramas. This is one of the best things about scouting, of course: it brings together all kinds of kids and forces them to cooperate, from golden-boy future astronauts to profoundly annoying autists. 
+Watching the kids provided other revelations. And not just the Cubs, though they certainly had their quirks. The camp staff was almost entirely teenaged. Overhearing the gawky Scoutcraft team complain bitterly about the sun-kissed and muscular Aquatics staffers reminded me of an adolescent bestiary I'd started to believe only existed in teen dramas. This is one of the best things about Scouting, of course: it brings together all kinds of kids and forces them to cooperate, from golden-boy future astronauts to profoundly annoying geeks. 
 
-(And now girls, too! The prospect of witnessing the implied interactions at the teenaged Troop level is terrifying--something completely absent from my own experience of scouting.)
+(And now girls, too! The prospect of witnessing the implied interactions at the teenaged Troop level is terrifying&mdash;something completely absent from my own experience of scouting.)
 
 The program has something to teach every kind of kid. But the astronauts are also spending their weekends hitting home runs and going on dates. For the weirdos, Scouting is sometimes the best way they have to feel possessed of some measure of fortitude. Perhaps unsurprisingly, a glance at the ranks of adult leaders shows that scouting attracts, or at least retains, an outsize share of such weirdos. It was interesting to ponder my past and current place within their ranks.
 
