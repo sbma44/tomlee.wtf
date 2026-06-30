@@ -15,7 +15,7 @@ There are several camps situated around the lake and a backpacking program calle
 
 I never went to Ross as a kid, but I attended its neighbor [Camp Bowman](https://www.gotogoshen.org/camps-programs/camp-bowman/) many times. Bowman is distinguished by the disrepair of its shower facilities and the fact that Scouts cook all their meals over open wood fires rather than visiting a dining hall like at the other Goshen camps. Successive layers of bug spray, sunscreen, wood smoke, lake water, and spilled drink mix, combined with youth protection rules that prevent verifiable bathing, produce sedimentary levels of childhood filth that are truly remarkable. To this day I feel a surge of stoic vigor and the need to wash my face when I smell wood smoke in daytime.
 
-I also did a trek at Lenhok'sin, though the only thing I really remember about it is getting accidentally shoved into tree by some roughhousing Scouts and unluckily bracing my hand against a [Goshen Zapper](https://en.wikipedia.org/wiki/Buck_moth).
+I also did a trek at Lenhok'sin, though the only thing I really remember about it is getting accidentally shoved into a tree by some roughhousing Scouts and unluckily bracing my hand against a [Goshen Zapper](https://en.wikipedia.org/wiki/Buck_moth).
 
 <a href="/static/2026/06/pushpop.jpeg"><img src="/static/2026/06/pushpop.jpeg"></a>
 
