@@ -57,6 +57,234 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2007/08/26/cleanly-redirecting-users-from-your-old-typepad-site/">cleanly redirecting users from your old Typepad site</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2007-08-26T15:40:00-04:00">Sunday, 26 August 2007</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">C</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Here's a sort-of-interesting problem I've been working on recently, and which might help prevent an internet stranger or two from pulling their hair out. When you're moving from one blog to another, how do you set things up so that folks stumbling across your old site are sent to the new one? This came up while Emily and I were working on <a class="reference external" href="http://brianbeutler.com">Brian's new site</a>. His existing Typepad site had URLs like this:</p>
+<blockquote>
+<a class="reference external" href="http://beutler.typepad.com/home/2007/08/rove-the-erudit.html">http://beutler.typepad.com/home/2007/08/rove-the-erudit.html</a></blockquote>
+<p>I knew that I wanted to clean up the formatting of these a little bit — for one thing, the .html would have to go, as I intended to use some PHP in the pages (on a web server with a standard configuration, only files ending in .php or .php5 are processed for PHP). And that &quot;/home/&quot; seemed extraneous, too.</p>
+<p>I did try to make the two similar, though, to simplify things. By default Movable Type creates its URLs from the entry's title, transforming it into a unique identifier called the basename. I altered MT's default basename length so that it was 15 characters, matching the length of Typepad's basenames. I set up the new mapping in MT's Settings/Publishing area, and ended up with new URLs that looked like this:</p>
+<blockquote>
+<a class="reference external" href="http://www.brianbeutler.com/2007/08/rove_the_erudit/index.php">http://www.brianbeutler.com/2007/08/rove_the_erudit/index.php</a></blockquote>
+<p>The index.php on the end can be left off — if you ask a Linux web server for a directory, it'll look for &quot;index.php&quot; or &quot;index.html&quot; or &quot;index.htm&quot; and send it back if it finds it. This lets you have slightly tidier-looking URLs. So our new URL is actually:</p>
+<blockquote>
+<a class="reference external" href="http://www.brianbeutler.com/2007/08/rove_the_erudit/">http://www.brianbeutler.com/2007/08/rove_the_erudit/</a></blockquote>
+<p>With the format settled upon I was able to write some code that sits on every page of Brian's Typepad site. When a user arrives the page looks at its URL, applies a set of transformations to rewrite it into the new format, and sends the user to the result. Normally you'd want to do this in a server-side script or .htaccess file, but as far as I can tell Typepad doesn't let its users have that level of control. So I had to put it in some Javascript that I added to Brian's Typepad template:</p>
+<blockquote>
+<pre class="literal-block">
+&lt;script type=&quot;text/javascript&quot;&gt;
+location.href = location.href.replace(/beutler\.typepad\.com/,'www.brianbeutler.com').replace(/\/home\//,'/').replace(/\.html$/,'/').replace(/\-/g,'_');
+&lt;/script&gt;
+</pre>
+</blockquote>
+<p>This looks complicated, but it really just does a few things to the URL (whatever the URL may be):</p>
+<ol class="arabic simple">
+<li>Replace &quot;beutler.typepad.com&quot; with &quot;www.brianbeutler.com&quot;</li>
+<li>Replace &quot;/home/&quot; with &quot;/&quot;</li>
+<li>Replace the &quot;.html&quot; at the end of the URL with &quot;/&quot;</li>
+<li>Change all hyphens in the URL to underscores</li>
+</ol>
+<p>It then sends the browser to the new URL.</p>
+<p>Done! All I had to do now is deliver the website, lean back and adopt an attitude of extreme self-satisfaction.</p>
+<p>Except... no. I wasn't done. Everything was actually much, much worse than I thought.</p>
+<p>I was a little slow to catch on. Brian started receiving emails from readers who were getting 404 errors. The redirection script was sending people to the wrong places.</p>
+<p>Brian's got a bunch of regular features with names that start similarly (or are identical). This creates a problem when trying to create unique basenames for each one. Movable Type and Typepad both have systems for dealing with these situations in a way that ensures each basename is distinct — if two entries are both called &quot;xyz&quot;, the second one's basename will be &quot;xyz_1&quot;, or something aong those lines. But these systems don't behave in quite the same way — or at least they don't when one system has its entries imported and the other has them authored over a period of time.</p>
+<p>This resulted in situations like this:</p>
+<blockquote>
+<div class="line-block">
+<div class="line"><strong>Typepad&nbsp;URL:</strong>&nbsp;<a class="reference external" href="http://beutler.typepad.com/home/2007/08/almost-daily--4.html">http://beutler.typepad.com/home/2007/08/almost-daily--4.html</a></div>
+<div class="line"><strong>Rewritten&nbsp;URL:</strong>&nbsp;<a class="reference external" href="http://www.brianbeutler.com/2007/08/almost_daily__4/">http://www.brianbeutler.com/2007/08/almost_daily__4/</a></div>
+<div class="line"><strong>Actual&nbsp;New&nbsp;URL:</strong>&nbsp;<a class="reference external" href="http://www.brianbeutler.com/2007/08/almost_daily_co_73/">http://www.brianbeutler.com/2007/08/almost_daily_co_73/</a></div>
+</div>
+</blockquote>
+<p>The first one is the old URL. The second one is the rewritten URL, created using the code above. And the third is the <em>actual</em> URL — the one that we need to redirect to.</p>
+<p>There's another problem, too. Typepad creates an entry's basename the first time you save it, even if you haven't yet published it. The basename is created from the title, as I mentioned. But if the title changes, the basename does not. However, when you import those entries into Movable Type, it recreates the basename from whatever the title ended up being. Which results in the following mess:</p>
+<blockquote>
+<div class="line-block">
+<div class="line"><strong>Typepad&nbsp;URL:</strong>&nbsp;<a class="reference external" href="http://beutler.typepad.com/home/2007/07/h20.html">http://beutler.typepad.com/home/2007/07/h20.html</a></div>
+<div class="line"><strong>Rewritten&nbsp;URL:</strong>&nbsp;<a class="reference external" href="http://www.brianbeutler.com/2007/07/h20/">http://www.brianbeutler.com/2007/07/h20/</a></div>
+<div class="line"><strong>Actual&nbsp;New&nbsp;URL:</strong>&nbsp;<a class="reference external" href="http://www.brianbeutler.com/2007/07/banal_observati_49/">http://www.brianbeutler.com/2007/07/banal_observati_49/</a></div>
+</div>
+</blockquote>
+<p>So: the redirect is fine for a lot of URLs. It fails for some proportion of URLs. But it's impossible to tell which ones just by looking at the URL, and there's no way to figure out what the new URL ought to be on the basis of the old one.</p>
+<p>First things first. Let's figure out which URLs are screwed up. We'll iterate through Brian's Typepad archive pages. For each one we'll grab all of the permalinks. Then we'll rewrite them using the rules implemented by the Javascript above. Finally, we'll test each rewritten URL. If it generates a &quot;page not found&quot; message, we'll spit out some code that'll help us with future analysis (more on that in a sec).</p>
+<p>Here we go...</p>
+<blockquote>
+<pre class="literal-block">
+#!/usr/bin/perl
+print &quot;&lt;?php
+\$typepad_entries = array();
+&quot;;
+for(my $i=34;$i&gt;=12;$i--)
+{
+my $url = 'http://beutler.typepad.com/home/2007/week' . $i . '/index.html';
+my $html = `curl -s $url`;
+my &#64;matches = ($html =~ m/&lt;a class=&quot;permalink&quot; href=&quot;(.*?)&quot;&gt;Permalink&lt;\/a&gt;/isg);
+for $match (&#64;matches)
+{
+my $permalink = $match;
+my $rewritten_link = $permalink;
+$rewritten_link =~ s/beutler\.typepad\.com/www.brianbeutler.com/igx;
+$rewritten_link =~ s/\/home\//\//igx;
+$rewritten_link =~ s/\.html$/\//igx;
+$rewritten_link =~ s/\-/_/gx;
+my $new_html = `curl -s $rewritten_link`;
+if($new_html =~ /404 not found/is)
+{
+my $typepad_html = `curl -s $permalink`;
+my $date = '0';
+if($typepad_html =~ m/&lt;h2 class=&quot;date-header&quot;&gt;(.*?)&lt;\/h2&gt;/isg)
+{
+$date = $1;
+}
+my $body = '';
+if($typepad_html =~ m/&lt;div class=&quot;entry-body&quot;&gt;(.*?)&lt;\/div&gt;/isg)
+{
+$body = $1;
+}
+print &quot;
+\$body = &lt;&lt;&lt;EOBODY
+$body
+EOBODY;
+\$typepad_entries[] = array(
+'url' =&gt; '$permalink',
+'rewritten_url'  =&gt; '$rewritten_link',
+'date' =&gt; '$date',
+'body' =&gt; \$body,
+);
+\$body = '';
+&quot;;
+}
+}
+}
+print &quot;
+?&gt;&quot;;
+</pre>
+</blockquote>
+<p>This produces output like so:</p>
+<blockquote>
+<pre class="literal-block">
+&lt;?php
+$typepad_entries = array();
+$body = &lt;&lt;&lt;EOBODY
+&lt;p&gt;As a physicist, I think this is sort of an &lt;a href=&quot;http://www.slate.com/id/2171898/fr/rss/&quot;&gt;interesting way to look&lt;/a&gt; at economies and economic development. As a blogger, though, I think it confirms a pretty banal point: that regions of the world without diverse or fungible resources don't tend to have strong economies. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://beutler.typepad.com/photos/uncategorized/2007/08/18/picture_1.png&quot;&gt;&lt;img border=&quot;0&quot; src=&quot;http://beutler.typepad.com/photos/uncategorized/2007/08/18/picture_1.png&quot; title=&quot;Picture_1&quot; alt=&quot;Picture_1&quot; class=&quot;image-full&quot; style=&quot;margin: 0px 5px 5px 0px; float: left;&quot; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+EOBODY;
+$typepad_entries[] = array(
+'url' =&gt; 'http://beutler.typepad.com/home/2007/08/the-physics-of-.html',
+'rewritten_url'  =&gt; 'http://www.brianbeutler.com/2007/08/the_physics_of_/',
+'date' =&gt; 'August 18, 2007',
+'body' =&gt; $body,
+);
+$body = '';
+and so on, repeating the above block for each entry
+</pre>
+</blockquote>
+<p>So we've got the Typepad entries exported in an easily-processed format — one that includes the body, date, and information about the URL. Next we need to get the imported Movable Type entries into a similarly useful format. Then we'll write some code that goes through, compares the bodies of the entries and tries to match them up with one another (with the help of the date).</p>
+<p>No fancy scripting is required for getting the Movable Type entries. We just need to make a new template in MT that spits out the entries in the format we want:</p>
+<blockquote>
+<pre class="code php literal-block">
+<span class="cp">&lt;?php</span>
+<span class="nv">$mt_entries</span> <span class="o">=</span> <span class="k">array</span><span class="p">();</span>
+<span class="o">&lt;</span><span class="nx">MTEntries</span> <span class="nx">lastn</span><span class="o">=</span><span class="s2">&quot;9999&quot;</span><span class="o">&gt;</span>
+<span class="nv">$body</span> <span class="o">=</span> <span class="s">&lt;&lt;&lt;</span><span class="dl">EOBODY</span><span class="s">
+&lt;$MTEntryBody$&gt;
+</span><span class="dl">EOBODY</span><span class="p">;</span>
+<span class="nv">$mt_entries</span><span class="p">[]</span> <span class="o">=</span> <span class="k">array</span><span class="p">(</span>
+<span class="s1">'permalink'</span> <span class="o">=&gt;</span> <span class="s1">'&lt;$MTEntryPermalink$&gt;'</span><span class="p">,</span>
+<span class="s1">'date'</span> <span class="o">=&gt;</span> <span class="s1">'&lt;$MTEntryDate$&gt;'</span><span class="p">,</span>
+<span class="s1">'body'</span> <span class="o">=&gt;</span> <span class="nv">$body</span><span class="p">,</span>
+<span class="p">);</span>
+<span class="nv">$body</span> <span class="o">=</span> <span class="s1">''</span><span class="p">;</span>
+<span class="o">&lt;/</span><span class="nx">MTEntries</span><span class="o">&gt;</span>
+<span class="cp">?&gt;</span><span class="x">&quot;;?&gt;</span>
+</pre>
+</blockquote>
+<p>You might've noticed that despite our initial Perlishness, the entries are being stored in PHP. That's because PHP's got a handy <a class="reference external" href="http://www.php.net/similar_text">text-comparison function</a> that I want to use (as well as easy-to-use <a class="reference external" href="http://www.php.net/strtotime">date conversion functions</a>).</p>
+<p>Matching the entries up to one another goes like so:</p>
+<blockquote>
+<pre class="code php literal-block">
+<span class="cp">&lt;?php</span>
+<span class="k">require_once</span><span class="p">(</span><span class="s1">'mt_entries.php'</span><span class="p">);</span>
+<span class="k">require_once</span><span class="p">(</span><span class="s1">'typepad_entries.php'</span><span class="p">);</span>
+<span class="c1">// pull out everything except lowercase letters -- simplify the comparisons
+</span><span class="k">function</span> <span class="nf">SimplifyString</span><span class="p">(</span><span class="nv">$x</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="k">return</span> <span class="nb">preg_replace</span><span class="p">(</span><span class="s1">'/[^a-z]/x'</span><span class="p">,</span><span class="s1">''</span><span class="p">,</span><span class="nb">strtolower</span><span class="p">(</span><span class="nb">strip_tags</span><span class="p">(</span><span class="nb">trim</span><span class="p">(</span><span class="nv">$x</span><span class="p">))));</span>
+<span class="p">}</span>
+<span class="nv">$sorted_mt_entries</span> <span class="o">=</span> <span class="k">array</span><span class="p">();</span>
+<span class="c1">// sort the entries by date -- we'll use this later
+</span><span class="k">foreach</span><span class="p">(</span><span class="nv">$mt_entries</span> <span class="k">as</span> <span class="nv">$entry</span><span class="p">)</span>
+<span class="nv">$sorted_mt_entries</span><span class="p">[</span><span class="nb">date</span><span class="p">(</span><span class="s1">'z'</span><span class="p">,</span><span class="nb">strtotime</span><span class="p">(</span><span class="nv">$entry</span><span class="p">[</span><span class="s1">'date'</span><span class="p">]))][]</span> <span class="o">=</span> <span class="nv">$entry</span><span class="p">;</span>
+<span class="k">foreach</span><span class="p">(</span><span class="nv">$typepad_entries</span> <span class="k">as</span> <span class="nv">$typepad_entry</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="nv">$most_similar_entry</span> <span class="o">=</span> <span class="k">NULL</span><span class="p">;</span>
+<span class="c1">// ensure that the body isn't empty -- otherwise it'll match everything equally
+</span><span class="k">if</span><span class="p">(</span><span class="nb">strlen</span><span class="p">(</span><span class="nv">$typepad_entry</span><span class="p">[</span><span class="s1">'body'</span><span class="p">])</span><span class="o">&gt;</span><span class="mi">20</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="nv">$entries_to_examine</span> <span class="o">=</span> <span class="nv">$mt_entries</span><span class="p">;</span>
+<span class="c1">// if we can get away with it, only examine the entries from the day in question
+// this both minimizes the set of possible wrong answers and improves
+// processing time
+</span><span class="k">if</span><span class="p">(</span><span class="nv">$typepad_entry</span><span class="p">[</span><span class="s1">'date'</span><span class="p">]</span><span class="o">!=</span><span class="s1">'0'</span><span class="p">)</span>
+<span class="nv">$entries_to_examine</span> <span class="o">=</span> <span class="nv">$sorted_mt_entries</span><span class="p">[</span><span class="nb">date</span><span class="p">(</span><span class="s1">'z'</span><span class="p">,</span><span class="nb">strtotime</span><span class="p">(</span><span class="nv">$typepad_entry</span><span class="p">[</span><span class="s1">'date'</span><span class="p">]))];</span>
+<span class="nv">$max_similarity</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+<span class="k">foreach</span><span class="p">(</span><span class="nv">$entries_to_examine</span> <span class="k">as</span> <span class="nv">$mt_entry</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="nb">similar_text</span><span class="p">(</span><span class="nx">SimplifyString</span><span class="p">(</span><span class="nv">$typepad_entry</span><span class="p">[</span><span class="s1">'body'</span><span class="p">]),</span><span class="nx">SimplifyString</span><span class="p">(</span><span class="nv">$mt_entry</span><span class="p">[</span><span class="s1">'body'</span><span class="p">]),</span><span class="nv">$similarity</span><span class="p">);</span>
+<span class="k">if</span><span class="p">(</span><span class="nv">$similarity</span><span class="o">&gt;</span><span class="nv">$max_similarity</span><span class="p">)</span>
+<span class="p">{</span>
+<span class="nv">$most_similar_entry</span> <span class="o">=</span> <span class="nv">$mt_entry</span><span class="p">;</span>
+<span class="nv">$max_similarity</span> <span class="o">=</span> <span class="nv">$similarity</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="p">}</span>
+<span class="k">if</span><span class="p">(</span><span class="nv">$max_similarity</span><span class="o">&gt;</span><span class="mi">95</span><span class="p">)</span> <span class="c1">// only use very similar entries
+</span><span class="p">{</span>
+<span class="k">print</span> <span class="s2">&quot;Redirect 301 &quot;</span> <span class="o">.</span> <span class="nb">preg_replace</span><span class="p">(</span><span class="s1">'/http:\/\/(.*?)\//'</span><span class="p">,</span><span class="s1">'/'</span><span class="p">,</span><span class="nv">$typepad_entry</span><span class="p">[</span><span class="s1">'rewritten_url'</span><span class="p">])</span> <span class="o">.</span> <span class="s2">&quot; &quot;</span> <span class="o">.</span> <span class="nv">$most_similar_entry</span><span class="p">[</span><span class="s1">'permalink'</span><span class="p">]</span> <span class="o">.</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="k">else</span>
+<span class="p">{</span>
+<span class="k">print</span> <span class="s2">&quot;# !!! no good match found: &quot;</span> <span class="o">.</span> <span class="nv">$typepad_entry</span><span class="p">[</span><span class="s1">'url'</span><span class="p">]</span> <span class="o">.</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="p">}</span>
+<span class="k">else</span>
+<span class="p">{</span>
+<span class="k">print</span> <span class="s2">&quot;# !!! entry too short: &quot;</span> <span class="o">.</span> <span class="nv">$typepad_entry</span><span class="p">[</span><span class="s1">'url'</span><span class="p">]</span> <span class="o">.</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="p">}</span>
+<span class="cp">?&gt;</span>
+</pre>
+</blockquote>
+<p>Run this from the command line and it'll print output like the following:</p>
+<blockquote>
+<pre class="literal-block">
+Redirect 301 /2007/07/most_dangerous_/ http://www.brianbeutler.com/2007/07/most_dangerous/
+Redirect 301 /2007/07/wheres_all_the_/ http://www.brianbeutler.com/2007/07/wheres_all_the/
+Redirect 301 /2007/07/almost_daily__4/ http://www.brianbeutler.com/2007/07/almost_daily_co_63/
+Redirect 301 /2007/07/bias/ http://www.brianbeutler.com/2007/07/bias_1/
+</pre>
+</blockquote>
+<p>Which can be pasted directly into an .htaccess file. Now the Javascript on Typepad will still send users to the wrong URL, but once they arrive at that incorrect URL the server will catch their request and redirect it to the right location.</p>
+<p>I've just put it online a moment ago, but it seems to work well. And there was only one entry for which the text-matching produced a score of less than 100% similarity. It was easy enough to catch it and manually set the URL.</p>
+<p>Of course, it'd be nice of us to keep all of these redirects somewhere other than .htaccess — we're wasting the web server's resources by making it ponder all of them whenever it wants to serve a page. But as sysadmin sins go this is at least a common one. Given the limits of Typepad, the not-outrageous quantity of redirects and the nonexistent noticeable benefit to doing this 100% cleanly, I didn't bother.</p>
+<p>But if you wanted to be really slick about it you could make a custom PHP script with all the redirects your 404 handler — that way the redirection overhead would only be incurred when a file wasn't found. There's probably an extremely slick way to do this conditionally with a RewriteRule, too, but I don't know it off the top of my head.</p>
+<p>Anyway, there's complete the tale of my weekend's technical adventures (well, except for buying <a class="reference external" href="http://www.kickgaming.com/supercard-sd-and-superkey-pr-83.html">one of these</a>). Hopefully a weary Typepad refugee will someday stumble across my post and get some use out of it.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2007/08/26/7-for-a-wii-modchip/">$7 for a Wii modchip!?</a>
                     </h2>
                     <div class="entry-meta">
@@ -515,33 +743,6 @@
 <p>I could've stuck around and tried the go-karts or drag-racing or ignite-the-open-vat-of-gasoline booth. Or talked to the &quot;NOS Energy Girls&quot;, I suppose. But I was ready to head home. On the way back I took a wrong turn, saw a fox and ended up in an overgrown cul de sac filled with weeds and Dharma Initiative-ish billboards emblazoned with the word JERICHO, but other than that the trip back was fine. I ended the day sweaty, exhausted and in posession of some extremely tacky Chevy promotional gear.</p>
 <p>All in all, it was an overwhelming success. Car racing is almost as fun as it is stupid.</p>
 <p><a class="reference external image-reference" href="http://www.flickr.com/photos/sbma44/1083393776/"><img alt="not the greenest event there is" class="center" src="http://farm2.static.flickr.com/1195/1083393776_f86dcfc8b6.jpg" style="width: 500px; height: 375px;" /></a></p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2007/08/11/or-i-could-just-make-more-fake-red-bull-with-the-carbonator/">or I could just make more fake Red Bull with the carbonator</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2007-08-11T12:25:00-04:00">Saturday, 11 August 2007</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">O</div>
-                </header>
-
-                <div class="entry-content">
-                    <div class="docutils container">
-<a class="reference external image-reference" href="http://www.flickr.com/photos/sbma44/1083054407/"><img alt="Monsieur Cafe est mort" class="center" src="http://farm2.static.flickr.com/1289/1083054407_71a14668ae_m.jpg" style="width: 192px; height: 240px;" /></a>Mr. Coffee (first name unknown)
-1999-2007</div>
-<p>Well, it had a good run, persisting through discoloration, chipped glass and the occasional vinegar cleaning. But it looks like my venerable coffeemaker has shed its mortal coil at last. He perked once or twice this morning, but then: terrible, terrible silence.</p>
-<p>We were reduced to brewing the morning coffee with Charles' French press. I know that some of my sophisticated big-city friends may be tempted to go on and on about the merits of French-pressed coffee — its thickness, sweetness and exquisite and/or non-existent oiliness — and from there argue that I should embrace French pressing as the one true way to make coffee. But as far as I'm concerned the single most important attribute that a cup of coffee can possess is not being the last one. And on that score, the French press fails. Besides, it sounds oddly sexual.</p>
-<p>So, sad as this occasion is, it's also a chance for rebirth. I'm going to get a new coffeemaker, and I could use some suggestions. As you might imagine, my natural inclination is to get something complicated and impractical that costs a lot of money and breaks almost immediately. I've already asked some of my friends and loved ones to repeat to me that this is a bad idea, but I could use your support as well.</p>
-<p>It would be nice to hear about specific alternate coffeemakers, too. Emily's trying to sell me on a <a class="reference external" href="http://www.amazon.com/Bunn-NHBX-B-Contemporary-10-Cup-Coffee/dp/B000FFQ4TG/ref=pd_bbs_sr_1/002-0057764-8465667?ie=UTF8&amp;s=home-garden&amp;qid=1186849531&amp;sr=8-1">Bunn</a> coffeemaker — her family has one that she likes a lot. But to me, the brand recalls the time when my mom was a church secretary and I'd sometimes have to while away time in the building's basement, with the folding chairs and blank marriage certificates and brittle linoleum and alcoholics shuffling into a room down the hall and, yes, Bunn coffeemaker. That's not really the coffee lifestyle I want my purchase to evoke. The machines are also a little pricey for appliances that come with so much suburban despair attached.</p>
-<p>No, as with all of my consumer purchases, I'd like my coffeemaker to come from the not-too-distant future (post-flying cars, pre-zombies), or, failing that, Asia. I'm thinking clean lines, stainless steel, and perhaps polyphonic ringtones and/or a blood pressure cuff.</p>
-<p>I'd also sort of like to get one with a thermal carafe. People seem to like the <a class="reference external" href="http://www.amazon.com/Zojirushi-EC-BD15-Thermal-Carafe-Coffee/dp/B0000X7CMQ/ref=pd_sbs_hg_5_img/002-0057764-8465667?ie=UTF8&amp;qid=1186849531&amp;sr=8-2">Zojirushi EC-BD15</a>, and I certainly like pronouncing it. But I'm given pause by the relatively lukewarm reviews for the <a class="reference external" href="http://www.amazon.com/Zojirushi-EC-BD15BA-Stainless-Thermal-Carafe/dp/B0001WDFBS/ref=pd_bbs_4/002-0057764-8465667?ie=UTF8&amp;s=home-garden&amp;qid=1186865140&amp;sr=8-4">EC-BD15BA</a> which is, as far as I can tell, completely identical except for having a slightly larger illustration on Amazon.com.</p>
-<p>So I'm not quite sure how to proceed. If anyone's used a Zojirushi, owned a Zojirushi, or had a loved one horribly disfigured by an explosion of steam and shrapnel coming from a Zojirushi, please let me know. And if you can make a case for a different brand or absolutely essential feature, lay it on me.</p>
 
                 </div>
             </article>

@@ -57,6 +57,28 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2006/11/26/money-for-nothing-bits-for-free/">money for nothing, bits for free</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2006-11-26T17:34:00-05:00">Sunday, 26 November 2006</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">M</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>I'm embarrassed to admit that I initially clicked through to <a class="reference external" href="http://hardware.slashdot.org/article.pl?sid=06/11/26/140240&amp;from=rss">this story</a> with interest rather than incredulity. In short: some guy claimed he had come up with a means of storing 450 gigabytes of data on a single sheet of paper through a special encoding system involving colored geometric shapes. Some of the tech press ran with it.</p>
+<p>Well, it's <a class="reference external" href="http://itsoup.blogspot.com/2006/11/scam-of-indian-student-developing.html">bullshit</a>, but that link doesn't really adequately explain why. It gets close, though. Here's my stab at an explanation, just for fun.</p>
+<p>A laser printer can manage about 1800 dots per linear inch <a class="reference external" href="http://en.wikipedia.org/wiki/Dots_per_inch">according to Wikipedia</a>. Treating each of those dots as a bit, that's 3,240,000 bits/inch<sup>2</sup>. Assuming no margins, 8.5&quot; * 11&quot; * 3,240,000 bits/inch<sup>2</sup> = a measly 302,940,000 bits, or about 295.8 megabytes (depending on which definition of megabyte you use). Allow for printing in different colors and you can multiply that by four, topping a gigabyte. Assume some sort of advanced printing technology that mixes colors in a way that provides each printed dot with 24 bits of color information like your computer screen (instead of just dithering dots of different colors to mix colors), and you're still stuck under 8 gigs/sheet.</p>
+<p>At this point it's tempting to believe that the inventor's system of polygons introduces some sort of magic storage benefit. But it doesn't — fully compressed data looks like noise, not polygons, and pretty encoding schemes are doomed to be less efficient than ones that simply get down to the business of shoveling bits around. Think about how much data it takes to reproduce a colored triangle. There are probably more efficient ways to do it, but at a first glance it seems to me that you could accomplish it by storing two angles, the length of the longest side, and the color (for now, let's ignore how it's oriented in space on the page). The resolution and range you choose for these determines your ultimate storage requirements, but a reasonable guess would be 4 bytes for each number and 3 more for the color. Those 15 bytes comprise the descriptive capacity of that triangle — the rest of it can be figured out from those pieces of data, and consequently would be redundant to store. So, what's going to be a more efficient way of representing those 15 bytes? Drawing the triangle? Or using 0.00003704 square inches of paper to print 15 bytes?</p>
+<p>Anyway, this is far from the first data compression scam (have a look at the fourth letter <a class="reference external" href="http://www.dansdata.com/danletters165.htm">in this Dan's Data column</a>). It's not anything novel — I just find this stuff strangely fascinating. And it provides a handy opportunity for me to resume my periodic evangelism for <a class="reference external" href="http://www.amazon.com/Introduction-Information-Theory-John-Pierce/dp/0486240614/sr=8-2/qid=1164577747/ref=pd_bbs_sr_2/002-0432362-5412058?ie=UTF8&amp;s=books">this book</a>, which is short, accessible, and capable of teaching you important things about how technology works. The principles of information theory are just as important to understanding the online world as, say, conservation of energy is to understanding the physical world. At the very least, they're a big help when relatives ask you to expound in an authoritative-sounding manner about their planned digital camera purchases.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2006/11/21/im-not-calling-it-a-conspiracy-yet/">I'm not calling it a conspiracy... yet</a>
                     </h2>
                     <div class="entry-meta">
@@ -525,31 +547,6 @@ OK. No offense, and I know Muslims. I like Muslims. I've been to mosques. I real
 <div class="line">The Governess seems <a class="reference external" href="http://pygmalioninablanket.blogspot.com/2006/10/lame.html">disappointed in herself</a> for bailing out on the line for the <a class="reference external" href="http://www.dcist.com/archives/2006/10/30/becks_surprise.php">super-secret Beck show</a>. I wouldn't be so hard on yourself, G.</div>
 <div class="line">Call me crazy, wrongheaded, dangerously deranged but... isn't Beck sort of just-okay? Sure, he's put out a lot of pretty good pop songs. But I can't say that any of them have moved me or gotten stuck in my head (at least, not in a good way). My favorite thing that he's done remains, by far, the <a class="reference external" href="http://www.progressiveboink.com/justin/Futurama/beck1.jpg">Futurama episode that he appeared in</a>. I wouldn't mind seeing one of his shows, but I don't think I'd go through very much discomfort for one. Besides, the Black Cat back stage sucks. And he's a <a class="reference external" href="http://www.xenu.net">Scientologist</a>. Fuck 'im.</div>
 <div class="line">But I could be wrong. I'm no Beckologist — all I know is that <em>Sea Change</em> bored the hell out of me. Maybe I'm completely missing the point. Still, I've already got an <a class="reference external" href="http://www.cmsaunders.free-online.co.uk/music/pics/flips/01.jpg">experimental indie pop weirdo/messiah</a>, thanks. But I guess I'll keep Beck's resume on file in case a position opens up.</div>
-</div>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2006/10/30/playing-dress-up/">playing dress up</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2006-10-30T14:13:00-05:00">Monday, 30 October 2006</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">P</div>
-                </header>
-
-                <div class="entry-content">
-                    <div class="line-block">
-<div class="line">Ayer's Hardware is the greatest store on earth. From the wealth of electrical doodads to the penny candy to the commendably deadly toy guns, it's a winner all the way. I've had two friends work there, re-told <a class="reference external" href="http://www.jeffnye.org">Jeff</a>'s story about Mr. Ayers dying on the breakroom couch dozens of times, and been in the store for post-church candy acquisition on more occasions than I can possibly count. Also, it's where my in-store Santa of choice resided when I was a kid. It's a great store.</div>
-<div class="line">It's also probably the best place on earth to go for last-minute Halloween costume preparation. With its help (and a brief stop by Target for thermal underwear), I was able to go from zero to Krang in the space of one afternoon. I think it turned out pretty well:</div>
-<div class="line"><a class="reference external image-reference" href="http://flickr.com/photos/93467005&#64;N00/282314554/"><img alt="me as krang; photo by yglesias" src="http://static.flickr.com/94/282314554_eae729385c.jpg" /></a></div>
-<div class="line">Fewer people knew that Krang was an evil brain from Dimension X (a subdivision of the Teenage Mutant Ninja Turtle universe) than I had expected, but those that did seemed pretty enthusiastic about it. More importantly, at the moment I appear to be occupying the top three spots on Flickr for the tag &quot;<a class="reference external" href="http://flickr.com/photos/tags/krang">krang</a>&quot;, which is extremely great.</div>
-<div class="line">But I don't really deserve any of the credit: Emily came up with the idea. Her Cylon costume was highly successful in its own right, featuring hexagonal dog tags, spaceboots and precisely-selected spacetanktops. And, if I can boast a little, it had a pretty great light-up spine (that I took a pretty non-great video of after the batteries had mostly died). Note to future generations of Cylon impersonators: 27 volts is about right for a string of seven Christmas lights. We used 36v, and apparently it got unpleasantly hot.</div>
-<div class="line">Other favorites: <a class="reference external" href="http://flickr.com/photos/dredgereport/282923817/">the war on Christmas</a>, <a class="reference external" href="http://flickr.com/photos/82975217&#64;N00/282484851/">the white rabbit</a>, <a class="reference external" href="http://flickr.com/photos/medildo/282179716/">Teen Wolf</a> and Julian's absolutely definitive <a class="reference external" href="http://flickr.com/photos/82975217&#64;N00/282473578/">Riddler</a>. Lots more party pictures <a class="reference external" href="http://www.flickr.com/photos/tags/partyofdeath">here</a>.</div>
 </div>
 
                 </div>

@@ -57,6 +57,26 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2009/08/25/pagination-on-the-awl/">pagination on The Awl?!</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2009-08-25T17:00:00-04:00">Tuesday, 25 August 2009</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">P</div>
+                </header>
+
+                <div class="entry-content">
+                    <p><a class="reference external" href="http://www.theawl.com/2009/08/a-friendly-chat-molly-mcaleer-on-blogging-auditioning-videoing-making-it-and-networking-in-los-angeles">Maaan</a>.</p>
+<p>I had this naive hope that actually if you got rid of almost all the MBAs and kept things small and the writers owned the enterprise, there'd be enough of a business left that we, the audience, wouldn't have to sit through all of the same stupid bullshit that's ruined the rest of the internet.&nbsp; But no: this seemingly-insignificant &quot;feature&quot; is fractal, and if you zoom far enough out the picture you'll see is of a guy handing a receptive Alex Balk a business card with &quot;SEO&quot; printed on it somewher.</p>
+<p>Now I see how foolish I was being, and now I know the truth: the truly transformative blog can only exist if it's based out of a utopian seasteading community.&nbsp; But then it'll be perfect.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2009/08/23/despite-the-following-i-assure-you-that-i-am-an-adult-man/">despite the following, I assure you that I am an adult man</a>
                     </h2>
                     <div class="entry-meta">
@@ -527,42 +547,6 @@ jQuery(function(){<br />
    });<br />
 });<br />
 // ]]></script></p><p>As for the new window: I admit, it's inelegant to spawn a popup.&nbsp; But the Prowl API only accepts POSTed requests, which, barring a sudden and deeply unwise decision on their part to host third-party scripts, rules out a more seamless AJAX solution.&nbsp; The popup works well enough, although on especially slow connections the window may wind up closed before the request goes through.&nbsp; A better solution would involve a timer that checks the spawned window for when its location.href property suddenly becomes inaccessible due to cross-domain security policies (indicating that the page it contains is now being served by the Prowl domain).&nbsp; But my first crack at that didn't work, so for now you guys are stuck with this.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2009/07/24/idiotic-and-sympathetic-are-mutually-exclusive/">&quot;idiotic&quot; and &quot;sympathetic&quot; are mutually exclusive</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2009-07-24T10:36:00-04:00">Friday, 24 July 2009</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">&</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Via <a class="reference external" href="http://www.cs.princeton.edu/~tblee/">Tim</a>, <a class="reference external" href="http://www.nytimes.com/2009/07/24/business/media/24content.html">here's the AP's new plan</a> for protecting its content from the depredations of those who would seek to promote it. Apparently they'll be adding a &quot;digital wrapper&quot; to each story, which will contain some sort of invisible watermark, or something, and will be able to communicate with the AP's servers in order to track unauthorized use -- including, astoundingly, use that is nothing more than a linked headline. A few points:</p>
-<ol class="arabic">
-<li><p class="first">This plan is technologically hopeless.&nbsp; It is essentially an effort to install DRM into plain text.&nbsp; That's impossible.&nbsp; DRM schemes fail even when added to executable, binary file formats that are read by systems under the control of the content publisher.&nbsp; Neither of those conditions apply here, nor will they, unless the AP attempts to eschew the web browser entirely.&nbsp; Presumably they're counting on some Javascript to phone home.&nbsp; That'll work fine for AP member sites, but it will not survive the copy-and-pasted trip into a HuffPo blockquote.</p>
-</li>
-<li><p class="first">This plan is dishonest.&nbsp; It's interesting that the AP thinks its headlines contain so much unique value that they deserve protection -- very interesting indeed, given that member organizations habitually rewrite those headlines (without penalty from the AP, of course).</p>
-</li>
-<li><div class="first line-block">
-<div class="line">Even if the plan could work, it wouldn't work the way they seem to think.&nbsp; From the article:</div>
-</div>
-<blockquote>
-<p>“If someone can build multibillion-dollar businesses out of keywords, we can build multihundred-million businesses out of headlines, and we’re going to do that,” Mr. Curley said. The goal, he said, was not to have less use of the news articles, but to be paid for any use.</p>
-</blockquote>
-<p>Similarly, if a lemonade stand starts charging $1000 per glass, their intent is probably not to reduce lemonade purchases. It's simply to create an industry-sustaining level of revenue. And who can argue with that?</p>
-</li>
-</ol>
-<p>It's really kind of astounding.&nbsp; I can't claim to know much about econ -- once I figured out that &quot;where the lines cross&quot; was the answer to every exam question in 101, I pretty much tuned out -- but the realities of the situation should be apparent to anyone who's thought about these questions for even a moment.</p>
-<p><strong>CLARITY!:</strong> Also via Tim, <a class="reference external" href="http://www.ap.org/media/images/APnewsregistry.jpg">a diagram of how the scheme will work</a>.&nbsp; I was wrong!&nbsp; All this talk about &quot;sending signals back&quot; pointed toward Javascript, but that &quot;hNews format&quot; label gives the game away: they're going to use <a class="reference external" href="http://en.wikipedia.org/wiki/Microformat#Specific_microformats">microformats</a>.&nbsp; Microformats are a beautifully simple idea: adding meaningful data to HTML markup in the form of specific class tags. They were big with the semantic web crowd before they got confused and started spending all their time reinventing XML and relational database technology.</p>
-<p>Microformats won't actively cause signals to be sent back, but the AP can run a spider to look for instances of them.&nbsp; And the information might survive a copy and paste! If the copier doesn't paste into Notepad in between! And they don't block the AP spider!</p>
-<p>So yeah, it's still hopeless.&nbsp; These guys need to start lobbying for substantial expansions of copyright law -- that's the only way I can see this working.&nbsp; Or maybe they'll put clickwrap licenses around every AP news site that mandate preservation of the microformat data in all subsequent use.&nbsp; Either way it'd prompt a very interesting legal fight.</p>
 
                 </div>
             </article>
