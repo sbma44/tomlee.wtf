@@ -57,6 +57,47 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2009/07/24/browser-to-iphone/">making it easier to move from the browser to the iPhone</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2009-07-24T11:32:00-04:00">Friday, 24 July 2009</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">M</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Although it is arguably as much a business innovation as a technological one, there's no doubt that the iPhone has radically altered the mobile device landscape, and, in the process, profoundly changed the way that Americans think about sitting on the toilet.</p>
+<p>In fact, its uses extend beyond this crass but foremost example.&nbsp; You've also got your standing-in-line downtime, the crucial waiting-for-coffee-to-brew period, and of course miscellaneous hours spent idly fiddling while in meetings. If I'm not mistaken, the Bureau of Labor Statistics is on record as saying that high scores from Sudoku games played on mobile devices account for most of the productivity gains of the past decade.</p>
+<p>Personally, I like to use the device to catch up on my online reading.&nbsp; But this crucial electronic-fucking-around is slowed by the need to enter URLs.&nbsp; If you're like me, typically you'll have some long-form article open in a neglected browser tab: say, 2000 words from Sasha Frere-Jones on why your implicit acceptance of the latest top 40 hit means you're more -- and less! -- racist than you thought.&nbsp; It's something I mean to read, but which the demands of the workday have made me put off.&nbsp; As I leave my desk to pursue less productive activities (food acquisition; interaction with humans), I frequently find myself wishing I had that article loaded on my handset.&nbsp; But the only way to move it there without tedious typing is to email myself the link, then check my email, then click on the link.&nbsp; If only there was an almost perfectly equivalent but slightly faster way!</p>
+<p>Well, you're/I'm in luck!&nbsp; I twittered this ridiculous first-world complaint the other day, and &#64;tbridge and &#64;jroo helpfully pointed me toward <a class="reference external" href="http://prowl.weks.net/">Prowl</a>, a $2.99 iPhone app that takes the 3.0 firmware's push notification capabilities and wraps them in a simple API.</p>
+<p>This opens the door to creating a bookmarklet that grabs your browser's current URL and pushes it to your phone.&nbsp; The phone will buzz, you'll click the &quot;view&quot; button, and you can then follow the link.&nbsp; Easy!&nbsp; Here's the bookmarklet.&nbsp; Just follow these steps (which, I should note, have only been tested in Firefox 3.5):</p>
+<ol class="arabic simple">
+<li>Buy Prowl.&nbsp; Open it on your iPhone -- you'll need to register with its parent site and give the app permission to display notifications.</li>
+<li>Using your newly-created credentials, log into the Prowl site. Go to the settings tab and create an API key by clicking the appropriate button.</li>
+<li>Paste the API key into the form field below. Click the &quot;Create Bookmarklet&quot; button. NOTE: the customization of the bookmarklet is done in client-side Javascript, entirely within your browser -- don't worry, you won't be sending me your API key.</li>
+<li>Drag the newly-created button into your browser's quicklaunch bar.</li>
+</ol>
+<p>Simple!&nbsp; Now when you click that bookmarklet a new window will be briefly opened.&nbsp; It'll submit a request to the Prowl site that contains the current URL that you're looking at.&nbsp; Shortly thereafter you should get a message on your phone with the link.</p>
+<div class="docutils container">
+</p><div class="docutils container" id="bkmklt">
+<a class="reference external image-reference" href="javascript:f=function()%7Bvar%20w=window.open(%22%22,%22wildebeast%22,%22width=30,height=30,scrollbars=0,resizable=1%22);var%20url=window.location.href;var%20html%20=%20%27%3Chtml%3E%3Chead%3E%3C/head%3E%3Cbody%3E%3Cform%20action=%22https://prowl.weks.net/publicapi/add%22%20method=%22POST%22%3E%3Cinput%20type=%22hidden%22%20name=%22apikey%22%20value=%22__APIKEY__%22%20/%3E%3Cinput%20type=%22hidden%22%20name=%22priority%22%20value=%220%22%20/%3E%3Cinput%20type=%22hidden%22%20name=%22application%22%20value=%22CTU%22%20/%3E%3Cinput%20type=%22hidden%22%20name=%22event%22%20value=%22Chloe%20says:%22%20/%3E%3Cinput%20type=%22hidden%22%20name=%22description%22%20value=%22%27%20+%20url%20+%20%27%22%20/%3E%3C/form%3E%3Cscript%20type=%22text/javascript%22%3Edocument.forms%5B0%5D.submit();%3C/script%3E%3C/body%3E%3C/html%3E%27;w.document.open();w.document.write(html);w.document.close();window.setTimeout(function()%7B%20w.close();%20return%20false;%7D,%20500);%7D;f();"><img alt="Send it to my screen!" src="/static/2009/07/sendittomyscreen.png" /></a></div>
+</div>
+<p><script type="text/javascript">// <![CDATA[<br />
+jQuery(function(){<br />
+   jQuery('#createbkmklt').click(function(){<br />
+      jQuery('a#bkmklt-link').attr('href', jQuery('a#bkmklt-link').attr('href').replace('__APIKEY__', jQuery('#apikey').val()));<br />
+      jQuery('a#bkmklt-link img').show();<br />
+   });<br />
+});<br />
+// ]]></script></p><p>As for the new window: I admit, it's inelegant to spawn a popup.&nbsp; But the Prowl API only accepts POSTed requests, which, barring a sudden and deeply unwise decision on their part to host third-party scripts, rules out a more seamless AJAX solution.&nbsp; The popup works well enough, although on especially slow connections the window may wind up closed before the request goes through.&nbsp; A better solution would involve a timer that checks the spawned window for when its location.href property suddenly becomes inaccessible due to cross-domain security policies (indicating that the page it contains is now being served by the Prowl domain).&nbsp; But my first crack at that didn't work, so for now you guys are stuck with this.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2009/07/24/idiotic-and-sympathetic-are-mutually-exclusive/">&quot;idiotic&quot; and &quot;sympathetic&quot; are mutually exclusive</a>
                     </h2>
                     <div class="entry-meta">
@@ -517,27 +558,6 @@ This opens up other interesting possibilities. For one thing, the mutually destr
                 <div class="entry-content">
                     <p><strong>Sort-of-recommended:</strong> <em>Harper's Island</em>, a CBS horror miniseries that Emily <strong>EDIT: And I! And I!</strong> began watching over the weekend. It's not good in the traditional/objective/subjective/plausible sense, but it's not all that bad. It's essentially a conventional horror movie spread over a thirteen episode miniseries. That lets the action ramp up at a pleasantly leisurely pace, but the long home stretch threatens to buckle under the weight of a series of red herrings and a body count that seems to climb simply because the writers don't know what else to do. But there are four more episodes left, so it's too early to make any definitive judgments.</p>
 <p><strong>Definitely recommended:</strong> Netflix's offering of <em>Harper's Island</em> as a streamable product as the episodes air. This was a little confusing — I couldn't figure out why the number of episodes in the series was growing (has I miscounted?), and last night Emily and I were left worrying that the first season had ended with a particularly irritating cliffhanger. Actually, though, it was just Netflix serving as the on-demand service that that Comcast denies to my Tivo-having self. And they say that a la carte TV service is impossible...</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2009/06/15/i-only-favor-internet-triumphalism-when-its-about-non-proprietary-tech/">I only favor internet triumphalism when it's about non-proprietary tech</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2009-06-15T16:45:00-04:00">Monday, 15 June 2009</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">I</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Look, I know I have a dog in this fight — as much as I like Twitter, I really, <em>really</em> bristle at the idea of a communication medium being coronated as essential while it's still a proprietary product of a single company (which hasn't yet set pricing!). I know I'm biased. But still, c'mon: you can't tell me that people aren't a bit overeager to write <a class="reference external" href="http://politics.theatlantic.com/2009/06/its_too_easy_to_call.php">this story</a>.</p>
-<p>I think there's reason for skepticism about Ambinder's claims. My understanding is that <a class="reference external" href="http://www.google.com/hostednews/afp/article/ALeqM5jSPlmVgh-SfeEO9WhpOVG6Slnu0w">cell service has been disrupted in Tehran since Saturday evening</a>, and that net access to Twitter from Iran is blocked, making it only possible to access the site through a shifting set of proxy servers — a task that requires both technical expertise and which is typically impractical to do on a mobile device. Ambinder's vision of furtive Twitter revolutionaries users collaboratively helping one another dodge #machinegunnests seems like wishful thinking.</p>
-<p>It does seem unquestionable that Twitter has enabled the coverage of the events in Iran to proceed with an immediacy that's novel to the medium. Partly this is simply because Twitter is currently enjoying a lot of excitement and attention from journalists; partly it's because the medium really does enable the centralized distribution of information on a time scale that was previously impractical.</p>
-<p>But when all is said and done, the centralization means it's still relatively brittle when faced with a government keen on blocking it. Again: how are Iranians supposed to have been using the service? Yes, clearly <a class="reference external" href="http://www.h3x.no/2009/06/14/iranians-on-twitter-during-the-june-clashes/">some are</a>. But how many, really? While it's been a fascinating way for all of us to learn what's going on in Iran, I still doubt that enough people in Iran have access to the site for it to be significantly enabling or shaping events there. Maybe I'm wrong. We'll see.</p>
 
                 </div>
             </article>

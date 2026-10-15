@@ -57,6 +57,37 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2016/07/10/geocoding-your-way-to-a-great-vacation/">geocoding your way to a great vacation</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2016-07-10T20:46:00-04:00">Sunday, 10 July 2016</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">G</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>The road had descended steeply into the valley, and if there was a river anywhere near, it seemed like we would find it soon. There were even a few signs for a dock, but by that time we were suspicious. The people of Skradin would have you believe that their great civic passtime is standing on street corners, wearing t-shirts emblazoned with the letter P and proclaiming the availability of free parking for ferry passengers. It seemed suspicious. Besides, Google told us the ferry was over one more mountain. Nice try, Skradinze.</p>
+<p>Our rented VW diesel leapt up the incline, no doubt leaving unimaginable pollutants in its wake. At the bottom of the hill a construction worker made a sort of :no_good: gesture but maybe he was communicating with a colleague behind us? We proceeded onward toward the pin. The road became one way, not too unusual for this part of the world. Some trees were growing into the road; I rolled up my window. Soon the gap became so small that we worried about our mirrors. But the pin urged us on.</p>
+<p>Eventually we reached the end of the alley. The walls had closed in. There were a couple of driveways headed up to estates on the hill to our left, so steep that a scooter might tip backward. Backing out looked terrifying: to our right, footpaths ramped down from, then parallel along the road. With no guardrails in evidence, a misplaced wheel could fall into several feet of empty air.</p>
+<p>I was panicking, but Steph got out of the car and eventually guided me through a many-, many-point turn (restarted three times). The owner of an adjacent house looked on disapprovingly, convinced with good reason that an idiot was about to crash into her house at low speed.</p>
+<p>Obviously you should not ask me for advice about driving when abroad. But thanks to work I can tell you exactly why this happened, and how you can spot the circumstances that might produce similar predicaments for you.</p>
+<p>We had geocoded the ferry, plopping its address into an app's text field and relying on the location to which it was matched. Results from such a service can be divided into two levels of quality: <em>address point</em> and <em>interpolated</em>.</p>
+<p>Point geocoding works the way you might imagine. If you put in &quot;150 Main Street&quot;, the system finds the coordinates associated with the building at that address and returns them. Exactly what that spot represents can vary. Sometimes it represents the land parcel, sometimes the building's rooftop, sometimes even the entryway.</p>
+<p>Point geocoding results are the best kind. But point geocoding datasets are never comprehensive. People build new structures all the time, and it's hard to drop pins for them all in a prompt manner, particularly since address numbers aren't visible from satellite imagery.</p>
+<p>So virtually all geocoders fall back to interpolation when they can't find a point to match a query. An interpolated dataset includes a map of road network line segments. Each segment record has the road's name, a start and end number, and whether the odd-numbered addresses go on its right or left side. This lets the system make an informed guess about an address location when no point is available. If a segment named &quot;Main Street&quot; starts at 100 and ends at 200, then a query for &quot;150 Main Street&quot; will be placed at its middle.</p>
+<p>This works well a lot of the time. But of course addresses are not spaced perfectly evenly along roads. Some buildings are wider or thinner than their neighbors. Some blocks have several buildings clustered at one end, followed by empty space.</p>
+<p>Geocoding data like this is often collected by state or municipal authorities and stitched together into national and international datasets. Those authorities collect it for different reasons: taxes or emergency services or road maintenance, for instance. So it's common to have the level of quality vary by location even within a single country or region.</p>
+<p>And quality tends to be worse in rural areas. There are fewer government agencies managing and maybe-digitizing those places. Businesses can't make as much profit from those areas, so there's less money sloshing around to fix problems. And everything is spread out: a so-so interpolation result can be off by a few hundred feet on a city block, or several miles along a farm road.</p>
+<p>The interpolation data for our Croatian ferry terminal just wasn't very good. And there probably wasn't any data at all for the small houses that I nearly drove into.</p>
+<p>In the abstract, this might not be of much interest to people who don't work on geocoders all day. But it's worth keeping in mind for your next vacation: if you get a result that doesn't land on a rooftop, it might pay to be suspicious of the next results, too. At the very least, I recommend paying close attention to any non-obscene gestures that you see construction workers making.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2016/06/26/century/">century</a>
                     </h2>
                     <div class="entry-meta">
@@ -620,36 +651,6 @@ Gladwell has used information from others without attribution, often in language
 <p>My thoughts are ambivalent but they are uniformly tainted by emotion and vanity. And although their reasons are different, I think this true for most people discussing this case, and everything else, on the internet.</p>
 <p>How could it be otherwise? We don't have enough information to judge the truth. There are endless explanations and additions that could modulate every atom of the narrative, but no amount of reporting is likely to let us access them satisfactorily. Luckily, we don't care that much. Instead we will settle for asserting, by fiat, how the world must have worked in this instance, reasoning from first principles: we are good, and the people we dislike are bad, and reality, in the long run, must surely reflect this distinction.</p>
 <p>I no longer believe that I have a right to hold an opinion about what it was or when it happened, but I am pretty sure that something very bad happened to Jackie and that she's suffering because of it, and because of this she deserves sympathy and help. I believe it's her right to go to advocates for support or to the police for justice, but I don't believe that the rest of us deserve to continue gawking at her horror -- particularly now that the conversation surrounding it has lost any plausible claim to preventing future violence.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2014/12/02/genies-bottles-gps/">genies, bottles &amp; GPS</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2014-12-02T10:57:00-05:00">Tuesday, 02 December 2014</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">G</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Over the past few months I've been idly picking my way through&nbsp;<a class="reference external" href="http://www.amazon.com/You-Are-Here-Compass-Ourselves/dp/0465032850/ref=sr_1_4?ie=UTF8&amp;qid=1417533136&amp;sr=8-4&amp;keywords=you+are+here">You Are Here</a>, a review copy of which was generously sent to me while I was still at Sunlight and in the wrong industry to review it. It's enjoyable!</p>
-<p>Inertial navigation -- tracking position by keeping a careful tally of acceleration&nbsp;(originally, by using gyrocopes) -- is particularly badass.</p>
-<p><a class="reference external image-reference" href="/static/2014/12/giphy.gif"><img alt="giphy" class="aligncenter wp-image-2869 size-full" src="/static/2014/12/giphy.gif" style="width: 640px; height: 360px;" /></a></p>
-<p>This is even more amazing now that we have solid-state accelerometers in our phones and wiimotes and laptops.</p>
-<div class="docutils container">
-<iframe width="560" height="315" src="//www.youtube.com/embed/KZVgKu6v808" frameborder="0" allowfullscreen></iframe></div>
-<p>The <a class="reference external" href="https://itunes.apple.com/us/app/roomscan-app-that-draws-floor/id571436618?mt=8">RoomScan</a> app uses these techniques to let you build accurate models of interiors by sliding your iPhone along the wall. Using it during the home-buying process was an I'm-living-in-the-future moment. (<a class="reference external" href="http://mac.softpedia.com/get/iPhone-Applications/Tools-Utilities/iSaber.shtml">Making light saber noises</a> is also good.)</p>
-<p>The two things that jumped out at me from the book were about the GPS system and the silliness of politics. First, on the popular myth that Ronald Reagan's bold vision is the reason the military-built GPS system was opened to civilian use:</p>
-<p><img alt="reagan_gps" class="aligncenter size-full wp-image-2871" src="/static/2014/12/reagan_gps.png" style="width: 500px; height: 194px;" /></p>
-<p>And second, on the idea that Bill Clinton's brave decision to unlock the GPS system's full precision to civilian uses is what delivered our current era of accurately-positioned benefits:</p>
-<p><img alt="coast_guard_gps" class="aligncenter size-full wp-image-2875" src="/static/2014/12/coast_guard_gps2.png" style="width: 500px;" /></p>
-<p>It turns out various other agencies were successfully building systems to defeat selective availability, too, notably including the FAA. But good for you, Coast Guard. This might have been the highest-altitude DRM system of all time, but it didn't work any better than the rest.</p>
-<p>Our positioning is going to get even better, incidentally. iPhone chips can already use not only GPS signals but those of GLONASS, Russia's competing (and never-crippled) system. The EU is launching Galileo, <a class="reference external" href="http://gpsworld.com/test-shows-galileo-increases-accuracy-of-location-based-services/">which promises to improve accuracy even further</a>. In fact, its (paywalled) commercial version will allegedly deliver precisions of just a few centimeters.</p>
 
                 </div>
             </article>

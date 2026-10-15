@@ -57,6 +57,30 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2008/10/28/still-not-good-enough/">still not good enough</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2008-10-28T17:44:00-04:00">Tuesday, 28 October 2008</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">S</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Another day, <a class="reference external" href="http://www.playlist.com/">another music-sharing flash widget that uses RC4 to encrypt its MP3 URLs but keeps the key in the SWF</a>.</p>
+<p>I realize I've never made good on <a class="reference external" href="/2008/03/28/surprisingly-i-dont-consider-myself-a-jerk/">my promise to explain how I would build a secure Flash music player</a>. Partly I forgot; partly it's just that it's an impossible problem, and proposing incremental improvements to the situation isn't very satisfying.</p>
+<p>But look, you can at least half-ass it. Right now if someone gets a hold of the MP3 URL the jig is up — they can repost it anywhere else and help themselves to your bandwidth. You can improve on this situation, at least, by serving a dynamic playlist filled with URLs that are only good for the current user. Either throw each URL away after one use (admittedly problematic for repeating a song without additional trips to the playlist server); or, better yet, find the song by hashing its unique identifier together with the user's IP and user agent (again, in the dynamic playlist generation script). You don't have to move any files around, you just have to write a script that looks up the requested hash in the database and then pipes out the MP3 from its secret location. There's no need for encryption, even. Season with additional querystring parameters and column indices to taste.</p>
+<p>&quot;But Tom!&quot; you cry, &quot;Can't an enterprising jerk like yourself then write a script that reverse-engineers this process and automatically creates URLs that are compatible with their use agent/IP combination?&quot; Well, yes — although the salting algorithm (and song identifier, potentially) will remain secret, so you're going to need a rainbow table, which usually costs money. But also no, because you made a note in your database when the browser talked to the playlist server. So strangers can't come in — they have to have at least asked for that playlist first.</p>
+<p>Of course, if they went after the MP3 they would done so have, anyway. So yes, securing the file against individuals is still hopeless — I hope I never implied otherwise. But at least reposting or emailing the link won't get them anywhere.</p>
+<p>The downside to all of this is that you're going to have to stop using a big dumb CDN. But look, it's just not that hard to stand up a dead-simple EC2 LAMP instance to serve your playlist creation script and pipe stuff out of S3. <a class="reference external" href="http://developer.amazonwebservices.com/connect/entry.jspa?externalID=609">Elasticfox</a>, people.</p>
+<p>Oh, and one other thing: for god's sake, ban jackasses like me the first time you see a naked curl user-agent string. I never remember that -A flag until I absolutely have to.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2008/10/27/and-in-other-halloween-news/">and in other Halloween news...</a>
                     </h2>
                     <div class="entry-meta">
@@ -582,28 +606,6 @@ rsync -v -r --exclude=*.cbr . root&#64;192.168.0.xxx:/var/mobile/Media/Comic/
 <p><a class="reference external image-reference" href="http://www.flickr.com/photos/sbma44/2926176430/"><img alt="Wiring for smoke machine control" class="center" src="http://farm4.static.flickr.com/3214/2926176430_11d6951f18_m.jpg" style="width: 180px; height: 240px;" /></a></p>
 <p>It's called an IEC plug, and it's the same type of connector that goes into most desktop PCs. The only trick here is that this is a male connector, not the incredibly-easy-to-find female version. It's simple enough to order one, but I'd feel stupid paying $7 shipping on an item that costs $1.50.</p>
 <p>If you've got one lying around, perhaps connected to some ancient piece of unused equipment, let me know. Yes, I will be destroying it. But I can undestroy it afterward! And it's for a good cause: I need to force a smoke machine with an intermittent controller switch to stay in the on position — a noble calling for a humble cord if ever there was one.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2008/10/08/the-pirate-threat-is-overstated-with-the-possible-exception-of-ghost-pirates/">the pirate threat is overstated (with the possible exception of ghost pirates)</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2008-10-08T13:22:00-04:00">Wednesday, 08 October 2008</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">T</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Julian is <a class="reference external" href="http://arstechnica.com/articles/culture/dodgy-digits-behind-the-war-on-piracy.ars">killin' it over at Ars</a> — be sure to check out his latest. It's not exactly surprising that the content industry would lie about the economic impact of piracy, but it's fascinating to read Julian's account of how the numbers they quote were born. He's done a real service to us all by hunting this story down.</p>
-<p>This bit, from near the article's end, raised my eyebrows:</p>
-<blockquote>
-... as Yochai Benkler has argued persuasively, IP is an input to innovation as well as the product of innovation. So under certain very specific conditions, &quot;piracy&quot; can produce net gains. While it seems extremely unlikely that this is the case in the aggregateâ€”IP theft almost certainly does impose net economic costsâ€”simply calculating lost sales and licencing fees, assuming someone could produce a credible figure, would not provide a complete picture of the economic impact of IP infringement. It would give us, at most, one side of the ledger.</blockquote>
-<p>Julian is smart to be conservative when making this point, but I suspect that those &quot;very specific conditions&quot; aren't all that specific at all. My hunch is that experience born of unauthorized use of IP provides necessary context to a huge variety of wealth-creating endeavors, even when the unauthorized use doesn't lead directly to the resulting innovation. This could take the form of a mixtape in a touring band's van or an automotive engineer checking out how the other guys built their throttle body; either way, the point is that there's a constant background hum of infringement that's innocuous and absolutely necessary for our society's continued functioning, but which is usually only considered during the drafting of RIAA press releases.</p>
 
                 </div>
             </article>

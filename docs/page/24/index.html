@@ -57,6 +57,25 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2008/12/12/blago-you-know/">Blago, you know</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2008-12-12T12:49:00-05:00">Friday, 12 December 2008</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">B</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>It looks bad on paper. A rap song about the Blagojevich scandal filled with wonky in-jokes? Sure, points for adopting a timely form. But <a class="reference external" href="http://www.markrussell.net/">Mark Russell</a> could set up a MySpace page, and that wouldn't make it okay. Actually, it'd just underscore the outrages that he continues to perpetrate.</p>
+<p>But damn if Spencer doesn't have a knack for this stuff. This isn't the first such track I've heard him cut that runs along these lines. Could anyone write a verse as verbally profane as Blagojevich's profaning of the public trust? Probably not, but that doesn't mean you can't try:</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2008/12/11/its-fun-to-bray-at-the/">it's fun to bray at the...</a>
                     </h2>
                     <div class="entry-meta">
@@ -509,30 +528,6 @@ People use the phrase &quot;it was the best decision I ever made&quot; to descri
                     <p>The stories have arrived! Some of them, anyway. You can read the first three entries <a class="reference external" href="http://halloween.manifestdensity.net/stories">here</a> (sorry for the earlier access restriction, it's now publicly available). If you've got a moment, go give 'em a read. I'm very pleased to already have three contributions — I think there'll another one or two, at least, that trickle in later.</p>
 <p>If you have any trouble submitting, viewing or rating, drop me an email or leave a comment here.</p>
 <p><strong>UPDATE:</strong> Whoops — I had the wrong URL. Sorry about that, the link's now fixed.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2008/10/28/still-not-good-enough/">still not good enough</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2008-10-28T17:44:00-04:00">Tuesday, 28 October 2008</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">S</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Another day, <a class="reference external" href="http://www.playlist.com/">another music-sharing flash widget that uses RC4 to encrypt its MP3 URLs but keeps the key in the SWF</a>.</p>
-<p>I realize I've never made good on <a class="reference external" href="/2008/03/28/surprisingly-i-dont-consider-myself-a-jerk/">my promise to explain how I would build a secure Flash music player</a>. Partly I forgot; partly it's just that it's an impossible problem, and proposing incremental improvements to the situation isn't very satisfying.</p>
-<p>But look, you can at least half-ass it. Right now if someone gets a hold of the MP3 URL the jig is up — they can repost it anywhere else and help themselves to your bandwidth. You can improve on this situation, at least, by serving a dynamic playlist filled with URLs that are only good for the current user. Either throw each URL away after one use (admittedly problematic for repeating a song without additional trips to the playlist server); or, better yet, find the song by hashing its unique identifier together with the user's IP and user agent (again, in the dynamic playlist generation script). You don't have to move any files around, you just have to write a script that looks up the requested hash in the database and then pipes out the MP3 from its secret location. There's no need for encryption, even. Season with additional querystring parameters and column indices to taste.</p>
-<p>&quot;But Tom!&quot; you cry, &quot;Can't an enterprising jerk like yourself then write a script that reverse-engineers this process and automatically creates URLs that are compatible with their use agent/IP combination?&quot; Well, yes — although the salting algorithm (and song identifier, potentially) will remain secret, so you're going to need a rainbow table, which usually costs money. But also no, because you made a note in your database when the browser talked to the playlist server. So strangers can't come in — they have to have at least asked for that playlist first.</p>
-<p>Of course, if they went after the MP3 they would done so have, anyway. So yes, securing the file against individuals is still hopeless — I hope I never implied otherwise. But at least reposting or emailing the link won't get them anywhere.</p>
-<p>The downside to all of this is that you're going to have to stop using a big dumb CDN. But look, it's just not that hard to stand up a dead-simple EC2 LAMP instance to serve your playlist creation script and pipe stuff out of S3. <a class="reference external" href="http://developer.amazonwebservices.com/connect/entry.jspa?externalID=609">Elasticfox</a>, people.</p>
-<p>Oh, and one other thing: for god's sake, ban jackasses like me the first time you see a naked curl user-agent string. I never remember that -A flag until I absolutely have to.</p>
 
                 </div>
             </article>

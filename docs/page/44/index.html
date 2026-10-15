@@ -57,6 +57,50 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2007/07/24/last-years-model/">last year's model</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2007-07-24T15:52:00-04:00">Tuesday, 24 July 2007</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">L</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>There are too many folks competing in this year's MediaBistro beauty pageant for me to take sides. But I'm always eager to convince my friends to learn some scripting mojo (seriously, it'll make your life better). So here's the code that worked last year. How to configure it, modify it, and run it is left as an exercise for the reader.</p>
+<blockquote>
+<pre class="literal-block">
+#!/usr/bin/perl
+use WWW::Mechanize;
+my $num_votes_to_make = 9999; # this would be a bit obvious, wouldn't it?
+my $min_sleep_time = 1; # sleep at least a second between votes
+my $max_sleep_time = 10; # but no more than ten seconds
+my $mech = WWW::Mechanize-&gt;new();
+$mech-&gt;proxy(['http', 'ftp'], 'http://127.0.0.1:8118/'); # use a Tor proxy on port 8118 to hide our IP address (http://tor.eff.org)
+for(my $i=0;$i&lt;$num_votes_to_make;$i++)
+{
+print &quot;voting...\n&quot;;
+my $url = 'http://mediabistro.com/articles/poll/000091/';
+$mech-&gt;get( $url );
+$mech-&gt;submit_form(
+form_number =&gt; 0,
+fields =&gt; {
+rsld =&gt; '330'
+}
+);
+my  $random_sleep_time = int(rand( $max_sleep_time-$min_sleep_time+1 ) ) + $min_sleep_time;
+print &quot;sleeping &quot; . $random_sleep_time . &quot; seconds...\n&quot;;
+sleep $random_sleep_time;
+}
+</pre>
+</blockquote>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2007/07/24/fall-tv/">fall TV</a>
                     </h2>
                     <div class="entry-meta">
@@ -537,37 +581,6 @@ You can't offer to pay full price for a handset in exchange for a reduced early-
 
                 <div class="entry-content">
                     <p>Honestly, I don't understand what they're <a class="reference external" href="http://feeds.gawker.com/~r/wonkette/full/~3/133161166/the-city-paperlns-fallout-277968.php">so upset about</a>. I enjoyed <a class="reference external" href="http://www.washingtoncitypaper.com/display.php?id=2008">the article</a>, but the revelations it contains are merely a fraction as offensive as the stuff from LNS that Wonkette has published. And I'm having a hard time seeing who's going to get fired on the basis of the piece, as the commenters are claiming. &quot;Not friends with a bunch of jerks&quot; isn't usually included as a requirement in job listings.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2007/07/12/better-google-mapsmetro-integration/">better Google Maps/Metro integration</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2007-07-12T20:23:00-04:00">Thursday, 12 July 2007</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">B</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>Tech project the first!: I've revisited my venerable <a class="reference external" href="http://www.dcist.com/map">DCist Map</a> project and ported it over to Google Mapplets — a <a class="reference external" href="http://www.techcrunch.com/2007/07/11/google-to-launch-my-maps/">just-launched</a> feature that lets you add user-contributed mashups to your Google Map display in a wholly integrated way. This lets you do all kinds of neat stuff. For example, you can turn on a crime overlay by checking the &quot;crime overlay&quot; box. Then you could compare area muggings to gas prices by clicking the &quot;gas price&quot; checkbox. You'll be revolutionizing sociology in no time!</p>
-<p>I've dusted off my code and ported it to the Mapplet version of the GMaps API, which actually entailed porting it to the GMaps v2 API first. It's nice of them to have finally un-switched latitude and longitude, but it made things kind of a pain in the ass for me. Still, it's nice to have it done and the tool up-to-date. Oh, and while I was at it I finally extended the yellow line up to Ft. Totten, as I should've long ago.</p>
-<p>I've submitted the mapplet to Google's directory, but who knows when or if they'll add it. For now, if you want to add it to your &quot;My Maps&quot; toolbox, you can do so in the following way. You'll only have to do this once, then it should sit happily in your sidebar, waiting for you to toggle it on whenever you need it.</p>
-<ol class="arabic simple">
-<li><a class="reference external" href="http://maps.google.com/maps/mm?mapprev=1">Launch the mapplet-enabled version of Google Maps</a> (it's still in beta).</li>
-<li>Click on &quot;Add content&quot; in the upper left of the &quot;My Maps&quot; section.</li>
-<li>To the right of the search bar at the top of this page is a tiny little link that says &quot;Add by URL&quot;. Click it.</li>
-<li>Enter &quot;<a class="reference external" href="http://dcist.com/map/mapplet.xml">http://dcist.com/map/mapplet.xml</a>&quot;. Note the lack of www! The Gothamist folks have set up the hostname to redirect to the www-less version, but Google isn't smart enough to handle that. Enter it like this and you'll be fine. Click &quot;Add&quot;.</li>
-<li>Say &quot;OK&quot; to the security warning that'll pop up. Trust me, I'm a nice guy.</li>
-<li>Follow the &quot;Back to Google Maps&quot; link in the upper left of the screen.</li>
-<li>That's it! You should have a new item in the &quot;My Maps&quot; section. Check the box next to it and the metro overlay will be activated.</li>
-</ol>
-<p>I'll write up a post for DCist about this tomorrow (or maybe I'll wait to see if it's accepted into the directory). But I thought I'd put it up here first, so that you guys can give it a try and let me know if you run into any horrible problems.</p>
-<p><strong>UPDATE:</strong> One other interesting side-effect: this makes it easy to see where Google and I disagree about a Metro station's location. In most cases this is because the station has multiple entrances; I usually went with whichever one was most visible. In others its because of different standards: I generally used the satellite view to find the platform and geocoded that (yeah, I did them all manually). Google appears to use street entrances. I'd consider redoing them, but it'd mostly be for pride — having both on there is (arguably) the best solution.</p>
 
                 </div>
             </article>

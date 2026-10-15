@@ -57,6 +57,25 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2007/09/25/stating-the-obvious/">stating the obvious</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2007-09-25T11:13:00-04:00">Tuesday, 25 September 2007</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">S</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>This is not an original observation by any means, but <em>holy hell</em> are Megan's commenters a bunch of assholes. Faced with their host's <a class="reference external" href="http://meganmcardle.theatlantic.com/archives/2007/09/that_said.php">ecopostasy</a>, they're stamping their feet and fuming. Predictable, sure, but this is some really high-quality stuff: you only have to go two comments in before someone asserts that hedoesn't see why he should alter his driving habits just because it might save an Indian child from drowning. No, sir, I say that it is asking <em>me</em> to change <em>my</em> behavior in any way which is the immoral act! By God, I will not abide that! Good day to you, sir!</p>
+<p>Ah, to live your life by such strict adherence to principle — and in a roomy and rugged American car, to boot! Twin luxuries that I'll probably never know.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2007/09/24/d-war/">D-War</a>
                     </h2>
                     <div class="entry-meta">
@@ -500,62 +519,6 @@ Computer programs in the form of firmware that enable wireless telephone handset
 <a class="reference external" href="http://feeds.feedburner.com/freakonomics-full">http://feeds.feedburner.com/freakonomics-full</a></blockquote>
 <p>At the moment, the authors are asking a very good question: <a class="reference external" href="http://freakonomics.blogs.nytimes.com/2007/08/27/why-are-we-eating-so-much-shrimp/">why are we eating so much more shrimp than we used to</a>? Shrimp just isn't very good relative to other seafood. But it's <em>everywhere</em>.</p>
 <p>Being the sort of blog that it is, I'm sure that the answer will be &quot;because aquaculture and/or other factors have made the margins on shrimp much better&quot;. I think the other half of the answer, likely to remain unblogged elsewhere, is that Americans are squeamish about seafood that tastes like seafood, and you can't order chicken <em>every</em> time you go to Applebee's.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2007/08/27/a-little-more-on-migrating-from-typepad-to-movable-type/">a little more on migrating from Typepad to Movable Type</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2007-08-27T10:42:00-04:00">Monday, 27 August 2007</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">A</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>I realized I might as well post this script, too. Say you're moving from one host to another, and the source exports to the MT/Typepad format (a big long text file) and the new host can read that format (<a class="reference external" href="http://wordpress.org/docs/tutorials/import-mt/">Wordpress can</a>, and of course MT/Typepad can).</p>
-<p>You're facing a problem: your entries' text is probably littered with images and links pointing at your old domain. Those links are presumably going to become dead sometime after the transition; you'd like to rewrite them to point at the new domain. You'd also like to download any images, PDFs or other digital assets that they point to, then upload them to the new server.</p>
-<p>Well, here's a script that you can run against the exported MT/Typepad file:</p>
-<blockquote>
-<pre class="literal-block">
-#!/usr/bin/perl
-my $url, $rewritten_url;
-while(my $l = &lt;&gt;)
-{
-while($l =~ m/(href|src)=['&quot;](http:\/\/beutler\.typepad\.com\/.*?)['&quot;]/i)
-{
-$url = $2;
-$rewritten_url = $url;
-$rewritten_url =~ s/http:\///igx;
-if($url =~ m/\.(html?|php)/i)
-{
-$rewritten_url =~ s/^\/beutler\.typepad\.com\/home//igx;
-$rewritten_url =~ s/\.(html?|php)$/\//i;
-}
-else
-{
-my $prefix = $rewritten_url;
-$prefix =~ s/^\///;
-$prefix =~ s/\/[^\/]+$//;
-`wget -q --directory-prefix=$prefix $url`;
-}
-$l =~ s/$url/$rewritten_url/gx;
-}
-print $l;
-}
-</pre>
-</blockquote>
-<p>If you saved this file as <em>rewrite_entries.pl</em>, you'd run it like so:</p>
-<blockquote>
-<pre class="literal-block">
-cat MT_EXPORT_FILE.txt | ./rewrite_entries.pl &gt; MT_EXPORT_FILE_REWRITTEN.txt
-</pre>
-</blockquote>
-<p>You'd end up with a new text file (which is the one you should import) and a subdirectory full of images and PDFs that you'll want to FTP up to your new server. There's some Brian-specific stuff in the above script, but it shouldn't take very much work to adapt it to a different site.</p>
 
                 </div>
             </article>
