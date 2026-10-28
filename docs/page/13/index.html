@@ -57,6 +57,29 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2010/06/06/i-could-use-some-gmaps-help/">I could use some GMaps help</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2010-06-06T13:19:00-04:00">Sunday, 06 June 2010</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">I</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Way back when, I wrote a <a class="reference external" href="http://dcist.com/map/">Google Maps application</a> for <a class="reference external" href="http://www.dcist.com">DCist</a> that overlaid the DC Metro system on the usual GMaps tiles. People found it useful -- me especially, since I think it helped me land a job at <a class="reference external" href="http://www.echoditto.com">EchoDitto</a>.&nbsp; Its only real innovation was some simple, hacked-up geometry that would horrify a cartographer, but which allowed me to make an attractive map that recalled <a class="reference external" href="http://wmata.com/rail/maps/map.cfm">the more stylized WMATA map</a>.&nbsp; It wasn't rocket science, but I still occasionally get emails from developers asking me how I did it (which is slightly bizarre, given that the code is right there for them to see).</p>
+<p>In 2007 the GMaps API got an update, and <a class="reference external" href="http://dcist.com/2007/07/13/dcist_maps_come.php">I converted the project into something called a mapplet</a>. I had to rewrite a few things, but it was more or less the same.&nbsp; The main difference was that mapplets were used through the maps.google.com interface -- you could add a bunch at the same time, but you could still use Local Search and permalinking and comments about businesses and other Googly innovations from within the interface.&nbsp; I didn't have to implement any of that stuff!&nbsp; Instead, users could simply have their polished Google Maps experience supplemented by my modest mapplet.&nbsp; Handy.</p>
+<p>Unfortunately, over the last few weeks I've started receiving reports that the mapplet's behaving weirdly.&nbsp; Load the mapplet, then do a search for something -- the station markers will disappear, and sometimes some of the lines that are supposed to connect them will, too.&nbsp; It looked to me like an event handler had started working differently, so I went to investigate.</p>
+<p>Alas!&nbsp; It turns out that v2 of the API has been deprecated.&nbsp; They're on to v3 (not so bad) and they've discontinued the mapplet platform entirely (bad)!</p>
+<p>I can still make the lines appear on a Google Map.&nbsp; But I don't think I can do it on the maps.google.com interface.&nbsp; This is a drag: I don't think the thing's half as useful as a standalone product as it is when it supplements search functionality.&nbsp; And I really don't want to reimplement the entire maps.google.com interface (even though, yes, they expose the API for their local search stuff).</p>
+<p>So! Developers! Anyone out there dealt with this? I'm not eager to dump a huge amount of time back into this project -- a project that's increasingly unnecessary thanks to Google Transit and the addition of transit stations to the GMaps tileset, but which is still useful when you're working at a modestly wide zoom level.&nbsp; But it would be nice to get things working again.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2010/05/14/sleigh-bells/">Sleigh Bells</a>
                     </h2>
                     <div class="entry-meta">
@@ -578,25 +601,6 @@ For a country whose economy operates largely in cyberspace and whose military pi
                     <p>Oh right: back from Georgia, only sort of jetlagged, back up to speed shortly. It was great! But let me share one useful lesson learned on my trip: guys, when flying, wear a jacket.</p>
 <p>I wore a jacket on my way out; on my way back, I opted for a frumpier but more practical fleece. The difference in how I was treated by the airline staff was astounding. No <a class="reference external" href="/2010/03/24/they-call-it-wien-which-i-am-still-immature-enough-to-find-hilarious/">offered upgrades to business class</a> on the trip back; in fact, they wouldn't even let me hang up my garment bag -- not because there wasn't space, but because I was flying coach. This was not a problem on the way out.</p>
 <p>On the other hand, I'm not going to back down from the idea that wearing dress shoes for 36 hours of travel is a terrible idea. &quot;Hip but important internet guy&quot;: I think that's the sweet spot I want.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2010/03/28/im-reading-oscar-wao/">I'm reading Oscar Wao</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2010-03-28T16:21:00-04:00">Sunday, 28 March 2010</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">I</div>
-                </header>
-
-                <div class="entry-content">
-                    <p>And I was thinking that I wasn't going to emerge thrilled about the book, but once through the (necessary) parts about Oscar's mom it gets pretty great. How can you not want to be Yunior's friend? (er, at the point in the story where I am, I should say. Maybe something terrible happens. Well, okay, obviously something terrible is going to happen; maybe Yunior's complicit, I mean).</p>
-<p>I have no other media recommendations to make, other than to note that Russian sitcoms dubbed into Georgian don't seem as funny to me as they do to the guys in the bar downstairs. Or it may be that it's all about sophisticated wordplay; hard to say.</p>
 
                 </div>
             </article>

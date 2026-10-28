@@ -57,6 +57,35 @@
             <article class="typology-post typology-layout-a">
                 <header class="entry-header">
                     <h2 class="entry-title h1">
+                        <a href="https://tomlee.wtf/2012/12/21/the-myth-of-american-decline/">the myth of American decline</a>
+                    </h2>
+                    <div class="entry-meta">
+                        <span class="meta-item">
+                            <time datetime="2012-12-21T00:18:00-05:00">Friday, 21 December 2012</time>
+                        </span>
+                    </div>
+                    <div class="post-letter">T</div>
+                </header>
+
+                <div class="entry-content">
+                    <p>Being the crotchety old man that I am, the time I spent this evening on my gym's treadmill left me feeling cantankerous. I had been watching Jeopardy, and all of the categories seemed horrible, dagnabit. Back in my day we didn't have questions about sitcoms! No, it was all Latin, and poetry, and similarly high-minded pursuits.</p>
+<p>Then I got home and remembered I had a bunch of code left over from when we built&nbsp;<a class="reference external" href="http://sunlightfoundation.com/blog/2011/12/08/remembering-richard-cordray-nominee-and-jeopardy-champion/">this thing</a>. See, there is a terrifying website called <a class="reference external" href="http://j-archive.com">j-archive.com</a>. It's maintained by former players, and it comprehensively chronicles every game of Jeopardy.</p>
+<p>It's possible to scrape this site to reconstruct games, which is what I did for the Cordray infographic. With this as a starting point, figuring out the percentage of categories devoted to television versus weightier topics was a relative cinch. I was absolutely confident that I would find a line snaking smoothly upward. Here are the regular expressions I used:</p>
+<div class="line-block">
+<div class="line">[cc]RE_TV = re.compile(r'(T\.?V\.?|TELEVISION|SITCOM)', re.I)</div>
+<div class="line">RE_BIBLE = re.compile(r'BIBL(ICAL|E)', re.I)</div>
+<div class="line">RE_HISTORY = re.compile(r'(PRESIDENT|HISTORY|HISTORICAL)',re.I)[/cc]</div>
+</div>
+<p>And here's the graph that resulted (normalized by total number of categories in a season):</p>
+<p><a class="reference external image-reference" href="/static/2012/12/Screen-Shot-2012-12-21-at-12.02.03-PM.png"><img alt="image1" class="aligncenter size-full wp-image-2290" src="/static/2012/12/Screen-Shot-2012-12-21-at-12.02.03-PM.png" style="width: 628px; height: 425px;" /></a></p>
+<p>Gotta say, I didn't see this one coming. I guess the nerds are (mostly) all right after all. Alex Trebek's still kind of a supercilious asshole, though.</p>
+<p>Anyway, I'm open to other suggested analyses. Lay 'em on me.</p>
+
+                </div>
+            </article>
+            <article class="typology-post typology-layout-a">
+                <header class="entry-header">
+                    <h2 class="entry-title h1">
                         <a href="https://tomlee.wtf/2012/12/13/apple-didnt-trick-google-into-making-better-ios-maps/">Apple didn't trick Google into making better iOS maps</a>
                     </h2>
                     <div class="entry-meta">
@@ -595,29 +624,6 @@ Admittedly, the legal reasons that motivated Sony to make this latest Spider-man
 <p>I think the way to understand this is by way of analogy to food. There are certain reliable levers that chefs can lean on to stimulate our pathetic simian brains. More salt/more fat/more sweetness/more umami. Any of these will endow food with a greater valence. That's not a good or a bad thing, necessarily; it can be deployed artfully by skilled gastronomists, or it can be hammered home via a bag of <a class="reference external" href="http://www.fritolay.com/our-snacks/doritos-spicy-sweet-chili-chips.html">Sweet Chili Doritos</a> that's been crammed full of sodium, MSG and corn syrup solids.</p>
 <p>Loudness is just the same. The louder it is, the more fervent it is; the more raucous the party, the more urgent the emotion, the more outrageous the rebellion. And Sleigh Bells is indisputably making their name by being the loudest bad around.</p>
 <p>So I leave it to you: is Sleigh Bells a Ferran Adrià, or are they a Frito Lay? Tedious pop historians will adjudicate this, but based on the simplistic lyrics, repetitive hooks and increasingly well-worn playbook, I know where I'm placing my bet.</p>
-
-                </div>
-            </article>
-            <article class="typology-post typology-layout-a">
-                <header class="entry-header">
-                    <h2 class="entry-title h1">
-                        <a href="https://tomlee.wtf/2012/05/20/artomatic-2012/">Artomatic 2012</a>
-                    </h2>
-                    <div class="entry-meta">
-                        <span class="meta-item">
-                            <time datetime="2012-05-20T20:46:00-04:00">Sunday, 20 May 2012</time>
-                        </span>
-                    </div>
-                    <div class="post-letter">A</div>
-                </header>
-
-                <div class="entry-content">
-                    <p><img alt="image1" class="alignright" src="http://farm6.staticflickr.com/5446/7236838766_f7e30537f2_n.jpg" style="width: 240px; height: 320px;" />I participated in Artomatic in 2009, making a hurried tech piece that ill-advisedly involved audience interaction, and which consequently spent most of the show broken. But the experience was a good one! For one thing, my project never caught fire. And for another, I learned some lessons about what makes a viable piece.</p>
-<p>But mostly I just liked spending time at Artomatic. If you want to be a part of the show you have to volunteer for a few shifts -- I vividly remember sitting on a loading dock and reading about Dr. Hilarius as I spent eight hours directing fitful traffic to the parking garage. Being a part of the event provided me with a clear view of the operation and the people behind it. There are impressive strains of bohemianism, tenacity and mutual goodwill that make the whole huge structure of the thing possible. And I like that it's just for DC--there's no ambition, no pretension, just an insistence on pragmatism and (often cringe-inducingly) democratic ideals. I like it a lot.</p>
-<p>The current installment of Artomatic opened on Friday, and though I'm not participating this time (no time; no ideas), I suspect I'll be making a number of trips to see what's on offer. Today was the first such foray. I only made it through two floors before closing time, but I probably wouldn't have made it through too many more anyway--the experience can be overwhelming.</p>
-<p>I took a bunch of photos, but I have to admit I concentrated on the most absurd pieces (or those that reminded me of something else and which I wanted to share with friends). This isn't to say that there isn't anything good on offer (though it is safe to say that such pieces are in the minority). For instance, I enjoyed paintings by Bob Aldrich, <a class="reference external" href="http://www.juliabloom.net/juliabloom.net/Large_Sculptures.html">sculpture by Julia Bloom</a> and some <a class="reference external" href="http://districtdesignworks.com/home/index.html">CNC-fabricated furniture by Ryan McKibbin</a> (all of this was on on the seventh floor, if you're curious to seek it out).</p>
-<p>But you don't want to see my crappy iphone photography of decent-to-good art, do you? What would be the point? Much more interesting are the pieces that seem strange or inexplicable. Am I a jerk for thinking so? Probably. I don't just mean to gape, though, or to belittle the artists. In part, I just like being reminded how different people are; how much their tastes and interests vary from my own; and how courageous so many of them are in exposing their idiosyncratic passions to the world. Say what you will about a crystal-covered painting of Oprah: it's a braver thing to display than the bloodless wood and reception bells I chose to exhibit.</p>
-<p>Anyway, <a class="reference external" href="http://www.flickr.com/photos/sbma44/sets/72157629822458484/">here are some photos</a>. I'm sure I'll be adding to them soon.</p>
 
                 </div>
             </article>
